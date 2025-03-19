@@ -1,0 +1,13 @@
+# Ignore CSV, PNG, TEXT files
+*.csv
+*.png
+*.txt
+
+# Ignore job outputs folder
+job_outputs/
+
+# Ignore log files
+*.log
+
+# Ignore GTF files
+*.gtf
