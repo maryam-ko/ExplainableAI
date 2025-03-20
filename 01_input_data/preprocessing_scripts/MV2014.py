@@ -9,9 +9,13 @@ import os
 import pandas as pd
 import numpy as np
 
-# the absolute path of the root directory
 grandparent_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 sys.path.append(grandparent_dir)
+
+# Debugging: print sys.path and current directory
+print("Current working directory:", os.getcwd())
+print("sys.path:", sys.path)
+
 from funcs import preprocessing
 
 
@@ -22,7 +26,7 @@ from funcs import preprocessing
 dataset = 'MV2014'
 
 print('Loading raw data for', dataset, '...')
-data = pd.read_csv('/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/MV2014_raw.csv', header=0)
+data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/MV2014_raw.csv', header=0)
 print('Raw data loaded.')
 
 # filter data to keep only those with localization probability >= 0.85
@@ -82,3 +86,4 @@ data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/preprocessed_da
 
 
 print(dataset, 'has been saved to CSV successfully!', data)
+                              
