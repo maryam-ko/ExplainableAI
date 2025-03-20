@@ -9,9 +9,11 @@ import os
 import pandas as pd
 import numpy as np
 
+# the absolute path of the root directory
 grandparent_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 sys.path.append(grandparent_dir)
-from funcs import preprocessing 
+from funcs import preprocessing
+
 
 # ----------------- #
 # LOAD & CLEAN DATA
@@ -76,9 +78,7 @@ print('Data has been log2 transformed.')
 
 data = preprocessing.clean_phosID_col(data)
 
-output_path = '/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/preprocessed_datasets/MV2014.csv'
+data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/preprocessed_datasets/MV2014.csv', index = False) # save processed data to csv file
 
-data.to_csv(output_path, index=False)
 
-print(f'{dataset} processed data has been saved to CSV successfully at {output_path}')
-
+print(dataset, 'has been saved to CSV successfully!', data)
