@@ -9,15 +9,11 @@ import os
 import pandas as pd
 import numpy as np
 
-grandparent_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+grandparent_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
+
 sys.path.append(grandparent_dir)
 
-# Debugging: print sys.path and current directory
-print("Current working directory:", os.getcwd())
-print("sys.path:", sys.path)
-
 from funcs import preprocessing
-
 
 # ----------------- #
 # LOAD & CLEAN DATA
