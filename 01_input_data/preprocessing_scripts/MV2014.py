@@ -31,10 +31,7 @@ data = data[data['Localization prob'] >= 0.85]
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
-preprocessing.match_seq_to_genename(data, 'Sequence window')
-print('Amino acid sequences matched to gene names.')
-
-data['Phosphosite'] = data['Gene names'] + "_" + data['Amino acid'] + "(" + data['Positions within proteins'].astype(str) + ")"
+data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
 # filter data to only include rows with a single protein (no semicolons in columns)
 data = data[
@@ -43,7 +40,6 @@ data = data[
     ~data['Positions within proteins'].str.contains(';', na=False)
 ]
 print(f'Rows with semicolons removed. Shape: {data.shape}')
-
 
 # keep only the necessary columns 
 keepcols = [
@@ -68,9 +64,8 @@ print(f'Columns filtered. Shape: {data.shape}')
 # log2 transform the ratios (Ratio columns)
 data.iloc[:, 7:] = data.iloc[:, 7:].astype(float)  # convert from string to float
 
-
 # create phosphosite ID 
-data = preprocessing.create_phos_ID(data)  
+data = preprocessing.create_phos_ID(data)
 print('Phosphosite IDs created.')
 
 data = preprocessing.log2_transform(data)  
@@ -78,7 +73,7 @@ print('Data has been log2 transformed.')
 
 data = preprocessing.clean_phosID_col(data)
 
-data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/preprocessed_datasets/MV2014.csv', index = False) # save processed data to csv file
+data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
 
 
 print(dataset, 'has been saved to CSV successfully!', data)
