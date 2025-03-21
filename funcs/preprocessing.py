@@ -10,6 +10,43 @@ from functools import reduce
 
 # ----------------- #
 
+def match_seq_to_genename(dataset, seq_column):
+    '''
+    Maps amino acid sequences to gene names using the loaded fasta file.
+    
+    args:
+    =====
+    dataset: <pd.Dataframe> with a column of amino acid sequences
+    seq_column: <str> column name containing amino acid sequences
+    
+    out:
+    ====
+    dataset: <pd.Dataframe> with an additional column containing gene names
+    '''    
+    
+    fasta_sequence = list(SeqIO.parse(open(f"/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/orf_trans_all.fasta"), "fasta"))
+    
+    gene_dict = {}
+    
+    # iterate over rows in seq_column
+    for i in dataset[seq_column]:
+        i_str = str(i)
+        for seq_record in fasta_sequence:
+            matches = re.findall(i_str, str(seq_record.seq))
+            if matches:
+                gene_name_match = seq_record.description.split(' ')[1].split(' ')[0]
+                # gene_name_match = re.search("GN=(\w+)", seq_record.description)
+                if gene_name_match:
+                    gene_dict[i] = gene_name_match
+    
+    # map sequences to gene names           
+    dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
+    print('Amino acid sequences matched to gene names.')
+    
+    
+
+# ----------------- #
+
 def find_position_in_gene(dataset, seq_column):
     positions_dict = {}
     
@@ -75,8 +112,8 @@ def create_phos_ID(dataset):
     ====
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
-    dataset.loc[:, 'phosphosite_ID'] = dataset['Phosphosite'].astype(str)  
-    dataset = dataset.drop(columns=['Phosphosite'])  
+    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
+    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
     print('Phosphosite IDs created.')
     return dataset
 
