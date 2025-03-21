@@ -24,6 +24,8 @@ dataset = 'MV2014'
 print('Loading raw data for', dataset, '...')
 data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/MV2014_raw.csv', header=0)
 print('Raw data loaded.')
+print(f"Dataset Columns: {data.columns}")
+print(data.head())  # Print first few rows to inspect data
 
 # filter data to keep only those with localization probability >= 0.85
 data = data[data['Localization prob'] >= 0.85] 
@@ -35,15 +37,7 @@ preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
-print(data.columns)
-
-# filter data to only include rows with a single protein (no semicolons in columns)
-data = data[
-    ~data['Proteins'].str.contains(';', na=False) & 
-    ~data['Gene names'].str.contains(';', na=False) & 
-    ~data['Positions within proteins'].str.contains(';', na=False)
-]
-print(f'Rows with semicolons removed. Shape: {data.shape}')
+print(data.columns)  # Debugging line
 
 # keep only the necessary columns 
 keepcols = [38, 37] + [x for x in range(0, 10)] # columns to keep
