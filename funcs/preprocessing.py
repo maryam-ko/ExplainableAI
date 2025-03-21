@@ -24,7 +24,15 @@ def match_seq_to_genename(dataset, seq_column):
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
     
-    fasta_sequence = list(SeqIO.parse(open('01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
+    fasta_file = '/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'
+
+    # Check if the file exists
+    if not os.path.exists(fasta_file):
+        print(f"File not found: {fasta_file}")
+        return dataset
+    
+    print(f"Opening fasta file: {fasta_file}")
+    fasta_sequence = list(SeqIO.parse(open(fasta_file), "fasta"))
     
     gene_dict = {}
     
@@ -43,14 +51,15 @@ def match_seq_to_genename(dataset, seq_column):
     dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
     print('Amino acid sequences matched to gene names.')
     
-    
+    return dataset
+
 
 # ----------------- #
 
 def find_position_in_gene(dataset, seq_column):
     positions_dict = {}
     
-    fasta_sequence = list(SeqIO.parse(open('01_input_data/raw_data/UP000005640_9606.fasta'), 'fasta'))
+    fasta_sequence = list(SeqIO.parse(open('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
 
     # iterate over rows in the Sequence Window column of GG2009
     for i in dataset['Sequence']:
@@ -75,7 +84,7 @@ def get_position_and_gene(dataset, seq_column, position_column):
     gene_dict = {}
     residues_dict = {}
 
-    fasta_sequence = list(SeqIO.parse(open('01_input_data/raw_data/UP000005640_9606.fasta'), 'fasta'))
+    fasta_sequence = list(SeqIO.parse(open('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
         
     # get the gene name and amino acid from the fasta file
     for index, row in dataset.iterrows():  # iterate over rows in the DataFrame
