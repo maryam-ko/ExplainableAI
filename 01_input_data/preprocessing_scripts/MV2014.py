@@ -30,6 +30,11 @@ print(data.head())  # Print first few rows to inspect data
 # filter data to keep only those with localization probability >= 0.85
 data = data[data['Localization prob'] >= 0.85] 
 
+# Filtering out semi-colons from 'Amino acid', 'Positions within proteins', and 'Gene names' columns
+data = data[~data['Amino acid'].str.contains(';', na=False)]
+data = data[~data['Positions within proteins'].str.contains(';', na=False)]
+data = data[~data['Gene names'].str.contains(';', na=False)]
+
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
