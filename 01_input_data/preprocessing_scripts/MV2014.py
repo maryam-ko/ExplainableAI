@@ -46,27 +46,11 @@ data = data[
 print(f'Rows with semicolons removed. Shape: {data.shape}')
 
 # keep only the necessary columns 
-keepcols = [
-    'Proteins', 'Gene names', 'Amino acid', 'Positions within proteins', 'Sequence window', 'Modified sequence', 
-    'Localization prob',
-    'Ratio M/L normalized A1___1 (2 min)', 'Ratio M/L normalized A1___2 (2 min)', 'Ratio M/L normalized A1___3 (2 min)',
-    'Ratio H/M normalized A2___1 (2 min)', 'Ratio H/M normalized A2___2 (2 min)', 'Ratio H/M normalized A2___3 (2 min)',
-    'Ratio L/H normalized A3___1 (2 min)', 'Ratio L/H normalized A3___2 (2 min)', 'Ratio L/H normalized A3___3 (2 min)',
-    'Ratio H/L normalized A1___1 (10 min)', 'Ratio H/L normalized A1___2 (10 min)', 'Ratio H/L normalized A1___3 (10 min)',
-    'Ratio L/M normalized A2___1 (10 min)', 'Ratio L/M normalized A2___2 (10 min)', 'Ratio L/M normalized A2___3 (10 min)',
-    'Ratio M/H normalized A3___1 (10 min)', 'Ratio M/H normalized A3___2 (10 min)', 'Ratio M/H normalized A3___3 (10 min)',
-    'Ratio M/L normalized B1___1 (5 min)', 'Ratio M/L normalized B1___2 (5 min)', 'Ratio M/L normalized B1___3 (5 min)',
-    'Ratio H/M normalized B2___1 (5 min)', 'Ratio H/M normalized B2___2 (5 min)', 'Ratio H/M normalized B2___3 (5 min)',
-    'Ratio L/H normalized B3___1 (5 min)', 'Ratio L/H normalized B3___2 (5 min)', 'Ratio L/H normalized B3___3 (5 min)',
-    'Ratio H/L normalized B1___1 (30 min)', 'Ratio H/L normalized B1___2 (30 min)', 'Ratio H/L normalized B1___3 (30 min)',
-    'Ratio L/M normalized B2___1 (30 min)', 'Ratio L/M normalized B2___2 (30 min)', 'Ratio L/M normalized B2___3 (30 min)',
-    'Ratio M/H normalized B3___1 (30 min)', 'Ratio M/H normalized B3___2 (30 min)', 'Ratio M/H normalized B3___3 (30 min)'
-]
-data = data[keepcols]
-print(f'Columns filtered. Shape: {data.shape}')
+keepcols = [38, 37] + [x for x in range(0, 10)] # columns to keep
+data = data.iloc[:, keepcols] # keep only specified columns
 
 # log2 transform the ratios (Ratio columns)
-data.iloc[:, 7:] = data.iloc[:, 7:].astype(float)  # convert from string to float
+data.iloc[:, 2:12] = data.iloc[:, 2:12].astype(float) # convert from string to float
 
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
