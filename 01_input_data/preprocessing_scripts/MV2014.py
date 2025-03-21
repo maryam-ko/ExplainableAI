@@ -50,8 +50,10 @@ keepcols = [38, 37] + [x for x in range(0, 10)] # columns to keep
 data = data.iloc[:, keepcols] # keep only specified columns
 
 # log2 transform the ratios (Ratio columns)
-data.iloc[:, 2:12] = data.iloc[:, 2:12].apply(pd.to_numeric, errors='coerce')
+ratio_columns = data.columns[2:12]
+data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 
+data.rename(columns={'Gene names': 'GeneName'}, inplace=True)
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
