@@ -36,8 +36,13 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
+print("Before creating Phosphosite, columns:", data.columns)
+
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 print(data.columns)  # Debugging line
+
+print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
+print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
 # keep only the necessary columns 
 keepcols = [38, 37] + [x for x in range(0, 10)] # columns to keep
