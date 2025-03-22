@@ -43,7 +43,7 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
-data['phosphosite_ID'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
+data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
 print(data[[ 'GeneName', 'Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 

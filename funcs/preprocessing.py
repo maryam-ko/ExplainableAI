@@ -28,19 +28,22 @@ def match_seq_to_genename(dataset, seq_column):
     
     gene_dict = {}
     
+    # Regular expression to extract gene names after GN=
+    gene_name_regex = re.compile(r"GN=([A-Za-z0-9_]+)")
+
     # iterate over rows in seq_column
     for i in dataset[seq_column]:
         i_str = str(i)
         for seq_record in fasta_sequence:
             matches = re.findall(i_str, str(seq_record.seq))
             if matches:
-                gene_name_match = seq_record.description.split(' ')[1].split(' ')[0]
-                # gene_name_match = re.search("GN=(\w+)", seq_record.description)
+                gene_name_match = gene_name_regex.search(seq_record.description)
                 if gene_name_match:
-                    gene_dict[i] = gene_name_match
+                    gene_name = gene_name_match.group(1)  # Get the gene name
+                    gene_dict[i] = gene_name
     
     # map sequences to gene names           
-    dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
+    dataset['GeneName'] = dataset[seq_column].map(gene_dict)
     print('Amino acid sequences matched to gene names.')
     
     
@@ -112,29 +115,10 @@ def create_phos_ID(dataset):
     ====
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
-
-    # Strip any spaces from the column names to avoid hidden issues
-    dataset.columns = dataset.columns.str.strip()
-
-    # Check if necessary columns exist
-    required_columns = ['Gene names', 'Amino acid', 'Positions within proteins']
-    for col in required_columns:
-        if col not in dataset.columns:
-            print(f"Error: Missing column {col} in dataset!")
-            return dataset
-
-    # Create the phosphosite_ID column
-    dataset['phosphosite_ID'] = dataset['Gene names'].astype(str) + "_" + dataset['Amino acid'].astype(str) + dataset['Positions within proteins'].astype(str)
-
-    # Drop unnecessary columns
-    dataset = dataset.drop(columns=['Gene names', 'Amino acid', 'Positions within proteins'])
-
-    # Debugging output
-    print("After processing:", dataset.columns)
-    print("Phosphosite IDs created successfully.")
-
+    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
+    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
+    print('Phosphosite IDs created.')
     return dataset
-
 
 
 # ----------------- #
