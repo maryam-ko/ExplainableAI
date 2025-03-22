@@ -60,8 +60,8 @@ keepcols = ['Proteins', 'Gene names', 'Amino acid', 'Positions within proteins',
 data = data[keepcols]
 
 # log2 transform the ratios (Ratio columns)
-ratio_columns = data.columns[2:12]  # Adjust this slice as needed based on your dataset
-data[ratio_columns] = data[ratio_columns].astype(float)
+ratio_columns = data.columns[12:]  # Adjust this slice based on your dataset
+data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 
 data.rename(columns={'Gene names': 'GeneName'}, inplace=True)
 
