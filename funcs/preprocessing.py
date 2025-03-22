@@ -23,8 +23,7 @@ def match_seq_to_genename(dataset, seq_column):
     ====
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
-    dataset = dataset.rename(columns={'Gene names': 'GeneName'})
-
+    
     fasta_sequence = list(SeqIO.parse(open(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
     gene_dict = {}
