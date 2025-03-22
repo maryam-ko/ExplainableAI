@@ -38,7 +38,9 @@ data = data[~data['Gene names'].str.contains(';', na=False)]
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
+print("Before renaming:", data.columns)  # Debugging
 data = data.rename(columns={'Gene names': 'GeneName'})
+print("After renaming:", data.columns)  # Verify if rename worked
 
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
