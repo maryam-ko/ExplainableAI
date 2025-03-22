@@ -24,6 +24,8 @@ dataset = 'MV2014'
 print('Loading raw data for', dataset, '...')
 data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/MV2014_raw.csv', header=0)
 print('Raw data loaded.')
+
+data.columns = data.columns.str.strip()
 print(f"Dataset Columns: {data.columns}")
 print(data.head())  # Print first few rows to inspect data
 
@@ -35,12 +37,19 @@ data = data[~data['Amino acid'].str.contains(';', na=False)]
 data = data[~data['Positions within proteins'].str.contains(';', na=False)]
 data = data[~data['Gene names'].str.contains(';', na=False)]
 
+data.columns = data.columns.str.strip()
+
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
 print("Before renaming:", data.columns)  # Debugging
 data = data.rename(columns={'Gene names': 'GeneName'})
 print("After renaming:", data.columns)  # Verify if rename worked
+
+if 'GeneName' not in data.columns:
+    print("Error: 'GeneName' column is missing before calling create_phos_ID.")
+else:
+    print("'GeneName' column is present before calling create_phos_ID.")
 
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')

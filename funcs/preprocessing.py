@@ -100,7 +100,7 @@ def get_position_and_gene(dataset, seq_column, position_column):
 
 # ----------------- #
     
-def create_phos_ID(data):
+def create_phos_ID(dataset):
     '''
     Concatenates GeneName and Phosphosite columns.
     
@@ -112,14 +112,17 @@ def create_phos_ID(data):
     ====
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
+    if 'GeneName' not in data.columns:
+        print("Error: 'GeneName' column is missing in the function.")
+    
     # Concatenate GeneName and Phosphosite columns to create phosphosite_ID
-    data.loc[:, 'phosphosite_ID'] = data['GeneName'].astype(str) + '_' + data['Phosphosite'].astype(str)
+    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
     
     # Drop the Phosphosite and GeneName columns
-    data = data.drop(columns=['Phosphosite', 'GeneName'])
+    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
     
     print('Phosphosite IDs created.')
-    return data
+    return dataset
 
 
 
