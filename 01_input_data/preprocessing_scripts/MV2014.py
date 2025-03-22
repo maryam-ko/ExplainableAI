@@ -50,8 +50,6 @@ if 'Phosphosite' not in data.columns:
 else:
     print("Phosphosite column created successfully.")
 
-
-print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
 # Keep only 'Phosphosite' and ratio columns
