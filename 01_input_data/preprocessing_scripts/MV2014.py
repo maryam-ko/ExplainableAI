@@ -54,7 +54,7 @@ else:
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
-data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
+data['Phosphosite'] = data['GeneName'].astype(str) + '_' + data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
 # Debugging: Check if 'Phosphosite' column is present after creation
 if 'Phosphosite' not in data.columns:
