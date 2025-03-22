@@ -113,11 +113,24 @@ def create_phos_ID(dataset):
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
 
-    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
-    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
-    
-    print("After adding phosphosite_ID:", dataset.columns)
-    print('Phosphosite IDs created.')
+    # Check if necessary columns exist
+    required_columns = ['Gene names', 'Amino acid', 'Positions within proteins']
+    for col in required_columns:
+        if col not in dataset.columns:
+            print(f"Error: Missing column {col} in dataset!")
+            return dataset
+
+
+    # Create the phosphosite_ID column
+    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + "_" + dataset['Amino acid'].astype(str) + dataset['Positions within proteins'].astype(str)
+
+    # Drop unnecessary columns
+    dataset = dataset.drop(columns=['Gene names', 'Amino acid', 'Positions within proteins'])
+
+    # Debugging output
+    print("After processing:", dataset.columns)
+    print("Phosphosite IDs created successfully.")
+
     return dataset
 
 
