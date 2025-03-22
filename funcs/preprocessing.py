@@ -112,7 +112,7 @@ def create_phos_ID(dataset):
     ====
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
-    if 'GeneName' not in data.columns:
+    if 'GeneName' not in dataset.columns:
         print("Error: 'GeneName' column is missing in the function.")
     
     # Concatenate GeneName and Phosphosite columns to create phosphosite_ID
