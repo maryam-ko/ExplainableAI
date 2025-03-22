@@ -44,14 +44,20 @@ print('Amino acid sequences matched to gene names.')
 print("Before creating Phosphosite, columns:", data.columns)
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
-print(data.columns)  # Debugging line
+
+# Debugging: Check if 'Phosphosite' column is present after creation
+if 'Phosphosite' not in data.columns:
+    print("Error: 'Phosphosite' column not created!")
+else:
+    print("Phosphosite column created successfully.")
+
 
 print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
-# keep only the necessary columns 
-keepcols = [38, 37] + [x for x in range(0, 10)] # columns to keep
-data = data.iloc[:, keepcols] # keep only specified columns
+keepcols = ['Proteins', 'Gene names', 'Amino acid', 'Positions within proteins', 'Sequence window', 'Modified sequence', 
+            'Localization prob', 'Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+data = data[keepcols]
 
 # log2 transform the ratios (Ratio columns)
 ratio_columns = data.columns[2:12]

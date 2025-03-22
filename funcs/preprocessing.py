@@ -122,7 +122,6 @@ def create_phos_ID(dataset):
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
     dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
-    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
     print('Phosphosite IDs created.')
     return dataset
 
@@ -143,8 +142,12 @@ def log2_transform(dataset):
     dataset: <pd.Dataframe> with log2 transformed values
 
     '''
-    cols_to_transform = dataset.columns.drop('phosphosite_ID')
-    dataset[cols_to_transform] = dataset[cols_to_transform].astype(float).apply(np.log2)
+    # Select only numeric columns (excluding non-numeric ones like 'phosphosite_ID')
+    numeric_cols = dataset.select_dtypes(include=['number']).columns
+
+    # Apply log2 transformation, replacing 0 with NaN to avoid log(0) errors
+    dataset[numeric_cols] = dataset[numeric_cols].replace(0, np.nan).apply(np.log2)
+
     print('Data has been log2 transformed.')
     return dataset
 
