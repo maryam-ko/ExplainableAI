@@ -63,6 +63,14 @@ ratio_columns = [col for col in data.columns if 'Ratio' in col]
 data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 data[ratio_columns] = np.log2(data[ratio_columns])  # Apply log2 transformation
 
+# Debugging: Check dataset columns before creating phosphosite ID
+print("Dataset columns before creating phosphosite ID:", data.columns)
+
+# Check if 'Gene names' exists in the dataset
+if 'Gene names' not in data.columns:
+    print("Error: 'Gene names' column is missing.")
+else:
+    print("'Gene names' column is present.")
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
