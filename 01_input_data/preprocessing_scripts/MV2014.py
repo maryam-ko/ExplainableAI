@@ -45,7 +45,7 @@ print('Amino acid sequences matched to gene names.')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
-print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
+print(data[[ 'GeneName', 'Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
 # Keep only 'Phosphosite' and ratio columns
 keepcols = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
