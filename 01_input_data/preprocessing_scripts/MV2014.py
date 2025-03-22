@@ -22,7 +22,7 @@ from funcs import preprocessing
 dataset = 'MV2014'
 
 print('Loading raw data for', dataset, '...')
-data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/MV2014_raw.csv', header=0)
+data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/e22-sup-tables1.xlsx', header=0)
 print('Raw data loaded.')
 
 data.columns = data.columns.str.strip()
@@ -65,7 +65,7 @@ print('Data has been log2 transformed.')
 data = preprocessing.clean_phosID_col(data)
 
 # Save only Phosphosite and the ratio columns to CSV
-final_columns = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+final_columns = ['phosphosite_'] + [col for col in data.columns if 'Ratio' in col]
 data = data[final_columns]
 
 data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
