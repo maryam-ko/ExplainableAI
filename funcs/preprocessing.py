@@ -26,26 +26,19 @@ def match_seq_to_genename(dataset, seq_column):
 
     fasta_sequence = list(SeqIO.parse(open(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
-    gene_dict = {}
-    
-    # Regular expression to extract gene names after GN=
     gene_name_regex = re.compile(r"GN=([A-Za-z0-9_]+)")
 
-    # iterate over rows in seq_column
-    for i in dataset[seq_column]:
-        i_str = str(i)
-        for seq_record in fasta_sequence:
-            matches = re.findall(i_str, str(seq_record.seq))
-            if matches:
-                gene_name_match = gene_name_regex.search(seq_record.description)
-                if gene_name_match:
-                    gene_name = gene_name_match.group(1)  # Get the gene name
-                    gene_dict[i] = gene_name
-    
-    # map sequences to gene names           
-    dataset['GeneName'] = dataset[seq_column].map(gene_dict)
-    print('Amino acid sequences matched to gene names.')
-    
+found_genes = []
+
+# Open and scan the FASTA file
+for seq_record in SeqIO.parse(fasta_file, "fasta"):
+    match = gene_name_regex.search(seq_record.description)
+    if match:
+        gene_name = match.group(1)
+        if gene_name in ["FAM83G", "KIAA1467"]:
+            found_genes.append(gene_name)
+
+print("Genes found in FASTA:", found_genes)
     
 
 # ----------------- #
