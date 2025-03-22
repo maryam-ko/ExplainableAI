@@ -55,16 +55,17 @@ else:
 print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
+# Keep only 'Phosphosite' and ratio columns
 keepcols = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
-
 data = data[keepcols]
-print("Final columns:", data.columns)
+print("Final dataset preview:")
+print(data.head())  # Display first few rows
 
-# log2 transform the ratios (Ratio columns)
-ratio_columns = data.columns[12:]  # Adjust this slice based on your dataset
+# log2 transform the ratio columns (Ratio columns)
+ratio_columns = data.columns[1:]  # Exclude 'Phosphosite' from the ratio columns
 data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
+data[ratio_columns] = np.log2(data[ratio_columns])  # Apply log2 transformation
 
-data.rename(columns={'Gene names': 'GeneName'}, inplace=True)
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
@@ -74,6 +75,10 @@ print('Data has been log2 transformed.')
 
 
 data = preprocessing.clean_phosID_col(data)
+
+# Save only Phosphosite and the ratio columns to CSV
+final_columns = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+data = data[final_columns]
 
 data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
 
