@@ -24,15 +24,7 @@ def match_seq_to_genename(dataset, seq_column):
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
     
-    fasta_file = '/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'
-
-    # Check if the file exists
-    if not os.path.exists(fasta_file):
-        print(f"File not found: {fasta_file}")
-        return dataset
-    
-    print(f"Opening fasta file: {fasta_file}")
-    fasta_sequence = list(SeqIO.parse(open(fasta_file), "fasta"))
+    fasta_sequence = list(SeqIO.parse(open(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
     gene_dict = {}
     
@@ -51,8 +43,7 @@ def match_seq_to_genename(dataset, seq_column):
     dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
     print('Amino acid sequences matched to gene names.')
     
-    return dataset
-
+    
 
 # ----------------- #
 
@@ -84,8 +75,8 @@ def get_position_and_gene(dataset, seq_column, position_column):
     gene_dict = {}
     residues_dict = {}
 
-    fasta_sequence = list(SeqIO.parse(open('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
-        
+    fasta_sequence = list(SeqIO.parse(open('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))     
+
     # get the gene name and amino acid from the fasta file
     for index, row in dataset.iterrows():  # iterate over rows in the DataFrame
         sequence = row[seq_column]
@@ -122,6 +113,7 @@ def create_phos_ID(dataset):
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
     dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
+    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
     print('Phosphosite IDs created.')
     return dataset
 
@@ -143,11 +135,10 @@ def log2_transform(dataset):
 
     '''
     cols_to_transform = dataset.columns.drop('phosphosite_ID')
-    
     dataset[cols_to_transform] = dataset[cols_to_transform].astype(float).apply(np.log2)
-    
     print('Data has been log2 transformed.')
-    return dataset.set_index('phosphosite_ID')  # Ensure phosphosites are the index
+    return dataset
+
 
 
 # ----------------- #
@@ -194,7 +185,7 @@ def create_dict_per_dataset(file_names):
     files_dict = {}
     for file in file_names:
         files_dict[file] = pd.read_csv(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/data_files/PreprocessedDatasets/{file}.csv', header=0)
-        print(f"{file} added to dict")
+    print(f"{file} added to dict")
     print('Datasets have been loaded into dictionary.')
     return files_dict
 
@@ -203,18 +194,13 @@ def create_dict_per_dataset(file_names):
 # ----------------- #
 
 def create_matrix_header(files_dict):
-    # Merge datasets
-    files_merged = reduce(lambda left, right: pd.merge(left, right, on=['phosphosite_ID'], how='outer'), files_dict.values())
-
+    files_merged = reduce(lambda left,right:pd.merge(left,right, on=['phosphosite_ID'], how='outer'), files_dict.values())
     print('Datasets have been merged on phosphosite_ID column.')
     
-    # Make sure phosphosites are rows
-    matrix_cols = files_merged.set_index('phosphosite_ID').T  # Transpose so phosphosites are rows
-
-    matrix_cols.to_csv('/data/home/bty449/ExplainableAI/RawMatrixProcessing/raw-matrix-header.csv')
-    
-    print('Unique phosphosite_IDs saved as rows.')
-    
+    phos_id = files_merged['phosphosite_ID'].unique()
+    matrix_cols = pd.DataFrame(columns = phos_id) 
+    matrix_cols.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/RawMatrixProcessing/raw-matrix-header.csv', index=False)
+    print('Unique phosphosite_IDs saved.')
     return matrix_cols
 
 
@@ -222,30 +208,41 @@ def create_matrix_header(files_dict):
 # ----------------- #
 
 def add_rows_to_matrix(matrix, files_datasets, files_dict):
-    new_columns = []
-
+    new_rows = []
+    
     for dataset_key, dataset_names in files_datasets:
-        if dataset_key in matrix.columns:
+        if 'DictKey' in matrix.columns and dataset_key in matrix['DictKey'].values:
             print(f"Dataset key {dataset_key} is already in the matrix.")
             continue
-
-        # Fetch the dataset and set phosphosite_ID as the index
-        dataset = files_dict[dataset_key].set_index('phosphosite_ID')
-        
-        # Make sure each dataset is transposed so that each phosphosite is a row, not a column
-        dataset = dataset.T  # Transpose dataset so phosphosites are rows, not columns
-
-        # Rename the index to the dataset name
-        dataset.index = [dataset_key]
-        
-        # Add the dataset as a new column to the matrix (each dataset as a new column)
-        matrix = pd.concat([matrix, dataset], axis=0)  # Concatenate along the columns (axis=1)
-
-        print(f"{dataset_key} added to matrix")
-
-    matrix.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/MatrixCSVs/intermediary-raw-matrix.csv', index=True)
-    print('Intermediary raw matrix saved.')
     
+        matrix.columns = pd.Index(matrix.columns).drop_duplicates()
+        # Iterate over the columns of the dataset
+        for i in range (1, files_dict[dataset_key].shape[1]):
+            if i-1 >= len(dataset_names):
+                print(f"Error: dataset_names doesn't have an element at index {i-1}")
+                return matrix
+            # Convert the column to a dictionary
+            data_dict = files_dict[dataset_key].set_index(files_dict[dataset_key].columns[0]).to_dict()[files_dict[dataset_key].columns[i]]
+            # Create a new row dataframe from the dictionary
+            new_row = pd.DataFrame(data_dict, index = [0])
+            new_row = new_row.loc[:, ~new_row.columns.duplicated()]
+            # Reindex the new row to match the columns of the phosphoproteomics_matrix
+            new_row = new_row.reindex(columns = matrix.columns)
+            # Add the dataset name as a column to the new row
+            if 'DatasetName' in matrix.columns:
+                new_row['DatasetName'] = dataset_names[i-1]
+            else:
+                new_row.insert(0, "DatasetName", dataset_names[i-1])
+            new_row['DictKey'] = dataset_key
+            new_rows.append(new_row)
+            # Concatenate the new row to the phosphoproteomics_matrix
+            # matrix = pd.concat([matrix, new_row], ignore_index = True)
+            print(f"{new_row['DictKey']} added to matrix")
+    
+    if new_rows:
+        matrix = pd.concat([matrix] + new_rows, ignore_index=True)
+    matrix.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/MatrixCSVs/intermediary-raw-matrix.csv',  index = False)
+    print('Intermediary raw matrix saved.')
     return matrix
 
 
