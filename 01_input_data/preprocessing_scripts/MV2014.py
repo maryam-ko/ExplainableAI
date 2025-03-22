@@ -41,7 +41,6 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
-print("Before creating Phosphosite, columns:", data.columns)
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
