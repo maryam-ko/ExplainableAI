@@ -37,30 +37,13 @@ data = data[~data['Amino acid'].str.contains(';', na=False)]
 data = data[~data['Positions within proteins'].str.contains(';', na=False)]
 data = data[~data['Gene names'].str.contains(';', na=False)]
 
-data.columns = data.columns.str.strip()
-
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
-
-print("Before renaming:", data.columns)  # Debugging
-data = data.rename(columns={'Gene names': 'GeneName'})
-print("After renaming:", data.columns)  # Verify if rename worked
-
-if 'GeneName' not in data.columns:
-    print("Error: 'GeneName' column is missing before calling create_phos_ID.")
-else:
-    print("'GeneName' column is present before calling create_phos_ID.")
 
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
-data['Phosphosite'] = data['GeneName'].astype(str) + '_' + data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
-
-# Debugging: Check if 'Phosphosite' column is present after creation
-if 'Phosphosite' not in data.columns:
-    print("Error: 'Phosphosite' column not created!")
-else:
-    print("Phosphosite column created successfully.")
+data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
 print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
@@ -76,10 +59,8 @@ data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
-
 data = preprocessing.log2_transform(data)
 print('Data has been log2 transformed.')
-
 
 data = preprocessing.clean_phosID_col(data)
 
