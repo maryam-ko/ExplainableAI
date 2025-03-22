@@ -22,7 +22,7 @@ from funcs import preprocessing
 dataset = 'MV2014'
 
 print('Loading raw data for', dataset, '...')
-data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/e22-sup-tables1.xlsx', header=0)
+data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/e22-sup-tables1.csv', header=0)
 print('Raw data loaded.')
 
 data.columns = data.columns.str.strip()
