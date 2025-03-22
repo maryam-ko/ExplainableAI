@@ -134,8 +134,10 @@ def log2_transform(dataset):
     dataset: <pd.Dataframe> with log2 transformed values
 
     '''
-    cols_to_transform = dataset.columns.drop('phosphosite_ID')
-    dataset[cols_to_transform] = dataset[cols_to_transform].astype(float).apply(np.log2)
+     # Select columns to transform (excluding 'phosphosite_ID' column)
+    cols_to_transform = dataset.columns.drop('phosphosite_ID', errors='ignore')  # In case 'phosphosite_ID' column doesn't exist
+    dataset[cols_to_transform] = dataset[cols_to_transform].apply(pd.to_numeric, errors='coerce').apply(np.log2)
+    
     print('Data has been log2 transformed.')
     return dataset
 
