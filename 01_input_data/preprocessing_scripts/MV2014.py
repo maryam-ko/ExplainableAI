@@ -55,9 +55,10 @@ else:
 print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 print(data[['Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
-keepcols = ['Proteins', 'Gene names', 'Amino acid', 'Positions within proteins', 'Sequence window', 'Modified sequence', 
-            'Localization prob', 'Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+keepcols = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+
 data = data[keepcols]
+print("Final columns:", data.columns)
 
 # log2 transform the ratios (Ratio columns)
 ratio_columns = data.columns[12:]  # Adjust this slice based on your dataset
