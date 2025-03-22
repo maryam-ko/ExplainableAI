@@ -23,7 +23,8 @@ def match_seq_to_genename(dataset, seq_column):
     ====
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
-    
+    dataset = dataset.rename(columns={'Gene names': 'GeneName'})
+
     fasta_sequence = list(SeqIO.parse(open(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
     gene_dict = {}
@@ -113,10 +114,10 @@ def create_phos_ID(dataset):
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
     # Concatenate GeneName and Phosphosite columns to create phosphosite_ID
-    dataset.loc[:, 'phosphosite_ID'] = dataset['Gene names'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
+    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
     
     # Drop the Phosphosite and GeneName columns
-    dataset = dataset.drop(columns=['Phosphosite', 'Gene names'])
+    dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
     
     print('Phosphosite IDs created.')
     return dataset
