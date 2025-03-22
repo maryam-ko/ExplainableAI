@@ -43,7 +43,7 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
-data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
+data['phosphosite_ID'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
 print(data[[ 'GeneName', 'Amino acid', 'Positions within proteins', 'Phosphosite']].head())  # Check values
 
@@ -65,7 +65,7 @@ print('Data has been log2 transformed.')
 data = preprocessing.clean_phosID_col(data)
 
 # Save only Phosphosite and the ratio columns to CSV
-final_columns = ['phosphosite_'] + [col for col in data.columns if 'Ratio' in col]
+final_columns = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
 data = data[final_columns]
 
 data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
