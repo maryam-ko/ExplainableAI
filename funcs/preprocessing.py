@@ -112,8 +112,12 @@ def create_phos_ID(dataset):
     ====
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
+    # Concatenate GeneName and Phosphosite columns to create phosphosite_ID
     dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
+    
+    # Drop the Phosphosite and GeneName columns
     dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
+    
     print('Phosphosite IDs created.')
     return dataset
 
@@ -134,16 +138,17 @@ def log2_transform(dataset):
     dataset: <pd.Dataframe> with log2 transformed values
 
     '''
-      # Identify ratio columns by checking if their names contain 'Ratio' (you can refine this further if needed)
+      # Identify ratio columns by checking if their names contain 'Ratio'
     ratio_columns = [col for col in dataset.columns if 'Ratio' in col]
     
     # Convert the selected ratio columns to numeric, replacing non-numeric values with NaN, and apply log2 transformation
-    dataset[ratio_columns] = dataset[ratio_columns].apply(pd.to_numeric, errors='coerce').apply(np.log2)
+    dataset[ratio_columns] = dataset[ratio_columns].apply(pd.to_numeric, errors='coerce')  # Coerce errors to NaN
+    
+    # Replace Inf values with NaN, and apply log2 transformation on valid values
+    dataset[ratio_columns] = dataset[ratio_columns].apply(lambda x: np.log2(x) if pd.api.types.is_numeric_dtype(x) else x)
     
     print('Ratio columns have been log2 transformed.')
-    
     return dataset
-
 
 
 # ----------------- #

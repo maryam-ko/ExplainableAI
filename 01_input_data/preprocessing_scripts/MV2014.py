@@ -62,7 +62,7 @@ print("Final dataset preview:")
 print(data.head())  # Display first few rows
 
 # log2 transform the ratio columns (Ratio columns)
-ratio_columns = data.columns[1:]  # Exclude 'Phosphosite' from the ratio columns
+ratio_columns = [col for col in data.columns if 'Ratio' in col]
 data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 data[ratio_columns] = np.log2(data[ratio_columns])  # Apply log2 transformation
 
