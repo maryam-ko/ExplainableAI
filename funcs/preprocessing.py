@@ -113,7 +113,7 @@ def create_phos_ID(dataset):
     dataset: <pd.Dataframe> with 'phosphosite_ID' column and 'GeneName' + 'Phosphosite' columns dropped
     '''
     # Concatenate GeneName and Phosphosite columns to create phosphosite_ID
-    dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
+    dataset.loc[:, 'phosphosite_ID'] = dataset['Gene names'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
     
     # Drop the Phosphosite and GeneName columns
     dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
