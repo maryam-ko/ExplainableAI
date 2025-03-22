@@ -115,6 +115,8 @@ def create_phos_ID(dataset):
 
     dataset.loc[:, 'phosphosite_ID'] = dataset['GeneName'].astype(str) + '_' + dataset['Phosphosite'].astype(str)
     dataset = dataset.drop(columns=['Phosphosite', 'GeneName'])
+    
+    print("After adding phosphosite_ID:", dataset.columns)
     print('Phosphosite IDs created.')
     return dataset
 

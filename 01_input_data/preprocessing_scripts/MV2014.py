@@ -26,7 +26,7 @@ data = pd.read_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_
 print('Raw data loaded.')
 
 data.columns = data.columns.str.strip()
-print(dataset.columns)
+print(f"Dataset Columns: {data.columns}")
 print(data.head())  # Print first few rows to inspect data
 
 # filter data to keep only those with localization probability >= 0.85
