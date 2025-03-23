@@ -26,19 +26,23 @@ def match_seq_to_genename(dataset, seq_column):
 
     fasta_sequence = list(SeqIO.parse(open(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
-    gene_name_regex = re.compile(r"GN=([A-Za-z0-9_]+)")
 
-found_genes = []
-
-# Open and scan the FASTA file
-for seq_record in SeqIO.parse(fasta_file, "fasta"):
-    match = gene_name_regex.search(seq_record.description)
-    if match:
-        gene_name = match.group(1)
-        if gene_name in ["FAM83G", "KIAA1467"]:
-            found_genes.append(gene_name)
-
-print("Genes found in FASTA:", found_genes)
+    gene_dict = {}
+    
+    # iterate over rows in seq_column
+    for i in dataset[seq_column]:
+        i_str = str(i)
+        for seq_record in fasta_sequence:
+            matches = re.findall(i_str, str(seq_record.seq))
+            if matches:
+                gene_name_match = seq_record.description.split(' ')[1].split(' ')[0]
+                # gene_name_match = re.search("GN=(\w+)", seq_record.description)
+                if gene_name_match:
+                    gene_dict[i] = gene_name_match
+    
+    # map sequences to gene names           
+    dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
+    print('Amino acid sequences matched to gene names.')
     
 
 # ----------------- #
@@ -113,7 +117,6 @@ def create_phos_ID(dataset):
     print('Phosphosite IDs created.')
     return dataset
 
-
 # ----------------- #
 
 def log2_transform(dataset):
@@ -138,7 +141,7 @@ def log2_transform(dataset):
     # Replace Inf values with NaN, and apply log2 transformation on valid values
     dataset[ratio_columns] = dataset[ratio_columns].apply(lambda x: np.log2(x) if pd.api.types.is_numeric_dtype(x) else x)
     
-    print('Ratio columns have been log2 transformed.')
+    print('Data has been log2 transformed.')
     return dataset
 
 
@@ -185,7 +188,7 @@ def get_ens_dict(file_path):
 def create_dict_per_dataset(file_names):
     files_dict = {}
     for file in file_names:
-        files_dict[file] = pd.read_csv(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/data_files/PreprocessedDatasets/{file}.csv', header=0)
+        files_dict[file] = pd.read_csv(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/{file}.csv', header=0)
     print(f"{file} added to dict")
     print('Datasets have been loaded into dictionary.')
     return files_dict
@@ -267,7 +270,6 @@ def drop_outliers_IQR(df): # drop outliers from a dataframe using the Interquart
     IQR = q3 - q1
     not_outliers = df[~((df < (q1 - 1.5 * IQR)) | (df > (q3 + 1.5 * IQR)))]
     return not_outliers
-
 
 
 # ----------------- #
