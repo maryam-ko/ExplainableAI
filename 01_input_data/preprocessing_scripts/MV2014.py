@@ -56,8 +56,6 @@ data = data[keepcols]
 ratio_columns = [col for col in data.columns if 'Ratio' in col]
 data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 
-print(data[['GeneName', 'Phosphosite']].dropna())
-
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
 data = preprocessing.log2_transform(data)
