@@ -29,6 +29,8 @@ data.columns = data.columns.str.strip()
 print(f"Dataset Columns: {data.columns}")
 print(data.head())  # Print first few rows to inspect data
 
+data.rename(columns={'Gene names': 'GeneName'}, inplace=True)
+
 # filter data to keep only those with localization probability >= 0.85
 data = data[data['Localization prob'] >= 0.85] 
 
@@ -42,6 +44,7 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
+print(data['GeneName'].head())
 
 print("Before creating Phosphosite, columns:", data.columns)
 
@@ -71,9 +74,9 @@ print("Cols after subsetting:", data.columns)
 ratio_columns = [col for col in data.columns if 'ratio' in col]
 data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 
-data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
-print('Phosphosite IDs created.')
 
+data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
+print(data)
 
 data = preprocessing.clean_phosID_col(data)
 
