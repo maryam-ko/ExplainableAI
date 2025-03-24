@@ -61,23 +61,24 @@ else:
 print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 
 # Keep only 'Phosphosite' and ratio columns
-keepcols = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'ratio' in col]
 data = data[keepcols]
 
+print("Data after subsetting columns:", data)
+print("Cols after subsetting:", data.columns)
 
 # log2 transform the ratio columns (Ratio columns)
-ratio_columns = [col for col in data.columns if 'Ratio' in col]
+ratio_columns = [col for col in data.columns if 'ratio' in col]
 data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
-data = preprocessing.log2_transform(data)
-print('Data has been log2 transformed.')
+
 
 data = preprocessing.clean_phosID_col(data)
 
 
-final_columns = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
+final_columns = ['Phosphosite'] + [col for col in data.columns if 'ratio' in col]
 data = data[final_columns]
 print("Final dataset preview:")
 print(data.head())  # Display first few rows
