@@ -69,17 +69,20 @@ print("Data after subsetting columns:", data)
 print("Cols after subsetting:", data.columns)
 
 # log2 transform the ratio columns (Ratio columns)
-ratio_columns = [col for col in data.columns if 'ratio' in col]
-data[ratio_columns] = data[ratio_columns].apply(pd.to_numeric, errors='coerce')
-
+Ratio_columns = [col for col in data.columns if 'Ratio L/H' in col]
+data[Ratio_columns] = data[Ratio_columns].apply(pd.to_numeric, errors='coerce')
+print(data[Ratio_columns].head())
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
-print(data)
+print('Phosphosite IDs created.')
+data = preprocessing.log2_transform(data)
+print('Data has been log2 transformed.')
+print(data.head())
 
 data = preprocessing.clean_phosID_col(data)
+print(data)
 
-
-final_columns = ['Phosphosite'] + [col for col in data.columns if 'ratio' in col]
+final_columns = ['Phosphosite'] + [col for col in data.columns if 'Ratio L/H' in col]
 data = data[final_columns]
 print("Final dataset preview:")
 print(data.head())  # Display first few rows
