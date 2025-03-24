@@ -29,8 +29,6 @@ data.columns = data.columns.str.strip()
 print(f"Dataset Columns: {data.columns}")
 print(data.head())  # Print first few rows to inspect data
 
-data.rename(columns={'Gene names': 'GeneName'}, inplace=True)
-
 # filter data to keep only those with localization probability >= 0.85
 data = data[data['Localization prob'] >= 0.85] 
 
