@@ -15,6 +15,9 @@ sys.path.append(grandparent_dir)
 
 from funcs import preprocessing
 
+save_path = os.path.join(grandparent_dir, "01_input_data/PreprocessedDatasets/output.csv")
+print("Saving to:", os.path.abspath(save_path))  # Debugging output
+
 # ----------------- #
 # LOAD & CLEAN DATA
 # ----------------- #
