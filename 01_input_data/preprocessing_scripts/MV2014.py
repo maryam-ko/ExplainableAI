@@ -45,7 +45,20 @@ print('Amino acid sequences matched to gene names.')
 
 print("Before creating Phosphosite, columns:", data.columns)
 
+# Ensure GeneName exists before proceeding
+if 'GeneName' not in data.columns:
+    raise ValueError("GeneName column is missing! Check match_seq_to_genename function.")
+
+
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
+
+# Debugging: Check if 'Phosphosite' column is present after creation
+if 'Phosphosite' not in data.columns:
+    print("Error: 'Phosphosite' column not created!")
+else:
+    print("Phosphosite column created successfully.")
+
+print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 
 # Keep only 'Phosphosite' and ratio columns
 keepcols = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
