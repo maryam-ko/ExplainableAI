@@ -83,7 +83,7 @@ data = preprocessing.clean_phosID_col(data)
 print(data)
 
 final_columns = ['phosphosite_ID'] + [col for col in data.columns if 'Ratio L/H' in col]
-data = [final_columns]
+data = data[final_columns]
 print("Final dataset preview:")
 print(data.head())  # Display first few rows
 
