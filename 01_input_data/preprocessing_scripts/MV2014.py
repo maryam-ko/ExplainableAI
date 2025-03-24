@@ -62,30 +62,29 @@ else:
 print("After creating Phosphosite, columns:", data.columns)  # Check if 'Phosphosite' is added
 
 # Keep only 'Phosphosite' and ratio columns
-keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'Ratio L/H' in col]
+keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'Ratio' in col]
 data = data[keepcols]
 
 print("Data after subsetting columns:", data)
 print("Cols after subsetting:", data.columns)
 
 # log2 transform the ratio columns (Ratio columns)
-Ratio_columns = [col for col in data.columns if 'Ratio L/H' in col]
+Ratio_columns = [col for col in data.columns if 'Ratio' in col]
 data[Ratio_columns] = data[Ratio_columns].apply(pd.to_numeric, errors='coerce')
 
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
-data = preprocessing.log2_transform(data)
-print('Data has been log2 transformed.')
-print(data.head())
+
 
 data = preprocessing.clean_phosID_col(data)
-print(data)
 
-final_columns = ['phosphosite_ID'] + [col for col in data.columns if 'Ratio L/H' in col]
+
+final_columns = ['phosphosite_ID'] + [col for col in data.columns if 'Ratio' in col]
 data = data[final_columns]
 print("Final dataset preview:")
 print(data.head())  # Display first few rows
+print(data.tail())  # Display last few rows
 
 data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
 
