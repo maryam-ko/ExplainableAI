@@ -86,7 +86,7 @@ print("Final dataset preview:")
 print(data.head())  # Display first few rows
 print(data.tail())  # Display last few rows
 
-data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
+data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/MV2014.csv', index=False)
 
 
 print(dataset, 'has been saved to CSV successfully!', data)
