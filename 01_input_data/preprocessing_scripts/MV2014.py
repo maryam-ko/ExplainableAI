@@ -50,8 +50,7 @@ print(data[[ 'GeneName', 'Amino acid', 'Positions within proteins', 'Phosphosite
 # Keep only 'Phosphosite' and ratio columns
 keepcols = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
 data = data[keepcols]
-print("Final dataset preview:")
-print(data.head())  # Display first few rows
+
 
 # log2 transform the ratio columns (Ratio columns)
 ratio_columns = [col for col in data.columns if 'Ratio' in col]
@@ -69,6 +68,8 @@ data = preprocessing.clean_phosID_col(data)
 # Save only Phosphosite and the ratio columns to CSV
 final_columns = ['Phosphosite'] + [col for col in data.columns if 'Ratio' in col]
 data = data[final_columns]
+print("Final dataset preview:")
+print(data.head())  # Display first few rows
 
 data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/PreprocessedDatasets/MV2014.csv', index=False)
 
