@@ -23,7 +23,6 @@ data = data[data['Localization prob'] >= 0.85]
 
 # Filtering out semi-colons from 'Amino acid', 'Positions', and 'Gene names' columns
 data = data[~data['Amino acid'].str.contains(';', na=False)]
-data = data[~data['Position'].str.contains(';', na=False)]
 data = data[~data['Gene names'].str.contains(';', na=False)]
 
 # filter data
