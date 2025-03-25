@@ -15,9 +15,6 @@ sys.path.append(grandparent_dir)
 
 from funcs import preprocessing
 
-save_path = os.path.join(grandparent_dir, "01_input_data/PreprocessedDatasets/output.csv")
-print("Saving to:", os.path.abspath(save_path))  # Debugging output
-
 # ----------------- #
 # LOAD & CLEAN DATA
 # ----------------- #
@@ -89,7 +86,7 @@ print("Final dataset preview:")
 print(data.head())  # Display first few rows
 print(data.tail())  # Display last few rows
 
-data.to_csv(f'/Users/maryam/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/MV2014.csv', index=False)
+data.to_csv(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/MV2014.csv', index=False)
 
 
 print(dataset, 'has been saved to CSV successfully!', data)
