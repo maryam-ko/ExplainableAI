@@ -77,26 +77,9 @@ print(data.head())  # Show the first few rows after processing
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
 
-
 data = preprocessing.clean_phosID_col(data)
 print("After cleaning phosphosite_ID column:")
 print(data.head())
-
-# Group by 'phosphosite_ID', ensuring GeneName is carried along
-data_grouped = data.groupby('phosphosite_ID').agg({
-    'GeneName': 'first',  # Ensure the GeneName is preserved
-    'Ratio M/L normalized A1___1 (2 min)': 'mean',  # You can add other columns for aggregation
-    'Ratio M/H normalized B3___2 (30 min)': 'mean',
-    'Ratio M/H normalized B3___3 (30 min)': 'mean'
-}).reset_index()
-
-print("After grouping by 'phosphosite_ID':")
-print(data_grouped.head())
-
-# Double-check column names
-print("Column names after processing:")
-print(data_grouped.columns)  # Ensure 'GeneName' and 'phosphosite_ID' exist
-
 
 final_columns = ['phosphosite_ID'] + [col for col in data.columns if 'Ratio' in col]
 data = data[final_columns]
