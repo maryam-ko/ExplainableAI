@@ -25,24 +25,27 @@ def match_seq_to_genename(dataset, seq_column, fasta_path):
     ====
     dataset: <pd.DataFrame> with a new column 'FastaMatch' indicating match status
     '''
-    fasta_sequence = list(SeqIO.parse(open(fasta_path), "fasta"))
-
+    fasta_sequence = list(SeqIO.parse(open(fasta_path)))
+    
     # Create a dictionary to map sequences to gene names in the FASTA file
     sequence_to_gene = {}
-
+    
     # Populate the dictionary with sequences from the FASTA file
     for seq_record in fasta_sequence:
-        # Assume the gene name is in the description field of the FASTA record
-        gene_name = seq_record.description.split(' ')[1].split('=')[1]
-        sequence_to_gene[str(seq_record.seq)] = gene_name
-
+        # Use regular expression to extract the gene name after GN= from the description
+        match = re.search(r"GN=([A-Za-z0-9\-_]+)", seq_record.description)
+        
+        if match:
+            gene_name = match.group(1)  # Extract gene name after "GN="
+            sequence_to_gene[str(seq_record.seq)] = gene_name
+    
     # Now, match the sequences in the dataset to those in the FASTA file
     matched_gene_names = []
-
+    
     for seq in dataset[seq_column]:
         # Convert the sequence to string to match with FASTA
         seq_str = str(seq)
-    
+        
         # Check if the sequence matches any in the FASTA file
         if seq_str in sequence_to_gene:
             # Append the matched gene name
@@ -50,11 +53,12 @@ def match_seq_to_genename(dataset, seq_column, fasta_path):
         else:
             # If no match, append NaN or any placeholder to indicate no match
             matched_gene_names.append(None)
-
+    
     # Add a new column 'GeneName' to the dataset based on the match
     dataset['GeneName'] = matched_gene_names
-
+    
     print('Amino acid sequences matched to gene names in the FASTA file.')
+    
     
 
 # ----------------- #
