@@ -11,44 +11,32 @@ from functools import reduce
 # ----------------- #
 
 
-def match_seq_to_genename(dataset, seq_column, fasta_path):
-    '''
-    Matches amino acid sequences in the dataset to sequences in the FASTA file.
+def match_seq_to_genename(data, sequence_window_col, fasta_path):
+    # Example implementation with debugging statements
+    print("Starting match_seq_to_genename function")
     
-    args:
-    =====
-    dataset: <pd.DataFrame> with a column of amino acid sequences
-    seq_column: <str> column name containing amino acid sequences
-    fasta_path: <str> path to the FASTA file for sequence validation
+    fasta_sequences = SeqIO.parse(open(fasta_path), 'fasta')
     
-    out:
-    ====
-    dataset: <pd.DataFrame> with a new column 'GeneName' from the raw dataset, based on sequence match
-    '''
+    # Create a dictionary to map sequences to gene names
+    sequence_to_gene = {}
+    for fasta in fasta_sequences:
+        name, sequence = fasta.id, str(fasta.seq)
+        # Example: Extract gene name from the FASTA header (adjust as needed)
+        gene_name = name.split('|')[1]  # Adjust this line based on your FASTA file format
+        sequence_to_gene[sequence] = gene_name
     
-    # Load the sequences from the FASTA file
-    fasta_sequence = list(SeqIO.parse(open(fasta_path), 'fasta'))
+    print("FASTA sequences loaded and mapped to gene names")
     
-    # Create a set of all sequences in the FASTA file for fast lookup
-    fasta_sequences = set(str(seq_record.seq) for seq_record in fasta_sequence)
+    # Map the sequences in the data to gene names
+    data['GeneName'] = data[sequence_window_col].map(sequence_to_gene)
     
-    # Now, match the sequences in the dataset to those in the FASTA file
-    matched_gene_names = []
+    # Debugging: Print the first few rows to check the mapping
+    print(data[['GeneName', sequence_window_col]].head())
     
-    for seq in dataset[seq_column]:
-        seq_str = str(seq)
-        
-        if seq_str in fasta_sequences:
-            # If the sequence exists in the FASTA, match it to the gene name from the dataset
-            matched_gene_names.append(dataset['Gene names'].loc[dataset[seq_column] == seq].values[0])
-        else:
-            # If no match, append None (or any placeholder value)
-            matched_gene_names.append(None)
+    # Check for NaN values in the GeneName column
+    nan_count = data['GeneName'].isna().sum()
+    print(f"Number of NaN values in GeneName column: {nan_count}")
     
-    # Add the matched gene names to the dataset
-    dataset['GeneName'] = matched_gene_names
-    print('Amino acid sequences matched to gene names in the dataset.')
-    return dataset
 
 
 

@@ -31,8 +31,16 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 # Define the path to your FASTA file
 fasta_path = "/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta"
 
-preprocessingks.match_seq_to_genename(data, 'Sequence window', fasta_path)
-print('Amino acid sequences matched to gene names.')
+# Attempt to match sequences to gene names
+data = preprocessingks.match_seq_to_genename(data, 'Sequence window', fasta_path)
+
+# Check for NaN values in the GeneName column
+if data['GeneName'].isna().sum() > 0:
+    print("Warning: Some gene names are NaN. Using gene names from the initial dataset as fallback.")
+    data['GeneName'] = data['Gene names']
+
+print('Using gene names from the initial dataset.')
+
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
 
@@ -52,7 +60,7 @@ print(data.head())  # Show the first few rows after processing
 
 data = preprocessingks.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
-data = data.drop(columns=['Gene names', 'Amino acid', 'Position'])    
+data = data.drop(columns=['Gene names', 'Amino acid', 'Position'])
 
 data = preprocessingks.clean_phosID_col(data)
 print("After cleaning phosphosite_ID column:")
