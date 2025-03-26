@@ -31,7 +31,7 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 preprocessing.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
-data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
+data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
 
 # Keep only 'Phosphosite' and ratio columns
 keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'Intensity' in col]
