@@ -12,18 +12,19 @@ from functools import reduce
 
 
 def match_seq_to_genename(data, sequence_window_col, fasta_path):
-    # Example implementation with debugging statements
     print("Starting match_seq_to_genename function")
     
-    fasta_sequences = SeqIO.parse(open(fasta_path), 'fasta')
-    
-    # Create a dictionary to map sequences to gene names
-    sequence_to_gene = {}
-    for fasta in fasta_sequences:
-        name, sequence = fasta.id, str(fasta.seq)
-        # Example: Extract gene name from the FASTA header (adjust as needed)
-        gene_name = name.split('|')[1]  # Adjust this line based on your FASTA file format
-        sequence_to_gene[sequence] = gene_name
+    # Using a context manager to open the FASTA file
+    with open(fasta_path) as fasta_file:
+        fasta_sequences = SeqIO.parse(fasta_file, 'fasta')
+        
+        # Create a dictionary to map sequences to gene names
+        sequence_to_gene = {}
+        for fasta in fasta_sequences:
+            name, sequence = fasta.id, str(fasta.seq)
+            # Example: Extract gene name from the FASTA header (adjust as needed)
+            gene_name = name.split('|')[1]  # Adjust this line based on your FASTA file format
+            sequence_to_gene[sequence] = gene_name
     
     print("FASTA sequences loaded and mapped to gene names")
     
@@ -37,8 +38,6 @@ def match_seq_to_genename(data, sequence_window_col, fasta_path):
     nan_count = data['GeneName'].isna().sum()
     print(f"Number of NaN values in GeneName column: {nan_count}")
     
-
-
 
 # ----------------- #
 
