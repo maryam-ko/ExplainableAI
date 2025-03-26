@@ -26,7 +26,7 @@ def match_seq_to_genename(dataset, seq_column, fasta_path):
     dataset: <pd.DataFrame> with a new column 'FastaMatch' indicating match status
     '''
     
-    fasta_sequence = list(SeqIO.parse(open(fasta_path)))
+    fasta_sequence = list(SeqIO.parse(open(fasta_path), 'fasta'))
     
     # Create a dictionary to map sequences to gene names in the FASTA file
     sequence_to_gene = {}
