@@ -52,8 +52,7 @@ print(data.head())  # Show the first few rows after processing
 
 data = preprocessingks.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
-dataset = dataset.drop(columns=['GeneName', 'AminoAcid', 'Position'])
-    
+data = data.drop(columns=['Gene names', 'Amino acid', 'Position'])    
 
 data = preprocessingks.clean_phosID_col(data)
 print("After cleaning phosphosite_ID column:")
