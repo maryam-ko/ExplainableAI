@@ -41,7 +41,6 @@ if data['GeneName'].isna().sum() > 0:
 
 print('Using gene names from the initial dataset.')
 
-
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
 
 # Keep only 'Phosphosite' and ratio columns
