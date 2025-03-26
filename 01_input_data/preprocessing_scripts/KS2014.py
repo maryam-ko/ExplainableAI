@@ -28,7 +28,10 @@ data = data[~data['Gene names'].str.contains(';', na=False)]
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
-preprocessingks.match_seq_to_genename(data, 'Sequence window')
+# Define the path to your FASTA file
+fasta_path = "/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta"
+
+preprocessingks.match_seq_to_genename(data, 'Sequence window', fasta_path)
 print('Amino acid sequences matched to gene names.')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
