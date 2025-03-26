@@ -28,6 +28,11 @@ def match_seq_to_genename(data, sequence_window_col, fasta_path):
     
     print("FASTA sequences loaded and mapped to gene names")
     
+    # Debugging: Print the first few entries of the sequence_to_gene dictionary
+    print("First few entries in sequence_to_gene dictionary:")
+    for seq, gene in list(sequence_to_gene.items())[:5]:
+        print(f"Sequence: {seq[:30]}... -> Gene: {gene}")
+    
     # Map the sequences in the data to gene names
     data['GeneName'] = data[sequence_window_col].map(sequence_to_gene)
     
