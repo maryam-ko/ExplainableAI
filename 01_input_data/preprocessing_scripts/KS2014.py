@@ -31,14 +31,11 @@ data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 # Define the path to your FASTA file
 fasta_path = "/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta"
 
-# Attempt to match sequences to gene names
-data = preprocessingks.match_seq_to_genename(data, 'Sequence window', fasta_path)
+# Attempt to match sequences to FASTA sequences
+data = preprocessingks.match_seq_to_genename(data, 'Sequence window')
 
-# Check for NaN values in the GeneName column
-if data['GeneName'].isna().sum() > 0:
-    print("Warning: Some gene names are NaN. Using gene names from the initial dataset as fallback.")
-    data['GeneName'] = data['Gene names']
-
+# Use the gene names from the initial dataset
+data['GeneName'] = data['Gene names']
 print('Using gene names from the initial dataset.')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
