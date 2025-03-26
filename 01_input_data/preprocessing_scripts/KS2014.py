@@ -18,6 +18,10 @@ print('Raw data loaded.')
 print(f"Dataset Columns: {data.columns}")
 print(data.head())  # Print first few rows to inspect data
 
+# Ensure 'Gene names' column exists
+if 'Gene names' not in data.columns:
+    raise ValueError("The 'Gene names' column is missing from the dataset.")
+
 # filter data to keep only those with localization probability >= 0.85
 data = data[data['Localization prob'] >= 0.85] 
 
