@@ -25,21 +25,31 @@ def match_seq_to_genename(dataset, seq_column):
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
     
-    fasta_sequence = list(SeqIO.parse(open(f"/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta"), 'fasta'))
+    fasta_sequence = list(SeqIO.parse(open(f"/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta")))
     
-    matched_sequences = set()
+    gene_dict = {}
     
     # iterate over rows in seq_column
     for i in dataset[seq_column]:
         i_str = str(i)
         for seq_record in fasta_sequence:
-            if i_str in str(seq_record.seq):
-                matched_sequences.add(i_str)
+            matches = re.findall(i_str, str(seq_record.seq))
+            if matches:
+                gene_name_match = re.search("GN=(\w+)", seq_record.description)
+                # gene_name_match = re.search("GN=(\w+)", seq_record.description)
+                if gene_name_match:
+                    gene_name = gene_name_match.group(1)
+                    gene_dict[i] = gene_name
+                    print(f"Match found: {i_str} -> {gene_name}")
+                else:
+                    print(f"No gene name match found in description for sequence: {i_str}")
+            else:
+                print(f"No matches found for sequence: {i_str}")
     
-    # Create a new column 'Matched' to indicate if the sequence was matched to the FASTA file
-    dataset['Matched'] = dataset[seq_column].apply(lambda x: x in matched_sequences)
+    # map sequences to gene names           
+    dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
+    print('Amino acid sequences matched to gene names.')
     
-    print('Amino acid sequences matched to FASTA sequences.')
     
 
 # ----------------- #
