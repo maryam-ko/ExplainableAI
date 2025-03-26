@@ -7,7 +7,7 @@ grandparent_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpa
 
 sys.path.append(grandparent_dir)
 
-from funcs import preprocessing
+from funcs import preprocessingks
 
 dataset = 'KS2014'
 
@@ -28,7 +28,7 @@ data = data[~data['Gene names'].str.contains(';', na=False)]
 # filter data
 data['Sequence window'] = data['Sequence window'].str.replace('_', '')
 
-preprocessing.match_seq_to_genename(data, 'Sequence window')
+preprocessingks.match_seq_to_genename(data, 'Sequence window')
 print('Amino acid sequences matched to gene names.')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
@@ -47,10 +47,12 @@ data[Intensity_columns] = np.log2(data[Intensity_columns] + 1)  # Avoid log(0) e
 print("After transformation:")
 print(data.head())  # Show the first few rows after processing
 
-data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
+data = preprocessingks.create_phos_ID(data) # call function to create phosphosite_ID column
 print('Phosphosite IDs created.')
+dataset = dataset.drop(columns=['GeneName', 'AminoAcid', 'Position'])
+    
 
-data = preprocessing.clean_phosID_col(data)
+data = preprocessingks.clean_phosID_col(data)
 print("After cleaning phosphosite_ID column:")
 print(data.head())
 
