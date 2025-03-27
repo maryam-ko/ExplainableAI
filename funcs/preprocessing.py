@@ -132,18 +132,10 @@ def log2_transform(dataset):
     dataset: <pd.Dataframe> with log2 transformed values
 
     '''
-      # Identify ratio columns by checking if their names contain 'Ratio'
-    ratio_columns = [col for col in dataset.columns if 'Ratio' in col]
-    
-    # Convert the selected ratio columns to numeric, replacing non-numeric values with NaN, and apply log2 transformation
-    dataset[ratio_columns] = dataset[ratio_columns].apply(pd.to_numeric, errors='coerce')  # Coerce errors to NaN
-    
-    # Replace Inf values with NaN, and apply log2 transformation on valid values
-    dataset[ratio_columns] = dataset[ratio_columns].apply(lambda x: np.log2(x) if pd.api.types.is_numeric_dtype(x) else x)
-    
+    cols_to_transform = dataset.columns.drop('phosphosite_ID')
+    dataset[cols_to_transform] = dataset[cols_to_transform].astype(float).apply(np.log2)
     print('Data has been log2 transformed.')
     return dataset
-
 
 # ----------------- #
 
