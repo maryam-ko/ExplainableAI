@@ -71,7 +71,9 @@ print("Cols after subsetting:", data.columns)
 # log2 transform the ratio columns (Ratio columns)
 Ratio_columns = [col for col in data.columns if 'Ratio' in col]
 data[Ratio_columns] = data[Ratio_columns].apply(pd.to_numeric, errors='coerce')
-print("After transformation:")
+data[Ratio_columns] = data[Ratio_columns].applymap(lambda x: np.log2(x) if x > 0 else np.nan) # Apply log2 transformation to the Ratio columns
+print(f"DataFrame after log2 transformation:\n{data}") # Print the DataFrame after log2 transformation
+
 print(data.head())  # Show the first few rows after processing
 
 data = preprocessing.create_phos_ID(data) # call function to create phosphosite_ID column
