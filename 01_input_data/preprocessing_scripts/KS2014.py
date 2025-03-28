@@ -97,7 +97,6 @@ print("Cols after subsetting:", data.columns)
 Intensity_columns = [col for col in data.columns if 'Intensity' in col]
 
 data[Intensity_columns] = data[Intensity_columns].apply(pd.to_numeric, errors="coerce")
-data[Intensity_columns] = data[Intensity_columns].replace([np.inf, -np.inf], np.nan)
 
 def log2_transform(dataset):
     '''
