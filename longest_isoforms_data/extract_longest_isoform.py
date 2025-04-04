@@ -2,7 +2,7 @@ import pandas as pd
 from Bio import SeqIO
 
 # Load GTF file and extract chromosome information
-gtf_file = '/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/longest_isoforms_data/isoform_rawdata/GCF_000001405.40_GRCh38.p14_genomic.gtf'
+gtf_file = '/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/longest_isoforms_data/isoform_raw_data/GCF_000001405.40_GRCh38.p14_genomic.gtf'
 df_gtf = pd.read_csv(gtf_file, sep='\t', comment='#', header=None)
 
 # Filter for transcript entries and extract chromosome (seqname)
