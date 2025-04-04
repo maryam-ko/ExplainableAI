@@ -73,8 +73,8 @@ if __name__ == "__main__":
     print("Running sequence extraction and conversion...")
     
     # File paths
-    dna_fasta_file = "/Users/maryamkoddus/downloads/GCF_000001405.40_GRCh38.p14_genomic.fna.gz"
-    refseq_csv_file = "/Users/maryamkoddus/downloads/refseq_longest_isoforms.csv"
+    dna_fasta_file = "/Users/maryamkoddus/Documents/maryam-ko-QMUL-Msc-Project/longest_isoforms_data/isoform_raw_data/GCF_000001405.40_GRCh38.p14_genomic.fna.gz"
+    refseq_csv_file = "/Users/maryamkoddus/Documents/maryam-ko-QMUL-Msc-Project/longest_isoforms_data/data_csv/refseq_longest_isoforms.csv"
     
     # Run the full pipeline
     cleaned_protein_sequences = full_pipeline(dna_fasta_file, refseq_csv_file)
@@ -83,7 +83,7 @@ if __name__ == "__main__":
     print(f"Cleaned protein sequences: {len(cleaned_protein_sequences)} sequences.")
     
     # Save the cleaned protein sequences to a file
-    with open("/Users/maryamkoddus/downloads/cleaned_protein_sequences.txt", "w") as output_file:
+    with open("/Users/maryamkoddus/Documents/maryam-ko-QMUL-Msc-Project/longest_isoforms_data/cleaned_protein_sequences.txt", "w") as output_file:
         for seq in cleaned_protein_sequences:
             output_file.write(seq + "\n")
     
