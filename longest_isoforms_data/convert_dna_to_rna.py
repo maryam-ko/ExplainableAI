@@ -12,7 +12,7 @@ fasta_file = '/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/longest_i
 def extract_dna_sequence(fasta_file, chromosome, start, end):
     for record in SeqIO.parse(fasta_file, "fasta"):
         if record.id == chromosome:
-            return record.seq[start-1:end]  # Make sure indexing is 0-based
+            return record.seq[start-1:end]  
     return None
 
 # Function to convert DNA sequence to RNA
@@ -37,7 +37,7 @@ for index, row in df_refseq.iterrows():
     else:
         print(f"DNA sequence not found for Transcript: {row['transcript_id']}")
 
-# Save RNA sequences to a new file (optional)
+# Save RNA sequences to a new file 
 rna_output_file = '/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/longest_isoforms_data/data_csv/rna_sequences.csv'
 df_refseq['rna_sequence'] = rna_sequences
 df_refseq.to_csv(rna_output_file, index=False)
