@@ -13,3 +13,4 @@ job_outputs/
 .DS_Store
 .DS_Store
 longest_isoforms_data/isoform_raw_data/GCF_000001405.40_GRCh38.p14_genomic.fna.gz
+longest_isoforms_data/isoform_raw_data/GCF_000001405.40_GRCh38.p14_genomic.fna
