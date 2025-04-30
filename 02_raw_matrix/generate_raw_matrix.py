@@ -24,12 +24,38 @@ from funcs import preprocessing
 
 # load preprocessed datasets
 # stores names of processed datasets
-file_names = ['AST2020']
+file_names = [
+    'AST2020',
+    'AMK2021',
+    'CF2017',
+    'DB2022',
+    'JAW2011',
+    'LATM2013',
+    'SFR2015',
+    'EJN2021',
+    'HS2024',
+    'JC2019',
+    'JJ2018',
+    'JVO2010',
+    'JW2015',
+    'KS2014',
+    'MV2014',
+    'NJH2015',
+    'NJH2024',
+    'PG2020',
+    'RAM2015',
+    'RB2022',
+    'RM2009',
+    'RN2012',
+    'RNJ2017',
+    'ZCP2016',
+    'ZQ2022'
+]
+
 
 print('File names loaded')
 
 files_dict = preprocessing.create_dict_per_dataset(file_names)
-print(files_dict)  # To verify if 'AMK2021' is in the dictionary
 
 matrix_cols = preprocessing.create_matrix_header(files_dict)
 print(f'Matrix header:', matrix_cols)
@@ -55,32 +81,46 @@ AST2020_names = ('AST2020_Control',	'AST2020_Control.1', 'AST2020_Control.2',	'A
 
 AMK2021_conditions = ['Ctrl', '45I', '120R', '30R']
 AMK2021_replicates = ['p1', 'p3', 'p5']
-AMK2021_names = tuple(f'{condition}_{replicate}' for condition in AMK2021_conditions for replicate in AMK2021_replicates)
+AMK2021_names = tuple(f'AMK2021_{condition}_{replicate}' for condition in AMK2021_conditions for replicate in AMK2021_replicates)
 
 CF2017_conditions = ['EOC', 'FTE', 'OSE']
-CF2017_replicates = [f'{i+1}' for i in range(4)] + [f'{i+13}' for i in range(5)]  # EOC/FTE (1-4), OSE (26-29)
-CF2017_names = tuple(f'{condition} {replicate}' for condition in CF2017_conditions for replicate in CF2017_replicates)
+CF2017_replicates = [f'{i+1}' for i in range(4)] + [f'{i+13}' for i in range(5)]  
+CF2017_names = tuple(f'CF2017_{condition} {replicate}' for condition in CF2017_conditions for replicate in CF2017_replicates)
 
 EJN2021_conditions = ['Rest', 'Ex']
 EJN2021_treatments = ['Basal', 'Ins']
-EJN2021_replicates = [str(i) for i in range(1, 6)]  # Replicates from 1 to 5
-EJN2021_names = tuple(f'{replicate}_{condition}_{treatment}' for condition in EJN2021_conditions for treatment in EJN2021_treatments for replicate in EJN2021_replicates)
+EJN2021_replicates = [str(i) for i in range(1, 6)]  
+EJN2021_names = tuple(f'EJN2021_{replicate}_{condition}_{treatment}' for condition in EJN2021_conditions for treatment in EJN2021_treatments for replicate in EJN2021_replicates)
 
 HS2024_conditions = ['B', 'I', 'PD', 'N']
 HS2024_timepoints = ['T1', 'T2', 'T3']
 HS2024_replicates = ['N1', 'N2']
 HS2024_roots = ['R03', 'R04', 'R05', 'R06', 'R07', 'R08', 'R09', 'R10', 'R11']
-HS2024_names = tuple(f'{root}_{condition}_{timepoint}' for root in HS2024_roots for condition in HS2024_conditions for timepoint in HS2024_timepoints)
+HS2024_names = tuple(f'HS2024_{root}_{condition}_{timepoint}' for root in HS2024_roots for condition in HS2024_conditions for timepoint in HS2024_timepoints)
+
+LATM2013_conditions = ['Forward', 'Reverse']
+LATM2013_types = ['Raw', 'Normalized']
+
+LATM2013_names = tuple(
+    f'LATM2013_{t}_{c}' for t in LATM2013_types for c in LATM2013_conditions
+)
+
+JAW2011_conditions = ['LS1a', 'LS1b', 'LS2', 'HS']
+JAW2011_replicates = ['', '_1', '_2', '_3']
+
+JAW2011_names = tuple(
+    f'JAW2011_{cond}{rep}' for cond in JAW2011_conditions for rep in JAW2011_replicates
+)
 
 JC2019_intensity_conditions = ['Normalised intensity (A)', 'Normalised intensity (B)', 'Normalised intensity (C)']
 JC2019_samples = ['URO0059', 'URO0126', 'URO0158']
 JC2019_root = 'TiOx.Testis'
-JC2019_names = tuple(f'{JC2019_root}({sample})_{condition}' for sample in JC2019_samples for condition in JC2019_intensity_conditions)
+JC2019_names = tuple(f'JC2019_{JC2019_root}({sample})_{condition}' for sample in JC2019_samples for condition in JC2019_intensity_conditions)
 
 JJ2018_conditions = ['M/L normalized', 'H/L normalized', 'H/M normalized']
 JJ2018_timepoints = ['', '___1', '___2', '___3', ' pP1', ' pP1___1', ' pP1___2', ' pP1___3', 
                      ' pP2', ' pP2___1', ' pP2___2', ' pP2___3', ' pP3', ' pP3___1', ' pP3___2', ' pP3___3']
-JJ2018_names = tuple(f'Ratio {condition}{timepoint}' for condition in JJ2018_conditions for timepoint in JJ2018_timepoints)
+JJ2018_names = tuple(f'Ratio JJ2018_{condition}{timepoint}' for condition in JJ2018_conditions for timepoint in JJ2018_timepoints)
 
 JVO2010_categories = [
     'Ratio M/L Normalized by Protein Noco45', 'Ratio M/L Normalized by Protein Noco3h', 
@@ -92,13 +132,13 @@ JVO2010_conditions = [
     ' - Log2 mitosis', ' - Log2 G1', ' - Log2 G1/S', ' - Log2 early S', ' - Log2 Late S', ' - Log2 G2'
 ]
 JVO2010_names = tuple(
-    f'{category}{condition}' for category in JVO2010_categories for condition in JVO2010_conditions
+    f'JVO2010_{category}{condition}' for category in JVO2010_categories for condition in JVO2010_conditions
 )
 
 JW2015_intensity_conditions = ['Intensity cap1', 'Intensity cap2', 'Intensity cap3', 'Intensity pre1', 'Intensity pre2', 'Intensity pre3']
-JW2015_samples = ['Sample1', 'Sample2', 'Sample3']  # Example sample names
-JW2015_replicates = ['Rep1', 'Rep2', 'Rep3']  # Example replicate names
-JW2015_names = tuple(f'{sample}_{condition}_{replicate}' for sample in JW2015_samples for condition in JW2015_intensity_conditions for replicate in JW2015_replicates)
+JW2015_samples = ['Sample1', 'Sample2', 'Sample3'] 
+JW2015_replicates = ['Rep1', 'Rep2', 'Rep3']  
+JW2015_names = tuple(f'JW2015_{sample}_{condition}_{replicate}' for sample in JW2015_samples for condition in JW2015_intensity_conditions for replicate in JW2015_replicates)
 
 KS2014_intensity_conditions = [
     'Intensity', 'Intensity C1', 'Intensity C2', 'Intensity C3', 'Intensity C4', 'Intensity C5', 'Intensity C6', 
@@ -108,9 +148,19 @@ KS2014_intensity_conditions = [
     'Intensity pY_N4', 'Intensity pY_PV1', 'Intensity pY_PV2', 'Intensity pY_PV3', 'Intensity pY_PV4'
 ]
 
-KS2014_samples = ['SampleA', 'SampleB', 'SampleC']  # Example sample names
-KS2014_replicates = ['Rep1', 'Rep2', 'Rep3']  # Example replicate names
-KS2014_names = tuple(f'{sample}_{condition}_{replicate}' for sample in KS2014_samples for condition in KS2014_intensity_conditions for replicate in KS2014_replicates)
+KS2014_samples = ['SampleA', 'SampleB', 'SampleC']  
+KS2014_replicates = ['Rep1', 'Rep2', 'Rep3'] 
+KS2014_names = tuple(f'KS2014_{sample}_{condition}_{replicate}' for sample in KS2014_samples for condition in KS2014_intensity_conditions for replicate in KS2014_replicates)
+
+DB2022_conditions = [
+    'L1', 'L1.1', 'L1.2',
+    'L2', 'L2.1', 'L2.2',
+    'R1', 'R1.1', 'R1.2',
+    'R2', 'R2.1', 'R2.2',
+    'Intensity_L1', 'Intensity_L2', 'Intensity_R1', 'Intensity_R2'
+]
+
+DB2022_names = tuple(f'DB2022_{condition}' for condition in DB2022_conditions)
 
 MV2014_ratio_conditions = [
     'Ratio M/L normalized A1___1 (2 min)', 'Ratio M/L normalized A1___2 (2 min)', 'Ratio M/L normalized A1___3 (2 min)',
@@ -126,9 +176,9 @@ MV2014_ratio_conditions = [
     'Ratio L/M normalized B2___1 (30 min)', 'Ratio L/M normalized B2___2 (30 min)', 'Ratio L/M normalized B2___3 (30 min)',
     'Ratio M/H normalized B3___1 (30 min)', 'Ratio M/H normalized B3___2 (30 min)', 'Ratio M/H normalized B3___3 (30 min)'
 ]
-MV2014_samples = ['Sample1', 'Sample2', 'Sample3']  # Example sample names
-MV2014_replicates = ['Rep1', 'Rep2', 'Rep3']  # Example replicate names
-MV2014_names = tuple(f'{sample}_{condition}_{replicate}' for sample in MV2014_samples for condition in MV2014_ratio_conditions for replicate in MV2014_replicates)
+MV2014_samples = ['Sample1', 'Sample2', 'Sample3']  
+MV2014_replicates = ['Rep1', 'Rep2', 'Rep3'] 
+MV2014_names = tuple(f'MV2014_{sample}_{condition}_{replicate}' for sample in MV2014_samples for condition in MV2014_ratio_conditions for replicate in MV2014_replicates)
 
 NJH2015_conditions = [
     'Subject 1 115/114 (Exercise/Basal) (normalized)', 
@@ -137,27 +187,27 @@ NJH2015_conditions = [
     'Subject 4 114/115 (Exercise/Basal) (normalized)'
 ]
 
-NJH2015_names = tuple(f'{condition}' for condition in NJH2015_conditions)
+NJH2015_names = tuple(f'NJH2015_{condition}' for condition in NJH2015_conditions)
 
 
 NJH2024_subjects = ['Sub1', 'Sub2', 'Sub4', 'Sub6', 'Sub7', 'Sub8', 'Sub9', 'Sub10', 'Sub12', 'Sub13']
 NJH2024_conditions = ['MICT_Pre', 'MICT_Mid', 'MICT_Post', 'HIIT_Pre', 'HIIT_Mid', 'HIIT_Post']
-NJH2024_names = tuple(f'{subject}_{condition}' for subject in NJH2024_subjects for condition in NJH2024_conditions)
+NJH2024_names = tuple(f'NJH2024_{subject}_{condition}' for subject in NJH2024_subjects for condition in NJH2024_conditions)
 
 PG2020_conditions = ['CT_A', 'CT_B', 'CT_C', 'CT_D', '2h_A', '2h_B', '2h_C', '2h_D', '4h_A', '4h_B', '4h_C', '4h_D', 
                      '6h_A', '6h_B', '6h_C', '6h_D', '8h_A', '8h_B', '8h_C', '8h_D', '10h_A', '10h_B', '10h_C', '10h_D', 
                      'Mock_10h_A', 'Mock_10h_B', 'Mock_10h_C', 'Mock_10h_D']
-PG2020_names = tuple(f'{condition}' for condition in PG2020_conditions)
+PG2020_names = tuple(f'PG2020_{condition}' for condition in PG2020_conditions)
 
 RAM2015_conditions = ['A', 'B', 'C']
-RAM2015_names = tuple(f'Log2 {cond}' for cond in RAM2015_conditions)
+RAM2015_names = tuple(f'RAM2015_Log2 {cond}' for cond in RAM2015_conditions)
 
 RB2022_subjects = [f'Subject{i}' for i in range(1, 9)]
 RB2022_exercises = ['Endurance', 'Sprint', 'Strength']
 RB2022_timepoints = ['Pre', 'Post', 'Recovery']
 
 RB2022_names = tuple(
-    f'{subject}_{timepoint}{exercise}'
+    f'RB2022_{subject}_{timepoint}{exercise}'
     for subject in RB2022_subjects
     for exercise in RB2022_exercises
     for timepoint in RB2022_timepoints
@@ -171,13 +221,13 @@ RM2009_timepoints = {
 RM2009_suffixes = ['', ' Normalized by Corresponding Protein Level']
 
 RM2009_names = tuple(
-    f'Ratio {ratio}{suffix} ({RM2009_timepoints[ratio]})'
+    f'RM2009_Ratio {ratio}{suffix} ({RM2009_timepoints[ratio]})'
     for ratio in RM2009_ratios
     for suffix in RM2009_suffixes
 )
 
 RN2012_names = tuple(
-    [f'H0{i}' for i in range(1, 7)] + [f'L1{i}' for i in range(0, 6)]
+    [f'RN2012_H0{i}' for i in range(1, 7)] + [f'RN2012_L1{i}' for i in range(0, 6)]
 )
 
 RNJ2017_conditions = [
@@ -187,16 +237,25 @@ RNJ2017_conditions = [
 ]
 
 RNJ2017_names = tuple(
-    f'Log2 ratio {cond1}:{cond2}_{day}'
+    f'RNJ2017_Log2 ratio {cond1}:{cond2}_{day}'
     for cond1, cond2, days in RNJ2017_conditions
     for day in days
 )
 
+SFR2015_samples = ['SampleA', 'SampleB', 'SampleC']
+SFR2015_conditions = ['a', 'b', 'c']  
+SFR2015_replicates = ['Rep1', 'Rep2', 'Rep3']
+
+SFR2015_names = tuple(f'SFR2015_{sample}_HL_log2_ratio_avg_{condition}_{replicate}' 
+                      for sample in SFR2015_samples 
+                      for condition in SFR2015_conditions 
+                      for replicate in SFR2015_replicates)
+
 ZCP2016_ratios = ['H/L']
-ZCP2016_replicates = [f'Rep {i}' for i in range(1, 4)]
+ZCP2016_replicates = [f'ZCP2016_Rep {i}' for i in range(1, 4)]
 
 ZCP2016_names = tuple(
-    f'Ratio {ratio} {rep}'
+    f'ZCP2016_Ratio {ratio} {rep}'
     for ratio in ZCP2016_ratios
     for rep in ZCP2016_replicates
 )
@@ -204,7 +263,7 @@ ZCP2016_names = tuple(
 ZQ2022_conditions = ['C1', 'C2', 'C3', 'N1', 'N2', 'N3']
 
 ZQ2022_names = tuple(
-    f'{condition}' for condition in ZQ2022_conditions
+    f'ZQ2022_{condition}' for condition in ZQ2022_conditions
 )
 
 
@@ -218,6 +277,9 @@ files_datasets = [
     ('CF2017', CF2017_names),
     ('EJN2021', EJN2021_names),
     ('HS2024', HS2024_names),
+    ('LATM2013', LATM2013_names),
+    ('JAW2011', JAW2011_names),
+    ('DB2022', DB2022_names),
     ('JC2019', JC2019_names),
     ('JJ2018', JJ2018_names),
     ('JVO2010', JVO2010_names),
@@ -232,6 +294,7 @@ files_datasets = [
     ('RM2009', RM2009_names),
     ('RN2012', RN2012_names),
     ('RNJ2017', RNJ2017_names),
+    ('SFR2015', SFR2015_names),
     ('ZCP2016', ZCP2016_names),
     ('ZQ2022', ZQ2022_names)
 ]
@@ -247,20 +310,20 @@ print(intermed_matrix)
 
 # reorder matrix columns
 cols = intermed_matrix.columns.tolist()
-cols = cols[-2:-1] + cols[:-2]
+cols = ['DatasetName'] + [col for col in cols if col != 'DatasetName']
 raw_matrix = intermed_matrix[cols]
 
-# convert columns to numeric
-numeric_cols = [i for i in raw_matrix.columns if i not in ['DatasetName']]
+numeric_cols = [col for col in raw_matrix.columns if col != 'DatasetName']
 for col in numeric_cols:
-    raw_matrix.loc[:, col]=pd.to_numeric(raw_matrix[col])
-    
-# remove infinity values
+    raw_matrix[col] = pd.to_numeric(raw_matrix[col], errors='coerce')
+
 raw_matrix = raw_matrix.replace([np.inf, -np.inf], np.nan)
 
-# save raw matrix
 raw_matrix.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv', index=False)
-print(f'Raw matrix saved successfully!', raw_matrix)
-
+print('Raw matrix saved successfully!')
 
 # ----------------- #
+
+import pandas as pd
+df = pd.read_csv(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv')
+df.shape

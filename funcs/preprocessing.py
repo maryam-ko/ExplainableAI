@@ -193,9 +193,9 @@ def create_matrix_header(files_dict):
     files_merged = reduce(lambda left,right:pd.merge(left,right, on=['phosphosite_ID'], how='outer'), files_dict.values())
     print('Datasets have been merged on phosphosite_ID column.')
     
-    phos_id = files_merged['phosphosite_ID'].unique()
+    phos_id = files_merged['phosphosite_ID'].astype(str).unique()
     matrix_cols = pd.DataFrame(columns = phos_id) 
-    matrix_cols.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/RawMatrixProcessing/raw-matrix-header.csv', index=False)
+    matrix_cols.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', index=False)
     print('Unique phosphosite_IDs saved.')
     return matrix_cols
 
@@ -205,41 +205,41 @@ def create_matrix_header(files_dict):
 
 def add_rows_to_matrix(matrix, files_datasets, files_dict):
     new_rows = []
-    
+
     for dataset_key, dataset_names in files_datasets:
-        if 'DictKey' in matrix.columns and dataset_key in matrix['DictKey'].values:
-            print(f"Dataset key {dataset_key} is already in the matrix.")
-            continue
-    
-        matrix.columns = pd.Index(matrix.columns).drop_duplicates()
-        # Iterate over the columns of the dataset
-        for i in range (1, files_dict[dataset_key].shape[1]):
-            if i-1 >= len(dataset_names):
-                print(f"Error: dataset_names doesn't have an element at index {i-1}")
-                return matrix
-            # Convert the column to a dictionary
-            data_dict = files_dict[dataset_key].set_index(files_dict[dataset_key].columns[0]).to_dict()[files_dict[dataset_key].columns[i]]
-            # Create a new row dataframe from the dictionary
-            new_row = pd.DataFrame(data_dict, index = [0])
-            new_row = new_row.loc[:, ~new_row.columns.duplicated()]
-            # Reindex the new row to match the columns of the phosphoproteomics_matrix
-            new_row = new_row.reindex(columns = matrix.columns)
-            # Add the dataset name as a column to the new row
+        df = files_dict[dataset_key]
+        
+        # Ensure phospho_ids are treated as strings and remove any '.0' suffix
+        df.iloc[:, 0] = df.iloc[:, 0].astype(str).str.replace(r'\.0$', '', regex=True)  # Clean phospho_IDs
+        
+        phospho_ids = df.iloc[:, 0]  # phosphosite_ID column
+
+        for i, sample_col in enumerate(df.columns[1:]):
+            if i >= len(dataset_names):
+                print(f"Warning: No name defined for sample column index {i} in {dataset_key}")
+                continue
+            
+            sample_values = df[sample_col]
+            row = pd.Series(sample_values.values, index=phospho_ids)
+            row_df = row.reindex(matrix.columns).to_frame().T  # align to header
+
+            # Ensure DatasetName column is added correctly
             if 'DatasetName' in matrix.columns:
-                new_row['DatasetName'] = dataset_names[i-1]
+                row_df['DatasetName'] = dataset_names[i]  # Add DatasetName to the new row
             else:
-                new_row.insert(0, "DatasetName", dataset_names[i-1])
-            new_row['DictKey'] = dataset_key
-            new_rows.append(new_row)
-            # Concatenate the new row to the phosphoproteomics_matrix
-            # matrix = pd.concat([matrix, new_row], ignore_index = True)
-            print(f"{new_row['DictKey']} added to matrix")
-    
+                row_df.insert(0, "DatasetName", dataset_names[i])  # Insert DatasetName at the first position
+
+            new_rows.append(row_df)
+            print(f"Added {dataset_names[i]} to matrix.")
+
     if new_rows:
         matrix = pd.concat([matrix] + new_rows, ignore_index=True)
-    matrix.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/MatrixCSVs/intermediary-raw-matrix.csv',  index = False)
+
+    # Save intermediary matrix with 'DatasetName' first
+    matrix.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/intermediary-raw-matrix.csv', index=False)
     print('Intermediary raw matrix saved.')
     return matrix
+
 
 
 
