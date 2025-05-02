@@ -34,35 +34,31 @@ def extract_modified_amino_acid(modified_seq):
     return [aa for aa in modified_amino_acids]
 
 
-data['Amino Acid'] = data['Modified sequence'].apply(extract_modified_amino_acid)
+data.loc[:, 'Amino Acid'] = data['Modified sequence'].apply(extract_modified_amino_acid)
 
 print(data[['Gene Names', 'Modified sequence', 'Phospho (STY) Probabilities', 'Amino Acid']])
 
-def find_position_in_gene(dataset, seq_column, fasta_path):
-    positions_dict = {}
-    
-    # Parse the FASTA file
-    fasta_sequence = list(SeqIO.parse(open(fasta_path), "fasta"))
-    
-    # Iterate over rows in the dataset
-    for i, row in dataset.iterrows():
-        gene_sequence = row[seq_column]  # Get the sequence from the dataset
-        
-        for seq_record in fasta_sequence:
-            # Check if the sequence is part of the gene in the FASTA record
-            start_position = str(seq_record.seq).find(gene_sequence)
-            
-            # If a match is found, store the position
-            if start_position != -1:
-                positions_dict[row['Gene Names']] = start_position
-                break  # Stop once the position is found for the first matching gene
-    
-    # Add the start positions to the dataset as a new column
-    dataset['StartPosition'] = dataset['Gene Names'].map(positions_dict)
-    return dataset
+data
 
-fasta_path = '/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'
-data = find_position_in_gene(data, 'Sequence', fasta_path)
+def find_position_in_gene(dataset, seq_column):
+    fasta_sequence = list(SeqIO.parse('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta', 'fasta'))
+
+    start_positions = []
+
+    for _, row in dataset.iterrows():
+        seq = row[seq_column]
+        found_position = None
+
+        for seq_record in fasta_sequence:
+            start_position = str(seq_record.seq).find(seq)
+            if start_position != -1:
+                found_position = start_position
+                break
+
+        start_positions.append(found_position)
+
+    dataset.loc[:, 'StartPosition'] = start_positions
+    return dataset
 
 # Print the data with start positions
 print(data[['Gene Names', 'Sequence', 'StartPosition']])
