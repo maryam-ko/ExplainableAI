@@ -13,6 +13,7 @@ print('Raw data loaded.')
 data
 
 data.columns = data.columns.str.strip()
+print(data.columns)
 
 # filter data to keep only those with localization probability >= 0.85
 data = data[data['Localization prob'] >= 0.85]
