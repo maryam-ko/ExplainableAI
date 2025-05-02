@@ -31,13 +31,19 @@ print(data[['Gene Names', 'Modified sequence', 'Phospho (STY) Probabilities']])
 
 def extract_modified_amino_acid(modified_seq):
     modified_amino_acids = re.findall(r'([A-Z])\(ph\)', modified_seq)  # Only match phosphorylation
-    return [aa for aa in modified_amino_acids]
+    return modified_amino_acids[0] if len(modified_amino_acids) == 1 else None
+
+data['Amino Acid'] = data['Modified sequence'].apply(extract_modified_amino_acid)
+data = data[data['Amino Acid'].notna()]
 
 
-data.loc[:, 'Amino Acid'] = data['Modified sequence'].apply(extract_modified_amino_acid)
+# Filtering out semi-colons from 'Amino acid', 'Positions within proteins', and 'Gene names' columns
+data = data[~data['Amino Acid'].str.contains(';', na=False)]
+data = data[~data['Gene Names'].str.contains(';', na=False)]
+data
 
-print(data[['Gene Names', 'Modified sequence', 'Phospho (STY) Probabilities', 'Amino Acid']])
-
+# filter data
+data['Sequence'] = data['Sequence'].str.replace('_', '')
 data
 
 def find_position_in_gene(dataset, seq_column):
@@ -60,22 +66,8 @@ def find_position_in_gene(dataset, seq_column):
     dataset.loc[:, 'StartPosition'] = start_positions
     return dataset
 
-# Print the data with start positions
-print(data[['Gene Names', 'Sequence', 'StartPosition']])
+data = find_position_in_gene(data, 'Sequence')
 
-# Select the necessary columns: Gene Names, Modified Amino Acids, Sequence, and Reporter Intensity columns
-columns_to_display = ['Gene Names', 'Amino Acid', 'StartPosition', 'Sequence'] + [col for col in data.columns if 'Reporter intensity' in col]
-
-# Display the data with the selected columns
-print(data[columns_to_display])
-
-# Filtering out semi-colons from 'Amino acid', 'Positions within proteins', and 'Gene names' columns
-data = data[~data['Amino Acid'].str.contains(';', na=False)]
-data = data[~data['Gene Names'].str.contains(';', na=False)]
-data
-
-# filter data
-data['Sequence'] = data['Sequence'].str.replace('_', '')
 data
 
 def match_seq_to_genename(dataset, seq_column):
@@ -122,7 +114,7 @@ def match_seq_to_genename(dataset, seq_column):
     
 data = match_seq_to_genename(data, 'Sequence')
 
-data['Phosphosite'] = data['Amino Acids'].astype(str) + '(' + data['StartPosition'].astype(str) + ')'
+data['Phosphosite'] = data['Amino Acid'].astype(str) + '(' + data['StartPosition'].astype(str) + ')'
 
 keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'Reporter intensity' in col]
 data = data[keepcols]
