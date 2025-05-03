@@ -3,13 +3,13 @@
 #$ -pe smp 4         
 #$ -l h_rt=1:0:0     
 #$ -l h_vmem=12G     
-#$ -o GRW2016.csv     
-#$ -e GRW2016_error.txt  
+#$ -o LG2023.csv     
+#$ -e LG2023_error.txt  
 #$ -M m.koddus@se24.qmul.ac.uk   
 #$ -m e                        
 
 module load python/3.11.7-gcc-12.2.0
 source ~/myenv/bin/activate
 
-python /data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/preprocessing_scripts/GRW2016.py
+python /data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/preprocessing_scripts/LG2023.py
  
