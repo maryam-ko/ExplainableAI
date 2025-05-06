@@ -24,7 +24,7 @@ def match_seq_to_genename(dataset, seq_column):
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
 
-    fasta_sequence = list(SeqIO.parse(open(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
+    fasta_sequence = list(SeqIO.parse(open(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
     
     gene_dict = {}
@@ -50,7 +50,7 @@ def match_seq_to_genename(dataset, seq_column):
 def find_position_in_gene(dataset, seq_column):
     positions_dict = {}
     
-    fasta_sequence = list(SeqIO.parse(open('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
+    fasta_sequence = list(SeqIO.parse(open('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
 
     # iterate over rows in the Sequence Window column of GG2009
     for i in dataset['Sequence']:
@@ -75,7 +75,7 @@ def get_position_and_gene(dataset, seq_column, position_column):
     gene_dict = {}
     residues_dict = {}
 
-    fasta_sequence = list(SeqIO.parse(open('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))     
+    fasta_sequence = list(SeqIO.parse(open('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))     
 
     # get the gene name and amino acid from the fasta file
     for index, row in dataset.iterrows():  # iterate over rows in the DataFrame
@@ -180,7 +180,7 @@ def get_ens_dict(file_path):
 def create_dict_per_dataset(file_names):
     files_dict = {}
     for file in file_names:
-        files_dict[file] = pd.read_csv(f'/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/{file}.csv', header=0)
+        files_dict[file] = pd.read_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/{file}.csv', header=0)
     print(f"{file} added to dict")
     print('Datasets have been loaded into dictionary.')
     return files_dict
@@ -195,7 +195,7 @@ def create_matrix_header(files_dict):
     
     phos_id = files_merged['phosphosite_ID'].astype(str).unique()
     matrix_cols = pd.DataFrame(columns = phos_id) 
-    matrix_cols.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', index=False)
+    matrix_cols.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', index=False)
     print('Unique phosphosite_IDs saved.')
     return matrix_cols
 
@@ -236,7 +236,7 @@ def add_rows_to_matrix(matrix, files_datasets, files_dict):
         matrix = pd.concat([matrix] + new_rows, ignore_index=True)
 
     # Save intermediary matrix with 'DatasetName' first
-    matrix.to_csv('/Users/maryamkoddus/Documents/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/intermediary-raw-matrix.csv', index=False)
+    matrix.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/intermediary-raw-matrix.csv', index=False)
     print('Intermediary raw matrix saved.')
     return matrix
 
