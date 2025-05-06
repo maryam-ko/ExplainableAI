@@ -1,0 +1,27 @@
+Number of IQR outliers per phosphosite: A1CF_S(12)      0
+AAAS_S(2)       0
+AAAS_S(33)      0
+AAAS_S(371)     0
+AAAS_S(495)    13
+               ..
+ZZZ3_S(391)     3
+ZZZ3_S(606)     1
+ZZZ3_S(82)      2
+ZZZ3_S(86)      0
+ZZZ3_S(90)      0
+Length: 86502, dtype: int64
+Raw matrix with no IQR outliers has been saved:                  A1CF_S(12)  AAAS_S(2)  ...  ZZZ3_S(86)  ZZZ3_S(90)
+DatasetName                             ...                        
+AMK2021_Ctrl_p1         NaN        NaN  ...         NaN         NaN
+AMK2021_Ctrl_p3         NaN        NaN  ...         NaN         NaN
+AMK2021_Ctrl_p5         NaN        NaN  ...         NaN         NaN
+AMK2021_45I_p1          NaN        NaN  ...         NaN         NaN
+AMK2021_45I_p3          NaN        NaN  ...         NaN         NaN
+...                     ...        ...  ...         ...         ...
+ZQ2022_C2               NaN        NaN  ...         NaN         NaN
+ZQ2022_C3               NaN        NaN  ...         NaN         NaN
+ZQ2022_N1               NaN        NaN  ...         NaN         NaN
+ZQ2022_N2               NaN        NaN  ...         NaN         NaN
+ZQ2022_N3               NaN        NaN  ...         NaN         NaN
+
+[725 rows x 86502 columns]
