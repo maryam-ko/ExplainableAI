@@ -70,11 +70,11 @@ def match_seq_to_genename(dataset, seq_column):
 data = match_seq_to_genename(data, 'Sequence window')
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Position'].astype(str) + ')'
 
-keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'T' in col]
+keepcols = ['Phosphosite'] + ['GeneName'] + ['1244T Early', '1259T Early', '1260T Early', '1326T Late', '1332T Late']
 data = data[keepcols]
 data
 
-Ratio_columns = [col for col in data.columns if 'T' in col]
+Ratio_columns = ['1244T Early', '1259T Early', '1260T Early', '1326T Late', '1332T Late']
 data[Ratio_columns] = data[Ratio_columns].apply(pd.to_numeric, errors='coerce')
 
 
