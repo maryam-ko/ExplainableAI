@@ -15,11 +15,11 @@ data
 data.columns = data.columns.str.strip()
 
 # filter data to keep only those with localization probability >= 0.85
-data = data[data['Localization Probability'] >= 0.85] 
+data = data[data['Localization Probality'] >= 0.85] 
 
 # Filtering out semi-colons from 'Amino acid', 'Positions within proteins', and 'Gene names' columns
 data = data[~data['Amino acid'].str.contains(';', na=False)]
-data = data[~data['position'].str.contains(';', na=False)]
+data = data[~data['position'].astype(str).str.contains(';', na=False)]
 data = data[~data['Gene Names'].str.contains(';', na=False)]
 data
 
