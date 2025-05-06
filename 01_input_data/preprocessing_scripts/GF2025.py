@@ -73,7 +73,7 @@ data = match_seq_to_genename(data, 'Sequence window')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
-keepcols = [col for col in data.columns if '_Adh' in col or '_Sph' in col]
+keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if '_Adh' in col or '_Sph' in col]
 data = data[keepcols]
 data
 
