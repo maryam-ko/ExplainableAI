@@ -64,16 +64,20 @@ def match_seq_to_genename(dataset, seq_column):
                 else: 
                     print(f"No gene name found in description for sequence: {i_str}")
     
-    # map sequences to gene names           
+ # map sequences to gene names           
     dataset['GeneName'] = dataset[seq_column].map(gene_dict) 
     print('Amino acid sequences matched to gene names.')
     return dataset 
     
 data = match_seq_to_genename(data, 'sequence window')
 
+# Ensure GeneName exists before proceeding
+if 'GeneName' not in data.columns:
+    raise ValueError("GeneName column is missing! Check match_seq_to_genename function.")
+
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['position'].astype(str) + ')'
 
-keepcols = [col for col in data.columns if 'Ratio H/L Normalized' in col]
+keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'Ratio H/L Normalized' in col]
 data = data[keepcols]
 data
 
