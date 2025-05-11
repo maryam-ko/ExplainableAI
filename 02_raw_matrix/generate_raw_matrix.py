@@ -436,13 +436,15 @@ print(intermed_matrix)
 
 # reorder matrix columns
 cols = intermed_matrix.columns.tolist()
-cols = ['DatasetName'] + [col for col in cols if col != 'DatasetName']
+cols = cols[-2:-1] + cols[:-2]
 raw_matrix = intermed_matrix[cols]
 
-numeric_cols = [col for col in raw_matrix.columns if col != 'DatasetName']
+# convert columns to numeric
+numeric_cols = [i for i in raw_matrix.columns if i not in ['DatasetName']]
 for col in numeric_cols:
-    raw_matrix[col] = pd.to_numeric(raw_matrix[col], errors='coerce')
-
+    raw_matrix.loc[:, col]=pd.to_numeric(raw_matrix[col])
+    
+# remove infinity values
 raw_matrix = raw_matrix.replace([np.inf, -np.inf], np.nan)
 
 raw_matrix.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv', index=False)
