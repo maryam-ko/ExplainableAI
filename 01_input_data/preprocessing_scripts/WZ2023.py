@@ -73,13 +73,22 @@ data = match_seq_to_genename(data, 'Seqwindows')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
-keepcols = ['Phosphosite'] + ['GeneName'] + [
-    col for col in data.columns if col.startswith('Pe') or col.startswith('Pu') or col.startswith('Su')
+log2_columns = [
+    'Pe_005_10min', 'Pe_005_20min', 'Pe_005_30min', 
+    'Pu_005_10min', 'Pu_005_20min', 'Pu_005_30min', 
+    'Su_005_10min', 'Su_005_20min', 'Su_005_30min', 
+    'Pe_010_10min', 'Pe_010_20min', 'Pe_010_30min', 
+    'Pu_010_10min', 'Pu_010_20min', 'Pu_010_30min', 
+    'Su_010_10min', 'Su_010_20min', 'Su_010_30min', 
+    'Pe_025_10min', 'Pe_025_20min', 'Pe_025_30min', 
+    'Pu_025_10min', 'Pu_025_20min', 'Pu_025_30min', 
+    'Su_025_10min', 'Su_025_20min', 'Su_025_30min'
 ]
+
+keepcols = ['Phosphosite'] + ['GeneName'] + log2_columns
 data = data[keepcols]
 data
 
-log2_columns = [col for col in data.columns if col.startswith('Pe') or col.startswith('Pu') or col.startswith('Su')]
 data[log2_columns] = data[log2_columns].apply(pd.to_numeric, errors='coerce')
 
 def log2_transform(dataset):
