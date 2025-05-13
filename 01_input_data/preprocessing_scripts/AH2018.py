@@ -73,38 +73,29 @@ data = match_seq_to_genename(data, 'Sequence window')
 
 data['Phosphosite'] = data['Amino acid'].astype(str) + '(' + data['Positions within proteins'].astype(str) + ')'
 
-keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if any(x in col for x in ['TMTMS2', 'TMTMS3', 'LFQ', 'SILAC']) 
-                and not any(x in col for x in ['SAM', 'Pool', 'reg', 'dsa', 'fc'])]
-
+log2_columns = [
+    'TMTMS2_1_C', 'TMTMS2_1_X', 'TMTMS2_1_N', 'TMTMS2_2_C', 'TMTMS2_2_X', 'TMTMS2_2_N', 
+    'TMTMS2_3_C', 'TMTMS2_3_X', 'TMTMS2_3_N', 'TMTMS2_Pool', 
+    'TMTMS3_1_C', 'TMTMS3_1_X', 'TMTMS3_1_N', 'TMTMS3_2_C', 'TMTMS3_2_X', 'TMTMS3_2_N',
+    'TMTMS3_3_C', 'TMTMS3_3_X', 'TMTMS3_3_N', 'TMTMS3_Pool',
+    'LFQ_1_C', 'LFQ_1_N', 'LFQ_1_X', 'LFQ_2_C', 'LFQ_2_N', 'LFQ_2_X', 
+    'LFQ_3_C', 'LFQ_3_N', 'LFQ_3_X', 'LFQ_4_C', 'LFQ_4_N', 'LFQ_4_X', 
+    'LFQ_M_1_C', 'LFQ_M_1_N', 'LFQ_M_1_X', 'LFQ_M_2_C', 'LFQ_M_2_N', 'LFQ_M_2_X',
+    'LFQ_M_3_C', 'LFQ_M_3_N', 'LFQ_M_3_X', 'LFQ_M_4_C', 'LFQ_M_4_N', 'LFQ_M_4_X',
+    'SILAC_1_C', 'SILAC_1_X', 'SILAC_1_N', 'SILAC_2_C', 'SILAC_2_X', 'SILAC_2_N',
+    'SILAC_3_C', 'SILAC_3_X', 'SILAC_3_N', 'SILAC_M_1_C', 'SILAC_M_1_X', 'SILAC_M_1_N',
+    'SILAC_M_2_C', 'SILAC_M_2_X', 'SILAC_M_2_N', 'SILAC_M_3_C', 'SILAC_M_3_X', 'SILAC_M_3_N',
+    'SILAC_MR_1_C', 'SILAC_MR_1_X', 'SILAC_MR_1_N', 'SILAC_MR_2_C', 'SILAC_MR_2_X', 'SILAC_MR_2_N',
+    'SILAC_MR_3_C', 'SILAC_MR_3_X', 'SILAC_MR_3_N', 'LFQ_IT_1_C', 'LFQ_IT_3_C', 'LFQ_IT_4_C', 
+    'LFQ_IT_1_X', 'LFQ_IT_3_X', 'LFQ_IT_4_X', 'LFQ_IT_1_N', 'LFQ_IT_3_N', 'LFQ_IT_4_N', 
+    'SILAC_IT_1_C', 'SILAC_IT_2_C', 'SILAC_IT_3_C', 'SILAC_IT_1_X', 'SILAC_IT_2_X', 'SILAC_IT_3_X',
+    'SILAC_IT_1_N', 'SILAC_IT_2_N', 'SILAC_IT_3_N'
+]
+keepcols = ['Phosphosite'] + ['GeneName'] + log2_columns 
 data = data[keepcols]
 data
 
-Ratio_columns = [col for col in data.columns if any(x in col for x in ['TMTMS2', 'TMTMS3', 'LFQ', 'SILAC']) 
-                and not any(x in col for x in ['SAM', 'Pool', 'reg', 'dsa', 'fc'])]
-
-data[Ratio_columns] = data[Ratio_columns].apply(pd.to_numeric, errors='coerce')
-
-def log2_transform(dataset):
-    '''
-    Log2 transform a dataset.
-    
-    args:
-    =====
-    dataset: <pd.Dataframe>
-    
-    out:
-    ====
-    dataset: <pd.Dataframe> with log2 transformed values
-
-    '''
-    cols_to_transform = dataset[Ratio_columns]
-    dataset[Ratio_columns] = cols_to_transform.apply(np.log2)
-    print('Data has been log2 transformed.')
-    return dataset
-
-data = log2_transform(data)
-print(f"DataFrame after log2 transformation:\n{data}") # Print the DataFrame after log2 transformation
-data
+data[log2_columns] = data[log2_columns].apply(pd.to_numeric, errors='coerce')
 
 def create_phos_ID(dataset):
     '''
