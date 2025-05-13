@@ -94,15 +94,33 @@ else:
 final_data = data[['GeneName', 'Amino_Acid', 'Position', 'Phosphosite']]
 final_data
 
-# Keep only 'Phosphosite' and columns
-keepcols = ['Phosphosite', 'GeneName'] + [col for col in data.columns if col.startswith('iTRAQ') or col.startswith('TMT')]
-data = data[keepcols]
-data
+# List of columns that need to be converted to numeric
+log_columns = [
+    'iTRAQ Subject 1 115/114 (Exercise/Basal) (normalized)',
+    'iTRAQ Subject 2 117/116 (Exercise/Basal) (normalized)',
+    'iTRAQ Subject 3 116/117 (Exercise/Basal) (normalized)',
+    'iTRAQ Subject 4 114/115 (Exercise/Basal) (normalized)',
+    'TMT Subject 1 127_N/126 (Exercise/Basal) (normalized)',
+    'TMT Subject 2 128_N/127_C (Exercise/Basal) (normalized)',
+    'TMT Subject 3 129_N/128_C (Exercise/Basal) (normalized)',
+    'TMT Subject 4 130_N/129_C (Exercise/Basal) (normalized)',
+    'TMT Pool 131/130_C (Exercise/Basal) (normalized)'
+]
 
-# Apply log2 transformation to iTRAQ and TMT quantification columns
-quant_columns = [col for col in data.columns if col.startswith('iTRAQ Subject') or col.startswith('TMT Subject') or col.startswith('TMT Pool')]
-# Perform log2 transformation
-data[quant_columns] = data[quant_columns].apply(pd.to_numeric, errors='coerce')
+# Ensure 'Phosphosite' and 'GeneName' columns are present in the dataset
+keepcols = ['Phosphosite', 'GeneName'] + log_columns
+
+# Filter the dataset to keep only the required columns
+data = data[keepcols]
+
+# Print to verify if the dataset contains the expected columns
+print(data.columns)
+
+# Convert the log_columns to numeric, handling errors (non-numeric values will become NaN)
+data[log_columns] = data[log_columns].apply(pd.to_numeric, errors='coerce')
+
+# Print the transformed dataset to verify the changes
+print(data)
 
 def log2_transform(dataset):
     '''
@@ -116,8 +134,8 @@ def log2_transform(dataset):
     ====
     dataset: <pd.DataFrame> with log2 transformed values
     '''
-    cols_to_transform = [col for col in data.columns if col.startswith('iTRAQ Subject') or col.startswith('TMT Subject') or col.startswith('TMT Pool')]
-    dataset[cols_to_transform] = np.log2(dataset[cols_to_transform])
+    cols_to_transform = dataset[log_columns]
+    dataset[log_columns] = cols_to_transform.apply(np.log2)
     print('Data has been log2 transformed.')
     return dataset
 
