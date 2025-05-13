@@ -72,11 +72,11 @@ data = match_seq_to_genename(data, 'Sequence Window')
 data['Phosphosite'] = data['Amino Acid'].astype(str) + '(' + data['Phosphosite position in protein'].astype(str) + ')'
 
 # Keep only 'Phosphosite' and ratio columns
-keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if 'Ratio' in col or 'Log2 Ratio' in col and "Variability" not in col]
+keepcols = ['Phosphosite'] + ['GeneName'] + [col for col in data.columns if ('Ratio' in col or 'Log2 Ratio' in col) and "Ratio Variability" not in col]
 data = data[keepcols]
 data
 
-Ratio_columns = [col for col in data.columns if 'Ratio' in col or 'Log2 Ratio' in col]
+Ratio_columns = [col for col in data.columns if ('Ratio' in col or 'Log2 Ratio' in col) and "Ratio Variability" not in col]
 data[Ratio_columns] = data[Ratio_columns].apply(pd.to_numeric, errors='coerce')
 
 def create_phos_ID(dataset):
