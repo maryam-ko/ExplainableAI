@@ -185,25 +185,21 @@ def create_dict_per_dataset(file_names):
     print('Datasets have been loaded into dictionary.')
     return files_dict
 
+
+
 # ----------------- #
 
 def create_matrix_header(files_dict):
-    renamed_files = {}
-    for name, df in files_dict.items():
-        df_renamed = df.rename(columns={'Intensity': f'Intensity_{name}'})
-        renamed_files[name] = df_renamed
-
-    files_merged = reduce(
-        lambda left, right: pd.merge(left, right, on='phosphosite_ID', how='outer'),
-        renamed_files.values()
-    )
+    files_merged = reduce(lambda left,right:pd.merge(left,right, on=['phosphosite_ID'], how='outer'), files_dict.values())
     print('Datasets have been merged on phosphosite_ID column.')
-
-    phos_id = files_merged['phosphosite_ID'].unique()
+    
+    phos_id = files_merged['phosphosite_ID'].astype(str).unique()
     matrix_cols = pd.DataFrame(columns = phos_id) 
-    matrix_cols.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', index = False)
+    matrix_cols.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', index=False)
     print('Unique phosphosite_IDs saved.')
     return matrix_cols
+
+
 
 # ----------------- #
 
