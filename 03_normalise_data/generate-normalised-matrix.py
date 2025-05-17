@@ -3,69 +3,33 @@
 # ----------------- #
 # LOAD DEPENDENCIES
 # ----------------- #
-print('About to import dependencies')
+
 import sys
-print('Sys loaded')
 import os
-print('OS loaded')
 import pandas as pd
-print('Pandas loaded')
 import numpy as np
-print('Numpy loaded')
+from sklearn.preprocessing import MinMaxScaler
+
 
 grandparent_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 sys.path.append(grandparent_dir)
-from funcs import preprocessing
-
-# ----------------- #
-# GENERATE RAW MATRIX HEADER
-# ----------------- #
-
-# load preprocessed datasets
-# stores names of processed datasets
-file_names = [ # 'AB2020',
-              'AH2018','AMK2021','AR2021','AS2011','AST2020','BS2014',
-              'CF2017','CK2022','CKC2017','CP2009', # 'CR2017',
-              'CW2012',
-              'DB2022','DL2023','EJN2021', # 'EP2017',
-              'FR2021','FS2019',
-              'FSO2012','FSO2013','GF2025','GRW2016','HH2022','HS2024',
-              'HW2015','IMM2018', # 'IUA2019',
-              'JAW2011', # 'JB2023',
-              'JC2019','JJ2018','JVO2010','JW2015','JW2021', # 'KBE2022', # 'KDH2022',
-              'KS2014', # 'KTGR2014',
-              'LATM2013','LG2023','LY2019','MM2018', 'MV2014','NJH2015',
-              'NJH2024','NJH2025','PG2020','RAM2015','RB2022','RBK2021',
-              'RCJD2014','RKK2015','RM2009',
-               # 'RM2024',
-              'RN2012','RNJ2017','SAS2015','SFR2015',
-            #   'SR2019',
-              'TM2022','UK2020','VOI2024','WZ2023','YA2020','YB2013',
-              'YC2018','YP2020','ZCP2016',
-               # 'ZM2022',
-              'ZQ2022','ZX2022']
-
-
-print('File names loaded')
-
-files_dict = preprocessing.create_dict_per_dataset(file_names)
-
-matrix_cols = preprocessing.create_matrix_header(files_dict)
-print(f'Matrix header:', matrix_cols)
+from funcs import normalising
 
 
 # ----------------- #
-# LOAD MATRIX HEADER
+# IMPORT R-NORMALISED MATRIX 
 # ----------------- #
+matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', header = 0)
 
-matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', header = 0)
+matrix = matrix.set_index('DatasetName')
 
+dataset_list = normalising.create_dataframe_per_dataset(matrix)
+print(f'Dataframe has been created per dataset')
 
 
 # ----------------- #
 # LOAD DATASET NAMES
 # ----------------- #
-
 
 # define names for each dataset
 # AB2020_names = (
@@ -606,86 +570,89 @@ ZX2022_names = [
 ]
 
 
+
+all_names = (# AB2020_names + 
+            AH2018_names + AST2020_names + AMK2021_names + AR2021_names + AS2011_names + 
+            BS2014_names + CF2017_names + CK2022_names + CKC2017_names + CP2009_names + # CR2017_names + 
+            CW2012_names + DB2022_names + DL2023_names + EJN2021_names + # EP2017_names + 
+            FR2021_names +
+            FSO2012_names + FSO2013_names + FS2019_names + GF2025_names + GRW2016_names + HH2022_names + 
+            HS2024_names + HW2015_names + IMM2018_names + IMM2018_names + JAW2011_names + # JB2023_names +
+            JC2019_names + JJ2018_names + JVO2010_names + JW2015_names + JW2021_names + # KBE2022_names + 
+            # KDH2022_names + 
+            KS2014_names + 
+            # KTGR2014_names + 
+            LATM2013_names + LG2023_names + LY2019_names +
+            MM2018_names + MV2014_names + NJH2015_names + NJH2024_names + NJH2025_names + PG2020_names + 
+            RAM2015_names + RB2022_names + RBK2021_names + RCJD2014_names + RKK2015_names + RM2009_names + 
+            # RM2024_names + 
+            RN2012_names + RNJ2017_names + SAS2015_names + SFR2015_names + # SR2019_names + 
+            TM2022_names + UK2020_names + VOI2024_names + WZ2023_names + YA2020_names + YB2013_names + 
+            YC2018_names + YP2020_names + ZCP2016_names + # ZM2022_names + 
+            ZQ2022_names + ZX2022_names)
+
+
 # ----------------- #
-# PAIR DATASET NAMES WITH FILENAMES
+# CREATE DICTIONARY OF DATAFRAMES
 # ----------------- #
 
-files_datasets = [ # ('AB2020', AB2020_names),
-    ('AH2018', AH2018_names), ('AMK2021', AMK2021_names),
-    ('AR2021', AR2021_names), ('AS2011', AS2011_names),
-    ('AST2020', AST2020_names), ('BS2014', BS2014_names),
-    ('CF2017', CF2017_names), ('CK2022', CK2022_names),
-    ('CKC2017', CKC2017_names), ('CP2009', CP2009_names),
-    # ('CR2017', CR2017_names), 
-    ('CW2012', CW2012_names),
-    ('DB2022', DB2022_names), ('DL2023', DL2023_names),
-    ('EJN2021', EJN2021_names), # ('EP2017', EP2017_names),
-    ('FR2021', FR2021_names), ('FS2019', FS2019_names),
-    ('FSO2012', FSO2012_names), ('FSO2013', FSO2013_names),
-    ('GF2025', GF2025_names), ('GRW2016', GRW2016_names),
-    ('HH2022', HH2022_names), ('HS2024', HS2024_names),
-    ('HW2015', HW2015_names), ('IMM2018', IMM2018_names),
-    # ('IUA2019', IUA2019_names), 
-    ('JAW2011', JAW2011_names),
-    # ('JB2023', JB2023_names), 
-    ('JC2019', JC2019_names),
-    ('JJ2018', JJ2018_names), ('JVO2010', JVO2010_names),
-    ('JW2015', JW2015_names), ('JW2021', JW2021_names),
-    # ('KBE2022', KBE2022_names), # ('KDH2022', KDH2022_names),
-    ('KS2014', KS2014_names), # ('KTGR2014', KTGR2014_names),
-    ('LATM2013', LATM2013_names), ('LG2023', LG2023_names),
-    ('LY2019', LY2019_names), ('MM2018', MM2018_names),
-    ('MV2014', MV2014_names), ('NJH2015', NJH2015_names),
-    ('NJH2024', NJH2024_names), ('NJH2025', NJH2025_names),
-    ('PG2020', PG2020_names), ('RAM2015', RAM2015_names),
-    ('RB2022', RB2022_names), ('RBK2021', RBK2021_names),
-    ('RCJD2014', RCJD2014_names), ('RKK2015', RKK2015_names),
-    ('RM2009', RM2009_names), # ('RM2024', RM2024_names),
-    ('RN2012', RN2012_names), ('RNJ2017', RNJ2017_names),
-    ('SAS2015', SAS2015_names), ('SFR2015', SFR2015_names),
-    # ('SR2019', SR2019_names), 
-    ('TM2022', TM2022_names),
-    ('UK2020', UK2020_names), ('VOI2024', VOI2024_names),
-    ('WZ2023', WZ2023_names), ('YA2020', YA2020_names),
-    ('YB2013', YB2013_names), ('YC2018', YC2018_names),
-    ('YP2020', YP2020_names), ('ZCP2016', ZCP2016_names),
-    # ('ZM2022', ZM2022_names),
-    ('ZQ2022', ZQ2022_names), ('ZX2022', ZX2022_names)]
+dataset_dict = {}
 
-intermed_matrix = preprocessing.add_rows_to_matrix(matrix, files_datasets, files_dict)
-print(intermed_matrix)
+# add each dataframe from list to dictionary (with index)
+for i, dataset_name in enumerate(all_names):
+    dataset_dict[dataset_name] = dataset_list[i]
 
-if 'DatasetName' not in intermed_matrix.columns:
-    raise KeyError("The 'DatasetName' column is missing from intermed_matrix.")
+print(dataset_dict[f'AH2018_TMTMS2_1_C'].head())  
+
+
+# ----------------- #
+# CREATE MATRIX HEADER
+# ----------------- #
+
+norm_matrix = normalising.MinMax_normalize_and_merge(dataset_dict, MinMaxScaler())
+
+norm_matrix.columns.name = ''
+
+# get unique phosphosites
+uniq_phos = norm_matrix['phosphosite_ID'].unique()
+
+if len(uniq_phos) == len(norm_matrix):
+    print('Passed! Number of unique phosphosites matches length of merged dataframe')
+else:
+    print('Failed! Number of unique phosphosites does not match length of merged dataframe')
+
+matrix_cols = pd.DataFrame(columns = uniq_phos)
+
+matrix_cols.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/normalised-matrix-header.csv', index = False)
+
+print('Matrix header saved to CSV.', matrix_cols)
+
 
 # ----------------- #
 # FORMAT MATRIX
 # ----------------- #
 
-# reorder matrix columns
-cols = intermed_matrix.columns.tolist()
-cols = ['DatasetName'] + [col for col in cols if col != 'DatasetName']
-raw_matrix = intermed_matrix[cols]
-print(raw_matrix.columns)
-print(raw_matrix.head())
+transposed_matrix = norm_matrix.T
+print(f'Transposed matrix:', transposed_matrix.head())
 
-# Check if 'DatasetName' column exists
-if 'DatasetName' not in raw_matrix.columns:
-    raise KeyError("The 'DatasetName' column is missing from raw_matrix.")
+# set first row to column header
+transposed_matrix.columns = transposed_matrix.iloc[0]
 
-raw_matrix = raw_matrix.loc[~raw_matrix.drop(columns='DatasetName').isna().all(axis=1)]
+# remove first row
+transposed_matrix = transposed_matrix[1:]
 
-# convert columns to numeric
-numeric_cols = [col for col in raw_matrix.columns if col != 'DatasetName']
-for col in numeric_cols:
-    raw_matrix[col] = pd.to_numeric(raw_matrix[col], errors='coerce')
-# remove infinity values
-raw_matrix = raw_matrix.replace([np.inf, -np.inf], np.nan)
+# rename and reset column index
+transposed_matrix = transposed_matrix.rename_axis('DatasetName').reset_index()
+print(f'Transposed matrix:', transposed_matrix.head())
 
-raw_matrix.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv', index=False)
-print('Raw matrix saved successfully!')
 
-# ----------------- #
+cols = [i for i in transposed_matrix.columns if i not in ['DatasetName']]
 
-df = pd.read_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv')
-df.shape
+for col in cols:
+    transposed_matrix[col] = pd.to_numeric(transposed_matrix[col])
+    
+minmax_matrix = transposed_matrix.replace([np.inf, -np.inf], np.nan)
+print(f'MinMax matrix:', minmax_matrix.head())
+
+minmax_matrix.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix.csv', index = False)
+print(f'Normalised matrix saved successfully!', minmax_matrix)
