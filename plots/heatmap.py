@@ -6,7 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load normalized phosphosite data (samples x phosphosites)
-df = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix-Zscore.csv', index_col=0)
+df = pd.read_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix-Zscore.csv', index_col=0)
 print(df)
 # Clean NaN and infinite values
 df = df.replace([np.nan, np.inf, -np.inf], 0)

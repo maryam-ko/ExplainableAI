@@ -130,7 +130,7 @@ def create_submatrix_from_clustered_matrix(prots_to_keep, subset_name, min_vals)
     Outputs:
         <pd.DataFrame>: Subset of the clustered matrix containing only specified features
     """
-    full_matrix = pd.read_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_clustering/interim_data/ClusteredMatrix_Min{min_vals}Vals.csv', header=0, index_col=0)
+    full_matrix = pd.read_csv(f'/data/home/bt24990/ExplainanleAI/04_clustering/interim_data/ClusteredMatrix_Min{min_vals}Vals.csv', header=0, index_col=0)
     
     # set index
     set_dataset_name_as_index(full_matrix)
@@ -138,7 +138,7 @@ def create_submatrix_from_clustered_matrix(prots_to_keep, subset_name, min_vals)
     # keep only columns containing one of the specified proteins
     submatrix = full_matrix[[col for col in full_matrix.columns if col.split('_')[0] in prots_to_keep]]
     
-    submatrix.to_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_clustering/interim_data/ClusteredMatrix_{subset_name}_Min{min_vals}Vals.csv', index=False)
+    submatrix.to_csv(f'/data/home/bt24990/ExplainanleAI/04_clustering/interim_data/ClusteredMatrix_{subset_name}_Min{min_vals}Vals.csv', index=False)
     return submatrix
 
 def load_clustered_matrix_and_fisher_scores(base_dir, threshold):
@@ -253,7 +253,7 @@ def calculate_optimal_clusters(matrix, filename):
     optimal_k.columns = ['ModeClusters']
 
     clusters_output = pd.concat([clusters_df, optimal_k], axis=1)
-    clusters_output.to_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_clustering/interim_data/{filename}.csv', index=True)
+    clusters_output.to_csv(f'/data/home/bt24990/ExplainanleAI/04_clustering/interim_data/{filename}.csv', index=True)
 
     return clusters_output
 
@@ -348,7 +348,7 @@ def create_clustered_matrix_from_normalised_matrix(normalised_matrix, optimal_cl
         phosphosite_ID = output_matrix.pop('DatasetName')
         output_matrix.insert(0, 'DatasetName', phosphosite_ID)
         
-    output_matrix.to_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_clustering/interim_data/{filename}.csv', index=False)
+    output_matrix.to_csv(f'/data/home/bt24990/ExplainanleAI/04_clustering/interim_data/{filename}.csv', index=False)
     print('Matrix with clustered phosphosites has been saved:', output_matrix.head())
     return output_matrix
     

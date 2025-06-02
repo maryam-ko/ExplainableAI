@@ -58,7 +58,7 @@ print(f'Matrix header:', matrix_cols)
 # LOAD MATRIX HEADER
 # ----------------- #
 
-matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', header = 0)
+matrix = pd.read_csv('/data/home/bt24990/ExplainanleAI/02_raw_matrix/RawMatrixProcessing/raw-matrix-header.csv', header = 0)
 
 
 
@@ -682,10 +682,10 @@ for col in numeric_cols:
 # remove infinity values
 raw_matrix = raw_matrix.replace([np.inf, -np.inf], np.nan)
 
-raw_matrix.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv', index=False)
+raw_matrix.to_csv('//data/home/bt24990/ExplainanleAI/02_raw_matrix/MatrixCSVs/RawMatrix.csv', index=False)
 print('Raw matrix saved successfully!')
 
 # ----------------- #
 
-df = pd.read_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv')
+df = pd.read_csv(f'/data/home/bt24990/ExplainanleAI/02_raw_matrix/MatrixCSVs/RawMatrix.csv')
 df.shape

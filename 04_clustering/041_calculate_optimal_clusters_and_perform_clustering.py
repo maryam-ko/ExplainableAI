@@ -21,7 +21,7 @@ if __name__ == "__main__":
     
     print("Loading normalised matrix...")
     # import the phosphosite-resolved and normalised matrix
-    matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_clustering/normalised_matrix.csv', header=0)
+    matrix = pd.read_csv('/data/home/bt24990/ExplainanleAI/04_clustering/normalised_matrix.csv', header=0)
     matrix = generalfuncs.set_dataset_name_as_index(matrix)
 
     print("Calculating the optimal number of clusters per protein over 100 random seeds...")    

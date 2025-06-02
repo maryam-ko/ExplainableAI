@@ -19,7 +19,7 @@ from funcs import preprocessing
 # IDENTIFY IQR OUTLIERS
 # ----------------- #
 
-raw_matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix.csv', header = 0)
+raw_matrix = pd.read_csv('/data/home/bt24990/ExplainanleAI/02_raw_matrix/MatrixCSVs/RawMatrix.csv', header = 0)
 
 raw_matrix_indexed = raw_matrix.set_index('DatasetName')
 raw_matrix_outliers = preprocessing.find_outliers_IQR(raw_matrix_indexed)
@@ -32,7 +32,7 @@ print('Number of IQR outliers per phosphosite:', raw_matrix_outliers.count())
 # ----------------- #
 
 raw_matrix_no_outliers = preprocessing.drop_outliers_IQR(raw_matrix_indexed)
-raw_matrix_no_outliers.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', index=True)
+raw_matrix_no_outliers.to_csv('/data/home/bt24990/ExplainanleAI/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', index=True)
 print(f'Raw matrix with no IQR outliers has been saved:', raw_matrix_no_outliers)
 
 
