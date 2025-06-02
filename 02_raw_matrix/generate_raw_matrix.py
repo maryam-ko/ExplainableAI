@@ -25,21 +25,21 @@ from funcs import preprocessing
 # stores names of processed datasets
 file_names = [ # 'AB2020',
               'AH2018','AMK2021','AR2021','AS2011','AST2020','BS2014',
-              'CF2017','CK2022','CKC2017','CP2009', # 'CR2017',
+              'CF2017','CK2022','CKC2017','CP2009', 'CR2017',
               'CW2012',
-              'DB2022','DL2023','EJN2021', # 'EP2017',
+              'DB2022','DL2023','EJN2021', 'EP2017',
               'FR2021','FS2019',
               'FSO2012','FSO2013','GF2025','GRW2016','HH2022','HS2024',
               'HW2015','IMM2018', # 'IUA2019',
               'JAW2011', # 'JB2023',
-              'JC2019','JJ2018','JVO2010','JW2015','JW2021', # 'KBE2022', # 'KDH2022',
-              'KS2014', # 'KTGR2014',
+              'JC2019','JJ2018','JVO2010','JW2015','JW2021', 'KBE2022', # 'KDH2022',
+              'KS2014', 'KTGR2014',
               'LATM2013','LG2023','LY2019','MM2018', 'MV2014','NJH2015',
               'NJH2024','NJH2025','PG2020','RAM2015','RB2022','RBK2021',
               'RCJD2014','RKK2015','RM2009',
-               # 'RM2024',
+              'RM2024',
               'RN2012','RNJ2017','SAS2015','SFR2015',
-            #   'SR2019',
+              'SR2019',
               'TM2022','UK2020','VOI2024','WZ2023','YA2020','YB2013',
               'YC2018','YP2020','ZCP2016',
                # 'ZM2022',
@@ -165,10 +165,10 @@ CP2009_names = [
     'CP2009_Ratio H/M Normalized (50 nM dasatinib vs 5 nM dasatinib)'
 ]
 
-# CR2017_names = (
-#     [f'CR2017_Ratio Replicate {i}' for i in range(1, 4)] +
-#     [f'CR2017_Ratio Replicate {i}.{j}' for j in range(1, 6) for i in range(1, 4)]
-# )
+CR2017_names = (
+    [f'CR2017_Ratio Replicate {i}' for i in range(1, 4)] +
+    [f'CR2017_Ratio Replicate {i}.{j}' for j in range(1, 6) for i in range(1, 4)]
+)
 
 CW2012_names = (
     [f'CW2012_10 µM Erl/control Experiment {exp} Replicate {rep}' for exp in range(1, 4) for rep in ['A', 'B']] +
@@ -193,14 +193,14 @@ EJN2021_names = (
     [f'EJN2021_{i}_Ex_Ins' for i in range(1, 6)]
 )
 
-# EP2017_names = (
-#     [f'EP2017_Untreated R#{i} log2 ratio' for i in range(1, 5)] +
-#     [f'EP2017_Pervanadate R#{i} log2 ratio' for i in range(1, 4)] +
-#     [f'EP2017_Mitotic R#{i} log2 ratio' for i in range(1, 4)] +
-#     [f'EP2017_Untreated R#{i} normalized log2 ratio' for i in range(1, 5)] +
-#     [f'EP2017_Pervanadate R#{i} normalized log2 ratio' for i in range(1, 4)] +
-#     [f'EP2017_Mitotic R#{i} normalized log2 ratio' for i in range(1, 4)]
-# )
+EP2017_names = (
+    [f'EP2017_Untreated R#{i} log2 ratio' for i in range(1, 5)] +
+    [f'EP2017_Pervanadate R#{i} log2 ratio' for i in range(1, 4)] +
+    [f'EP2017_Mitotic R#{i} log2 ratio' for i in range(1, 4)] +
+    [f'EP2017_Untreated R#{i} normalized log2 ratio' for i in range(1, 5)] +
+    [f'EP2017_Pervanadate R#{i} normalized log2 ratio' for i in range(1, 4)] +
+    [f'EP2017_Mitotic R#{i} normalized log2 ratio' for i in range(1, 4)]
+)
 
 FR2021_names = (
     [f'FR2021_Intensity.{label}' for label in ['A', 'B', 'G', 'H', 'M', 'N']] +
@@ -331,11 +331,11 @@ JW2021_names = (
     [f'JW2021_After_{i}' for i in range(1, 4)]    
 )
 
-# KBE2022_names = [
-#     f'KBE2022_Log2_Ex_{i}_{suffix}' 
-#     for i in [13, 14, 15, 18, 19, 24, 25, 27, 28, 29, 34, 36, 39, 40, 41, 42, 44, 6, 8, 9] 
-#     for suffix in ['T', 'U']
-# ]
+KBE2022_names = [
+    f'KBE2022_Log2_Ex_{i}_{suffix}' 
+    for i in [13, 14, 15, 18, 19, 24, 25, 27, 28, 29, 34, 36, 39, 40, 41, 42, 44, 6, 8, 9] 
+    for suffix in ['T', 'U']
+]
 
 # KDH2022_names = [
 #     f'KDH2022_Intensity_{label}' 
@@ -354,13 +354,13 @@ KS2014_names = tuple(
     ]
 )
 
-# KTGR2014_names = (
-#     [f'KTGR2014_Ratio-AA {time} mins' for time in [2, 7, 15, 30]] +
-#     [f'KTGR2014_Ratio-Rapa {time} mins' for time in [2, 7, 15, 30]] +
-#     [f'KTGR2014_Ratio M L Normalized Rep{i}_{t}' for i in range(1, 3) for t in ['AA_starvation_0_15', 'Rapamycin_0_15']] +
-#     [f'KTGR2014_Ratio H L Normalized Rep{i}_{t}' for i in range(1, 3) for t in ['AA_starvation_0_15', 'Rapamycin_0_15']] +
-#     [f'KTGR2014_Ratio H M Normalized Rep{i}_{t}' for i in range(1, 3) for t in ['AA_starvation_0_15', 'Rapamycin_0_15']]
-# )
+KTGR2014_names = (
+    [f'KTGR2014_Ratio-AA {time} mins' for time in [2, 7, 15, 30]] +
+    [f'KTGR2014_Ratio-Rapa {time} mins' for time in [2, 7, 15, 30]] +
+    [f'KTGR2014_Ratio M L Normalized Rep{i}_{t}' for i in range(1, 3) for t in ['AA_starvation_0_15', 'Rapamycin_0_15']] +
+    [f'KTGR2014_Ratio H L Normalized Rep{i}_{t}' for i in range(1, 3) for t in ['AA_starvation_0_15', 'Rapamycin_0_15']] +
+    [f'KTGR2014_Ratio H M Normalized Rep{i}_{t}' for i in range(1, 3) for t in ['AA_starvation_0_15', 'Rapamycin_0_15']]
+)
 
 LATM2013_names = [
     'LATM2013_Log2 Ratio (Medium/Light) Forward',
@@ -467,26 +467,26 @@ RM2009_names = [
     ]
 ]
 
-# RM2024_names = [
-#     f'RM2024_{name}' for name in [
-#         'Intensity D0-1', 'Intensity D0-2', 'Intensity D0-3',
-#         'Intensity D2-1', 'Intensity D2-2', 'Intensity D2-3',
-#         'Intensity D4-1', 'Intensity D4-2', 'Intensity D4-3',
-#         'Intensity D6-1', 'Intensity D6-2', 'Intensity D6-3',
-#         'Intensity D0-1___1', 'Intensity D0-1___2', 'Intensity D0-1___3',
-#         'Intensity D0-2___1', 'Intensity D0-2___2', 'Intensity D0-2___3',
-#         'Intensity D0-3___1', 'Intensity D0-3___2', 'Intensity D0-3___3',
-#         'Intensity D2-1___1', 'Intensity D2-1___2', 'Intensity D2-1___3',
-#         'Intensity D2-2___1', 'Intensity D2-2___2', 'Intensity D2-2___3',
-#         'Intensity D2-3___1', 'Intensity D2-3___2', 'Intensity D2-3___3',
-#         'Intensity D4-1___1', 'Intensity D4-1___2', 'Intensity D4-1___3',
-#         'Intensity D4-2___1', 'Intensity D4-2___2', 'Intensity D4-2___3',
-#         'Intensity D4-3___1', 'Intensity D4-3___2', 'Intensity D4-3___3',
-#         'Intensity D6-1___1', 'Intensity D6-1___2', 'Intensity D6-1___3',
-#         'Intensity D6-2___1', 'Intensity D6-2___2', 'Intensity D6-2___3',
-#         'Intensity D6-3___1', 'Intensity D6-3___2', 'Intensity D6-3___3'
-#     ]
-# ]
+RM2024_names = [
+    f'RM2024_{name}' for name in [
+        'Intensity D0-1', 'Intensity D0-2', 'Intensity D0-3',
+        'Intensity D2-1', 'Intensity D2-2', 'Intensity D2-3',
+        'Intensity D4-1', 'Intensity D4-2', 'Intensity D4-3',
+        'Intensity D6-1', 'Intensity D6-2', 'Intensity D6-3',
+        'Intensity D0-1___1', 'Intensity D0-1___2', 'Intensity D0-1___3',
+        'Intensity D0-2___1', 'Intensity D0-2___2', 'Intensity D0-2___3',
+        'Intensity D0-3___1', 'Intensity D0-3___2', 'Intensity D0-3___3',
+        'Intensity D2-1___1', 'Intensity D2-1___2', 'Intensity D2-1___3',
+        'Intensity D2-2___1', 'Intensity D2-2___2', 'Intensity D2-2___3',
+        'Intensity D2-3___1', 'Intensity D2-3___2', 'Intensity D2-3___3',
+        'Intensity D4-1___1', 'Intensity D4-1___2', 'Intensity D4-1___3',
+        'Intensity D4-2___1', 'Intensity D4-2___2', 'Intensity D4-2___3',
+        'Intensity D4-3___1', 'Intensity D4-3___2', 'Intensity D4-3___3',
+        'Intensity D6-1___1', 'Intensity D6-1___2', 'Intensity D6-1___3',
+        'Intensity D6-2___1', 'Intensity D6-2___2', 'Intensity D6-2___3',
+        'Intensity D6-3___1', 'Intensity D6-3___2', 'Intensity D6-3___3'
+    ]
+]
 
 
 RN2012_names = [
@@ -513,11 +513,11 @@ SFR2015_names = [
     f'SFR2015_HL_log2_ratio_std_{condition}' for condition in ['a', 'b', 'c']
 ]
 
-# SR2019_names = [
-#     f'SR2019_{cell_line}_Biol_repl_{i}' for cell_line in ['BT549', 'Hs578T', 'LM2', 'MDAMB231', 'HCC1419', 'HCC1954', 
-#                                                        'JIMT1', 'SKBR3', 'MCF7', 'MCF10A'] 
-#     for i in range(1, 5)
-# ]
+SR2019_names = [
+    f'SR2019_{cell_line}_Biol_repl_{i}' for cell_line in ['BT549', 'Hs578T', 'LM2', 'MDAMB231', 'HCC1419', 'HCC1954', 
+                                                       'JIMT1', 'SKBR3', 'MCF7', 'MCF10A'] 
+    for i in range(1, 5)
+]
 
 TM2022_names = [
     f'TM2022_S2.{timepoint}.{sample}' 
@@ -542,8 +542,8 @@ VOI2024_names = (
 )
 
 WZ2023_names = [
-    f'WZ2023_{condition}_{timepoint}min' 
-    for condition in ['Pe', 'Pu', 'Su'] 
+    f'WZ2023_{condition}_{timepoint}_{time}min'
+    for condition in ['Pe', 'Pu', 'Su']
     for timepoint in ['005', '010', '025']
     for time in ['10', '20', '30']
 ]
@@ -616,10 +616,10 @@ files_datasets = [ # ('AB2020', AB2020_names),
     ('AST2020', AST2020_names), ('BS2014', BS2014_names),
     ('CF2017', CF2017_names), ('CK2022', CK2022_names),
     ('CKC2017', CKC2017_names), ('CP2009', CP2009_names),
-    # ('CR2017', CR2017_names), 
+    ('CR2017', CR2017_names), 
     ('CW2012', CW2012_names),
     ('DB2022', DB2022_names), ('DL2023', DL2023_names),
-    ('EJN2021', EJN2021_names), # ('EP2017', EP2017_names),
+    ('EJN2021', EJN2021_names), ('EP2017', EP2017_names),
     ('FR2021', FR2021_names), ('FS2019', FS2019_names),
     ('FSO2012', FSO2012_names), ('FSO2013', FSO2013_names),
     ('GF2025', GF2025_names), ('GRW2016', GRW2016_names),
@@ -631,8 +631,8 @@ files_datasets = [ # ('AB2020', AB2020_names),
     ('JC2019', JC2019_names),
     ('JJ2018', JJ2018_names), ('JVO2010', JVO2010_names),
     ('JW2015', JW2015_names), ('JW2021', JW2021_names),
-    # ('KBE2022', KBE2022_names), # ('KDH2022', KDH2022_names),
-    ('KS2014', KS2014_names), # ('KTGR2014', KTGR2014_names),
+    ('KBE2022', KBE2022_names), # ('KDH2022', KDH2022_names),
+    ('KS2014', KS2014_names), ('KTGR2014', KTGR2014_names),
     ('LATM2013', LATM2013_names), ('LG2023', LG2023_names),
     ('LY2019', LY2019_names), ('MM2018', MM2018_names),
     ('MV2014', MV2014_names), ('NJH2015', NJH2015_names),
@@ -640,10 +640,10 @@ files_datasets = [ # ('AB2020', AB2020_names),
     ('PG2020', PG2020_names), ('RAM2015', RAM2015_names),
     ('RB2022', RB2022_names), ('RBK2021', RBK2021_names),
     ('RCJD2014', RCJD2014_names), ('RKK2015', RKK2015_names),
-    ('RM2009', RM2009_names), # ('RM2024', RM2024_names),
+    ('RM2009', RM2009_names), ('RM2024', RM2024_names),
     ('RN2012', RN2012_names), ('RNJ2017', RNJ2017_names),
     ('SAS2015', SAS2015_names), ('SFR2015', SFR2015_names),
-    # ('SR2019', SR2019_names), 
+    ('SR2019', SR2019_names), 
     ('TM2022', TM2022_names),
     ('UK2020', UK2020_names), ('VOI2024', VOI2024_names),
     ('WZ2023', WZ2023_names), ('YA2020', YA2020_names),
