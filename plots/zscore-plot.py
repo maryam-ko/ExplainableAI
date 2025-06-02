@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 # Load your dataset
-df = pd.read_csv("/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix-Zscore.csv")
+df = pd.read_csv("/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix-Zscore.csv")
 
 # Melt the dataframe for plotting (long format)
 df_melted = df.melt(id_vars='DatasetName', var_name='PhosphoSite', value_name='Quantification Value')
@@ -27,10 +27,10 @@ plt.scatter(
 )
 
 plt.xticks([], [])  # Hides x-axis ticks and labels
-plt.xlabel("DatasetName")
-plt.ylabel("Quantification Value")
+plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
+plt.ylabel("Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
 plt.title("Normalised between arrays and min-max scaled log2 phosphorylation values\n"
-          " with Z-Score")
+          " with Z-Score", fontsize=14, fontweight='bold', labelpad=10)
 plt.tight_layout(pad=2.0)  # Increase padding between title and plot
 plt.savefig("Zscore_scatter.png", dpi=300)
 plt.close()
@@ -41,8 +41,8 @@ plt.figure(figsize=(7, 5))
 plt.plot(df['DatasetName'], df_means, color='indigo')
 plt.ylim(0.0, 0.7)  # Force y-axis to start at 0.0
 plt.xticks([], [])
-plt.xlabel("DatasetName")
-plt.ylabel("Mean Quantification Value")
+plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
+plt.ylabel("Mean Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
 plt.tight_layout()
 plt.savefig("Zscore_mean_plot.png", dpi=300)
 plt.close()

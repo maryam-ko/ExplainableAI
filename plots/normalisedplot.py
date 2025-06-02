@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load your dataset
-df = pd.read_csv("/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix.csv")
+df = pd.read_csv("/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix.csv")
 # Check duplicates
 print("Duplicates:", df.columns[df.columns.duplicated()])
 
@@ -40,10 +40,10 @@ plt.scatter(
 )
 
 plt.xticks([], [])  # Hides x-axis ticks and labels
-plt.xlabel("DatasetName")
-plt.ylabel("Quantification Value")
+plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
+plt.ylabel("Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
 plt.title("Min-max scaled log2 phosphorylation values\n"
-          "(normalised per dataset)")
+          "(normalised per dataset)", fontsize=14, fontweight='bold', labelpad=10)
 plt.tight_layout(pad=2.0)  # Increase padding between title and plot
 plt.savefig("normalise_scatter.png", dpi=300)
 plt.close()
@@ -56,8 +56,8 @@ plt.plot(df['DatasetName'], df_means, color='indigo')
 
 # Hide x-axis labels and ticks
 plt.xticks([])  
-plt.xlabel("DatasetName")
-plt.ylabel("Mean Quantification Value")
+plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
+plt.ylabel("Mean Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
 plt.tight_layout()
 
 # Save the figure
