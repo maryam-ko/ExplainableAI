@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 # Load your dataset
-df = pd.read_csv("/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv")
+df = pd.read_csv("/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix-NBA.csv")
 
 # Melt the dataframe for plotting (long format)
 df_melted = df.melt(id_vars='DatasetName', var_name='PhosphoSite', value_name='Quantification Value')
@@ -29,19 +29,19 @@ plt.scatter(
 plt.xticks([], [])  # Hides x-axis ticks and labels
 plt.xlabel("DatasetName")
 plt.ylabel("Quantification Value")
-plt.title("Raw log2 phosphorylation values\n"
-          "(before normalisation)")
+plt.title("Normalised between arrays and min-max scaled log2 phosphorylation values\n"
+          "(normalised between and within datasets)")
 plt.tight_layout(pad=2.0)  # Increase padding between title and plot
-plt.savefig("raw_scatter.png", dpi=300)
+plt.savefig("arrays_scatter.png", dpi=300)
 plt.close()
 
 # Plot 2: Mean Quantification Value per Dataset
 df_means = df.drop(columns='DatasetName').mean(axis=1)
 plt.figure(figsize=(7, 5))
 plt.plot(df['DatasetName'], df_means, color='indigo')
-plt.xticks([])  
+plt.xticks([], [])
 plt.xlabel("DatasetName")
 plt.ylabel("Mean Quantification Value")
 plt.tight_layout()
-plt.savefig("raw_mean_plot.png", dpi=300)
+plt.savefig("arrays_mean_plot.png", dpi=300)
 plt.close()
