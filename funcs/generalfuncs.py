@@ -207,7 +207,7 @@ def calculate_optimal_clusters(matrix, filename):
             
             new_df = matrix[sites] #  Create df containing all data for given protein
             # impute missing values with mean of each column
-            new_df = new_df.apply(lambda x: x.fillna(x.mean()), axis=0)
+            new_df = new_df.apply(lambda x: x.fillna(x.mean()), axis=0).fillna(0)
             new_df = new_df.T # Transpose data for clustering
             new_df = new_df.drop_duplicates()
             
@@ -293,7 +293,7 @@ def create_clustered_matrix_from_normalised_matrix(normalised_matrix, optimal_cl
             optimal_k = mode.loc[mode['Prefix'] == prefix, 'ModeClusters'].iloc[0] # Get optimal cluster number for each protein  
             # print(f'Optimal_k for {prefix} is {optimal_k}. Imputing missing values...')    
             # Create df containing all data for given protein and transpose
-            new_df = normalised_matrix[sites].apply(lambda x: x.fillna(x.mean()), axis=0).T
+            new_df = normalised_matrix[sites].apply(lambda x: x.fillna(x.mean()), axis=0).T.fillna(0)
                 
             # --------------- #
             # Create clusters and group phosphosites by cluster

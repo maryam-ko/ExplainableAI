@@ -9,8 +9,9 @@ import sys
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
-grandgrandparent_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
-sys.path.append(grandgrandparent_dir)
+grandparent_dir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+sys.path.append(grandparent_dir)
+
 from funcs import generalfuncs
 
 # add argparse function to allow for command line arguments and specifically, the base directory
@@ -21,8 +22,9 @@ if __name__ == "__main__":
     
     print("Loading normalised matrix...")
     # import the phosphosite-resolved and normalised matrix
-    matrix = pd.read_csv('/data/home/bt24990/ExplainanleAI/04_clustering/normalised_matrix.csv', header=0)
+    matrix = pd.read_csv('/data/home/bt24990/ExplainableAI/04_clustering/normalised_matrix.csv', header=0)
     matrix = generalfuncs.set_dataset_name_as_index(matrix)
+    print(matrix.head())
 
     print("Calculating the optimal number of clusters per protein over 100 random seeds...")    
     optimal_clusters = generalfuncs.calculate_optimal_clusters(matrix, 
