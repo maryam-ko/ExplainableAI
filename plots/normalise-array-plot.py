@@ -29,8 +29,9 @@ plt.scatter(
 plt.xticks([], [])  # Hides x-axis ticks and labels
 plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
 plt.ylabel("Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
-plt.title("Normalised between arrays and min-max scaled log2 phosphorylation values\n"
-          "(normalised between and within datasets)", fontsize=14, fontweight='bold', labelpad=10)
+plt.title("Normalised between arrays and min-max scaled\n" 
+          "log2 phosphorylation values\n"
+          "(normalised between and within datasets)", fontsize=14, fontweight='bold', pad=10)
 plt.tight_layout(pad=2.0)  # Increase padding between title and plot
 plt.savefig("arrays_scatter.png", dpi=300)
 plt.close()

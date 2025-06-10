@@ -30,7 +30,7 @@ plt.xticks([], [])  # Hides x-axis ticks and labels
 plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
 plt.ylabel("Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
 plt.title("Raw log2 phosphorylation values\n"
-          "(before normalisation)", fontsize=14, fontweight='bold', labelpad=10)
+          "(before normalisation)", fontsize=14, fontweight='bold', pad=10)
 plt.tight_layout(pad=2.0)  # Increase padding between title and plot
 plt.savefig("raw_scatter.png", dpi=300)
 plt.close()

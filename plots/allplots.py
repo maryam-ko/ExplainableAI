@@ -3,14 +3,14 @@ import matplotlib.image as mpimg
 
 # Define the image paths and titles in the desired order
 plot_paths = [
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/raw_scatter.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/normalise_scatter.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/arrays_scatter.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/Zscore_scatter.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/raw_mean_plot.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/normalised_mean_plot.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/arrays_mean_plot.png",
-    "/data/home/bt24990/maryam-ko-QMUL-MSc-Project/04_plots/Zscore_mean_plot.png"
+    "/data/home/bt24990/ExplainableAI/plots/raw_scatter.png",
+    "/data/home/bt24990/ExplainableAI/plots/normalise_scatter.png",
+    "/data/home/bt24990/ExplainableAI/plots/arrays_scatter.png",
+    "/data/home/bt24990/ExplainableAI/plots/Zscore_scatter.png",
+    "/data/home/bt24990/ExplainableAI/plots/raw_mean_plot.png",
+    "/data/home/bt24990/ExplainableAI/plots/normalised_mean_plot.png",
+    "/data/home/bt24990/ExplainableAI/plots/arrays_mean_plot.png",
+    "/data/home/bt24990/ExplainableAI/plots/Zscore_mean_plot.png"
 ]
 
 # Create a 2x3 panel layout

@@ -43,7 +43,7 @@ plt.xticks([], [])  # Hides x-axis ticks and labels
 plt.xlabel("DatasetName", fontsize=14, fontweight='bold', labelpad=10)
 plt.ylabel("Quantification Value", fontsize=14, fontweight='bold', labelpad=10)
 plt.title("Min-max scaled log2 phosphorylation values\n"
-          "(normalised per dataset)", fontsize=14, fontweight='bold', labelpad=10)
+          "(normalised per dataset)", fontsize=14, fontweight='bold', pad=10)
 plt.tight_layout(pad=2.0)  # Increase padding between title and plot
 plt.savefig("normalise_scatter.png", dpi=300)
 plt.close()
