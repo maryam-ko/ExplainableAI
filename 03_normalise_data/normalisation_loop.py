@@ -14,7 +14,7 @@ from sklearn.preprocessing import MinMaxScaler
 # IMPORT R-NORMALISED MATRIX 
 # ----------------- #
 
-matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NBA-Matrix_Quantile.csv', header=0)
+matrix = pd.read_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NBA-Matrix_Quantile.csv', header=0)
 matrix = matrix.set_index('DatasetName')
 
 # ----------------- #
@@ -70,7 +70,21 @@ for file in os.listdir('./ScaledMatrix/'):
     if file.endswith('_scaled.csv'):
         # Read the scaled CSV file
         df = pd.read_csv(f'./ScaledMatrix/{file}', index_col=0)
-        
+
+        # Count columns before filtering
+        rows_before, cols_before = df.shape
+
+        # Drop columns that are all NA
+        df = df.loc[:, df.count() != 0]
+        df = df.loc[:, (df != 0).any(axis=0)]
+
+        # Count columns after filtering
+        rows_after, cols_after = df.shape
+
+        print(f"Original shape: {rows_before} rows × {cols_before} cols")
+        print(f"Filtered shape: {rows_after} rows × {cols_after} cols")
+        print(f"Removed: {rows_before - rows_after} rows, {cols_before - cols_after} columns")
+
         # Append to list
         all_dfs.append(df)
 
@@ -82,7 +96,7 @@ combined_df  = combined_df.T
 combined_df = combined_df.reindex(sorted(combined_df.columns), axis=1)
 
 # Save the combined DataFrame to CSV
-combined_df.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix-NBA.csv', index=True, index_label="DatasetName")
+combined_df.to_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix-Zscore.csv', index=True, index_label="DatasetName")
 
 
 
