@@ -1,0 +1,1296 @@
+DatasetName,ARID5B_S(1029) ARID5B_S(1155) ARID5B_S(261) ARID5B_S(3) ARID5B_S(323) ARID5B_S(890),ARID5B_S(1133) ARID5B_S(469) ARID5B_S(688) ARID5B_S(963) ARID5B_T(675),ARID5B_S(1002) ARID5B_S(1032) ARID5B_S(21) ARID5B_S(262) ARID5B_S(264) ARID5B_S(445) ARID5B_S(544) ARID5B_S(566) ARID5B_S(712) ARID5B_S(715) ARID5B_S(759) ARID5B_S(789) ARID5B_S(958) ARID5B_T(296) ARID5B_T(402) ARID5B_T(539) ARID5B_T(645)
+RM2024_Intensity D4-1___3,,,
+RB2022_4_PostEndurance,,,
+FSO2013_Ratio M/L normalized Rep3,,,
+SR2019_MCF7_Biol_repl_3,,,
+RKK2015_IKKb(K44M)+TNF-α/IKKb(K44M),,,
+SR2019_LM2_Biol_repl_1,,,
+RCJD2014_15min_1,,,0.5520856548654639
+AS2011_Ratio H/L Normalized by Proteins Inhi_1,,,
+CK2022_7 16-1,,,
+NJH2025_Sub12_HIIT_Mid,,,
+AH2018_LFQ_IT_1_C,,,
+RKK2015_TNF-α/basal,,,
+JJ2018_Ratio H/M normalized pP2,,,0.5299945697036277
+NJH2025_Sub12_MICT_Pre,,,
+NJH2025_Sub7_MICT_Post,,,
+DL2023_control-3,,,
+ZX2022_Control Replicate 2,,,
+HS2024_6_B_T3,,,
+JW2015_Intensity pre1,,,
+IMM2018_normalised rep. int. Empty-3,,,
+AMK2021_30R_p5,,,
+FSO2013_Ratio M/L normalized Rep1,,,
+SR2019_MDAMB231_Biol_repl_4,,,
+GF2025_P2_Sph,,,0.5336473202789254
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt2b,,,
+NJH2025_Sub13_HIIT_Mid,,,
+CP2009_Ratio M/L,,,
+NJH2025_Sub7_HIIT_Post,,,
+KBE2022_Log2_Ex_44_T,,,
+DB2022_Intensity L2,,,
+TM2022_mock.4h.C,,,
+AST2020_anti-CD3.2,,,0.5295422690556154
+CW2012_10 µM Erl/control Experiment 1 Replicate B,,,
+HS2024_7_B_N1,,,
+FSO2013_Ratio M/L normalized Rep1___1,,,
+SAS2015_AZD/DMSO_Exp3,,,
+RM2024_Intensity D0-2___3,,,
+RM2024_Intensity D6-1,,,
+RB2022_8_RecoverySprint,,,
+RB2022_5_PreEndurance,,,
+CKC2017_log2 normalized phosphoproteomics_30min_rep#2,,,0.5322025107902584
+EP2017_Untreated R#4 normalized log2 ratio,0.5776660170836819,,0.5170852059614665
+WZ2023_Pu_010_30min,,,0.5255844531010274
+AS2011_Ratio H/L Proteins RNAi_2,,,
+RB2022_4_PreStrength,,,
+NJH2024_Sub4_MICT_Post,,,
+AH2018_LFQ_M_1_X,,,
+RB2022_8_RecoveryEndurance,,,
+KBE2022_Log2_Ex_14_U,,,
+FSO2013_Ratio M/L normalized Rep3___3,,,
+AH2018_TMTMS3_1_C,,,0.5376419459769476
+JJ2018_Ratio H/L normalized___1,,,0.5307853368254148
+ZQ2022_C2,,,0.5294334412324491
+RB2022_5_PreSprint,,,
+PG2020_Intensity 8h_C,,,
+AH2018_SILAC_MR_2_N,,,0.5264866245000847
+MV2014_Ratio M/L normalized A1___2 (2 min),,,
+TM2022_S2.8h.B,,,
+MV2014_Ratio M/H normalized B3___1 (30 min),,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as4a,,,
+RNJ2017_Log2_ratio_Tsup:Tstim_D2,,,
+RM2024_Intensity D6-1___2,,,
+NJH2025_Sub7_MICT_Mid,,,
+LY2019_P1+,,,0.5279090194925589
+AS2011_Ratio H/L Proteins Inhi_2,,,
+BS2014_Log2(Ratio H/L normalized),,,
+UK2020_HCM_2,,,
+FSO2013_Ratio H/L normalized Rep2___2,,,
+EP2017_Pervanadate R#3 normalized log2 ratio,0.6298347152032113,,0.5115086139089011
+RM2024_Intensity D4-3___3,,,
+RB2022_5_PreStrength,,,
+NJH2024_Sub4_MICT_Mid,,,
+TM2022_S2.4h.A,,,
+RB2022_5_PostStrength,,,
+GF2025_P6_Sph,,,0.5349504217374892
+RB2022_2_PreSprint,,,
+ZX2022_CB treated Replicate 3,,,
+RM2024_Intensity D6-2___3,,,
+WZ2023_Pe_025_10min,,,0.5262835465888306
+AS2011_Ratio H/L Normalized by Proteins RNAi_1,,,
+AST2020_anti-CD3+PDL2.1,,,0.5296762360088959
+KBE2022_Log2_Ex_34_U,,,
+WZ2023_Pu_005_10min,,,0.5256356902706202
+AS2011_Ratio H/L RNAi_2_1,,,
+NJH2024_Sub9_HIIT_Mid,,,
+CK2022_9 40-1,,,
+KTGR2014_Ratio H L Normalized Rep1_Rapamycin_0_15,,,
+LG2023_GSK3α-1_intensity,,,
+WZ2023_Pu_025_30min,,,0.5253626911950784
+AH2018_SILAC_MR_2_X,,,0.5263372502529237
+HS2024_4_PD_T2,,,
+NJH2024_Sub4_HIIT_Pre,,,
+RB2022_2_RecoverySprint,,,
+AS2011_Ratio H/L Protein RNAi_1,,,
+RM2024_Intensity D2-1___2,,,
+CR2017_Ratio Replicate 1.4,,,
+FR2021_Norm.Intensity.B,,,
+RM2024_Intensity D6-2___1,,,
+YC2018_Log2(SKBR3-LR/SKBR3)_Rep.2-1,,,
+RB2022_5_PostSprint,,,
+EJN2021_3_Rest_Basal,,,
+CR2017_Ratio Replicate 1.3,,,
+AS2011_Ratio H/L Normalized by Protein RNAi_2,,,
+KTGR2014_Ratio-Rapa 7 mins,,,
+AMK2021_120R_p1,,,
+AH2018_SILAC_3_X,,,0.524442443242058
+JJ2018_Ratio M/L normalized pP3,,,
+AH2018_SILAC_M_2_N,,,0.529352443637769
+HS2024_7_PD_T2,,,
+FSO2013_Ratio H/L normalized Rep1___1,,,
+AH2018_LFQ_1_C,,,0.5315046777278335
+AS2011_Ratio H/L Normalized Inhi_1_3,,,
+KBE2022_Log2_Ex_28_T,,,0.5271270163379429
+HS2024_3_B_N1,,,
+RM2024_Intensity D4-2___3,,,
+WZ2023_Pe_025_30min,,,0.5262485400582062
+CK2022_11 40-1,,,
+CW2012_10 µM Erl/control Experiment 3 Replicate B,,,
+AH2018_SILAC_2_X,,,0.5289180214166943
+MV2014_Ratio H/M normalized A2___2 (2 min),,,
+AS2011_Ratio H/L RNAi_1_2,,,
+KS2014_Intensity E15_1,,,0.5434116961133855
+FSO2013_Ratio H/L normalized Rep2,,,
+WZ2023_Pu_005_20min,,,0.5257597407904913
+NJH2024_Sub10_MICT_Post,,,
+RM2024_Intensity D2-3___1,,,
+CR2017_Ratio Replicate 1.5,,,
+CW2012_10 µM Gef/control Experiment 2 Replicate B,,,
+HS2024_7_B_T3,,,
+CKC2017_log2 normalized phosphoproteomics_60min_rep#1,,,0.5247923529790983
+AS2011_Ratio H/L RNAi_1,,,
+JC2019_Normalised_intensity_A_TiOx_Testis_sample_URO0059,,,
+AH2018_LFQ_M_1_C,,,0.5328024129902191
+NJH2025_Sub7_MICT_Pre,,,
+SR2019_SKBR3_Biol_repl_2,,,
+HS2024_9_B_T2,,,
+KTGR2014_Ratio-AA 7 mins,,,
+MV2014_Ratio L/H normalized B3___3 (5 min),,,
+HS2024_3_PD_T1,,,
+FSO2013_Ratio M/L normalized Rep3___2,,,
+SR2019_BT549_Biol_repl_3,,,
+RCJD2014_20min_mean,,,0.5162269432595599
+FR2021_Norm.Intensity.H,,,
+RB2022_2_PreStrength,,,
+DB2022_LFQ intensity L1.2,,,
+HS2024_4_B_N1,,,
+KTGR2014_Ratio H M Normalized Rep2_Rapamycin_0_15,,,
+CK2022_1 16-1,,,
+CK2022_1 200-1,,,0.5281572086285232
+PG2020_Intensity Mock_10h_D,,,0.5114323134261646
+SR2019_MCF10A_Biol_repl_2,,,
+JJ2018_Ratio M/L normalized pP2___2,,,
+HS2024_6_PD_T1,,,
+JVO2010_Ratio M/L Normalized by Protein ThymON - Log2 G1/S,,,
+RB2022_6_RecoveryEndurance,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt3b,,,
+EP2017_Mitotic R#2 normalized log2 ratio,0.6503246479689212,,0.5252680287797941
+RCJD2014_5min_1,,,0.5428944461649275
+RM2024_Intensity D4-1___1,,,
+DL2023_24h-1,,,
+YC2018_Log2(SKBR3-LR/SKBR3)_Rep.1-1,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as2b,,,
+TM2022_S2.4h.C,,,
+SAS2015_PLX/AZD_Exp2,,,
+CR2017_Ratio Replicate 3.3,,,
+PG2020_Intensity 2h_C,,,
+VOI2024_Veh2 di,,,
+ZX2022_CB treated Replicate 2,,,
+KBE2022_Log2_Ex_8_T,,,
+NJH2025_Sub10_MICT_Post,,,
+HS2024_6_I_T3,,,
+RN2012_L11,,,0.5291833628537719
+AS2011_Ratio H/L Normalized Inhi_2_2,,,
+IMM2018_normalised rep. int. Empty-1,,,
+HS2024_5_PD_T1,,,
+AH2018_LFQ_M_2_C,,,
+CK2022_3 40-1,,,
+RBK2021_1260T Early,,,0.5381773199027923
+NJH2024_Sub4_HIIT_Post,,,
+HS2024_4_I_T1,,,
+YA2020_Reporter_intensity_Cancer_No.5,,,0.520432892982481
+HH2022_Reporter intensity 8,0.5941662371761809,,0.5207206171851566
+ZQ2022_N2,,,0.5269984106953359
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt1b,,,
+FSO2013_Ratio H/L normalized Rep3___3,,,
+AH2018_TMTMS3_2_N,,0.4374934786823771,0.5367681741722804
+EJN2021_5_Rest_Basal,,,
+NJH2025_Sub2_HIIT_Post,,,
+NJH2025_Sub1_MICT_Post,,,
+HS2024_9_B_T1,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt1a,,,
+JAW2011_Ratio H/L LS2_1,,,
+JVO2010_Log2 Ratio H/M Normalized aphidicolin,,,
+NJH2024_Sub6_HIIT_Pre,,,
+AH2018_SILAC_3_N,,,0.5268226631982595
+YA2020_Reporter_intensity_Normal_No.1,,,0.5222860231612292
+HS2024_3_B_T1,,,
+JJ2018_Ratio H/L normalized___2,,,
+RM2024_Intensity D0-2,,,
+MV2014_Ratio M/L normalized B1___2 (5 min),,,
+RB2022_7_PostStrength,,,
+RB2022_1_PostEndurance,,,
+CR2017_Ratio Replicate 3,,,
+SR2019_Hs578T_Biol_repl_3,,,
+MV2014_Ratio L/H normalized B3___1 (5 min),,,
+RBK2021_1244T Early,,,0.5303657322584266
+RB2022_3_PostSprint,,,
+NJH2024_Sub13_MICT_Mid,,,
+KTGR2014_Ratio-AA 2 mins,,,
+GF2025_P7_Sph,,,0.5199626927023948
+HS2024_8_I_T3,,,
+CF2017_EOC 3,,,0.5285222335832865
+LATM2013_Normalized Log2 Ratio (Medium/Light) Forward,,,
+HS2024_6_PD_T3,,,
+DL2023_12h-2,,,
+RM2024_Intensity D6-3___1,,,
+FS2019_Ctr1,,,
+WZ2023_Pu_010_20min,,,0.5248600909115422
+AS2011_Ratio H/L_3,,,
+CK2022_1 40-1,,,
+RNJ2017_Log2_ratio_Tsup:Trest_D1,,,
+CK2022_8 16-1,,,
+KS2014_Intensity N3,,0.4695103407003736,0.5308654073696277
+RB2022_4_RecoveryEndurance,,,
+RB2022_5_RecoveryEndurance,,,
+JAW2011_Ratio H/L LS1a_2,,,
+NJH2024_Sub12_HIIT_Mid,,,
+AH2018_LFQ_IT_1_N,,,
+FSO2013_Ratio H/M normalized Rep2,,,
+RAM2015_Log2 A,,,
+HS2024_8_PD_T1,,,
+JJ2018_Ratio H/L normalized pP2,,,0.527839654462031
+CF2017_OSE 27,,,0.5278134389783836
+KS2014_Intensity E15_2,,0.4348936009036347,0.5457550270165832
+BS2014_Log2(Ratio H/L protein),,,
+PG2020_Intensity 8h_A,,,0.511671600282592
+HS2024_7_I_T1,,,
+VOI2024_Veh3 di,,,
+RKK2015_TNF-α+SC-514/basal,,,
+SR2019_JIMT1_Biol_repl_1,,,
+HW2015_Ratio H/L normalized Exp2,,,
+HS2024_3_I_N1,,,
+AH2018_SILAC_M_3_X,,,0.5249406760814306
+NJH2024_Sub9_HIIT_Post,,,
+AS2011_Ratio H/L RNAi_1_3,,,
+GRW2016_Ratio H/L normalized SILAC 1___2,,,
+NJH2025_Sub1_HIIT_Pre,,,
+YC2018_Log2(SKBR3-LR/SKBR3)_Rep.1-2,,,
+NJH2024_Sub4_HIIT_Mid,,,
+VOI2024_0.1uM 2 h_1 di,,,
+KBE2022_Log2_Ex_6_T,,,0.5255323189125186
+RM2024_Intensity D4-3___1,,,
+AH2018_LFQ_4_X,,,
+AS2011_Inhi 2_Ratio H/L normalized by corresponding protein level (H:TAL treatment; L: MA treatment),,,
+RB2022_8_PostEndurance,,,
+NJH2025_Sub4_MICT_Mid,,,
+YP2020_Intensity C30_R1_mult_log2,,,
+AST2020_anti-CD3.1,,,0.5299424500831419
+NJH2025_Sub4_HIIT_Post,,,
+EP2017_Untreated R#4 log2 ratio,0.5774982662947836,,0.5169700886076439
+HS2024_6_B_N1,,,
+KBE2022_Log2_Ex_27_T,,,0.529930676335546
+CW2012_10 µM Gef/control Experiment 1 Replicate A,,,
+VOI2024_0.1uM 24 h_1 mono,,,
+AMK2021_120R_p5,,,
+AS2011_Ratio H/L Proteins,,,
+NJH2024_Sub7_HIIT_Post,,,
+NJH2015_TMT Subject 1 127_N/126 (Exercise/Basal) (normalized),0.6157868749510231,,
+AS2011_Ratio H/L RNAi_2_2,,,
+RB2022_7_RecoveryStrength,,,
+AH2018_SILAC_IT_3_X,,,0.5271658509738438
+JAW2011_Ratio H/L,,,
+PG2020_Intensity 10h_C,,,0.5242296648507068
+FSO2013_Ratio M/L normalized Rep2,,,
+CP2009_Ratio H/M Normalized (50 nM dasatinib vs 5 nM dasatinib),,,
+HH2022_Reporter intensity 5,0.6195090151785713,,0.5215768608838299
+SR2019_HCC1954_Biol_repl_2,,,
+CK2022_14 40-1,,,
+RB2022_6_PreSprint,,,
+NJH2025_Sub12_MICT_Mid,,,
+PG2020_Intensity 4h_D,,,
+NJH2025_Sub2_MICT_Post,,,
+AH2018_LFQ_4_C,,,0.5297725900850694
+DL2023_control-1,,,
+AR2021_ALG 10 μM,,0.46617122050228116,0.5068389038272055
+JAW2011_Ratio H/L LS2_2,,,
+AH2018_SILAC_IT_3_N,,,0.5273906287644103
+EJN2021_4_Rest_Ins,,,
+RN2012_H05,,,0.5142945123929838
+NJH2024_Sub7_HIIT_Mid,,,
+GF2025_P2_Adh,,,0.5299522534491834
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as4b,,,
+RB2022_8_PostSprint,,,
+EJN2021_1_Rest_Ins,,,
+HH2022_Reporter intensity 3,0.6374051903801895,,0.534065609253434
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt4b,,,
+AH2018_SILAC_IT_1_C,,,0.5305137269670624
+JW2021_After_3,,,
+GF2025_P8_Sph,,,0.5239867622510959
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt4,,,
+JJ2018_Ratio M/L normalized pP2___1,,,0.5240188985262891
+AH2018_SILAC_2_N,,,0.5291743859187892
+CK2022_11 200-1,,,0.5232454835772531
+CK2022_12 200-1,,,0.5229855233022382
+AS2011_Ratio H/L Normalized by Protein RNAi_1,,,
+RM2024_Intensity D2-1___3,,,
+NJH2024_Sub1_MICT_Pre,,,
+HH2022_Reporter intensity 9,0.6310814332365909,,0.5238268500165353
+WZ2023_Su_010_20min,,,0.5269901030488018
+AH2018_TMTMS2_2_N,,,0.5378452959582164
+NJH2024_Sub13_MICT_Pre,,,
+KBE2022_Log2_Ex_41_U,,,
+NJH2015_TMT Subject 3 129_N/128_C (Exercise/Basal) (normalized),0.622929685384712,,
+AH2018_TMTMS3_Pool,,0.4341132546179723,0.5367843301393052
+KS2014_Intensity N4,,0.47128978688567963,0.5416202928456519
+NJH2024_Sub1_HIIT_Post,,,
+MM2018_Ratio H/L replicate2,,,
+RM2024_Intensity D4-2___2,,,
+NJH2024_Sub13_HIIT_Pre,,,
+CF2017_OSE 26,,,0.5208481156535403
+CK2022_14 200-1,,,0.5369107199944101
+SR2019_Hs578T_Biol_repl_1,,,
+RB2022_7_PostSprint,,,
+TM2022_mock.4h.A,,,
+NJH2025_Sub12_HIIT_Pre,,,
+AH2018_TMTMS3_1_N,,0.43919552640025455,0.5366527137234035
+AST2020_anti-CD3+PDL2.2,,,0.529518742249389
+PG2020_Intensity Mock_10h_A,,,0.5151612392389536
+JW2021_After_2,,,
+NJH2024_Sub2_MICT_Post,,,
+EJN2021_2_Rest_Ins,,,
+SR2019_LM2_Biol_repl_4,,,
+CP2009_Ratio H/M,,,
+JAW2011_Ratio H/L HS,,,
+CK2022_13 16-1,,,
+GF2025_P1_Adh,,,0.5399532129789614
+GF2025_P1_Sph,,,0.5064057284468134
+EJN2021_5_Ex_Basal,,,
+HS2024_7_I_T3,,,
+JJ2018_Ratio H/L normalized pP2___2,,,
+WZ2023_Pe_010_10min,,,0.5259127543780773
+CF2017_EOC 1,,,0.5285842159063625
+CK2022_3 200-1,,,0.5276150800546637
+AH2018_LFQ_IT_3_C,,,0.5296917132799287
+SR2019_Hs578T_Biol_repl_2,,,
+NJH2024_Sub12_HIIT_Post,,,
+JJ2018_Ratio H/L normalized pP1___2,,,
+MV2014_Ratio H/L normalized A1___2 (10 min),,,
+NJH2024_Sub10_MICT_Mid,,,
+NJH2024_Sub13_MICT_Post,,,
+BS2014_Log2(Ratio H/L normalized Rep_1),,,
+RB2022_3_RecoverySprint,,,
+NJH2025_Sub1_HIIT_Mid,,,
+RCJD2014_20min_2,,,0.5560202110594759
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt2,,,
+HS2024_6_PD_T2,,,
+HS2024_5_B_T1,,,
+CW2012_10 µM Gef/control Experiment 2 Replicate A,,,
+DL2023_12h-3,,,
+SR2019_MDAMB231_Biol_repl_2,,,
+HS2024_3_B_T2,,,
+RB2022_6_PreStrength,,,
+CK2022_2 40-1,,,
+RB2022_1_PostSprint,,,
+CK2022_4 200-1,,,0.5273152724751548
+JW2021_Before_2,,,
+TM2022_S2.12h.A,,,
+MV2014_Ratio L/M normalized B2___2 (30 min),,,
+CK2022_5 16-1,,,
+AR2021_ALG 1 μM,,0.4760754518264161,0.5510165810698888
+HS2024_4_B_T1,,,
+MV2014_Ratio M/H normalized A3___1 (10 min),,,
+SR2019_BT549_Biol_repl_4,,,
+EJN2021_1_Rest_Basal,,,
+NJH2025_Sub8_MICT_Post,,,
+RCJD2014_5min_3,,,0.5050277775756313
+CR2017_Ratio Replicate 3.2,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as3a,,,
+GF2025_P7_Adh,,,0.5252264782404531
+CK2022_9 16-1,,,
+NJH2024_Sub6_HIIT_Post,,,
+AMK2021_30R_p3,,,
+AS2011_Ratio H/L Normalized RNAi_2,,,
+RM2024_Intensity D0-2___2,,,
+KS2014_Intensity pY_N4,,,
+CK2022_13 200-1,,,0.5370776602704386
+AS2011_Ratio H/L Normalized_2,,,
+PG2020_Intensity 6h_D,,,
+CK2022_16 16-1,,,
+FS2019_db/db3,,,
+CK2022_15 40-1,,,
+NJH2024_Sub9_MICT_Pre,,,
+BS2014_Log2(Ratio H/L unmodified peptide),,,
+WZ2023_Su_005_10min,,,0.5257173289556019
+RM2009_Ratio M/L (M:15 min timepoint;L:0 min. timepoint),,,
+KBE2022_Log2_Ex_41_T,,,
+AMK2021_Ctrl_p1,,,
+AH2018_LFQ_IT_3_X,,,0.5288736400576383
+HS2024_5_PD_T3,,,
+AH2018_TMTMS3_3_X,,0.43093547640916635,0.5388304835556431
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as2,,,
+KBE2022_Log2_Ex_40_U,,,
+AH2018_LFQ_M_1_N,,,0.5300910288411851
+KBE2022_Log2_Ex_27_U,,,0.5330039985653608
+HW2015_Ratio M/L normalized Exp3,,,
+RKK2015_TNF-α/IKKb(K44M),,,
+AH2018_SILAC_M_1_N,,,
+HW2015_Ratio M/L normalized Exp1,,,
+RB2022_5_RecoveryStrength,,,
+YP2020_Intensity P10_R1_mult_log2,,,
+RB2022_7_PreStrength,,,
+YA2020_Reporter_intensity_Normal_No.4,,,0.5159697192752857
+NJH2025_Sub13_HIIT_Pre,,,
+PG2020_Intensity CT_D,,,0.5252278471152929
+NJH2025_Sub9_MICT_Post,,,
+VOI2024_Veh1 mono,,,
+CK2022_12 16-1,,,
+RN2012_L13,,,0.519011953427712
+LG2023_Control-1_intensity,,,
+RM2024_Intensity D6-3___2,,,
+KBE2022_Log2_Ex_8_U,,,
+SR2019_SKBR3_Biol_repl_3,,,
+NJH2024_Sub1_MICT_Post,,,
+HS2024_3_I_T2,,,
+KTGR2014_Ratio M L Normalized Rep2_Rapamycin_0_15,,,
+RM2024_Intensity D0-3___3,,,
+HS2024_6_I_T2,,,
+CW2012_10 µM Erl/control Experiment 2 Replicate B,,,
+AS2011_Ratio H/L Protein Inhi_1,,,
+FSO2013_Ratio H/M normalized Rep2___1,,,
+GRW2016_Ratio M/L normalized SILAC 5a___2,,,
+CK2022_10 40-1,,,
+NJH2024_Sub12_HIIT_Pre,,,
+NJH2024_Sub8_MICT_Pre,,,
+RM2024_Intensity D0-1___1,,,
+LY2019_P3+,,,0.5415197050715013
+HH2022_Reporter intensity 6,0.6198940623882261,,0.5238283993410647
+RB2022_2_RecoveryStrength,,,
+KTGR2014_Ratio-AA 15 mins,,,
+AS2011_Ratio H/L Normalized RNAi_2_2,,,
+KS2014_Intensity pY_N3,,,
+MV2014_Ratio H/L normalized B1___2 (30 min),,,
+LY2019_P5-,,,0.5154026130593011
+HW2015_Ratio M/L normalized Exp2,,,
+SR2019_HCC1419_Biol_repl_1,,,
+AH2018_TMTMS2_3_X,,,0.5409538196126499
+GF2025_P3_Adh,,,0.5072483161726038
+SR2019_JIMT1_Biol_repl_2,,,
+AH2018_TMTMS2_1_C,,,0.5405570726907755
+RM2024_Intensity D0-1___2,,,
+LY2019_P4+,,,0.532957011878535
+KBE2022_Log2_Ex_19_U,,,
+CKC2017_log2 normalized phosphoproteomics_0min_rep#1,,,0.5100363855144946
+RB2022_4_PostStrength,,,
+LG2023_GSK3α-3_intensity,,,
+YA2020_Reporter_intensity_Cancer_No.1,,,0.5240434128565132
+AST2020_Control,,,0.5295720232404513
+JAW2011_Ratio H/L LS1a,,,
+RCJD2014_5min_mean,,,0.5153981643612847
+NJH2015_iTRAQ Subject 4 114/115 (Exercise/Basal) (normalized),,,
+NJH2025_Sub1_MICT_Mid,,,
+TM2022_S2.12h.C,,,
+NJH2025_Sub9_MICT_Mid,,,
+CKC2017_log2 normalized phosphoproteomics_120min_rep#2,,,0.5155479842968937
+AS2011_Ratio H/L Normalized Inhi_1_2,,,
+FSO2013_Ratio M/L normalized Rep2___1,,,
+LG2023_Control-2_intensity,,,
+NJH2024_Sub8_HIIT_Pre,,,
+KS2014_Intensity pY_N2,,,
+RB2022_5_RecoverySprint,,,
+RB2022_7_RecoverySprint,,,
+YA2020_Reporter_intensity_Normal_No.3,,,0.5168803374038876
+HS2024_8_B_T2,,,
+AH2018_LFQ_1_X,,,
+RM2024_Intensity D6-1___1,,,
+RCJD2014_10min_2,,,0.5221084706638546
+FR2021_Norm.Intensity.M,,,
+RM2024_Intensity D0-3___1,,,
+KS2014_Intensity N2,,0.4665235951520019,0.5380185428900531
+HH2022_Reporter intensity 1,0.6382794258278272,,0.5339932438559115
+HH2022_Reporter intensity 2,0.6379214578373693,,0.5337775209303218
+RM2024_Intensity D6-2___2,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as1,,,
+RM2024_Intensity D2-3___2,,,
+YA2020_Reporter_intensity_Normal_No.5,,,0.5196433464100403
+SR2019_MCF7_Biol_repl_1,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as1a,,,
+HS2024_8_B_T1,,,
+NJH2025_Sub6_HIIT_Pre,,,
+RNJ2017_Log2_ratio_Tsup:Tstim_D1,,,
+EP2017_Untreated R#2 log2 ratio,0.5879263598371604,,0.5428026140819133
+SR2019_LM2_Biol_repl_3,,,
+RB2022_4_RecoveryStrength,,,
+CR2017_Ratio Replicate 2,,,
+CW2012_10 µM Erl/control Experiment 2 Replicate A,,,
+FSO2013_Ratio H/M normalized Rep3,,,
+AR2021_KD 72h,,0.43678130230555323,0.5230844256121824
+MV2014_Ratio H/M normalized B2___3 (5 min),,,
+KBE2022_Log2_Ex_18_U,,,0.5276564998459967
+AS2011_Ratio H/L Inhi_1_1,,,
+NJH2024_Sub8_MICT_Post,,,
+AH2018_TMTMS3_3_C,,0.4340841845975018,0.536049823751295
+KBE2022_Log2_Ex_9_U,,,0.5247765843173241
+AH2018_SILAC_M_3_N,,,0.5272401154745938
+KBE2022_Log2_Ex_13_T,,,
+RM2024_Intensity D0-3,,,
+SR2019_SKBR3_Biol_repl_1,,,
+PG2020_Intensity Mock_10h_C,,,0.5179448403795519
+CF2017_OSE 29,,,0.5338091604499607
+YB2013_Ratio_H_L_Normalized_in_experiment_1,,,
+NJH2025_Sub1_HIIT_Post,,,
+DL2023_24h-2,,,
+HS2024_7_B_N2,,,
+PG2020_Intensity 10h_A,,,0.5221839043551413
+RN2012_L12,,,0.5263199937315598
+MV2014_Ratio M/L normalized B1___3 (5 min),,,
+NJH2024_Sub8_MICT_Mid,,,
+AH2018_LFQ_IT_4_C,,,0.5288003948916876
+SAS2015_PLX/AZD_Exp1,,,
+FR2021_Norm.Intensity.A,,,
+FSO2013_Ratio H/M normalized Rep1___1,,,
+JW2015_Intensity cap2,,,
+BS2014_Log2(Ratio H/L normalized Rep_2),,,
+NJH2024_Sub6_MICT_Post,,,
+CK2022_8 40-1,,,
+RB2022_7_RecoveryEndurance,,,
+NJH2025_Sub12_HIIT_Post,,,
+EJN2021_4_Ex_Basal,,,
+TM2022_S2.12h.B,,,
+RN2012_L15,,,0.5145430444820931
+KS2014_Intensity pY_PV3,,,
+TM2022_S2.4h.B,,,
+PG2020_Intensity 4h_A,,,
+FSO2013_Ratio H/M normalized Rep2___2,,,
+TM2022_mock.4h.B,,,
+KBE2022_Log2_Ex_24_U,,,
+NJH2025_Sub13_MICT_Mid,,,
+KS2014_Intensity C3,,0.43544140762327305,0.5306994573457084
+RB2022_1_PreSprint,,,
+HS2024_4_I_N1,,,
+CK2022_7 200-1,,,0.5264965469800869
+CK2022_5 200-1,,,0.5269175739739593
+CKC2017_log2 normalized phosphoproteomics_120min_rep#3,,,
+FSO2013_Ratio H/L normalized Rep2___1,,,
+NJH2024_Sub10_HIIT_Mid,,,
+RB2022_2_PostEndurance,,,
+AH2018_LFQ_2_C,,,
+AH2018_SILAC_MR_1_X,,,0.5275100108831547
+KTGR2014_Ratio H M Normalized Rep1_Rapamycin_0_15,,,
+IMM2018_normalised rep. int. Empty-2,,,
+RM2024_Intensity D4-1,,,
+KBE2022_Log2_Ex_25_U,,,
+AH2018_SILAC_3_C,,,0.5288177752986842
+EJN2021_5_Rest_Ins,,,
+VOI2024_0.1uM 24 h_3 di,,,
+RNJ2017_Log2_ratio_Tstim:Trest_D3,,,
+DB2022_LFQ intensity L2.1,,,
+FSO2013_Ratio H/M normalized Rep1,,,
+CK2022_4 16-1,,,
+AS2011_Ratio H/L,,,
+SR2019_MCF7_Biol_repl_4,,,
+EJN2021_2_Ex_Ins,,,
+AS2011_Ratio H/L Inhi_2_3,,,
+JAW2011_Ratio H/L LS1a_1,,,
+AH2018_LFQ_1_N,,,0.5287967249045824
+SAS2015_PLX/DMSO_Exp1,,,
+SFR2015_HL_log2_ratio_avg_c,,,
+JJ2018_Ratio M/L normalized pP2,,,0.5240007096980064
+NJH2024_Sub7_MICT_Mid,,,
+PG2020_Intensity 6h_B,,,
+FSO2013_Ratio H/L normalized Rep3,,,
+GRW2016_Ratio H/L normalized SILAC 2___2,,,
+RKK2015_IKKb(K44M)+TNF-α/TNF-α,,,
+JJ2018_Ratio M/L normalized,,,0.5217884618617109
+KTGR2014_Ratio-AA 30 mins,,,
+JW2021_After_1,,,
+NJH2025_Sub2_MICT_Mid,,,
+HS2024_6_B_N2,,,
+KBE2022_Log2_Ex_9_T,,,0.5255914918349898
+AH2018_SILAC_IT_2_N,,,0.5209547040410946
+AH2018_SILAC_IT_1_X,,,0.5274643467963348
+HW2015_Ratio H/L normalized Exp3,,,
+HS2024_7_PD_T1,,,
+UK2020_UA_2,,,
+RM2024_Intensity D2-1___1,,,
+GF2025_P10_Sph,,,0.5212931325109726
+WZ2023_Pe_025_20min,,,0.5262559670072466
+JVO2010_Log2 Ratio M/L Normalized aphidicolin,,,
+AH2018_LFQ_2_N,,,0.52615294137702
+HS2024_4_I_N2,,,
+AH2018_TMTMS2_3_N,,,0.54020423056024
+RN2012_H06,,,0.5164599319855495
+AS2011_Inhi 1_Ratio H/L normalized by corresponding protein level (H:TAL treatment; L: MA treatment),,,
+HS2024_4_PD_T3,,,
+WZ2023_Su_005_30min,,,0.5260768797476776
+SR2019_HCC1419_Biol_repl_4,,,
+JJ2018_Ratio H/M normalized___2,,,
+SR2019_JIMT1_Biol_repl_3,,,
+AS2011_Ratio H/L Protein,,,
+UK2020_HCM_3,,,
+NJH2024_Sub10_HIIT_Post,,,
+CR2017_Ratio Replicate 3.1,,,
+WZ2023_Su_025_10min,,,0.5249345611243666
+AH2018_LFQ_IT_4_X,,,0.5244282108845114
+CP2009_Ratio H/L,,,
+VOI2024_0.1uM 24 h_3 mono,,,
+RB2022_4_RecoverySprint,,,
+RM2024_Intensity D6-3,,,
+WZ2023_Su_005_20min,,,0.5256936312093144
+CW2012_10 µM Gef/control Experiment 1 Replicate B,,,
+SFR2015_HL_log2_ratio_avg_a,,,
+CW2012_10 µM Erl/control Experiment 3 Replicate A,,,
+RB2022_1_PreEndurance,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt3a,,,
+LG2023_GSK3α-2_intensity,,,
+EP2017_Pervanadate R#1 log2 ratio,0.6300663460263185,,0.5238916625549717
+NJH2025_Sub6_HIIT_Post,,,
+RB2022_6_RecoverySprint,,,
+KS2014_Intensity,,0.44987831742768725,0.5486845047537574
+MV2014_Ratio H/M normalized A2___1 (2 min),,,
+PG2020_Intensity 8h_D,,,
+LY2019_P7+,,,0.5453232156909893
+EP2017_Untreated R#1 normalized log2 ratio,0.6221475979972874,,0.5580194759626205
+RN2012_L10,,,0.5221813414235994
+PG2020_Intensity 4h_C,,,
+EP2017_Mitotic R#3 normalized log2 ratio,0.6614242261823428,,0.5210452491162697
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as4,,,
+DB2022_LFQ intensity L1,,,
+KBE2022_Log2_Ex_24_T,,,
+RB2022_8_PostStrength,,,
+AH2018_SILAC_IT_2_X,,,0.5269170692560977
+HS2024_4_B_T3,,,
+NJH2024_Sub2_HIIT_Post,,,
+HS2024_8_B_N2,,,
+NJH2025_Sub8_HIIT_Pre,,,
+JJ2018_Ratio H/L normalized pP2___1,,,0.527844607820955
+HS2024_8_I_T2,,,
+KBE2022_Log2_Ex_6_U,,,0.5273901849190787
+LATM2013_Normalized Log2 Ratio (Light/Medium) Reverse,,,
+CR2017_Ratio Replicate 1.1,,,
+CKC2017_log2 normalized phosphoproteomics_30min_rep#1,,,0.5306564883631578
+MV2014_Ratio M/H normalized B3___2 (30 min),,,
+CK2022_16 200-1,,,0.5367427507448135
+VOI2024_0.1uM 2 h_3 di,,,
+EP2017_Mitotic R#1 normalized log2 ratio,0.6393606311475722,,0.522648658666704
+GF2025_P9_Sph,,,0.5170172998245784
+CK2022_6 200-1,,,0.5270063404191646
+NJH2024_Sub7_MICT_Post,,,
+AH2018_TMTMS3_2_X,,0.431522940568499,0.5336606283138892
+NJH2024_Sub8_HIIT_Post,,,
+DB2022_LFQ intensity R1,,,
+JW2015_Intensity cap3,,,
+SR2019_HCC1954_Biol_repl_1,,,
+HS2024_4_I_T2,,,
+NJH2024_Sub2_MICT_Mid,,,
+VOI2024_0.1uM 2 h_2 mono,,,
+CP2009_Ratio M/L Normalized (5 nM dasatinib vs Ctrl),,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as3b,,,
+HS2024_4_PD_T1,,,
+SAS2015_AZD/DMSO_Exp1,,,
+NJH2024_Sub1_MICT_Mid,,,
+IMM2018_normalised rep. int. CDK5L-3,,,
+HS2024_3_B_T3,,,
+MV2014_Ratio L/H normalized A3___2 (2 min),,,
+NJH2025_Sub13_MICT_Pre,,,
+SR2019_MDAMB231_Biol_repl_3,,,
+GRW2016_Ratio H/L normalized SILAC 4___1,,,
+MM2018_Ratio H/L replicate1,,,
+PG2020_Intensity 2h_D,,,0.5199221230546783
+EP2017_Untreated R#3 normalized log2 ratio,0.6145691650450479,,0.5226576475704346
+MV2014_Ratio M/H normalized A3___3 (10 min),,,
+NJH2024_Sub7_HIIT_Pre,,,
+JAW2011_Ratio H/L LS2,,,
+CK2022_8 200-1,,,0.5270690540587176
+KS2014_Intensity pY_C4,,,
+CR2017_Ratio Replicate 3.5,,,
+RB2022_7_PostEndurance,,,
+NJH2025_Sub4_HIIT_Pre,,,
+CKC2017_log2 normalized phosphoproteomics_90min_rep#3,,,0.5200040918641514
+TM2022_mock.12h.A,,,
+JJ2018_Ratio H/L normalized pP1,,,0.5326619302988411
+EP2017_Pervanadate R#2 normalized log2 ratio,0.626108256383154,,0.5220176559508344
+AS2011_Ratio H/L Normalized by Protein (Unnormalized),,,
+KS2014_Intensity pY_E5_4,,,
+RM2024_Intensity D4-3___2,,,
+CKC2017_log2 normalized phosphoproteomics_15min_rep#1,,,0.531422775781906
+AH2018_SILAC_2_C,,,0.5297359128633579
+AS2011_RNAi 2_Ratio H/L normalized by corresponding protein level (H: shPlk1; L: shEg5),,,
+HS2024_7_I_N1,,,
+KBE2022_Log2_Ex_29_T,,,0.5256695387709903
+HS2024_7_I_T2,,,
+AS2011_Ratio H/L Normalized RNAi_2_3,,,
+CW2012_10 µM Gef/control Experiment 3 Replicate B,,,
+HS2024_6_B_T2,,,
+AMK2021_45I_p5,,,
+CW2012_10 µM Erl/control Experiment 1 Replicate A,,,
+SAS2015_PLX/DMSO_Exp2,,,
+EJN2021_1_Ex_Basal,,,
+FR2021_Intensity.M,,,
+RB2022_2_PostSprint,,,
+AH2018_SILAC_MR_3_N,,,0.5265051243720411
+MV2014_Ratio H/L normalized B1___3 (30 min),,,
+CF2017_FTE 13,,,0.5309528165354673
+PG2020_Intensity CT_C,,,0.524110370708969
+ZCP2016_Ratio H/L Rep 1,,,
+FS2019_db/db2,,,
+KS2014_Intensity pY_PV4,,,
+KBE2022_Log2_Ex_39_U,,,0.5283918797729038
+EP2017_Untreated R#3 log2 ratio,0.6144791526042828,,0.5225411006666537
+RB2022_2_PostStrength,,,
+AS2011_Ratio H/L Normalized_1,,,
+MV2014_Ratio M/H normalized A3___2 (10 min),,,
+CR2017_Ratio Replicate 3.4,,,
+HS2024_8_PD_T2,,,
+FS2019_Ctr2,,,
+RB2022_6_PreEndurance,,,
+FR2021_Norm.Intensity.G,,,
+NJH2025_Sub9_HIIT_Post,,,
+CKC2017_log2 normalized phosphoproteomics_0min_rep#3,,,0.5076076324643961
+RM2024_Intensity D4-3,,,
+HS2024_8_B_N1,,,
+NJH2025_Sub10_MICT_Mid,,,
+KBE2022_Log2_Ex_15_U,,,0.5311072448579878
+AS2011_Ratio H/L Normalized Inhi_2,,,
+RKK2015_TNF-α/SC-514,,,
+RB2022_3_PreSprint,,,
+CR2017_Ratio Replicate 2.3,,,
+RM2009_Ratio M/L Normalized by Corresponding Protein Level (M:15 min timepoint;L:0 min. timepoint),,,
+CP2009_Ratio H/L Normalized (50 nM dasatinib vs Ctrl),,,
+GF2025_P4_Adh,,,0.5260955553427021
+YA2020_Reporter_intensity_Normal_No.2,,,0.5200940767763409
+YP2020_Intensity P30_R2_mult_log2,,,
+NJH2025_Sub13_MICT_Post,,,
+HS2024_4_B_N2,,,
+HS2024_3_PD_T3,,,
+AMK2021_120R_p3,,,
+MV2014_Ratio L/H normalized A3___3 (2 min),,,
+NJH2025_Sub10_HIIT_Pre,,,
+FR2021_Intensity.G,,,
+RAM2015_Log2 C,,,
+AS2011_Ratio H/L Proteins Inhi_1,,,
+FSO2013_Ratio H/M normalized Rep1___3,,,
+AH2018_LFQ_M_2_N,,,0.5278734647901517
+MV2014_Ratio M/L normalized A1___3 (2 min),,,
+KBE2022_Log2_Ex_40_T,,,
+CK2022_2 16-1,,,
+RAM2015_Log2 B,,,
+YP2020_Intensity C10_R1_mult_log2,,,
+FSO2013_Ratio M/L normalized Rep1___2,,,
+NJH2025_Sub8_MICT_Pre,,,
+EJN2021_4_Rest_Basal,,,
+YB2013_Ratio_H_L_Normalized_in_experiment_2,,,
+JJ2018_Ratio H/M normalized pP3___1,,,
+VOI2024_Veh2 mono,,,
+HS2024_6_B_T1,,,
+UK2020_HCM_5,,,
+NJH2025_Sub10_HIIT_Post,,,
+VOI2024_0.1uM 2 h_3 mono,,,
+JW2015_Intensity pre3,,,
+AS2011_Ratio H/L Normalized Inhi_2_1,,,
+DL2023_24h-3,,,
+HS2024_7_PD_T3,,,
+PG2020_Intensity Mock_10h_B,,,0.5185139381924696
+WZ2023_Su_025_30min,,,0.5267488603948056
+AH2018_LFQ_4_N,,,0.5282840031245892
+CR2017_Ratio Replicate 1.2,,,
+AS2011_Ratio H/L Normalized by Proteins,,,
+RB2022_6_RecoveryStrength,,,
+HS2024_8_I_N1,,,
+AMK2021_Ctrl_p3,,,
+AS2011_Ratio H/L Protein Inhi_2,,,
+HH2022_Reporter intensity 7,0.6095674920156141,,0.5252034903800525
+AH2018_SILAC_M_1_X,,,
+RB2022_7_PreEndurance,,,
+VOI2024_0.1uM 24 h_2 di,,,
+DL2023_control-2,,,
+LY2019_P6+,,,0.545252542447418
+DB2022_LFQ intensity R2,,,
+GF2025_P6_Adh,,,0.5285872947746887
+VOI2024_Veh1 di,,,
+AS2011_Ratio H/L RNAi_2,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as3,,,
+VOI2024_Veh3 mono,,,
+HS2024_5_I_T2,,,
+NJH2025_Sub7_HIIT_Mid,,,
+MV2014_Ratio H/L normalized B1___1 (30 min),,,
+RM2009_Ratio H/L (H:60 min timepoint;L:0 min. timepoint),,,
+RB2022_6_PostSprint,,,
+KTGR2014_Ratio H L Normalized Rep2_Rapamycin_0_15,,,
+AS2011_Ratio H/L Inhi_1,,,
+AS2011_Ratio H/L Normalized RNAi_1_2,,,
+AH2018_TMTMS3_2_C,,0.43674167114071805,0.5361813470728574
+SR2019_Hs578T_Biol_repl_4,,,
+RB2022_8_PreStrength,,,
+KS2014_Intensity C5,,0.44167957490044946,0.5290459133242468
+RM2024_Intensity D0-1,,,
+CW2012_10 µM Gef/control Experiment 3 Replicate A,,,
+YP2020_Intensity P30_R1_mult_log2,,,
+NJH2025_Sub2_HIIT_Pre,,,
+RB2022_3_RecoveryEndurance,,,
+RNJ2017_Log2_ratio_Tstim:Trest_D2,,,
+GF2025_P9_Adh,,,0.5327483361876963
+RB2022_3_PostStrength,,,
+TM2022_S2.8h.A,,,
+AS2011_Ratio H/L RNAi_1_1,,,
+AS2011_Ratio H/L Normalized by Proteins RNAi_2,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt1,,,
+AS2011_Ratio H/L Normalized by Protein Inhi_1,,,
+NJH2025_Sub2_MICT_Pre,,,
+MV2014_Ratio L/M normalized A2___3 (10 min),,,
+MV2014_Ratio H/M normalized A2___3 (2 min),,,
+HS2024_4_B_T2,,,
+SR2019_BT549_Biol_repl_1,,,
+AH2018_LFQ_M_4_N,,,0.5298388948593985
+NJH2024_Sub8_HIIT_Mid,,,
+PG2020_Intensity 8h_B,,,
+AH2018_LFQ_2_X,,,
+PG2020_Intensity 2h_B,,,0.5065872140073024
+AS2011_Ratio H/L Proteins RNAi_1,,,
+RB2022_4_PostSprint,,,
+KS2014_Intensity E15_3,,0.4339342674225132,0.539680953147619
+GF2025_P3_Sph,,,0.5291089346634238
+DB2022_LFQ intensity L2,,,
+MV2014_Ratio H/L normalized A1___1 (10 min),,,
+AH2018_SILAC_1_C,,,
+NJH2024_Sub1_HIIT_Pre,,,
+FSO2013_Ratio M/L normalized Rep2___2,,,
+NJH2015_TMT Subject 4 130_N/129_C (Exercise/Basal) (normalized),0.6279812730814603,,
+AS2011_Ratio H/L RNAi_2_3,,,
+AH2018_SILAC_IT_1_N,,,0.5293245181825253
+KTGR2014_Ratio H M Normalized Rep2_AA_starvation_0_15,,,
+RB2022_4_PreEndurance,,,
+JJ2018_Ratio M/L normalized pP1,,,0.5234210669175917
+CR2017_Ratio Replicate 2.4,,,
+ZQ2022_N1,,,0.5279934424607778
+LY2019_P6-,,,0.5150762118886913
+RM2024_Intensity D2-3,,,
+UK2020_HCM_1,,,
+JW2015_Intensity pre2,,,
+KTGR2014_Ratio M L Normalized Rep1_AA_starvation_0_15,,,
+RM2024_Intensity D2-1,,,
+NJH2025_Sub12_MICT_Post,,,
+MV2014_Ratio H/M normalized B2___2 (5 min),,,
+RN2012_L14,,,0.5231324200326926
+AH2018_LFQ_3_N,,,0.5280787090927892
+RKK2015_TNF-α/IKKb,,,
+SFR2015_HL_log2_ratio_std_b,,,
+UK2020_UA_1,,,
+KBE2022_Log2_Ex_13_U,,,
+AS2011_Ratio H/L Normalized Inhi_1,,,
+RNJ2017_Log2_ratio_Tsup:Trest_D2,,,
+RB2022_1_RecoverySprint,,,
+CKC2017_log2 normalized phosphoproteomics_120min_rep#1,,,0.5178940752366489
+JJ2018_Ratio H/L normalized pP3,,,
+CK2022_7 40-1,,,
+AS2011_Ratio H/L Inhi_1_3,,,
+NJH2025_Sub10_HIIT_Mid,,,
+KTGR2014_Ratio H L Normalized Rep2_AA_starvation_0_15,,,
+JAW2011_Ratio H/L LS1b_1,,,
+PG2020_Intensity 4h_B,,,
+SR2019_BT549_Biol_repl_2,,,
+RM2024_Intensity D4-2,,,
+DB2022_LFQ intensity R2.2,,,
+JJ2018_Ratio H/L normalized,,,0.5307555860749933
+RB2022_5_PostEndurance,,,
+HS2024_5_PD_T2,,,
+WZ2023_Su_025_20min,,,0.5267792630973083
+RM2024_Intensity D2-2___1,,,
+IMM2018_normalised rep. int. CDK5L-2,,,
+LY2019_P8-,,,0.5059885030103146
+JVO2010_Ratio H/M Normalized by Protein ThymON - Log2 G2,,,
+CKC2017_log2 normalized phosphoproteomics_15min_rep#3,,,0.5314087504108724
+FSO2013_Ratio H/L normalized Rep1,,,
+NJH2024_Sub2_HIIT_Pre,,,
+CKC2017_log2 normalized phosphoproteomics_60min_rep#2,,,0.5238179070073045
+CK2022_13 40-1,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt4a,,,
+RN2012_H02,,,0.5375046268671393
+PG2020_Intensity 10h_D,,,
+RB2022_8_PreEndurance,,,
+HS2024_3_B_N2,,,
+EJN2021_4_Ex_Ins,,,
+AS2011_Ratio H/L Normalized by Protein,,,
+EJN2021_1_Ex_Ins,,,
+EP2017_Pervanadate R#3 log2 ratio,0.628665053452436,,0.509515975552601
+FSO2013_Ratio M/L normalized Rep1___3,,,
+NJH2025_Sub4_HIIT_Mid,,,
+RCJD2014_5min_2,,,0.5453243564303497
+RB2022_6_PostStrength,,,
+AH2018_SILAC_MR_3_C,,,0.5271412837149105
+AH2018_LFQ_M_4_C,,,0.5312740698127917
+NJH2024_Sub4_MICT_Pre,,,
+AS2011_Ratio H/L Normalized Inhi_1_1,,,
+DL2023_12h-1,,,
+MV2014_Ratio L/M normalized B2___1 (30 min),,,
+DB2022_LFQ intensity L1.1,,,
+NJH2025_Sub6_MICT_Pre,,,
+NJH2025_Sub6_MICT_Post,,,
+CKC2017_log2 normalized phosphoproteomics_60min_rep#3,,,0.5259380814601454
+RN2012_H04,,,0.5238250661856994
+CK2022_6 40-1,,,
+DB2022_LFQ intensity R2.1,,,
+KBE2022_Log2_Ex_42_U,,,0.5300042435692339
+LY2019_P3-,,,0.52251497264952
+FR2021_Intensity.A,,,
+EJN2021_3_Ex_Ins,,,
+MV2014_Ratio M/L normalized A1___1 (2 min),,,
+WZ2023_Pe_005_30min,,,0.5261634068274483
+HS2024_8_PD_T3,,,
+EJN2021_3_Ex_Basal,,,
+AST2020_Control.1,,,0.5300395028891695
+JW2015_Intensity cap1,,,
+PG2020_Intensity CT_A,,,
+FS2019_Ctr3,,,
+WZ2023_Pu_025_20min,,,0.5255381246191968
+NJH2025_Sub4_MICT_Post,,,
+JVO2010_Ratio H/M Normalized by Protein Noco3h - Log2 Late S,,,
+GF2025_P10_Adh,,,0.5203793012643572
+RB2022_1_RecoveryStrength,,,
+SR2019_HCC1954_Biol_repl_4,,,
+FR2021_Norm.Intensity.N,,,
+HS2024_5_B_N1,,,
+FSO2013_Ratio H/M normalized Rep3___3,,,
+AH2018_TMTMS2_2_C,,,0.5386448195693647
+RB2022_4_PreSprint,,,
+DB2022_Intensity R2,,,
+AH2018_TMTMS2_Pool,,0.4367153799273999,0.5371551075087228
+HS2024_8_I_N2,,,
+RB2022_3_RecoveryStrength,,,
+NJH2024_Sub6_HIIT_Mid,,,
+AH2018_SILAC_M_1_C,,,
+LY2019_P8+,,,0.5285488643137355
+RB2022_2_RecoveryEndurance,,,
+JJ2018_Ratio H/M normalized pP2___1,,,0.5300112915082368
+JAW2011_Ratio H/L HS_1,,,
+RB2022_3_PostEndurance,,,
+KS2014_Intensity pY_PV1,,,
+JAW2011_Ratio H/L LS1b_2,,,
+SR2019_MCF7_Biol_repl_2,,,
+NJH2015_TMT Subject 2 128_N/127_C (Exercise/Basal) (normalized),0.6219463262874779,,
+AS2011_Ratio H/L Normalized RNAi_1_1,,,
+AH2018_LFQ_M_4_X,,,
+NJH2024_Sub6_MICT_Pre,,,
+JJ2018_Ratio M/L normalized pP1___2,,,
+YP2020_Intensity C30_R2_mult_log2,,,
+NJH2024_Sub9_HIIT_Pre,,,
+AS2011_Ratio H/L Normalized Inhi_2_3,,,
+RM2024_Intensity D0-1___3,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt3,,,
+KBE2022_Log2_Ex_28_U,,,0.5282594832332244
+GRW2016_Ratio H/L normalized SILAC 1___1,,,
+CF2017_FTE 17,,,0.5378078068102136
+LY2019_P2-,,,0.5327517227733933
+AH2018_LFQ_IT_1_X,,,
+JJ2018_Ratio H/L normalized pP3___1,,,
+RB2022_8_RecoveryStrength,,,
+WZ2023_Pe_005_20min,,,0.5261969725834927
+AST2020_Control.2,,,0.5292335563317372
+NJH2025_Sub6_MICT_Mid,,,
+RCJD2014_10min_1,,,0.5356868855780494
+FSO2013_Ratio H/L normalized Rep2___3,,,
+JVO2010_Ratio M/L Normalized by Protein Noco3h - Log2 G1,,,
+HS2024_3_I_T1,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as2a,,,
+CK2022_4 40-1,,,
+SR2019_MCF10A_Biol_repl_4,,,
+KS2014_Intensity pY_C5,,,
+NJH2025_Sub4_MICT_Pre,,,
+NJH2024_Sub9_MICT_Post,,,
+CF2017_OSE 28,,,0.5311021662241594
+HS2024_5_B_T2,,,
+HS2024_6_I_T1,,,
+HS2024_5_B_T3,,,
+JJ2018_Ratio H/M normalized pP1___1,,,0.5337210161009334
+KBE2022_Log2_Ex_36_U,,,0.5303934191498527
+AH2018_TMTMS3_3_N,,0.4372035554557757,0.5385400541274452
+SR2019_HCC1419_Biol_repl_2,,,
+FR2021_Intensity.N,,,
+AS2011_Ratio H/L Inhi_2_1,,,
+AH2018_SILAC_MR_1_C,,,0.5331119384021995
+NJH2024_Sub1_HIIT_Mid,,,
+NJH2025_Sub8_HIIT_Mid,,,
+EP2017_Mitotic R#3 log2 ratio,0.6473493485621099,,0.5114461266450413
+KBE2022_Log2_Ex_36_T,,,0.5313093856944338
+NJH2025_Sub6_HIIT_Mid,,,
+WZ2023_Pu_005_30min,,,0.5258377604294311
+KS2014_Intensity C2,,0.4297811155889567,0.5350014337317277
+FSO2013_Ratio H/L normalized Rep1___2,,,
+RM2024_Intensity D2-2,,,
+KBE2022_Log2_Ex_42_T,,,0.5272526594147092
+CK2022_9 200-1,,,0.5210981470044802
+GRW2016_Ratio H/L normalized SILAC 2___1,,,
+JJ2018_Ratio H/M normalized pP3___2,,,
+DB2022_LFQ intensity R1.1,,,
+CK2022_10 200-1,,,0.5211503087375883
+NJH2024_Sub9_MICT_Mid,,,
+JAW2011_Ratio H/L_2,,,
+HS2024_7_I_N2,,,
+RBK2021_1332T Late,,,0.5059107030153838
+LY2019_P1-,,,0.5075659002592803
+RKK2015_TNF-α/basal.1,,,
+RKK2015_TNF-α/TNF-α+SC-514,,,
+CR2017_Ratio Replicate 2.5,,,
+HS2024_3_I_T3,,,
+CKC2017_log2 normalized phosphoproteomics_90min_rep#2,,,0.5197648452374407
+AS2011_Ratio H/L Normalized RNAi_1,,,
+KS2014_Intensity E15_4,,0.445061338312137,0.5252594536998023
+ZQ2022_C3,,,0.5266157265030278
+EJN2021_3_Rest_Ins,,,
+YP2020_Intensity P10_R2_mult_log2,,,
+MV2014_Ratio H/L normalized A1___3 (10 min),,,
+NJH2025_Sub1_MICT_Pre,,,
+KBE2022_Log2_Ex_39_T,,,0.5273815467218257
+FSO2013_Ratio H/M normalized Rep3___2,,,
+RM2024_Intensity D6-2,,,
+EP2017_Untreated R#1 log2 ratio,0.6220214217445601,,0.5579106771343099
+RKK2015_SC-514/basal,,,
+RM2024_Intensity D6-1___3,,,
+WZ2023_Pu_010_10min,,,0.5256761323634584
+NJH2025_Sub9_HIIT_Mid,,,
+SR2019_SKBR3_Biol_repl_4,,,
+HS2024_5_I_T3,,,
+KS2014_Intensity N1,,0.4637527517997387,0.5297958574033801
+NJH2024_Sub12_MICT_Post,,,
+TM2022_S2.8h.C,,,
+CR2017_Ratio Replicate 1,,,
+AS2011_RNAi 1_Ratio H/L normalized by corresponding protein level (H: shPlk1; L: shEg5),,,
+CKC2017_log2 normalized phosphoproteomics_30min_rep#3,,,0.5323435867743311
+JJ2018_Ratio H/M normalized pP3,,,
+AH2018_SILAC_MR_2_C,,,0.5297554207231228
+LATM2013_Log2 Ratio (Medium/Light) Forward,,,
+PG2020_Intensity 2h_A,,,0.5130186616828207
+NJH2024_Sub6_MICT_Mid,,,
+NJH2025_Sub13_HIIT_Post,,,
+AH2018_SILAC_MR_3_X,,,0.5263611057227232
+JJ2018_Ratio H/M normalized___1,,,0.5333763062045582
+RCJD2014_15min_2,,,0.5695669143918338
+AS2011_Ratio H/L_2,,,
+AS2011_Ratio H/L Normalized,,,
+RN2012_H03,,,0.521021543630302
+HS2024_5_B_N2,,,
+HS2024_5_I_N1,,,
+HS2024_6_I_N1,,,
+AR2021_KD 48h,,0.4266150555369956,0.5316589728642787
+FR2021_Intensity.B,,,
+RB2022_3_PreEndurance,,,
+HS2024_5_I_T1,,,
+NJH2024_Sub10_MICT_Pre,,,
+SR2019_LM2_Biol_repl_2,,,
+AST2020_anti-CD3,,,0.5293692165241156
+SR2019_MDAMB231_Biol_repl_1,,,
+RM2024_Intensity D2-3___3,,,
+WZ2023_Pe_005_10min,,,0.526094267218939
+KBE2022_Log2_Ex_29_U,,,0.5266751165159606
+HS2024_7_B_T1,,,
+AH2018_LFQ_M_2_X,,,0.529586493268771
+AH2018_LFQ_IT_4_N,,,0.5268131228615716
+CK2022_15 200-1,,,0.5370872532274336
+RM2024_Intensity D4-1___2,,,
+JJ2018_Ratio H/M normalized,,,0.5333383558012829
+JJ2018_Ratio M/L normalized pP3___1,,,
+KBE2022_Log2_Ex_34_T,,,
+CKC2017_log2 normalized phosphoproteomics_0min_rep#2,,,0.5107498945358051
+LY2019_P2+,,,0.5465719436546461
+LATM2013_Log2 Ratio (Light/Medium) Reverse,,,
+CK2022_2 200-1,,,0.527620786205497
+AS2011_Ratio H/L Protein RNAi_2,,,
+MV2014_Ratio L/H normalized A3___1 (2 min),,,
+WZ2023_Su_010_30min,,,0.5268736134547912
+RN2012_H01,,,0.539368431824822
+KTGR2014_Ratio-Rapa 2 mins,,,
+EJN2021_2_Rest_Basal,,,
+KS2014_Intensity pY_E5_3,,,
+MM2018_Ratio H/L replicate 3,,,
+EP2017_Pervanadate R#1 normalized log2 ratio,0.631019899151681,,0.5258941982334769
+HS2024_8_B_T3,,,
+YA2020_Reporter_intensity_Cancer_No.3,,,0.5191780520031636
+KBE2022_Log2_Ex_44_U,,,
+WZ2023_Pe_010_20min,,,0.525850762390629
+KS2014_Intensity pY_C6,,,
+AS2011_Ratio H/L Normalized_3,,,
+RCJD2014_15min_mean,,,0.4892345509301318
+RB2022_3_PreStrength,,,
+NJH2015_iTRAQ Subject 3 116/117 (Exercise/Basal) (normalized),,,
+RCJD2014_10min_mean,,,0.527233956335106
+KS2014_Intensity C1,,0.4338665937345361,0.5367200456516642
+FSO2013_Ratio H/M normalized Rep3___1,,,
+AH2018_SILAC_M_3_C,,,0.5291991166968135
+RKK2015_TNF-α+IKKb/TNF-α,,,
+RM2024_Intensity D0-3___2,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. wt2a,,,
+AH2018_SILAC_M_2_C,,,0.5299074112737455
+AH2018_SILAC_M_2_X,,,0.5285826984216573
+KTGR2014_Ratio-Rapa 15 mins,,,
+RM2024_Intensity D4-2___1,,,
+KBE2022_Log2_Ex_15_T,,,0.5303074720357198
+VOI2024_0.1uM 24 h_1 di,,,
+WZ2023_Su_010_10min,,,0.5270101785507525
+PG2020_Intensity 6h_C,,,0.5177194102369729
+JVO2010_Ratio M/L Normalized by Protein Noco45 - Log2 mitosis,,,
+JJ2018_Ratio M/L normalized pP1___1,,,0.523283369732777
+AH2018_LFQ_M_3_N,,,0.5296368186975177
+VOI2024_0.1uM 24 h_2 mono,,,
+AH2018_TMTMS2_3_C,,,0.5417910133532539
+CK2022_15 16-1,,,
+CK2022_3 16-1,,,
+LY2019_P4-,,,0.5047109134282453
+FSO2013_Ratio H/L normalized Rep3___2,,,
+KS2014_Intensity pY_PV2,,,
+HS2024_3_I_N2,,,
+GF2025_P8_Adh,,,0.5317497299332643
+YC2018_Log2(SKBR3-LR/SKBR3)_Rep.2-2,,,
+GF2025_P5_Sph,,,0.5335157373962317
+CK2022_10 16-1,,,
+KTGR2014_Ratio H L Normalized Rep1_AA_starvation_0_15,,,
+VOI2024_0.1uM 2 h_2 di,,,
+NJH2015_TMT Pool 131/130_C (Exercise/Basal) (normalized),0.6194072754744946,,
+NJH2024_Sub2_HIIT_Mid,,,
+AMK2021_45I_p3,,,
+NJH2024_Sub13_HIIT_Mid,,,
+DB2022_LFQ intensity R1.2,,,
+DB2022_Intensity R1,,,
+NJH2024_Sub12_MICT_Mid,,,
+KTGR2014_Ratio M L Normalized Rep1_Rapamycin_0_15,,,
+UK2020_HCM_4,,,
+SAS2015_AZD/DMSO_Exp2,,,
+IMM2018_normalised rep. int. CDK5L-1,,,
+DB2022_LFQ intensity L2.2,,,
+KTGR2014_Ratio H M Normalized Rep1_AA_starvation_0_15,,,
+EP2017_Mitotic R#1 log2 ratio,0.6249195738289017,,0.5096315337424094
+EJN2021_2_Ex_Basal,,,
+RM2009_Ratio H/L Normalized by Corresponding Protein Level (H:60 min timepoint;L:0 min. timepoint),,,
+KTGR2014_Ratio-Rapa 30 mins,,,
+CKC2017_log2 normalized phosphoproteomics_90min_rep#1,,,0.5207600044824151
+CF2017_FTE 16,,,0.532265864914458
+AR2021_L41 10 μM,,0.49030241924022455,0.5719798844923227
+CF2017_EOC 2,,,0.5342235549779762
+RB2022_6_PostEndurance,,,
+AH2018_SILAC_1_N,,,
+NJH2024_Sub10_HIIT_Pre,,,
+AS2011_Ratio H/L Inhi_1_2,,,
+UK2020_HCM_6,,,
+RB2022_7_PreSprint,,,
+NJH2024_Sub2_MICT_Pre,,,
+HS2024_3_PD_T2,,,
+CK2022_6 16-1,,,
+ZX2022_CB treated Replicate 1,,,
+BS2014_Log2(Ratio H/L normalized Rep_3),,,
+TM2022_mock.12h.C,,,
+GRW2016_Ratio M/L normalized SILAC 5a___1,,,
+HH2022_Reporter intensity 0,0.6372405559950899,,0.5345181573256887
+RM2024_Intensity D2-2___2,,,
+JC2019_Normalised_intensity_B_TiOx_Testis_sample_URO0126,,,
+RB2022_1_PreStrength,,,
+JJ2018_Ratio H/M normalized pP2___2,,,
+AH2018_TMTMS2_2_X,,,0.5384850508021556
+AR2021_L41 1 μM,,0.46183325196388453,0.5690431498462041
+JJ2018_Ratio H/M normalized pP1___2,,,
+AH2018_TMTMS2_1_N,,,0.5391169885586438
+NJH2025_Sub10_MICT_Pre,,,
+JVO2010_Ratio H/M Normalized by Protein Noco45 - Log2 early S,,,
+ZX2022_Control Replicate 3,,,
+KS2014_Intensity C4,,0.4186046809955351,0.5373013938403831
+AS2011_Ratio H/L Inhi_2,,,
+KBE2022_Log2_Ex_18_T,,,0.5269137348864863
+NJH2025_Sub9_MICT_Pre,,,
+RCJD2014_20min_1,,,0.5463210915253685
+MV2014_Ratio H/M normalized B2___1 (5 min),,,
+FSO2013_Ratio M/L normalized Rep2___3,,,
+JC2019_Normalised_intensity_C_TiOx_Testis_sample_URO0158,,,
+SR2019_MCF10A_Biol_repl_3,,,
+HS2024_7_B_T2,,,
+SAS2015_PLX/DMSO_Exp3,,,
+AMK2021_Ctrl_p5,,,
+NJH2025_Sub2_HIIT_Mid,,,
+AH2018_LFQ_M_3_C,,,0.5316352694824081
+CKC2017_log2 normalized phosphoproteomics_15min_rep#2,,,0.5310762477034647
+YA2020_Reporter_intensity_Cancer_No.2,,,0.5221498384756105
+FSO2013_Ratio H/M normalized Rep2___3,,,
+RB2022_8_PreSprint,,,
+AH2018_SILAC_IT_3_C,,,0.5301428260322187
+WZ2023_Pu_025_10min,,,0.524724383409665
+RM2024_Intensity D2-2___3,,,
+AS2011_Ratio H/L_1,,,
+RCJD2014_10min_3,,,0.5173274071413507
+FSO2013_Ratio M/L normalized Rep3___1,,,
+SR2019_JIMT1_Biol_repl_4,,,
+YP2020_Intensity C10_R2_mult_log2,,,
+ZCP2016_Ratio H/L Rep 2,,,
+CF2017_EOC 4,,,0.5345573854713007
+JJ2018_Ratio H/L normalized pP1___1,,,0.5312130423734635
+WZ2023_Pe_010_30min,,,0.5260733293467914
+MV2014_Ratio L/M normalized B2___3 (30 min),,,
+AH2018_LFQ_IT_3_N,,,0.5291330577799433
+KS2014_Intensity C6,,0.43118791057129496,0.5385226248279049
+ZQ2022_N3,,,0.5296604952670456
+HW2015_Ratio H/L normalized Exp1,,,
+CK2022_12 40-1,,,
+NJH2024_Sub7_MICT_Pre,,,
+ZX2022_Control Replicate 1,,,
+JJ2018_Ratio H/M normalized pP1,,,0.5337936798773574
+CK2022_16 40-1,,,
+AH2018_SILAC_IT_2_C,,,0.5297783314001263
+CK2022_5 40-1,,,
+AH2018_LFQ_3_X,,,0.5282355309603683
+UK2020_UA_3,,,
+LY2019_P7-,,,0.5188884327535842
+GF2025_P5_Adh,,,0.539973958176028
+RB2022_1_PostStrength,,,
+JAW2011_Ratio H/L LS1b,,,
+FSO2013_Ratio H/L normalized Rep3___1,,,
+SR2019_HCC1954_Biol_repl_3,,,
+CR2017_Ratio Replicate 2.2,,,
+VOI2024_0.1uM 2 h_1 mono,,,
+MV2014_Ratio L/M normalized A2___1 (10 min),,,
+RNJ2017_Log2_ratio_Tsup:Tstim_D3,,,
+CK2022_11 16-1,,,
+ZQ2022_C1,,,0.5289900041021226
+CR2017_Ratio Replicate 2.1,,,
+PG2020_Intensity CT_B,,,0.5064669994104448
+JJ2018_Ratio M/L normalized___2,,,
+AH2018_SILAC_MR_1_N,,,0.5268771247547626
+KS2014_Intensity pY_E5_1,,,
+JW2021_Before_3,,,
+NJH2015_iTRAQ Subject 2 117/116 (Exercise/Basal) (normalized),,,
+MV2014_Ratio M/H normalized B3___3 (30 min),,,
+FS2019_db/db1,,,
+NJH2025_Sub9_HIIT_Pre,,,
+JAW2011_Ratio H/L_1,,,
+RCJD2014_20min_3,,,0.5044143501236483
+AH2018_LFQ_3_C,,,0.530220016843567
+JJ2018_Ratio M/L normalized pP3___2,,,
+AMK2021_45I_p1,,,
+NJH2025_Sub8_HIIT_Post,,,
+AH2018_LFQ_M_3_X,,,0.5297894706981826
+YA2020_Reporter_intensity_Cancer_No.4,,,0.5198185131050418
+KS2014_Intensity pY_E5_2,,,
+FSO2013_Ratio H/L normalized Rep1___3,,,
+GF2025_P4_Sph,,,0.5356332348035528
+RB2022_2_PreEndurance,,,
+JW2021_Before_1,,,
+KBE2022_Log2_Ex_25_T,,,
+AS2011_Ratio H/L Normalized by Proteins Inhi_2,,,
+MV2014_Ratio L/M normalized A2___2 (10 min),,,
+JJ2018_Ratio M/L normalized___1,,,0.5217569798438092
+FR2021_Intensity.H,,,
+CK2022_14 16-1,,,
+AST2020_anti-CD3+PDL2,,,0.5294977993242516
+MV2014_Ratio M/L normalized B1___1 (5 min),,,
+KBE2022_Log2_Ex_19_T,,,
+KS2014_Intensity pY_N1,,,
+RB2022_1_RecoveryEndurance,,,
+FSO2013_Ratio H/M normalized Rep1___2,,,
+HS2024_8_I_T1,,,
+NJH2015_iTRAQ Subject 1 115/114 (Exercise/Basal) (normalized),,,
+EP2017_Mitotic R#2 log2 ratio,0.6341415063379486,,0.5132420194988779
+AH2018_TMTMS2_1_X,,,0.5390193407953543
+KTGR2014_Ratio M L Normalized Rep2_AA_starvation_0_15,,,
+ZCP2016_Ratio H/L Rep 3,,,
+AS2011_Ratio H/L Normalized RNAi_1_3,,,
+SR2019_MCF10A_Biol_repl_1,,,
+NJH2025_Sub8_MICT_Mid,,,
+EJN2021_5_Ex_Ins,,,
+HS2024_6_I_N2,,,
+HH2022_Reporter intensity 4,0.5910380003226772,,
+RBK2021_1326T Late,,,0.5206513389883177
+TM2022_mock.12h.B,,,
+NJH2024_Sub12_MICT_Pre,,,
+RCJD2014_15min_3,,,0.5158522084080498
+MV2014_Ratio L/H normalized B3___2 (5 min),,,
+LG2023_Control-3_intensity,,,
+JJ2018_Ratio H/L normalized pP3___2,,,
+CF2017_FTE 15,,,0.5302992367778173
+HS2024_4_I_T3,,,
+AH2018_SILAC_1_X,,,
+PG2020_Intensity 10h_B,,,0.5235355872864719
+AH2018_TMTMS3_1_X,,0.43896472455962154,0.5363050476697402
+CF2017_FTE 14,,,0.5414063411876737
+NJH2024_Sub13_HIIT_Post,,,
+RM2024_Intensity D6-3___3,,,
+NJH2025_Sub7_HIIT_Pre,,,
+RBK2021_1259T Early,,,0.5276520797832923
+RKK2015_IKK+TNF-α/IKKb,,,
+FSO2012_Ratio -/+ 3-MB-PP1 exp. as1b,,,
+PG2020_Intensity 6h_A,,,
+SR2019_HCC1419_Biol_repl_3,,,
+KBE2022_Log2_Ex_14_T,,,
+EP2017_Untreated R#2 normalized log2 ratio,0.5880320481873043,,0.5429524251876041
+RM2024_Intensity D0-2___1,,,
+DB2022_Intensity L1,,,
+LY2019_P5+,,,0.5391228050585227
+HS2024_5_I_N2,,,
+SAS2015_PLX/AZD_Exp3,,,
+EP2017_Pervanadate R#2 log2 ratio,0.6246515076779671,,0.5193716169403159
+AS2011_Ratio H/L Normalized RNAi_2_1,,,
