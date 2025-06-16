@@ -19,8 +19,8 @@ for file in csv_files:
 # Concatenate along rows
 all_clusters = pd.concat(dfs, axis=0, ignore_index=True)
 
-# Fill empty cells with 0.0 (important: do this before reordering columns)
-all_clusters.fillna(0.0, inplace=True)
+# # Fill empty cells with 0.0 (important: do this before reordering columns)
+# all_clusters.fillna(0.0, inplace=True)
 
 # Reorder columns: Prefix, ModeClusters, then all random seed columns
 cols = ['Prefix', 'ModeClusters'] + [col for col in all_clusters.columns if col not in ['Prefix', 'ModeClusters']]

@@ -20,7 +20,7 @@ num_proteins = len(unique_proteins)
 print(f"Number of unique proteins: {num_proteins}")
 
 # Load clustered matrix
-df_clustered = pd.read_csv("/data/home/bt24990/ExplainableAI/04_clustering/combined_clustered_matrix.csv", index_col=0)
+df_clustered = pd.read_csv("/data/home/bt24990/ExplainableAI/04_clustering/interim_data/clustered_matrix.csv", index_col=0)
 num_clustered_features = df_clustered.shape[1]
 
 

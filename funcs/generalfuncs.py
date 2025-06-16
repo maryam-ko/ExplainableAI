@@ -48,7 +48,7 @@ def compute_fisher_scores(input_matrix, threshold):
             # X = features to compute Fisher scores for, with respect to y
             X = data_rem[col]
             
-            in_zero = [0] if (y == 0).any() else [np.NaN]
+            in_zero = [0] if (y == 0).any() else [np.nan]
             in_low = [y[(y > 0) & (y <= 1/3)].mean()]
             in_medium = [y[(y > 1/3) & (y <= 2/3)].mean()]
             in_high = [y[(y > 2/3) & (y <= 1)].mean()]
@@ -260,7 +260,9 @@ def set_dataset_name_as_index(input_matrix):
 
 def calculate_optimal_clusters(matrix, filename):
     import random
+    random.seed(42)
     random_seed_list = random.sample(range(1, 1000), 100)
+    print(f"Using random seeds: {random_seed_list}")
 
     # Extract the only protein prefix from the columns
     all_sites = list(matrix.columns)

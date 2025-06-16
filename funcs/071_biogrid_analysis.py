@@ -22,7 +22,7 @@ import argparse
 def parse_arguments():
     """Parse command line arguments for the script."""
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
-    parser.add_argument('--base_dir', type=str, default='/Users/caitlinmellor/Documents/GitHub/ExplainableAI', help='Base directory for the project')
+    parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
     parser.add_argument('--network_name', type=str, default=None, help='Network name if analyzing specific network')
     parser.add_argument('--model_types', nargs='+', default=['linear_regression', 'xgboost', 'cnn'], 
                         help='Model types to evaluate')
@@ -734,4 +734,4 @@ if __name__ == '__main__':
     
     
 
-   print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')
+print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')
