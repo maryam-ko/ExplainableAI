@@ -21,7 +21,7 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, nargs='+', default=[150,200], help='Threshold(s) to compute')
 
     return parser.parse_args()
 
@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
     overlapping_coefficients_histogram(
         base_dir=args.base_dir,
-        thresholds=[50, 100, 150, 200]
+        thresholds=[150,200]
     )
 
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')

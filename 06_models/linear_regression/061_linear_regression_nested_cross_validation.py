@@ -25,7 +25,7 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, default=150, help='Threshold to compute')
 
     return parser.parse_args()
 
