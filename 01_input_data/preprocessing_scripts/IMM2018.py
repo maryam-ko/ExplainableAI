@@ -8,7 +8,7 @@ import re
 dataset = 'IMM2018'
 
 print('Loading raw data for', dataset, '...')
-data = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/embj201899559-sup-0006-datasetev1.csv', header=0)
+data = pd.read_csv('/data/home/bt24990/ExplainableAI/01_input_data/raw_data/embj201899559-sup-0006-datasetev1.csv', header=0)
 print('Raw data loaded.')
 data
 
@@ -44,7 +44,7 @@ def match_seq_to_genename(dataset, seq_column):
     dataset: <pd.Dataframe> with an additional column containing gene names
     '''    
 
-    fasta_sequence = list(SeqIO.parse(open(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
+    fasta_sequence = list(SeqIO.parse(open(f'/data/home/bt24990/ExplainableAI/01_input_data/raw_data/UP000005640_9606.fasta'), "fasta"))
     
     
     gene_dict = {}
@@ -181,7 +181,7 @@ data = clean_phosID_col(data)
 print("After cleaning phosphosite_ID column:")
 data
 
-data.to_csv(f'/data/home/bt24990/maryam-ko-QMUL-MSc-Project/01_input_data/PreprocessedDatasets/IMM2018.csv', index=False)
+data.to_csv(f'/data/home/bt24990/ExplainableAI/01_input_data/PreprocessedDatasets/IMM2018.csv', index=False)
 
 
 print(dataset, 'has been saved to CSV successfully!', data)
