@@ -62,7 +62,7 @@ def load_reference_data(base_dir):
     df2 = df[['Official Symbol Interactor B', 'Official Symbol Interactor A']]
     df2.columns = ['Official Symbol Interactor A', 'Official Symbol Interactor B']
     df = pd.concat([df, df2], axis=0)
-    df.columns = ['PredictiveFeature', 'TargetFeature']
+    df.columns = ['Feature', 'TargetFeature']
     df.drop_duplicates(inplace=True)
     print('Reference dataframe:', df)
     return df
@@ -80,16 +80,16 @@ def load_prediction_data(base_dir, network_name, model_type, threshold):
     
     if model_type == 'linear_regression':
         df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
-        df['PredictiveFeature'] = df['Feature'].str.split('_').str[0]
-        df = df[['PredictiveFeature', 'TargetFeature', 'Coefficient']]
+        df['Feature'] = df['Feature'].str.split('_').str[0]
+        df = df[['Feature', 'TargetFeature', 'Coefficient']]
         value_col = 'Coefficient'
     else:
-        df = df[['PredictiveFeature', 'TargetFeature', 'LogSHAPValue']]
+        df = df[['Feature', 'TargetFeature', 'LogSHAPValue']]
         value_col = 'LogSHAPValue'
     
     # Remove duplicates
     df.dropna(subset=[value_col], inplace=True)
-    df.drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'], inplace=True)
+    df.drop_duplicates(subset=['Feature', 'TargetFeature'], inplace=True)
     print(f'Predicted dataframe ({model_type}, {threshold}): {df}')
     return df
 
@@ -97,18 +97,18 @@ def filter_for_common_proteins(predictions, reference):
     """Retain only proteins present in both datasets."""
     # Standardize protein names
     for df in [predictions, reference]:
-        df['PredictiveFeature'] = df['PredictiveFeature'].str.upper().str.strip()
+        df['Feature'] = df['Feature'].str.upper().str.strip()
         df['TargetFeature'] = df['TargetFeature'].str.upper().str.strip()
     
     # Get common proteins
-    pred_prots = set(predictions['PredictiveFeature']) | set(predictions['TargetFeature'])
-    ref_prots = set(reference['PredictiveFeature']) | set(reference['TargetFeature'])
+    pred_prots = set(predictions['Feature']) | set(predictions['TargetFeature'])
+    ref_prots = set(reference['Feature']) | set(reference['TargetFeature'])
     common_prots = pred_prots & ref_prots
     print(f'Number of common proteins: {len(common_prots)}')
     
     # Filter both datasets
-    mask_preds = (predictions['PredictiveFeature'].isin(common_prots)) & (predictions['TargetFeature'].isin(common_prots))
-    mask_ref = (reference['PredictiveFeature'].isin(common_prots)) & (reference['TargetFeature'].isin(common_prots))
+    mask_preds = (predictions['Feature'].isin(common_prots)) & (predictions['TargetFeature'].isin(common_prots))
+    mask_ref = (reference['Feature'].isin(common_prots)) & (reference['TargetFeature'].isin(common_prots))
     
     return predictions[mask_preds].copy(), reference[mask_ref].copy()
 
@@ -158,7 +158,7 @@ def format_df_per_model_and_threshold(base_dir, network_name, model_types, thres
             else:
                 df[column_to_normalise] = 0.0  # If all values are the same, set them to 0
 
-            df.columns = ['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP']
+            df.columns = ['Feature', 'TargetFeature', 'NormalisedCoeffOrSHAP']
             predictions_dict[model][threshold] = df
 
     return predictions_dict, reference_filtered_dict
@@ -169,15 +169,15 @@ def calculate_aucs(preds_dict, ref_dict, base_dir, network_name, model_types, th
     for model in model_types:
         model_results = []
         for threshold in thresholds:
-            preds_dict[model][threshold] = preds_dict[model][threshold].drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'])
-            ref_dict[model][threshold] = ref_dict[model][threshold].drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'])
+            preds_dict[model][threshold] = preds_dict[model][threshold].drop_duplicates(subset=['Feature', 'TargetFeature'])
+            ref_dict[model][threshold] = ref_dict[model][threshold].drop_duplicates(subset=['Feature', 'TargetFeature'])
             
             y_scores = preds_dict[model][threshold]['NormalisedCoeffOrSHAP'].tolist()
 
             # identify predicted interactions also found in reference dataset
             # all rows from predictions are in output (df length is same as predictions)
             # rows in both dfs = 'both' / rows just in predictions = 'left_only'
-            merged_df = pd.merge(preds_dict[model][threshold], ref_dict[model][threshold], on=['PredictiveFeature', 'TargetFeature'],
+            merged_df = pd.merge(preds_dict[model][threshold], ref_dict[model][threshold], on=['Feature', 'TargetFeature'],
                                 how='left', indicator=True)
             print('merged_df:', merged_df.head())
 
@@ -326,7 +326,7 @@ def filter_for_all_models_and_thresholds(predictions_dict, model_types, threshol
         for threshold in thresholds:
             # Get the interactions for the current model and threshold
             current_interactions = set(zip(
-                predictions_dict[model][threshold]['PredictiveFeature'],
+                predictions_dict[model][threshold]['Feature'],
                 predictions_dict[model][threshold]['TargetFeature'],
                 predictions_dict[model][threshold]['NormalisedCoeffOrSHAP']
             ))
@@ -344,9 +344,9 @@ def filter_for_all_models_and_thresholds(predictions_dict, model_types, threshol
             print('common_interactions:', len(common_interactions))
     # Convert the common interactions back to a DataFrame
     if common_interactions:
-        filtered_df = pd.DataFrame(list(common_interactions), columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])
+        filtered_df = pd.DataFrame(list(common_interactions), columns=['Feature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])
     else:
-        filtered_df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])  # Empty DataFrame if no common interactions
+        filtered_df = pd.DataFrame(columns=['Feature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])  # Empty DataFrame if no common interactions
 
     return filtered_df
 
