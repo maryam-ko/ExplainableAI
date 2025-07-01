@@ -14,6 +14,7 @@ from sklearn.preprocessing import MinMaxScaler
 # IMPORT R-NORMALISED MATRIX 
 # ----------------- #
 
+# matrix = pd.read_csv('/data/home/bt24990/ExplainableAI/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', header = 0)
 matrix = pd.read_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NBA-Matrix_Quantile.csv', header=0)
 matrix = matrix.set_index('DatasetName')
 
@@ -96,7 +97,9 @@ combined_df  = combined_df.T
 combined_df = combined_df.reindex(sorted(combined_df.columns), axis=1)
 
 # Save the combined DataFrame to CSV
+# combined_df.to.csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix.csv',index=True, index_label="DatasetName")
+
 combined_df.to_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix-Zscore.csv', index=True, index_label="DatasetName")
 
-
+# combined_df.to.csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix-NBA.csv', index_label="DatasetName")
 

@@ -19,7 +19,7 @@ from funcs import normalising
 # ----------------- #
 # IMPORT R-NORMALISED MATRIX 
 # ----------------- #
-matrix = pd.read_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', header = 0)
+matrix = pd.read_csv('/data/home/bt24990/ExplainableAI/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', header = 0)
 print(matrix.columns)
 
 matrix = matrix.set_index('DatasetName')
@@ -670,7 +670,7 @@ else:
 
 matrix_cols = pd.DataFrame(columns = uniq_phos)
 
-matrix_cols.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/normalised-matrix-header.csv', index = False)
+matrix_cols.to_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/normalised-matrix-header.csv', index = False)
 
 print('Matrix header saved to CSV.', matrix_cols)
 
@@ -701,5 +701,5 @@ for col in cols:
 minmax_matrix = transposed_matrix.replace([np.inf, -np.inf], np.nan)
 print(f'MinMax matrix:', minmax_matrix.head())
 
-minmax_matrix.to_csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NormalisedMatrix.csv', index = False)
+minmax_matrix.to_csv('/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NormalisedMatrix.csv', index = False)
 print(f'Normalised matrix saved successfully!', minmax_matrix)

@@ -16,10 +16,10 @@ library(dplyr)
 
 
 # set current working directory
-setwd('/data/home/bt24990/maryam-ko-QMUL-MSc-Project')
+setwd('/data/home/bt24990/ExplainableAI')
 
 # load matrix with column names as header (note, this matrix has column 1 as phosphosite_IDs)
-matrix <- read.csv('/data/home/bt24990/maryam-ko-QMUL-MSc-Project/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', header = TRUE)
+matrix <- read.csv('/data/home/bt24990/ExplainableAI/02_raw_matrix/MatrixCSVs/RawMatrix_NoOutliers.csv', header = TRUE)
 matrix <- as.data.frame(matrix)
 
 phosphosite_IDs <- matrix$DatasetName
@@ -39,6 +39,6 @@ quantile_matrix_t <- t(quantile_matrix)
 # append the phosphosite_ID column to the normalised matrix
 quantile_normalised <- data.frame(DatasetName = phosphosite_IDs, quantile_matrix_t)
 
-write.csv(quantile_normalised, '/data/home/bt24990/maryam-ko-QMUL-MSc-Project/03_normalise_data/MatrixCSVs/NBA-Matrix_Quantile.csv', row.names = F)
+write.csv(quantile_normalised, '/data/home/bt24990/ExplainableAI/03_normalise_data/MatrixCSVs/NBA-Matrix_Quantile.csv', row.names = F)
 ```
 

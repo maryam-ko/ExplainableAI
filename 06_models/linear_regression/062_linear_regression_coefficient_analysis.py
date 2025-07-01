@@ -21,7 +21,7 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, nargs='+', default=[150,200], help='Threshold(s) to compute')
+    parser.add_argument('--threshold', type=int, nargs='+', default=[50,100,150,200], help='Threshold(s) to compute')
 
     return parser.parse_args()
 
@@ -56,7 +56,7 @@ def overlapping_coefficients_histogram(base_dir, thresholds):
     plt.ylabel('Frequency of features', fontsize=20)
     plt.xticks(fontsize=16, ticks=np.arange(-1, 1.1, 0.5))
     plt.yticks(fontsize=16)
-    # plt.legend(fontsize=16)
+    plt.legend(fontsize=10, loc='upper right')
     plt.title('Linear regression', fontsize=20)
     # plt.title(f'Frequency distibution of linear regression\ncoefficient values across all thresholds')
     plt.savefig(f'{base_dir}/08_results/linear_regression/plots/linear_regression_coefficients_histogram_all_thresholds.png', dpi=300, bbox_inches='tight')
@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
     overlapping_coefficients_histogram(
         base_dir=args.base_dir,
-        thresholds=[150,200]
+        thresholds=[50,100,150,200]
     )
 
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')
