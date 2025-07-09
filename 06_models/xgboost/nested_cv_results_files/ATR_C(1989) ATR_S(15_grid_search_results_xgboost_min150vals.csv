@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATR_C(1989) ATR_S(1550) ATR_S(1829) ATR_S(1876) ATR_S(428) ATR_S(435) ATR_S(436) ATR_S(437) ATR_S(8) ATR_T(1826) ATR_T(1925) ATR_T(1989) ATR_Y(1830),1.0,0.5,4,10,8,1.0,0.02792111864301802,0.7084622357310664

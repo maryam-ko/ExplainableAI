@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AFAP1L1_S(104) AFAP1L1_S(329) AFAP1L1_S(334) AFAP1L1_S(385) AFAP1L1_S(4) AFAP1L1_S(603) AFAP1L1_S(745) AFAP1L1_S(747) AFAP1L1_S(98),1.0,0.5,4,1,8,0.8,0.036259292848539654,0.2721049234394502

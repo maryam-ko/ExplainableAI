@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARFGAP2_S(211) ARFGAP2_S(296) ARFGAP2_S(297) ARFGAP2_S(322),0.6,0.5,2,1,4,1.0,0.020928046766020746,0.10969781772557745

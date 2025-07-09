@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ALG3_S(10) ALG3_S(11) ALG3_S(13) ALG3_S(21),1.0,0.5,4,10,8,1.0,0.03519613976942224,0.7119390820711907

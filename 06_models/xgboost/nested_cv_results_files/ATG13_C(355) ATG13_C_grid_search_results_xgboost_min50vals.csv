@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATG13_C(355) ATG13_C(356) ATG13_S(245) ATG13_S(324) ATG13_S(361) ATG13_T(216),1.0,0.5,1,1,8,1.0,0.00749764767122038,0.4701543719158373

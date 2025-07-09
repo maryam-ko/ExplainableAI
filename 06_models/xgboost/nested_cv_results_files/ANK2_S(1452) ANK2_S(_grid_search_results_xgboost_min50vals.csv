@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANK2_S(1452) ANK2_S(1698) ANK2_S(1732) ANK2_S(1733) ANK2_S(2320) ANK2_S(2537) ANK2_S(3795) ANK2_S(4) ANK2_T(1709),0.8,0.5,4,1,4,1.0,0.030256359688178927,0.27274198622206564

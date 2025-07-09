@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASCC3_S(2195) ASCC3_S(221) ASCC3_S(297) ASCC3_S(298) ASCC3_T(1412) ASCC3_T(1427) ASCC3_T(209),1.0,0.5,4,1,6,1.0,0.045805915177346154,0.43415010872705234

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP6V1A_S(160) ATP6V1A_S(384) ATP6V1A_T(138),0.6,0.5,2,1,4,0.8,0.009886300593621363,0.21547524863090653

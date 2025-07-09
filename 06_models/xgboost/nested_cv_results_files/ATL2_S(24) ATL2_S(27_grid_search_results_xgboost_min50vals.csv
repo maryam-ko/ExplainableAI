@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATL2_S(24) ATL2_S(27) ATL2_S(308),1.0,0.5,2,1,8,0.8,0.014828483699722495,0.29798710553497276

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACTN1_S(367) ACTN1_S(404) ACTN1_S(423) ACTN1_S(677) ACTN1_S(763) ACTN1_S(91) ACTN1_T(230) ACTN1_T(426) ACTN1_T(765),0.6,0.5,2,1,8,1.0,0.011535112613984416,0.11925868204274617

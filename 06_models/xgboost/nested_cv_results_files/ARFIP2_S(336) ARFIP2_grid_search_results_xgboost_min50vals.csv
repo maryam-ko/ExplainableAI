@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARFIP2_S(336) ARFIP2_S(39) ARFIP2_S(72) ARFIP2_T(76),1.0,0.5,1,1,8,1.0,0.009860066653677014,0.22106933684914817

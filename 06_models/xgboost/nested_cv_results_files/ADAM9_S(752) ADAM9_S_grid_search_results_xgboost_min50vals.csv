@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADAM9_S(752) ADAM9_S(798) ADAM9_S(799) ADAM9_S(817) ADAM9_T(735) ADAM9_T(819) ADAM9_Y(772) ADAM9_Y(815),1.0,0.5,2,1,8,1.0,0.021200457320902793,0.17271185924838023

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AK2_S(119) AK2_S(151) AK2_S(176) AK2_S(208) AK2_T(147) AK2_T(192) AK2_T(195),0.6,0.5,2,1,8,0.8,0.016083569850543763,0.14881169431586022

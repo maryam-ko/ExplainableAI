@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATF7_S(116) ATF7_S(117) ATF7_S(125) ATF7_S(247) ATF7_S(73) ATF7_T(148) ATF7_T(337) ATF7_T(475) ATF7_T(55) ATF7_T(6),0.8,0.5,2,10,8,0.8,0.01149614843299947,0.29750658743325153

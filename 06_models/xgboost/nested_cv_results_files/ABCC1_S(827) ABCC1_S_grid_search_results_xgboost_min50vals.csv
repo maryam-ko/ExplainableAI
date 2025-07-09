@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABCC1_S(827) ABCC1_S(828) ABCC1_S(830) ABCC1_S(839) ABCC1_S(905) ABCC1_S(915) ABCC1_S(916) ABCC1_S(918) ABCC1_S(921) ABCC1_T(840) ABCC1_T(931),0.8,0.5,1,1,8,0.6,0.013603450720784348,0.20523956865689647

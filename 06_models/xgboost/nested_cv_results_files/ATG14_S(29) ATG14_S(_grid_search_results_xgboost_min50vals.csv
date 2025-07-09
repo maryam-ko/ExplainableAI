@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATG14_S(29) ATG14_S(3),0.6,0.5,4,1,8,1.0,0.01809023868518617,0.07473005273506861

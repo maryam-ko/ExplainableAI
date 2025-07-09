@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP10D_S(613) ATP10D_S(633) ATP10D_S(977),1.0,0.5,4,1,8,1.0,0.03669640546309649,0.1456363391067978

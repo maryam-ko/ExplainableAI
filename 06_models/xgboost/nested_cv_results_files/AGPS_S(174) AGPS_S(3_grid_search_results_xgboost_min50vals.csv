@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGPS_S(174) AGPS_S(355) AGPS_S(4) AGPS_T(155),0.6,0.5,1,1,2,1.0,0.013171426839521853,-0.01001976665196258

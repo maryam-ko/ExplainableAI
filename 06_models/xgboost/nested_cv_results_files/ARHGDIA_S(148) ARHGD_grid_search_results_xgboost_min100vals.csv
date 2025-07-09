@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGDIA_S(148) ARHGDIA_S(174) ARHGDIA_S(176) ARHGDIA_S(24) ARHGDIA_S(34) ARHGDIA_S(47) ARHGDIA_T(160) ARHGDIA_Y(133) ARHGDIA_Y(156) ARHGDIA_Y(6) ARHGDIA_Y(81),1.0,0.5,4,1,8,1.0,0.030818806072321594,0.7208818588900721

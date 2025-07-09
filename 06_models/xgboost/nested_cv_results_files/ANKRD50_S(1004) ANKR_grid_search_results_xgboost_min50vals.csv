@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKRD50_S(1004) ANKRD50_S(1135) ANKRD50_S(1137) ANKRD50_S(1140) ANKRD50_S(1162) ANKRD50_S(1180) ANKRD50_S(1289) ANKRD50_T(1141) ANKRD50_Y(1299),1.0,0.5,2,1,8,0.8,0.006611803536391975,0.28360700548013396

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADAM10_T(719) ADAM10_Y(741),1.0,0.5,2,1,8,0.6,0.012944037383422908,0.26673971885020753

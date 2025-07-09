@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AUP1_S(288) AUP1_S(3) AUP1_S(354) AUP1_S(356) AUP1_S(358) AUP1_S(385) AUP1_S(429) AUP1_T(260) AUP1_T(326) AUP1_T(367) AUP1_T(433) AUP1_Y(394),0.8,0.5,4,10,8,1.0,0.038473735634311924,0.45488351303132235

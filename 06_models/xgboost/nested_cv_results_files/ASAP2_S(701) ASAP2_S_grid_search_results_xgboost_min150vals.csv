@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASAP2_S(701) ASAP2_S(705) ASAP2_S(712) ASAP2_S(809) ASAP2_S(811) ASAP2_S(822) ASAP2_T(845) ASAP2_Y(293),0.6,0.5,4,1,8,0.8,0.044434333504867134,0.481017621381553

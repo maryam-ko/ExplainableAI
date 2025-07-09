@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+API5_S(10) API5_S(462) API5_S(470) API5_S(9) API5_T(399) API5_T(461),0.6,0.5,1,1,6,0.6,0.00970963198901437,-0.001059174294594145

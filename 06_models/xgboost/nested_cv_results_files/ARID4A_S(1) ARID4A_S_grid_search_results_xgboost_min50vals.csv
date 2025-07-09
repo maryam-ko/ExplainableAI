@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARID4A_S(1) ARID4A_S(1159) ARID4A_S(427) ARID4A_S(538) ARID4A_S(542) ARID4A_S(676) ARID4A_S(716) ARID4A_T(842),0.6,0.5,3,1,8,1.0,0.015391008514457119,0.16018169520061246

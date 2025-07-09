@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANO6_S(156) ANO6_S(253) ANO6_S(256) ANO6_S(930),0.6,0.5,1,1,2,0.6,0.010636293286400124,-0.001845521209959733

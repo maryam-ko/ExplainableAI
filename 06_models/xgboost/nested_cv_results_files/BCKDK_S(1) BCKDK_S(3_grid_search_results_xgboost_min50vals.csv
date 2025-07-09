@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCKDK_S(1) BCKDK_S(30) BCKDK_S(42) BCKDK_T(35) BCKDK_T(42),0.8,0.5,3,1,8,0.8,0.01424398784603165,0.37430584097773295

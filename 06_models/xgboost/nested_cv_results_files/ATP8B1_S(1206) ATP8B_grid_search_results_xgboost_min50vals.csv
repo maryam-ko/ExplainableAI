@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP8B1_S(1206) ATP8B1_S(1215) ATP8B1_S(1223),0.6,0.5,1,1,6,0.8,0.0217263123339253,-0.003855053310045253

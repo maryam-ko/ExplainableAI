@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASF1A_S(165) ASF1A_S(166),1.0,0.5,4,1,6,1.0,0.032432881272720274,0.6471795477799359

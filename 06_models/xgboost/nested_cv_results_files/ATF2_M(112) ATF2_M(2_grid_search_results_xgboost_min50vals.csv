@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATF2_M(112) ATF2_M(266) ATF2_M(272) ATF2_S(112) ATF2_S(118) ATF2_S(136) ATF2_S(150) ATF2_S(212) ATF2_S(265) ATF2_S(266) ATF2_S(307) ATF2_S(328) ATF2_S(62) ATF2_S(90) ATF2_S(94) ATF2_T(116) ATF2_T(51) ATF2_T(53) ATF2_T(69) ATF2_T(71),0.8,0.5,4,1,8,1.0,0.033296844922202626,0.6801654099909618

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCR_S(122) BCR_S(301) BCR_S(352) BCR_S(354) BCR_S(356) BCR_S(459) BCR_S(461) BCR_S(463) BCR_S(473) BCR_T(302) BCR_T(432) BCR_T(438) BCR_Y(58),1.0,0.5,3,1,8,1.0,0.0433337735270805,0.41316476532582513

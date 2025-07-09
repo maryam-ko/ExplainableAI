@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKS3_S(114) ANKS3_S(147) ANKS3_S(2) ANKS3_S(225) ANKS3_S(235) ANKS3_S(242) ANKS3_S(320) ANKS3_S(415) ANKS3_S(416) ANKS3_S(5) ANKS3_S(887) ANKS3_S(9) ANKS3_T(223) ANKS3_Y(224),0.8,0.5,2,1,8,1.0,0.010857069868289722,0.3652430167185067

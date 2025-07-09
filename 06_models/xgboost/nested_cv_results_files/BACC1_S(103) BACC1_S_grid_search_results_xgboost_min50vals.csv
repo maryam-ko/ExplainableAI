@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BACC1_S(103) BACC1_S(141) BACC1_S(146) BACC1_S(36) BACC1_T(139) BACC1_T(161),0.6,0.5,1,1,6,0.6,0.01462770986861809,-0.010783241626283325

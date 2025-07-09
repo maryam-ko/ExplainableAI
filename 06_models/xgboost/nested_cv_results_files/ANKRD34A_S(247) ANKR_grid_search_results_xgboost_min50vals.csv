@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKRD34A_S(247) ANKRD34A_S(392),1.0,0.5,2,1,8,0.8,0.012558971076941925,0.15069713563559156

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABCC3_S(281) ABCC3_S(332) ABCC3_S(905) ABCC3_S(908) ABCC3_S(911) ABCC3_S(912) ABCC3_S(962) ABCC3_Y(63),0.6,0.5,1,1,8,0.6,0.026540743331883748,-0.0018666813757001854

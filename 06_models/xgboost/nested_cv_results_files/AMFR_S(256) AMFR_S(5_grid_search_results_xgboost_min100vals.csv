@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMFR_S(256) AMFR_S(509) AMFR_S(516) AMFR_S(523) AMFR_S(542),0.8,0.5,4,5,8,1.0,0.034465449133294614,0.19830694823153422

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGGF1_S(329) AGGF1_S(543) AGGF1_S(620) AGGF1_Y(569),0.6,0.5,1,1,8,0.6,0.01160032267122619,-0.02128114232505025

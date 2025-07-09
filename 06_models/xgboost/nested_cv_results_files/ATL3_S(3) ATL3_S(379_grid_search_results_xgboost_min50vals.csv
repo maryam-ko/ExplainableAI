@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATL3_S(3) ATL3_S(379) ATL3_S(38) ATL3_S(535),0.8,0.5,3,1,6,0.8,0.028792773522406924,0.136981246631543

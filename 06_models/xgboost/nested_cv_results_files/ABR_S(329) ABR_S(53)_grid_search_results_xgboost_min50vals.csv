@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABR_S(329) ABR_S(53) ABR_S(57) ABR_S(595) ABR_S(638) ABR_S(64) ABR_T(1049) ABR_Y(817),0.8,0.5,1,1,8,0.8,0.022476068451270283,-0.0032572667209930907

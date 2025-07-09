@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMMECR1L_S(74) AMMECR1L_S(87),1.0,0.5,3,10,6,0.8,0.022885734452611287,0.23380407710980933

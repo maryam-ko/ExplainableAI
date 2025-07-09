@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APPL1_S(12) APPL1_S(16) APPL1_S(384) APPL1_S(389) APPL1_S(401) APPL1_S(403) APPL1_S(410) APPL1_S(488) APPL1_S(491) APPL1_S(691) APPL1_S(693) APPL1_T(389) APPL1_T(399),0.8,0.5,4,1,8,1.0,0.03562533877300573,0.6773904592583191

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGAP27_S(125) ARHGAP27_S(466) ARHGAP27_S(486) ARHGAP27_T(680),1.0,0.5,3,5,6,0.8,0.020265202222273068,0.2647341020858557

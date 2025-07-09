@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADNP2_S(1024) ADNP2_T(866),1.0,0.5,3,1,8,0.8,0.01450138162347264,0.2733951256706463

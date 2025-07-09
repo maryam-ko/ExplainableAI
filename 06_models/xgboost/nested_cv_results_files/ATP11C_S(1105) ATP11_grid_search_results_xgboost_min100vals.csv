@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP11C_S(1105) ATP11C_S(1110) ATP11C_S(1116) ATP11C_S(1129) ATP11C_S(445) ATP11C_S(740) ATP11C_T(447),1.0,0.5,4,1,8,1.0,0.03568261784442666,0.3765233189969379

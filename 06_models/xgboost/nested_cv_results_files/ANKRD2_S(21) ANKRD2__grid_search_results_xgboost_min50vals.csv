@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKRD2_S(21) ANKRD2_S(56) ANKRD2_T(25) ANKRD2_T(293) ANKRD2_T(98),0.8,0.5,3,1,8,1.0,0.01080099706155868,0.15328563475238835

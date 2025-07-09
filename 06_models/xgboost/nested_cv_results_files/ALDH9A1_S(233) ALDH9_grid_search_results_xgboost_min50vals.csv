@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ALDH9A1_S(233) ALDH9A1_S(6) ALDH9A1_T(260) ALDH9A1_T(28) ALDH9A1_T(4) ALDH9A1_T(9),0.8,0.5,2,1,6,0.6,0.016387421441606907,0.149872387887184

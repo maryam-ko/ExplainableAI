@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMOT_S(10) AMOT_S(229) AMOT_S(4) AMOT_S(482) AMOT_S(693) AMOT_S(714) AMOT_S(787) AMOT_S(823) AMOT_T(1061),1.0,0.5,1,1,6,0.8,0.014922054954090025,0.05603116296242405

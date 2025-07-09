@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APIP_S(40) APIP_S(49) APIP_S(61) APIP_S(84),0.6,0.5,2,1,2,1.0,0.007844270431275955,0.24736539178234757

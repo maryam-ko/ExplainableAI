@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AEBP2_S(15) AEBP2_S(209) AEBP2_S(241) AEBP2_S(390) AEBP2_T(402) AEBP2_T(6),0.8,0.5,3,1,8,0.8,0.01273908689038616,0.17550815920136326

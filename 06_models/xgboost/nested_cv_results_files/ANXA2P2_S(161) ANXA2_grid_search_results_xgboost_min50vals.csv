@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANXA2P2_S(161) ANXA2P2_S(164) ANXA2P2_S(2) ANXA2P2_S(36) ANXA2P2_S(4) ANXA2P2_S(85) ANXA2P2_T(208) ANXA2P2_T(9) ANXA2P2_Y(14) ANXA2P2_Y(24),1.0,0.5,3,1,8,1.0,0.012151656048728659,0.2451033246817083

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATG4C_S(440) ATG4C_S(451),1.0,0.5,3,1,6,0.8,0.01843176763153323,0.10545024452298402

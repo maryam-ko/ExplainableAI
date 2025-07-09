@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARMC1_S(267) ARMC1_T(137) ARMC1_T(138),0.6,0.5,2,1,8,1.0,0.014419490360975321,0.25657724977428603

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADAM22_S(798) ADAM22_S(821) ADAM22_S(832) ADAM22_S(834) ADAM22_S(855) ADAM22_S(857) ADAM22_S(864) ADAM22_S(866) ADAM22_S(873),1.0,0.5,4,1,8,1.0,0.020677734293776177,0.42913780798497064

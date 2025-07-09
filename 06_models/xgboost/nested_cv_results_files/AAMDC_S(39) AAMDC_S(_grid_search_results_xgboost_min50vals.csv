@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AAMDC_S(39) AAMDC_S(46),0.6,0.5,1,1,8,0.6,0.015384656445847324,-0.001911073733242219

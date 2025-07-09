@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ALDH1A1_S(4) ALDH1A1_S(413) ALDH1A1_S(7) ALDH1A1_T(144) ALDH1A1_T(337) ALDH1A1_T(6) ALDH1A1_Y(426),1.0,0.5,4,5,4,1.0,0.036869596301498185,0.22874283526059416

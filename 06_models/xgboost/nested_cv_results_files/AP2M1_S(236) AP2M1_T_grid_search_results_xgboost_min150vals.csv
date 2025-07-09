@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AP2M1_S(236) AP2M1_T(156) AP2M1_T(189),0.6,0.5,4,10,8,1.0,0.030707965507323885,0.49329786778854856

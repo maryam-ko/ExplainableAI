@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATXN3_S(260) ATXN3_S(265),1.0,0.5,3,1,8,1.0,0.019719204317629732,0.4302014054562348

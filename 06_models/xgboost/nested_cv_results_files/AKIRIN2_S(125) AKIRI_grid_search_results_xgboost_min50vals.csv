@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKIRIN2_S(125) AKIRIN2_S(134) AKIRIN2_S(18) AKIRIN2_S(21) AKIRIN2_S(302) AKIRIN2_S(39) AKIRIN2_S(57) AKIRIN2_S(67),1.0,0.5,4,1,6,1.0,0.04768823656990168,0.16612316810279074

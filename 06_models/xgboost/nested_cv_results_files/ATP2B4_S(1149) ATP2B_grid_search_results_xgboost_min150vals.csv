@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP2B4_S(1149) ATP2B4_S(13) ATP2B4_S(316) ATP2B4_S(328) ATP2B4_T(1133) ATP2B4_T(1181),0.8,0.5,4,5,8,1.0,0.041483269531556725,0.566526915660059

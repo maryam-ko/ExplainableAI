@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKIB1_S(558) ANKIB1_S(891) ANKIB1_S(921) ANKIB1_T(290),1.0,0.5,2,5,8,0.8,0.02256617051210134,0.016060620214788445

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKRD40_S(214) ANKRD40_T(199) ANKRD40_T(209),1.0,0.5,2,10,4,0.8,0.026725665668008897,0.09047773916611228

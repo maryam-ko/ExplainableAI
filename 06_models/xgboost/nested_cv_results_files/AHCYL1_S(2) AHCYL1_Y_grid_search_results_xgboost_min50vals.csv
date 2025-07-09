@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AHCYL1_S(2) AHCYL1_Y(28),1.0,0.5,4,5,8,0.8,0.026342818231535923,0.35829864234424746

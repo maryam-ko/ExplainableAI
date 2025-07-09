@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABTB2_S(179) ABTB2_S(31) ABTB2_S(33) ABTB2_S(365) ABTB2_S(67) ABTB2_Y(320),1.0,0.5,2,1,6,0.6,0.0251266793532281,-0.013544425200533094

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCL7C_S(114) BCL7C_S(126) BCL7C_S(156) BCL7C_S(97) BCL7C_T(111) BCL7C_T(118),0.6,0.5,4,1,8,1.0,0.03186875400041333,0.690243268198896

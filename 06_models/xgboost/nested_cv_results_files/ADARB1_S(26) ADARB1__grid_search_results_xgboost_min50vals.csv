@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADARB1_S(26) ADARB1_T(32) ADARB1_T(73),1.0,0.5,4,1,8,1.0,0.022118482592194358,0.5715019673130568

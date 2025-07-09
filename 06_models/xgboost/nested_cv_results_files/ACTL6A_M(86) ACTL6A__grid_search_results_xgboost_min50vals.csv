@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACTL6A_M(86) ACTL6A_S(191) ACTL6A_S(3) ACTL6A_S(86),0.6,0.5,3,1,8,0.8,0.011064272829740929,0.2742512961760575

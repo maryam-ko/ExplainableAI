@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCAM_S(596) BCAM_S(598),1.0,0.5,4,10,6,1.0,0.03338321979673536,0.49396817461701276

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BBX_S(158) BBX_S(159) BBX_S(183) BBX_S(243) BBX_S(478) BBX_S(481) BBX_S(485) BBX_S(509) BBX_S(559) BBX_S(695) BBX_S(704) BBX_S(811) BBX_S(814) BBX_S(822) BBX_T(562) BBX_T(568) BBX_T(578) BBX_T(838) BBX_T(888),1.0,0.5,4,1,8,1.0,0.018586579297987762,0.7538137625557744

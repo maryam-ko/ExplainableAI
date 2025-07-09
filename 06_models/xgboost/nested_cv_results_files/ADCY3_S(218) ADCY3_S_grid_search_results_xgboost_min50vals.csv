@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADCY3_S(218) ADCY3_S(273) ADCY3_S(525),0.8,0.5,2,1,8,1.0,0.011023877231402978,0.4066125156168928

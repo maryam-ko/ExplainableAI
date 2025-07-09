@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AFF3_S(1105) AFF3_S(878) AFF3_S(881) AFF3_S(884),0.8,0.5,3,5,8,0.8,0.014827294271291334,0.2639105961509964

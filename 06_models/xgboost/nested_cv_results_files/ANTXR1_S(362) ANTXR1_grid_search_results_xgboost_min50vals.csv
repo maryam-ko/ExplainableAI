@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANTXR1_S(362) ANTXR1_S(441) ANTXR1_S(442) ANTXR1_S(551) ANTXR1_S(563) ANTXR1_Y(425),0.6,0.5,4,1,8,1.0,0.05012605303793849,0.17297958626811905

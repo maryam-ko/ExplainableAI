@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACTR10_S(201) ACTR10_S(241) ACTR10_S(4) ACTR10_S(414) ACTR10_Y(4),0.8,0.5,4,1,2,1.0,0.0333570585999619,0.17461152383922002

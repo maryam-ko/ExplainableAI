@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABLIM3_M(563) ABLIM3_M(567) ABLIM3_S(163) ABLIM3_S(326) ABLIM3_S(393) ABLIM3_S(4) ABLIM3_S(7) ABLIM3_T(390) ABLIM3_T(461) ABLIM3_T(534) ABLIM3_T(562),0.8,0.5,2,1,8,1.0,0.010502530675044471,0.16515529877400587

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AXIN1_S(3) AXIN1_S(486) AXIN1_S(492) AXIN1_S(511) AXIN1_S(581) AXIN1_S(75) AXIN1_S(77) AXIN1_T(481) AXIN1_T(79),1.0,0.5,4,1,8,1.0,0.02468713149767163,0.6639229473489238

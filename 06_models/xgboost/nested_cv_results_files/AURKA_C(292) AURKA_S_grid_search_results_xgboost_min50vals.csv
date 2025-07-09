@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AURKA_C(292) AURKA_S(10) AURKA_S(4) AURKA_S(51) AURKA_S(53),1.0,0.5,2,1,8,1.0,0.009930625018042849,0.3380191650912855

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AJM1_S(109) AJM1_S(129) AJM1_S(418) AJM1_S(448) AJM1_S(468) AJM1_S(484) AJM1_S(499) AJM1_S(509) AJM1_S(856) AJM1_S(98) AJM1_T(935),1.0,0.5,4,5,4,1.0,0.033068149403668506,0.18842254214931392

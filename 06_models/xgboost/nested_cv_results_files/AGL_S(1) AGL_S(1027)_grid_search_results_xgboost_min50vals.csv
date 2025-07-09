@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGL_S(1) AGL_S(1027) AGL_S(1028) AGL_S(1346) AGL_S(14) AGL_S(3) AGL_S(383) AGL_S(4) AGL_S(5) AGL_S(64) AGL_S(672) AGL_S(7) AGL_S(738) AGL_S(871) AGL_S(894) AGL_S(897) AGL_S(929) AGL_S(962) AGL_S(978) AGL_T(14) AGL_T(3) AGL_T(4) AGL_T(56) AGL_T(8) AGL_T(868) AGL_T(980) AGL_Y(10) AGL_Y(106) AGL_Y(29) AGL_Y(538) AGL_Y(9),0.6,0.5,4,5,6,1.0,0.024872502206700287,0.12842397457761043

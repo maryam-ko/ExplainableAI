@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATG2B_S(1576) ATG2B_S(1740) ATG2B_S(1751) ATG2B_S(1757) ATG2B_S(253) ATG2B_S(257) ATG2B_S(410) ATG2B_S(493) ATG2B_T(1022),0.6,0.5,1,1,8,0.8,0.011347188053294717,-0.009552185987509088

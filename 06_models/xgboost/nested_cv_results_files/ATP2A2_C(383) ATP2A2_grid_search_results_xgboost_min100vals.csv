@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP2A2_C(383) ATP2A2_S(15) ATP2A2_S(186) ATP2A2_S(555) ATP2A2_S(580) ATP2A2_S(609) ATP2A2_T(181) ATP2A2_T(499) ATP2A2_Y(497),0.8,0.5,3,1,8,1.0,0.015727245587216783,0.18352870572679886

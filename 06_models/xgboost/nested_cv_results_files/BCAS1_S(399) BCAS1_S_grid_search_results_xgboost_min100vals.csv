@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCAS1_S(399) BCAS1_S(451) BCAS1_T(292) BCAS1_T(479),0.8,0.5,3,1,8,1.0,0.0253127264804149,0.03901862356972099

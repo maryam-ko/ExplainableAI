@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP6V0A2_S(154) ATP6V0A2_S(700) ATP6V0A2_S(704) ATP6V0A2_S(718),0.8,0.5,1,10,8,0.8,0.012674069243600872,0.32862630540394033

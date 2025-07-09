@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMER1_S(240) AMER1_S(246) AMER1_S(280) AMER1_S(318) AMER1_S(749) AMER1_T(242),1.0,0.5,4,10,8,0.8,0.019385150628141862,0.28985659979256767

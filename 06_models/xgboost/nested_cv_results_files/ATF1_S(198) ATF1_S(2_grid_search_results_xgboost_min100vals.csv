@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATF1_S(198) ATF1_S(270) ATF1_T(197),1.0,0.5,3,10,8,0.8,0.015478098798667492,0.35113450413339453

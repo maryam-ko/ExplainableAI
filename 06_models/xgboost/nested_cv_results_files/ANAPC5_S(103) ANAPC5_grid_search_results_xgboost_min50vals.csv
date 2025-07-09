@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANAPC5_S(103) ANAPC5_S(195) ANAPC5_S(221) ANAPC5_S(96) ANAPC5_T(133) ANAPC5_T(229),0.6,0.5,3,10,8,1.0,0.01510243942523689,0.3416792434560079

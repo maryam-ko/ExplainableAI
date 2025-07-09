@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGDIB_S(145) ARHGDIB_S(188) ARHGDIB_S(20) ARHGDIB_S(44) ARHGDIB_T(160),0.6,0.5,3,1,2,1.0,0.02383581819790982,0.14689121150856654

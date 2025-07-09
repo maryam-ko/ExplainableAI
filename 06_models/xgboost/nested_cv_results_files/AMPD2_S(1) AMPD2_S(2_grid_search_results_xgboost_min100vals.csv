@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMPD2_S(1) AMPD2_S(208) AMPD2_S(76) AMPD2_S(875) AMPD2_T(289),1.0,0.5,3,1,8,0.8,0.01849688441014134,0.30973211279807544

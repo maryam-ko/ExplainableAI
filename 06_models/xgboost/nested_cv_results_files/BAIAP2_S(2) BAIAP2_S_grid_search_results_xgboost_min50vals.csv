@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAIAP2_S(2) BAIAP2_S(239) BAIAP2_S(262) BAIAP2_S(327) BAIAP2_S(332) BAIAP2_S(346) BAIAP2_S(352) BAIAP2_S(380) BAIAP2_S(384) BAIAP2_S(395) BAIAP2_T(1) BAIAP2_T(253) BAIAP2_T(380),0.6,0.5,1,1,6,0.6,0.01054498845984321,-0.0038949328576587837

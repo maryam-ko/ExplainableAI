@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGTRAP_S(126) AGTRAP_S(127) AGTRAP_S(131) AGTRAP_S(138) AGTRAP_S(153),0.6,0.5,1,1,2,0.6,0.015491932868863093,-0.00795915899302222

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APOOL_S(2) APOOL_S(203) APOOL_S(256),0.6,0.5,1,1,8,0.8,0.013139703733930246,-0.018445511307823636

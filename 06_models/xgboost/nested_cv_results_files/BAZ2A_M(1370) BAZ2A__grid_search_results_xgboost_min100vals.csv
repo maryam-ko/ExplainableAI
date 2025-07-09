@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAZ2A_M(1370) BAZ2A_S(1154) BAZ2A_S(135) BAZ2A_S(1559) BAZ2A_S(1738) BAZ2A_S(1740) BAZ2A_S(1750) BAZ2A_S(1753) BAZ2A_S(237) BAZ2A_S(464) BAZ2A_S(482) BAZ2A_S(611),0.6,0.5,1,1,2,1.0,0.009114816819281914,-0.003882506045223444

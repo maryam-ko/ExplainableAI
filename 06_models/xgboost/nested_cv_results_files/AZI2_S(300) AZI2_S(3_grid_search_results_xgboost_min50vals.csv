@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AZI2_S(300) AZI2_S(301) AZI2_S(318) AZI2_S(343) AZI2_S(348) AZI2_S(353),0.8,0.5,4,10,8,0.8,0.020027370982313147,0.3613580842281023

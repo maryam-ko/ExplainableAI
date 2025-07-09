@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATRIP_C(239) ATRIP_S(13) ATRIP_S(131) ATRIP_S(239) ATRIP_S(278) ATRIP_S(38) ATRIP_S(518) ATRIP_S(524),1.0,0.5,4,1,8,0.8,0.023580692929066737,0.2490658860962153

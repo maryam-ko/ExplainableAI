@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABRAXAS1_S(357) ABRAXAS1_S(386) ABRAXAS1_S(387) ABRAXAS1_S(406) ABRAXAS1_T(390) ABRAXAS1_T(408),0.8,0.5,4,1,8,1.0,0.03512033551654567,0.5570153973531049

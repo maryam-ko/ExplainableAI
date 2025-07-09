@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AHCYL2_S(107) AHCYL2_S(109) AHCYL2_S(2) AHCYL2_S(84) AHCYL2_S(89),0.6,0.5,1,1,8,1.0,0.009662939750995985,0.31533129423845724

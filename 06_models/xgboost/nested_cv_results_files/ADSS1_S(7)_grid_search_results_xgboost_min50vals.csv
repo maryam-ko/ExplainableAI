@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADSS1_S(7),1.0,0.5,4,1,8,0.6,0.021416815663780325,0.05993910682750094

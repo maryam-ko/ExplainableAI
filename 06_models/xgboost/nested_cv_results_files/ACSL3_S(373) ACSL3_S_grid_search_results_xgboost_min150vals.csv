@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACSL3_S(373) ACSL3_S(5) ACSL3_S(62) ACSL3_S(683) ACSL3_T(688) ACSL3_Y(391),0.6,0.5,4,5,4,1.0,0.031060448345186183,0.0784965948375024

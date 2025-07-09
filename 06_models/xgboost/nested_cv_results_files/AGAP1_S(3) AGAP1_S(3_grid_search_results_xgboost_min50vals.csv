@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGAP1_S(3) AGAP1_S(324) AGAP1_S(422) AGAP1_S(521) AGAP1_S(534) AGAP1_T(303),1.0,0.5,3,1,8,0.8,0.029099421543006328,0.2151555482330255

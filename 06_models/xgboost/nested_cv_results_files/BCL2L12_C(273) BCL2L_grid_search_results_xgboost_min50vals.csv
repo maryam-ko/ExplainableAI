@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCL2L12_C(273) BCL2L12_S(156) BCL2L12_S(158) BCL2L12_S(194) BCL2L12_S(241) BCL2L12_S(242) BCL2L12_S(29) BCL2L12_S(37) BCL2L12_T(33),1.0,0.5,4,1,8,1.0,0.05438152486741038,0.546790036485115

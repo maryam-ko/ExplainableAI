@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACTA1_S(370) ACTA1_T(305),1.0,0.5,3,1,8,1.0,0.0086952489966799,0.1641557582517687

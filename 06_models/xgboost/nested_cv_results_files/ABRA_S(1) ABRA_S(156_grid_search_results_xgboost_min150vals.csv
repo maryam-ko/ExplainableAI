@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABRA_S(1) ABRA_S(156) ABRA_S(188) ABRA_S(194) ABRA_S(7) ABRA_S(8) ABRA_T(158),0.8,0.5,4,5,8,1.0,0.028594554195696505,0.6521192093346666

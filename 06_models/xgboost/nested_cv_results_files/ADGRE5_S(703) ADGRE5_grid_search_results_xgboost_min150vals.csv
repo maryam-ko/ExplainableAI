@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADGRE5_S(703) ADGRE5_S(722) ADGRE5_S(811) ADGRE5_S(815) ADGRE5_S(818) ADGRE5_S(826) ADGRE5_S(831) ADGRE5_S(833) ADGRE5_T(816) ADGRE5_T(817) ADGRE5_T(820) ADGRE5_T(825),0.6,0.5,4,5,8,1.0,0.03864105804838978,0.6232328286503662

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AAK1_S(21) AAK1_S(622) AAK1_S(623) AAK1_S(624) AAK1_S(635) AAK1_S(637) AAK1_S(642) AAK1_S(652) AAK1_S(79) AAK1_S(9) AAK1_T(602) AAK1_T(606) AAK1_T(615) AAK1_T(619) AAK1_T(620),0.8,0.5,4,1,8,1.0,0.03648004182289214,0.7402568324904653

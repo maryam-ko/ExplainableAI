@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAHD1_S(101) BAHD1_S(106) BAHD1_S(108) BAHD1_S(121) BAHD1_S(180) BAHD1_S(184) BAHD1_S(306) BAHD1_S(335) BAHD1_S(679) BAHD1_S(8) BAHD1_S(85),0.8,0.5,4,5,8,1.0,0.027537011038660852,0.6510159775595794

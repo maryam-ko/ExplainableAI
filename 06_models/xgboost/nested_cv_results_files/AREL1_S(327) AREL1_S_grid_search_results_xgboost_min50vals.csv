@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AREL1_S(327) AREL1_S(337) AREL1_S(341) AREL1_T(328) AREL1_T(343),1.0,0.5,2,1,8,0.8,0.011059916166232926,0.17822897313035285

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADRA2A_S(324) ADRA2A_S(331) ADRA2A_S(339) ADRA2A_S(346) ADRA2A_T(246) ADRA2A_T(261) ADRA2A_T(344) ADRA2A_T(359),1.0,0.5,3,1,8,1.0,0.020338292195629746,0.08770355768450819

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARMCX2_S(254) ARMCX2_T(73),0.8,0.5,3,5,4,1.0,0.014609751636290717,0.2188440019201467

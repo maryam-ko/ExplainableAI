@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAD_S(118) BAD_S(134) BAD_S(86) BAD_S(97) BAD_T(137) BAD_T(80) BAD_T(86),1.0,0.5,4,5,8,1.0,0.02398225170195894,0.7153926548734824

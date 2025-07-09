@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCLAF3_S(100) BCLAF3_S(139) BCLAF3_S(15) BCLAF3_S(17) BCLAF3_S(189) BCLAF3_S(3) BCLAF3_S(489) BCLAF3_S(73) BCLAF3_S(78) BCLAF3_S(80) BCLAF3_Y(91),1.0,0.5,4,1,8,0.8,0.02317094209614015,0.7519841271381444

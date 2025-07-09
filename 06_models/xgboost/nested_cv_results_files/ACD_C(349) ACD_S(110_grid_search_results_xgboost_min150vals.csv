@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACD_C(349) ACD_S(110) ACD_S(111) ACD_S(25) ACD_S(336) ACD_S(346) ACD_S(349) ACD_S(416) ACD_S(422) ACD_S(424) ACD_S(425) ACD_S(433) ACD_S(435) ACD_S(442) ACD_T(108),1.0,0.5,4,1,8,1.0,0.01643604284420803,0.7988881468518501

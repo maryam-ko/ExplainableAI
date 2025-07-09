@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGEF6_S(124) ARHGEF6_S(150) ARHGEF6_S(2) ARHGEF6_S(262) ARHGEF6_S(518) ARHGEF6_S(525) ARHGEF6_S(530) ARHGEF6_S(613) ARHGEF6_S(7),1.0,0.5,4,1,2,1.0,0.017650453319304725,0.1379772875294966

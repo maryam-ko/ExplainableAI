@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASH2L_S(2825) ASH2L_S(291) ASH2L_S(316) ASH2L_S(623) ASH2L_S(92) ASH2L_T(97),1.0,0.5,2,1,8,1.0,0.021014946398913225,0.2459025094612925

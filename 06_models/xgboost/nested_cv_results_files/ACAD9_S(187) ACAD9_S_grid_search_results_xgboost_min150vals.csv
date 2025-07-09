@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACAD9_S(187) ACAD9_S(23) ACAD9_S(237) ACAD9_S(474),0.8,0.5,4,1,4,1.0,0.027291934634524073,0.19380739523613552

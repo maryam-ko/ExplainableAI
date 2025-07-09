@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATG9A_S(3) ATG9A_S(653) ATG9A_S(675) ATG9A_S(735) ATG9A_S(738) ATG9A_S(741) ATG9A_S(761) ATG9A_S(8) ATG9A_T(671),1.0,0.5,3,10,8,1.0,0.0191317116616375,0.08043156172709806

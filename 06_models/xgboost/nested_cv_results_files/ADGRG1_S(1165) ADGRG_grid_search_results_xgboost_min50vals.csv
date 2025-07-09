@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADGRG1_S(1165) ADGRG1_S(201) ADGRG1_S(515) ADGRG1_S(684) ADGRG1_S(687),0.6,0.5,1,1,8,0.6,0.017402723477018486,-0.013477715707574367

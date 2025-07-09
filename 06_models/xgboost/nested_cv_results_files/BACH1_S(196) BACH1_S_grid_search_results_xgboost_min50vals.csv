@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BACH1_S(196) BACH1_S(211) BACH1_S(297) BACH1_S(387) BACH1_S(388) BACH1_S(417) BACH1_S(441) BACH1_S(445) BACH1_S(688) BACH1_S(718),0.8,0.5,4,5,8,1.0,0.046487951140077255,0.4229522258636556

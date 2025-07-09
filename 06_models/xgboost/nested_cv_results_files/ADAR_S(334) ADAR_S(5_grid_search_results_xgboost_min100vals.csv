@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADAR_S(334) ADAR_S(599) ADAR_S(605) ADAR_S(614) ADAR_S(622) ADAR_S(629) ADAR_S(657) ADAR_S(823) ADAR_S(825) ADAR_S(843) ADAR_T(132) ADAR_T(306) ADAR_T(349) ADAR_T(595) ADAR_T(601) ADAR_T(603) ADAR_T(619) ADAR_T(808),1.0,0.5,4,1,8,1.0,0.037018655882169016,0.6742559830072063

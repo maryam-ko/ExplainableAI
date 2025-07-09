@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARPP21_S(1) ARPP21_S(238) ARPP21_S(33) ARPP21_S(348) ARPP21_S(364) ARPP21_S(383) ARPP21_S(395) ARPP21_S(410) ARPP21_S(562) ARPP21_S(88) ARPP21_T(381),0.8,0.5,4,1,8,1.0,0.027395623198579164,0.3138428171531599

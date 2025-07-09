@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AXL_C(875) AXL_C(884) AXL_S(612) AXL_S(884) AXL_Y(472) AXL_Y(693) AXL_Y(694) AXL_Y(857),0.6,0.5,3,5,8,1.0,0.01838328812848768,0.52073599130114

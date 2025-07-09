@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AUTS2_S(1174) AUTS2_S(1196) AUTS2_S(1197) AUTS2_S(1198) AUTS2_S(1232) AUTS2_S(319) AUTS2_S(938) AUTS2_S(956),0.6,0.5,1,1,8,0.8,0.01820813398010181,0.059342189108924595

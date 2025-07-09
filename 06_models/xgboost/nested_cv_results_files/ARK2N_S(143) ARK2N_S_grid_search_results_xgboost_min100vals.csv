@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARK2N_S(143) ARK2N_S(144) ARK2N_S(145) ARK2N_S(147) ARK2N_S(16) ARK2N_S(299) ARK2N_S(327) ARK2N_S(34) ARK2N_S(39) ARK2N_S(66) ARK2N_S(67) ARK2N_S(69) ARK2N_S(73) ARK2N_S(76) ARK2N_T(27),1.0,0.5,4,1,8,1.0,0.026576272491213852,0.7584497084742289

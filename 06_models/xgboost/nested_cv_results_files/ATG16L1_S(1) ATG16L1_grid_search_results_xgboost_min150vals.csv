@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATG16L1_S(1) ATG16L1_S(143) ATG16L1_S(255) ATG16L1_S(268) ATG16L1_S(269) ATG16L1_S(278) ATG16L1_S(287) ATG16L1_S(331) ATG16L1_S(70),1.0,0.5,4,1,8,1.0,0.022149745322360047,0.6583012802683997

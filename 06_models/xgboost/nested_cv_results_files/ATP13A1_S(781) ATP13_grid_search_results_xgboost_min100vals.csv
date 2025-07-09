@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP13A1_S(781) ATP13A1_S(787) ATP13A1_S(817) ATP13A1_S(827) ATP13A1_S(897) ATP13A1_S(899) ATP13A1_S(901) ATP13A1_S(905) ATP13A1_S(935),0.6,0.5,4,5,8,1.0,0.027132325282928874,0.4194261059403594

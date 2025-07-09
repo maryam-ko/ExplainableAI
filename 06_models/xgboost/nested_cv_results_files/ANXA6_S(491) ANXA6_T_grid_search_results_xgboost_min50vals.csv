@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANXA6_S(491) ANXA6_T(273) ANXA6_Y(302),0.6,0.5,1,1,6,0.8,0.010382138087109543,-0.009736919751098139

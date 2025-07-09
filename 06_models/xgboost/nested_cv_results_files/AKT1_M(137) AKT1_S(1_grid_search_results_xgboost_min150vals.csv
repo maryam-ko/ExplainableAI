@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKT1_M(137) AKT1_S(122) AKT1_S(124) AKT1_S(126) AKT1_S(129) AKT1_S(134) AKT1_S(137) AKT1_S(411) AKT1_S(413) AKT1_S(415) AKT1_S(422) AKT1_S(477) AKT1_S(62) AKT1_S(64) AKT1_S(67) AKT1_S(75) AKT1_S(8) AKT1_T(450) AKT1_T(479),0.8,0.5,4,10,8,1.0,0.030698822806246896,0.7571830313842502

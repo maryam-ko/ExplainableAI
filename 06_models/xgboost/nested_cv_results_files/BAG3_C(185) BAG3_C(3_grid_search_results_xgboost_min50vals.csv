@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAG3_C(185) BAG3_C(377) BAG3_C(385) BAG3_C(386) BAG3_S(136) BAG3_S(179) BAG3_S(2) BAG3_S(268) BAG3_S(5),0.6,0.5,4,5,8,1.0,0.04678044933330061,0.563479154736261

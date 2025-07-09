@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATE1_S(118) ATE1_S(169) ATE1_S(179),0.8,0.5,4,1,8,1.0,0.017207895408123654,0.47641144311605677

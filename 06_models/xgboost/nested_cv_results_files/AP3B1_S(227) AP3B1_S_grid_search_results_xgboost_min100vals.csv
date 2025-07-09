@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AP3B1_S(227) AP3B1_S(609) AP3B1_S(750) AP3B1_S(752) AP3B1_Y(274),0.8,0.5,4,10,8,1.0,0.03331452696219825,0.4637203976367383

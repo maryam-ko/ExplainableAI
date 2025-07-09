@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AFG2A_S(13) AFG2A_S(274) AFG2A_S(34) AFG2A_T(251) AFG2A_T(304),1.0,0.5,4,10,8,1.0,0.022267029052304464,0.35066936283502564

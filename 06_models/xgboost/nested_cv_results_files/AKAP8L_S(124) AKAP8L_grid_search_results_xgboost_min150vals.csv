@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKAP8L_S(124) AKAP8L_S(249) AKAP8L_S(278) AKAP8L_S(283) AKAP8L_S(326) AKAP8L_S(544) AKAP8L_S(552),0.6,0.5,4,1,8,1.0,0.02723858960400733,0.7090333674144518

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKT2_S(11) AKT2_S(447) AKT2_T(451) AKT2_T(468) AKT2_Y(122),1.0,0.5,4,1,8,0.8,0.03953107928059037,0.31034032171196274

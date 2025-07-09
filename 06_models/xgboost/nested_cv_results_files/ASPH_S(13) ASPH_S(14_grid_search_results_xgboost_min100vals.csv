@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASPH_S(13) ASPH_S(14) ASPH_S(18) ASPH_S(20) ASPH_S(24) ASPH_S(27) ASPH_S(28) ASPH_S(29),1.0,0.5,4,1,8,1.0,0.028135303479198535,0.37047428391561876

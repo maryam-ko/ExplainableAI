@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AIF1L_S(126) AIF1L_S(2) AIF1L_S(5),0.6,0.5,1,1,2,0.8,0.009885923018603573,-0.006641334843869906

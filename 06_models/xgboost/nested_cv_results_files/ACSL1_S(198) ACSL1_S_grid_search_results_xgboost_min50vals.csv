@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACSL1_S(198) ACSL1_S(216) ACSL1_S(388) ACSL1_S(389) ACSL1_S(6) ACSL1_S(620) ACSL1_S(630) ACSL1_T(20),0.6,0.5,2,1,2,1.0,0.021479787948553413,0.12305420469566633

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKR7A2_S(210) AKR7A2_S(255) AKR7A2_S(9),1.0,0.5,4,5,8,1.0,0.02012337752593536,0.5180112327624962

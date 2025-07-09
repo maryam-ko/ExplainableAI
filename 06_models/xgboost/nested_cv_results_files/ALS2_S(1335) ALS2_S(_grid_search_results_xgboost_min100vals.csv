@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ALS2_S(1335) ALS2_S(1460) ALS2_S(1464) ALS2_S(3) ALS2_S(353) ALS2_S(466) ALS2_S(483) ALS2_S(489) ALS2_S(492) ALS2_S(5) ALS2_S(6) ALS2_T(510) ALS2_Y(1469),0.8,0.5,4,5,8,1.0,0.03947484512329627,0.7367305920516017

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKAP6_S(1570) AKAP6_S(1644) AKAP6_S(1646) AKAP6_S(1655) AKAP6_S(3) AKAP6_S(424) AKAP6_S(481) AKAP6_S(9) AKAP6_T(1632),1.0,0.5,4,1,8,1.0,0.04082094172457914,0.12287113496812767

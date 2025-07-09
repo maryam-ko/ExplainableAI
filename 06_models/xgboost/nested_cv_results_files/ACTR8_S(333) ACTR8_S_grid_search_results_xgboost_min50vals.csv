@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACTR8_S(333) ACTR8_S(412) ACTR8_S(562),1.0,0.5,4,1,8,1.0,0.020006050705150248,0.2995107333812934

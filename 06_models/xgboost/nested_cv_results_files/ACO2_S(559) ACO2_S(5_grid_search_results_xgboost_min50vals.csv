@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACO2_S(559) ACO2_S(576) ACO2_S(577) ACO2_S(584),0.8,0.5,3,10,8,0.8,0.013787820268512526,0.24352677089971206

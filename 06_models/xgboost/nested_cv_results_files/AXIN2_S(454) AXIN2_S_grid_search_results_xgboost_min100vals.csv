@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AXIN2_S(454) AXIN2_S(461) AXIN2_S(70) AXIN2_T(449),1.0,0.5,2,1,8,0.6,0.023203979912223695,0.007385337430381322

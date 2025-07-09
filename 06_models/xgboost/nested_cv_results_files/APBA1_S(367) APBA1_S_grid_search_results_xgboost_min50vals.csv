@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APBA1_S(367) APBA1_S(566) APBA1_S(573) APBA1_T(305) APBA1_T(370),0.6,0.5,1,1,4,0.6,0.013840834694934025,-0.0032062295175122823

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADD2_S(14) ADD2_S(396) ADD2_S(512) ADD2_S(528) ADD2_S(530) ADD2_S(532) ADD2_S(535) ADD2_S(60) ADD2_S(619) ADD2_S(693) ADD2_S(697) ADD2_T(675) ADD2_T(679),1.0,0.5,4,5,6,1.0,0.016069697911325564,0.6673514292711865

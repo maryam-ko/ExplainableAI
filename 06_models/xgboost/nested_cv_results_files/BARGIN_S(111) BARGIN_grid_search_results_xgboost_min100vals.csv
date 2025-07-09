@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BARGIN_S(111) BARGIN_S(198) BARGIN_S(262) BARGIN_S(318) BARGIN_S(373) BARGIN_S(549) BARGIN_T(554),0.8,0.5,4,1,6,1.0,0.017927045855546324,0.5470515537120851

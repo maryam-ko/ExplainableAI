@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCAR1_S(11) BCAR1_S(139) BCAR1_S(180) BCAR1_S(183) BCAR1_S(280) BCAR1_S(431) BCAR1_S(434) BCAR1_S(440) BCAR1_S(442) BCAR1_S(443) BCAR1_S(491) BCAR1_S(694) BCAR1_T(432) BCAR1_T(435) BCAR1_T(554),0.8,0.5,3,1,8,0.8,0.013928569700966908,0.46113455824169397

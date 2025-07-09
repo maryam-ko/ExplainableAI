@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACADVL_S(485) ACADVL_S(489) ACADVL_S(522),0.6,0.5,1,1,6,0.6,0.00532014721424251,-0.0018688228567809162

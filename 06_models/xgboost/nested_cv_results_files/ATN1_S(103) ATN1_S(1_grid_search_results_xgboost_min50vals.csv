@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATN1_S(103) ATN1_S(168) ATN1_S(30) ATN1_S(642) ATN1_S(656) ATN1_S(677) ATN1_T(666) ATN1_T(676),0.8,0.5,4,1,8,1.0,0.044015794521457145,0.20453666637769724

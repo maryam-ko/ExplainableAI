@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACACB_S(1400) ACACB_S(146) ACACB_S(192) ACACB_S(195) ACACB_S(222) ACACB_S(3) ACACB_S(37) ACACB_S(72) ACACB_T(70),0.8,0.5,3,1,8,1.0,0.023060295037775007,0.14788815775874414

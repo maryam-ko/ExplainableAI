@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AIMP2_S(305) AIMP2_T(82),1.0,0.5,2,5,6,0.8,0.015961000731440723,0.0892493462771897

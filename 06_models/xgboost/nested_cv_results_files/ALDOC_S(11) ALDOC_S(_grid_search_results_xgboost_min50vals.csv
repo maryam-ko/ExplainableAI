@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ALDOC_S(11) ALDOC_S(176) ALDOC_S(21) ALDOC_S(39) ALDOC_S(45) ALDOC_S(8) ALDOC_T(12) ALDOC_Y(3) ALDOC_Y(4),0.6,0.5,1,1,6,0.8,0.020211646721274616,-0.009514314965473458

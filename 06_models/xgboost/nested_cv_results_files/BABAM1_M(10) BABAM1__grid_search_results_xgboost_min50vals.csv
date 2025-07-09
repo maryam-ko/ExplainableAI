@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BABAM1_M(10) BABAM1_M(8) BABAM1_S(29) BABAM1_S(7) BABAM1_S(8) BABAM1_T(10),1.0,0.5,4,5,8,1.0,0.05085502043919038,0.6418277848610259

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMPH_S(262) AMPH_S(276) AMPH_S(285) AMPH_T(260) AMPH_T(310),1.0,0.5,3,1,8,0.6,0.011038344384699491,0.1728902843167436

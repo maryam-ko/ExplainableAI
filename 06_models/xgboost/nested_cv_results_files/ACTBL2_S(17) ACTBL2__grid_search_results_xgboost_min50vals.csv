@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACTBL2_S(17) ACTBL2_T(325) ACTBL2_Y(54),1.0,0.5,1,1,8,0.8,0.0076547407365741395,0.13167812622757727

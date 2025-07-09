@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADGRA2_S(1107) ADGRA2_S(1293) ADGRA2_S(1294) ADGRA2_S(987) ADGRA2_S(989) ADGRA2_S(991),0.6,0.5,1,1,2,0.6,0.010015806517799647,-0.014824238213848772

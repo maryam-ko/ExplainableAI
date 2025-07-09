@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATAT1_S(249) ATAT1_S(253) ATAT1_S(270) ATAT1_S(272) ATAT1_S(276) ATAT1_S(292) ATAT1_S(315) ATAT1_S(603) ATAT1_T(261),1.0,0.5,4,10,8,1.0,0.02495505375484134,0.7444924113198702

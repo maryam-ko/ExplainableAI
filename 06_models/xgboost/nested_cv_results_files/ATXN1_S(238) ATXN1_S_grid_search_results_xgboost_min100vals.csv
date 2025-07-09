@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATXN1_S(238) ATXN1_S(253) ATXN1_S(26) ATXN1_S(3) ATXN1_S(366) ATXN1_S(4) ATXN1_S(403) ATXN1_S(406) ATXN1_S(408) ATXN1_S(772) ATXN1_S(775) ATXN1_S(811) ATXN1_S(82) ATXN1_S(88) ATXN1_S(91) ATXN1_T(235) ATXN1_T(257),0.8,0.5,4,5,8,1.0,0.0463616239673165,0.5090602501436621

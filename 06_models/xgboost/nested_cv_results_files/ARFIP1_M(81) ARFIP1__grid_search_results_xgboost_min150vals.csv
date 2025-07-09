@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARFIP1_M(81) ARFIP1_S(261) ARFIP1_S(28) ARFIP1_S(36) ARFIP1_S(44) ARFIP1_S(69) ARFIP1_S(76) ARFIP1_S(79) ARFIP1_S(93),1.0,0.5,4,5,8,1.0,0.03020445140901534,0.35198150129607

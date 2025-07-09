@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AHI1_S(1123) AHI1_S(1127) AHI1_S(331) AHI1_T(145) AHI1_T(60),0.8,0.5,2,1,4,1.0,0.02013571672609602,0.20146123882080363

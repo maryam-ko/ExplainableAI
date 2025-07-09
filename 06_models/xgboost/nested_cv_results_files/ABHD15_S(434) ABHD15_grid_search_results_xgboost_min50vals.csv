@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABHD15_S(434) ABHD15_T(151),0.8,0.5,4,1,8,0.6,0.016362798276664207,-0.023322024232644355

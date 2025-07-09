@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCL11A_C(608) BCL11A_S(205) BCL11A_S(327) BCL11A_S(328) BCL11A_S(332) BCL11A_S(430) BCL11A_S(605) BCL11A_S(608) BCL11A_S(627) BCL11A_S(718) BCL11A_S(79) BCL11A_S(88) BCL11A_T(722),0.6,0.5,4,1,8,1.0,0.02006428442447986,0.7187296982357626

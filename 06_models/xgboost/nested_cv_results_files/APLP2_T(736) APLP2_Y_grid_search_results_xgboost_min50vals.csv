@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APLP2_T(736) APLP2_Y(750) APLP2_Y(755),1.0,0.5,1,1,6,0.8,0.006219070708083831,0.22393578060564487

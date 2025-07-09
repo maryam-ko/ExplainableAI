@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACBD5_S(144) ACBD5_S(183) ACBD5_S(185) ACBD5_S(189) ACBD5_S(191) ACBD5_S(215) ACBD5_S(253) ACBD5_S(261) ACBD5_S(300) ACBD5_S(434) ACBD5_T(282),1.0,0.5,4,1,8,0.8,0.02491244095144196,0.05533077699915643

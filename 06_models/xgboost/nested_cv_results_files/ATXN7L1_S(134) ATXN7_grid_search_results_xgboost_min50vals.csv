@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATXN7L1_S(134) ATXN7L1_S(287) ATXN7L1_S(38),0.6,0.5,3,1,8,1.0,0.0061952005161421625,0.6643800361347248

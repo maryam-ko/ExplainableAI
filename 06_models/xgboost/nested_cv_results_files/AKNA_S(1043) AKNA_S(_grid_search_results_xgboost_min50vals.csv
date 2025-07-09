@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKNA_S(1043) AKNA_S(1102) AKNA_S(131) AKNA_S(1387) AKNA_S(1414) AKNA_S(1436) AKNA_S(935) AKNA_S(996) AKNA_T(982),0.6,0.5,2,1,8,1.0,0.008779178034203285,0.4239990668482566

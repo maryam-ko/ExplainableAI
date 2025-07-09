@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATF7IP2_S(125) ATF7IP2_S(3) ATF7IP2_S(413) ATF7IP2_S(488),1.0,0.5,4,1,2,1.0,0.010085841373482226,0.2869365522491501

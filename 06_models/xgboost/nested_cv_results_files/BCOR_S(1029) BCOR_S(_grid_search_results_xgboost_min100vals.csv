@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCOR_S(1029) BCOR_S(1121) BCOR_S(177) BCOR_S(418) BCOR_S(419) BCOR_S(423) BCOR_S(564) BCOR_S(648) BCOR_T(1129),0.6,0.5,4,1,8,1.0,0.03378242634682561,0.634970367873956

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARCN1_S(220) ARCN1_S(493) ARCN1_S(534) ARCN1_T(437),0.6,0.5,4,5,8,1.0,0.02323862660391953,0.3730755967617083

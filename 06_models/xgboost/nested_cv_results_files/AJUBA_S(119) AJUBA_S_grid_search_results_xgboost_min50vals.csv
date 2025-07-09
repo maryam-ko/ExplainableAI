@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AJUBA_S(119) AJUBA_S(121) AJUBA_S(136) AJUBA_S(175) AJUBA_S(182) AJUBA_S(230) AJUBA_S(237) AJUBA_S(263) AJUBA_S(270) AJUBA_S(69) AJUBA_S(79) AJUBA_T(114) AJUBA_T(53) AJUBA_Y(270) AJUBA_Y(85),1.0,0.5,4,5,6,1.0,0.06089723557360257,0.29577537100274665

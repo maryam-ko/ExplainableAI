@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AFF1_S(203) AFF1_S(206) AFF1_S(213) AFF1_S(219) AFF1_S(314) AFF1_S(722) AFF1_T(704),0.6,0.5,2,1,2,0.8,0.037648615336875565,0.03992901628724097

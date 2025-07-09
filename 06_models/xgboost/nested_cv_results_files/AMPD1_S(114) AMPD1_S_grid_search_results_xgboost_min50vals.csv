@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMPD1_S(114) AMPD1_S(121) AMPD1_S(134) AMPD1_S(135) AMPD1_S(4) AMPD1_S(5) AMPD1_S(553) AMPD1_S(8) AMPD1_T(1) AMPD1_T(13) AMPD1_T(2) AMPD1_Y(1) AMPD1_Y(10) AMPD1_Y(2) AMPD1_Y(235) AMPD1_Y(3) AMPD1_Y(352) AMPD1_Y(448),0.6,0.5,3,1,8,1.0,0.02445841116081392,0.11283793363470511

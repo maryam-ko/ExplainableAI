@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKR1B1_S(215) AKR1B1_S(23) AKR1B1_S(283) AKR1B1_S(3) AKR1B1_S(98) AKR1B1_T(244) AKR1B1_T(245) AKR1B1_T(287) AKR1B1_T(29) AKR1B1_Y(178),1.0,0.5,3,1,8,1.0,0.0269161475178428,0.17436829466910336

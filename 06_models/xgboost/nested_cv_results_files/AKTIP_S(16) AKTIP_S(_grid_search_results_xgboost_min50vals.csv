@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKTIP_S(16) AKTIP_S(30) AKTIP_T(8),1.0,0.5,1,10,8,0.8,0.016990433904964616,0.05677500961977198

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGAP6_S(551) ARHGAP6_S(820) ARHGAP6_S(931),0.8,0.5,3,1,8,1.0,0.016701339191475564,0.10573221656362705

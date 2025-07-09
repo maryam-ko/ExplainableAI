@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AAAS_S(2) AAAS_S(33) AAAS_S(371) AAAS_S(462) AAAS_S(495) AAAS_S(541) AAAS_T(57),1.0,0.5,4,5,8,1.0,0.03687476356309908,0.3894117535114531

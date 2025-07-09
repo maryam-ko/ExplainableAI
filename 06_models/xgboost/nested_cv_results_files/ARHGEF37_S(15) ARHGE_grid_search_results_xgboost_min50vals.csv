@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGEF37_S(15) ARHGEF37_S(665) ARHGEF37_T(242),0.6,0.5,1,1,2,1.0,0.016258725584049828,-0.004092583702428687

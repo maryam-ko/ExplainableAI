@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AP1AR_S(147) AP1AR_S(148) AP1AR_S(175) AP1AR_S(226) AP1AR_S(29) AP1AR_T(178) AP1AR_T(195) AP1AR_T(228) AP1AR_Y(165),0.8,0.5,4,1,8,1.0,0.02867793086450742,0.3425265516271844

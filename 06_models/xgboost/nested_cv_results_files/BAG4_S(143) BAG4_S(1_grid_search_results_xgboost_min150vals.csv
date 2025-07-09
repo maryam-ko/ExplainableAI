@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAG4_S(143) BAG4_S(174) BAG4_S(179) BAG4_S(245) BAG4_S(26) BAG4_S(289) BAG4_S(7) BAG4_Y(17) BAG4_Y(270),0.8,0.5,4,1,8,1.0,0.022267736706654922,0.6892224683834269

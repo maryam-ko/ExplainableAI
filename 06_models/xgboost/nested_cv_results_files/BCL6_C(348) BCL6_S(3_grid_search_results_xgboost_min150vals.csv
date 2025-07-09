@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BCL6_C(348) BCL6_S(330) BCL6_S(334) BCL6_S(343) BCL6_S(404) BCL6_S(464) BCL6_T(345),0.6,0.5,3,1,8,1.0,0.017422192619941025,0.6831826561382301

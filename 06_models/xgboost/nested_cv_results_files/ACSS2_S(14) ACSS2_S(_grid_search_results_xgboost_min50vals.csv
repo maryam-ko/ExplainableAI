@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ACSS2_S(14) ACSS2_S(27) ACSS2_S(30),1.0,0.5,4,1,8,1.0,0.04510152751739998,0.7248415609956818

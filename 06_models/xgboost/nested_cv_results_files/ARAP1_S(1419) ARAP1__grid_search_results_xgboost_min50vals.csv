@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARAP1_S(1419) ARAP1_S(1435) ARAP1_S(428) ARAP1_S(70) ARAP1_S(738) ARAP1_S(91) ARAP1_T(97),0.6,0.5,2,1,4,1.0,0.006228544879064073,0.10335313715314583

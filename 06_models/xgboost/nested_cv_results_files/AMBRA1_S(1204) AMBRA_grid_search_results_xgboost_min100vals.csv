@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMBRA1_S(1204) AMBRA1_S(52) AMBRA1_S(639),1.0,0.5,4,1,8,1.0,0.020185581323240914,0.6791572178232091

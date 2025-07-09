@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARL2BP_S(142) ARL2BP_S(153) ARL2BP_S(157),0.6,0.5,3,1,8,0.8,0.015493521456371988,0.3535192446340697

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATM_S(1881) ATM_S(1891) ATM_S(1981) ATM_S(2242) ATM_S(2685) ATM_S(2996) ATM_S(367) ATM_S(83) ATM_S(85) ATM_T(1885) ATM_T(2228) ATM_T(2666) ATM_T(2674) ATM_T(2682) ATM_Y(2677) ATM_Y(380),0.8,0.5,3,10,8,1.0,0.03972562229051951,0.2875025520185856

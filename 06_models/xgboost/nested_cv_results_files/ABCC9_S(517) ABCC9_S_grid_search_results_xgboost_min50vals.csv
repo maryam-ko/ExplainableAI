@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABCC9_S(517) ABCC9_S(658) ABCC9_T(521) ABCC9_T(659),0.6,0.5,1,10,6,0.8,0.014246130779086002,0.1690984531581651

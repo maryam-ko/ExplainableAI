@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APOO_S(44) APOO_S(8),0.6,0.5,1,1,8,0.8,0.017848402535256252,-0.013570920960115052

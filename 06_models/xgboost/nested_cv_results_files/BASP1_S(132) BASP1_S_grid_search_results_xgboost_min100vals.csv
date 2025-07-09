@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BASP1_S(132) BASP1_S(176) BASP1_S(177) BASP1_S(182) BASP1_S(183) BASP1_T(12) BASP1_T(25) BASP1_T(31),1.0,0.5,2,1,2,1.0,0.01902840786663146,0.10592139967462606

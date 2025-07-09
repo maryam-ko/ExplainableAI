@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGO2_S(384) AGO2_S(387) AGO2_T(390),1.0,0.5,4,5,8,0.8,0.019240789535994573,0.466026310061893

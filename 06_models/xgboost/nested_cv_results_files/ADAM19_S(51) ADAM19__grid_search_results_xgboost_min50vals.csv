@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADAM19_S(51) ADAM19_S(747) ADAM19_S(802) ADAM19_S(818) ADAM19_S(880) ADAM19_T(779),1.0,0.5,3,1,8,0.6,0.011289301557920803,0.32477952274813215

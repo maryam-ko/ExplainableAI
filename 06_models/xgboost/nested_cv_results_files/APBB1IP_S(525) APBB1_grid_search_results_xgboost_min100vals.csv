@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APBB1IP_S(525) APBB1IP_S(526) APBB1IP_S(531),0.6,0.5,4,1,4,1.0,0.037524496648707655,0.21821377227968314

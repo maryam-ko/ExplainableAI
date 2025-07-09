@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANP32A_S(17) ANP32A_S(27) ANP32A_S(77) ANP32A_T(143) ANP32A_T(15) ANP32A_T(3),1.0,0.5,4,1,8,0.8,0.022011975065316953,0.5083755067514234

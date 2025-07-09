@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ABL2_S(3) ABL2_S(31) ABL2_S(619) ABL2_S(634) ABL2_S(785) ABL2_S(787) ABL2_S(808) ABL2_S(822) ABL2_S(930) ABL2_T(664) ABL2_Y(231),0.6,0.5,1,1,8,0.6,0.004910845711757382,0.07837009530165502

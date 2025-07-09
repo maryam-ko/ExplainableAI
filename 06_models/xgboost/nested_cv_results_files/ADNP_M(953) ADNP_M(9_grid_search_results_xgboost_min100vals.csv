@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADNP_M(953) ADNP_M(955) ADNP_S(1000) ADNP_S(1003) ADNP_S(11) ADNP_S(363) ADNP_S(365) ADNP_S(393) ADNP_S(408) ADNP_S(411) ADNP_S(413) ADNP_S(693) ADNP_S(7) ADNP_S(736) ADNP_S(740) ADNP_S(772) ADNP_S(904) ADNP_T(769),0.8,0.5,4,1,6,1.0,0.017579176695999732,0.2730325189962241

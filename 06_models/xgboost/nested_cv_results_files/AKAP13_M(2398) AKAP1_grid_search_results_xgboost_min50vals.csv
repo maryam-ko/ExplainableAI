@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKAP13_M(2398) AKAP13_S(1) AKAP13_S(11) AKAP13_S(1123) AKAP13_S(1179) AKAP13_S(1556) AKAP13_S(1895) AKAP13_S(2730) AKAP13_S(345) AKAP13_T(1142),0.8,0.5,2,1,2,1.0,0.006072875474801658,0.10976087458137813

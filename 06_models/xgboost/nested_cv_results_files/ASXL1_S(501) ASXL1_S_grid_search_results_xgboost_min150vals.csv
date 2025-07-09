@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASXL1_S(501) ASXL1_S(503) ASXL1_S(526),1.0,0.5,3,1,8,0.8,0.02852100438279276,0.41930910211048805

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANKS4B_S(182) ANKS4B_S(196) ANKS4B_S(283) ANKS4B_T(215),0.6,0.5,1,1,2,1.0,0.017586719722855377,-0.0026122499436728396

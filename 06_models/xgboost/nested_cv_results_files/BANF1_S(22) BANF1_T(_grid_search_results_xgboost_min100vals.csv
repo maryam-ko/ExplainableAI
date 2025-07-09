@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BANF1_S(22) BANF1_T(3),1.0,0.5,4,5,2,1.0,0.024001932829992512,0.16772676984812096

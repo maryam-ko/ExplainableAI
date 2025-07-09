@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+APRT_S(15) APRT_S(30) APRT_S(4),0.6,0.5,2,10,8,1.0,0.015658802877783342,0.19546397098729565

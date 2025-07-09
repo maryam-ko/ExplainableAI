@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASS1_T(174) ASS1_T(219) ASS1_Y(133),1.0,0.5,2,1,6,0.6,0.021757392260134144,-0.003510371521326028

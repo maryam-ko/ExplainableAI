@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAG2_S(20) BAG2_S(3) BAG2_T(83),0.8,0.5,4,1,8,0.8,0.03106356368317662,0.1513774722757169

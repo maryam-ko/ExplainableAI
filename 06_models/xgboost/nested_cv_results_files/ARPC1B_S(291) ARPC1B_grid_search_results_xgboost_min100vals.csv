@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARPC1B_S(291) ARPC1B_S(310) ARPC1B_S(311) ARPC1B_S(336) ARPC1B_T(315) ARPC1B_T(80),0.8,0.5,3,1,8,1.0,0.03082570956722159,0.39912804055689594

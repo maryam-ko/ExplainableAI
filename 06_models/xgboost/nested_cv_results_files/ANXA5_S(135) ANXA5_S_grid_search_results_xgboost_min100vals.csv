@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ANXA5_S(135) ANXA5_S(136) ANXA5_S(37) ANXA5_S(4) ANXA5_T(118) ANXA5_T(23) ANXA5_Y(133) ANXA5_Y(257) ANXA5_Y(94),1.0,0.5,4,10,6,1.0,0.033415938511521984,0.29570243809882013

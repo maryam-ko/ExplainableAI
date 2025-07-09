@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGEF15_S(107) ARHGEF15_S(109) ARHGEF15_S(3) ARHGEF15_S(41) ARHGEF15_S(42) ARHGEF15_S(93),0.8,0.5,2,1,8,1.0,0.008811608881382837,0.3555870957186118

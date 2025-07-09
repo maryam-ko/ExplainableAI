@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AKAP5_S(148) AKAP5_S(151) AKAP5_S(177) AKAP5_S(178) AKAP5_S(18) AKAP5_S(187) AKAP5_S(22) AKAP5_T(179) AKAP5_Y(294),1.0,0.5,4,1,8,1.0,0.021630850140427472,0.5986352844939429

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARID5A_S(256) ARID5A_S(297) ARID5A_S(300) ARID5A_S(463) ARID5A_T(313),0.6,0.5,1,1,8,0.6,0.008964880986337293,-0.0037879544626107987

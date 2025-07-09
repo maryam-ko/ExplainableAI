@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADCY9_S(1257) ADCY9_S(1259) ADCY9_S(1269) ADCY9_S(1307) ADCY9_S(354) ADCY9_S(365) ADCY9_S(38) ADCY9_S(49) ADCY9_S(610) ADCY9_S(611) ADCY9_S(688) ADCY9_S(691) ADCY9_S(706),0.6,0.5,4,1,8,1.0,0.03254066444227256,0.6064881210008769

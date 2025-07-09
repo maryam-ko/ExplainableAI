@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AGTPBP1_S(103) AGTPBP1_S(1128) AGTPBP1_S(319),0.8,0.5,3,1,6,0.8,0.031219470959633962,0.10761187218687471
