@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLN6_S(23) CLN6_S(28) CLN6_S(3) CLN6_S(31),0.6,0.5,4,1,8,1.0,0.03169422684575246,0.5687137744475568

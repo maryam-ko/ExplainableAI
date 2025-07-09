@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FZD6_C(620) FZD6_S(526) FZD6_S(588) FZD6_S(592) FZD6_S(597) FZD6_S(6) FZD6_S(620) FZD6_S(621) FZD6_S(624) FZD6_S(626) FZD6_S(629) FZD6_S(647) FZD6_S(653) FZD6_S(656),1.0,0.5,4,5,8,0.8,0.022763889882336404,0.5959862376482188

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR11_S(1216) WDR11_S(205) WDR11_S(209) WDR11_S(402) WDR11_S(515) WDR11_S(960) WDR11_T(214) WDR11_T(217) WDR11_T(219) WDR11_T(5),1.0,0.5,4,5,8,1.0,0.038998477271964635,0.7782209826945301

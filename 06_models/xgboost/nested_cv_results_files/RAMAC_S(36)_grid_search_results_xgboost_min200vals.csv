@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAMAC_S(36),0.6,0.5,4,1,8,1.0,0.041570229832184454,0.5592817699424397

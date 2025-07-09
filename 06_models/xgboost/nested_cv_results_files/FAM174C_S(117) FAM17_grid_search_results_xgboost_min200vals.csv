@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM174C_S(117) FAM174C_S(120),1.0,0.5,4,10,8,1.0,0.049193130236719666,0.26452493138881666

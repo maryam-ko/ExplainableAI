@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NGDN_S(135) NGDN_S(142) NGDN_S(143) NGDN_S(202) NGDN_S(214),1.0,0.5,4,1,8,1.0,0.025825213512453826,0.74641538553641

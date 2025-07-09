@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TLN2_S(2172) TLN2_S(428) TLN2_S(449) TLN2_S(461) TLN2_S(473) TLN2_T(1843) TLN2_T(2032) TLN2_T(2041) TLN2_T(3) TLN2_T(5),0.8,0.5,4,1,8,1.0,0.035734125284524625,0.7127530808046678

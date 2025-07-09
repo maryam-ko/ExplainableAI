@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX41_S(21) DDX41_S(23) DDX41_S(39) DDX41_S(41) DDX41_S(55) DDX41_S(619) DDX41_S(66) DDX41_S(68) DDX41_S(84) DDX41_S(86) DDX41_T(13) DDX41_T(320) DDX41_Y(33),0.8,0.5,4,1,8,1.0,0.03776375712784729,0.6243925335575259

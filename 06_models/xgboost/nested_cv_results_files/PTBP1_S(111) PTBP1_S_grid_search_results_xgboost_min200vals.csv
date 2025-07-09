@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTBP1_S(111) PTBP1_S(131) PTBP1_S(140) PTBP1_S(141) PTBP1_S(16) PTBP1_S(4) PTBP1_S(433) PTBP1_S(459) PTBP1_S(490) PTBP1_S(58) PTBP1_T(122) PTBP1_T(138) PTBP1_Y(127) PTBP1_Y(97),0.6,0.5,4,1,8,1.0,0.01669403700075792,0.7706390248226549

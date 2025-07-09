@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PITPNB_S(262) PITPNB_T(266),1.0,0.5,4,1,8,1.0,0.03914739079800153,0.6272386917020784

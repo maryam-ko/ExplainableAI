@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATAD1_S(317) ATAD1_S(319) ATAD1_S(322) ATAD1_T(318),0.8,0.5,4,5,8,1.0,0.040166844209367836,0.6764690418916548

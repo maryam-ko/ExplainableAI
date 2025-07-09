@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM8A_M(54) RBM8A_M(56) RBM8A_S(165) RBM8A_S(166) RBM8A_S(168) RBM8A_S(24) RBM8A_S(36) RBM8A_S(38) RBM8A_S(4) RBM8A_S(42) RBM8A_S(46) RBM8A_S(51) RBM8A_S(56) RBM8A_Y(54),0.8,0.5,4,1,8,1.0,0.03103211773379926,0.7714694396052242

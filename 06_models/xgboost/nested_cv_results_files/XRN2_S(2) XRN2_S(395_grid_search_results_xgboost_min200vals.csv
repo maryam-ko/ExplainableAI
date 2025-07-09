@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XRN2_S(2) XRN2_S(395) XRN2_S(399) XRN2_S(423) XRN2_S(446) XRN2_S(455) XRN2_S(479) XRN2_T(433) XRN2_T(439) XRN2_T(63),1.0,0.5,4,1,6,1.0,0.02062393005615465,0.519702828160909

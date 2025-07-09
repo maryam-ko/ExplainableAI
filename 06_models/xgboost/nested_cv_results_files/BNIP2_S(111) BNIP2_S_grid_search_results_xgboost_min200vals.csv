@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BNIP2_S(111) BNIP2_S(112) BNIP2_S(114) BNIP2_S(2) BNIP2_S(3) BNIP2_T(116) BNIP2_T(119) BNIP2_T(237),0.6,0.5,4,1,8,1.0,0.033690010806519795,0.7142562214172757

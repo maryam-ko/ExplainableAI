@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TARS1_S(10) TARS1_S(281) TARS1_S(339) TARS1_S(380) TARS1_S(39) TARS1_S(499) TARS1_S(534) TARS1_S(7) TARS1_S(70) TARS1_S(702) TARS1_S(8) TARS1_S(80) TARS1_T(246) TARS1_T(657) TARS1_Y(298),0.8,0.5,4,1,6,1.0,0.029177711951888077,0.5227287301701811

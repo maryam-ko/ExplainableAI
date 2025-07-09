@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTMA_S(10) PTMA_S(2) PTMA_S(9) PTMA_T(107) PTMA_T(13) PTMA_T(14) PTMA_T(8),0.6,0.5,4,1,8,1.0,0.02889171556912099,0.8191870074813956

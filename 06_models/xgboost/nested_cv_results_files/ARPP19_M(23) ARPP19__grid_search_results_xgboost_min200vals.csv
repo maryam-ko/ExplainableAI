@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARPP19_M(23) ARPP19_S(101) ARPP19_S(20) ARPP19_S(23) ARPP19_S(29) ARPP19_S(3) ARPP19_S(63) ARPP19_S(67),1.0,0.5,4,5,8,1.0,0.04796289284243721,0.7452877650920426

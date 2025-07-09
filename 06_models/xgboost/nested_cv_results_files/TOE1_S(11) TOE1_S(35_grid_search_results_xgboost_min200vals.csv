@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOE1_S(11) TOE1_S(358) TOE1_S(5) TOE1_S(96) TOE1_S(99) TOE1_T(357),0.6,0.5,4,1,8,1.0,0.05077159907115894,0.5533755183224536

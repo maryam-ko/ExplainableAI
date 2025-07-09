@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDB2_S(23) DDB2_S(24) DDB2_S(26),1.0,0.5,4,5,8,1.0,0.034487748867189985,0.8300778636773043

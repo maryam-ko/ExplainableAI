@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CASZ1_S(1410) CASZ1_S(151) CASZ1_S(1758) CASZ1_S(356) CASZ1_S(734) CASZ1_S(741) CASZ1_S(981) CASZ1_T(54),1.0,0.5,4,1,8,1.0,0.02949393889278995,0.5666096990285195

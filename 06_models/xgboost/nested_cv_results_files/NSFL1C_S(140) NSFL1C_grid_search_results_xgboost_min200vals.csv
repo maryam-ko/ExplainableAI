@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSFL1C_S(140) NSFL1C_S(142) NSFL1C_S(176) NSFL1C_S(192) NSFL1C_S(259) NSFL1C_S(271) NSFL1C_S(272) NSFL1C_S(274) NSFL1C_S(3) NSFL1C_S(99) NSFL1C_T(270) NSFL1C_Y(167),0.8,0.5,4,10,8,0.8,0.02719665754494081,0.7139210492295696

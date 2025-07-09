@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GARS1_S(329) GARS1_S(335) GARS1_S(35) GARS1_S(423) GARS1_S(54) GARS1_S(651) GARS1_S(653) GARS1_S(7) GARS1_T(548) GARS1_T(552) GARS1_T(736),1.0,0.5,4,10,6,0.8,0.03351742690127594,0.4411444943336983

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDFY3_S(1942) WDFY3_S(1945) WDFY3_S(2275) WDFY3_S(2278) WDFY3_S(2492) WDFY3_S(3339) WDFY3_S(3501) WDFY3_S(970) WDFY3_T(818) WDFY3_Y(698) WDFY3_Y(712),1.0,0.5,4,1,8,1.0,0.027285326877829193,0.7292133408286593

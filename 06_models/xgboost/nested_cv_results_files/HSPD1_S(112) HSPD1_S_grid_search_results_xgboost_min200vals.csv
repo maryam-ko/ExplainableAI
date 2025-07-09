@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPD1_S(112) HSPD1_S(225) HSPD1_S(232) HSPD1_S(252) HSPD1_S(253) HSPD1_S(256) HSPD1_S(410) HSPD1_S(488) HSPD1_S(60) HSPD1_S(67) HSPD1_S(70) HSPD1_T(164) HSPD1_T(206) HSPD1_T(381) HSPD1_T(409) HSPD1_Y(243),0.6,0.5,4,5,8,1.0,0.039316512715195276,0.682646841468545

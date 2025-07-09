@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR70_M(638) WDR70_S(616) WDR70_S(621) WDR70_S(638) WDR70_Y(618),1.0,0.5,4,5,8,1.0,0.04967124184410904,0.4898249403051512

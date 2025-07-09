@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP10_C(226) USP10_S(14) USP10_S(16) USP10_S(226) USP10_S(274) USP10_S(341) USP10_S(363) USP10_S(375) USP10_S(403) USP10_S(556) USP10_S(563) USP10_S(718) USP10_S(88) USP10_T(205) USP10_Y(160),0.6,0.5,4,10,8,1.0,0.017893002673599372,0.5752359402280011

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JMY_S(142) JMY_S(713) JMY_S(889) JMY_S(946) JMY_S(974) JMY_Y(409),1.0,0.5,4,1,8,1.0,0.023115061042103122,0.7010259606308242

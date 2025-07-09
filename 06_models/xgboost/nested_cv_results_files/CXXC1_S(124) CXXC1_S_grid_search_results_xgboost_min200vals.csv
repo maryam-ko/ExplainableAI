@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CXXC1_S(124) CXXC1_S(136) CXXC1_S(138) CXXC1_S(143) CXXC1_S(18) CXXC1_S(19) CXXC1_S(224) CXXC1_S(264) CXXC1_S(31) CXXC1_S(6) CXXC1_T(150) CXXC1_T(227),1.0,0.5,4,1,8,1.0,0.022674693772907564,0.6928457782693416

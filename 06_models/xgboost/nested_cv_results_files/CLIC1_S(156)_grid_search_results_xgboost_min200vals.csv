@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLIC1_S(156),0.8,0.5,4,1,8,1.0,0.03009730841742478,0.4255927972199431

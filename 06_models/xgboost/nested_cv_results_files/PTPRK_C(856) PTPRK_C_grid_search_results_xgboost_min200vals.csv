@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPRK_C(856) PTPRK_C(860) PTPRK_S(1170) PTPRK_S(1171) PTPRK_S(828) PTPRK_S(830) PTPRK_S(835) PTPRK_S(840) PTPRK_S(856) PTPRK_T(837) PTPRK_T(860) PTPRK_Y(858),0.6,0.5,4,10,8,1.0,0.023063571419245307,0.7262059236151569

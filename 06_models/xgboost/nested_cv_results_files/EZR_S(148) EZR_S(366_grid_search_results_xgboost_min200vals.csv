@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EZR_S(148) EZR_S(366) EZR_S(413) EZR_S(535) EZR_S(536) EZR_S(539) EZR_T(98) EZR_Y(424),0.8,0.5,4,10,8,1.0,0.021929336998888313,0.7400666240011453

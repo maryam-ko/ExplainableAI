@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF1_S(17) EIF1_S(9) EIF1_Y(30),1.0,0.5,4,10,8,0.8,0.027399328182065877,0.47953907219417075

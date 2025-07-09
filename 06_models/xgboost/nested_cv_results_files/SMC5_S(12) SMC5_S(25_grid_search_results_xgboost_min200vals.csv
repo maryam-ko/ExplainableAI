@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMC5_S(12) SMC5_S(25) SMC5_S(35) SMC5_S(7) SMC5_S(793) SMC5_T(10),1.0,0.5,4,1,8,1.0,0.03816889800398963,0.5676559750799062

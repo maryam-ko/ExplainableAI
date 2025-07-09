@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYEF2_S(17) MYEF2_T(13),1.0,0.5,4,1,8,1.0,0.03611548799375535,0.8435104601200608

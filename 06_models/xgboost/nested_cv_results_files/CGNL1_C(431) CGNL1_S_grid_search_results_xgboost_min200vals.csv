@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CGNL1_C(431) CGNL1_S(112) CGNL1_S(1277) CGNL1_S(198) CGNL1_S(283) CGNL1_S(297) CGNL1_S(298) CGNL1_S(349) CGNL1_S(414) CGNL1_S(425) CGNL1_T(503),0.6,0.5,4,1,8,1.0,0.04155972976982855,0.21861773933590262

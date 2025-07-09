@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSH6_S(14) MSH6_S(200) MSH6_S(219) MSH6_S(226) MSH6_S(227) MSH6_S(254) MSH6_S(256) MSH6_S(261) MSH6_S(274) MSH6_S(275) MSH6_S(285) MSH6_S(41) MSH6_S(43) MSH6_S(51) MSH6_S(830) MSH6_S(91) MSH6_T(139) MSH6_T(86),1.0,0.5,4,10,8,1.0,0.031217703879285845,0.7722276981887785

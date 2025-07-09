@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPI_S(1) GPI_S(106) GPI_S(122) GPI_S(191) GPI_S(218) GPI_S(237) GPI_S(3) GPI_S(4) GPI_S(455) GPI_S(470) GPI_S(547) GPI_S(552) GPI_S(8) GPI_S(9) GPI_T(1) GPI_T(10) GPI_T(109) GPI_T(124) GPI_T(148) GPI_T(2) GPI_T(263) GPI_T(265) GPI_T(266) GPI_T(3) GPI_T(4) GPI_T(49) GPI_T(5) GPI_T(551) GPI_T(7) GPI_T(9) GPI_Y(3) GPI_Y(5),1.0,0.5,4,1,8,1.0,0.02796641132344636,0.7156050299612617

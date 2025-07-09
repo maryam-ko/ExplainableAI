@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTDSS2_S(10) PTDSS2_S(16) PTDSS2_S(17) PTDSS2_S(24) PTDSS2_S(9) PTDSS2_T(485),0.8,0.5,4,1,8,1.0,0.02571451657494447,0.7603514463368392

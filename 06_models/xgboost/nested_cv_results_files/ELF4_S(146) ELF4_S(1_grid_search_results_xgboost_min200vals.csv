@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELF4_S(146) ELF4_S(185) ELF4_S(188) ELF4_S(640) ELF4_S(641) ELF4_T(643),0.8,0.5,4,5,8,1.0,0.04635837117991359,0.5633743615693809

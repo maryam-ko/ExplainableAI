@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIPA1_S(1036) SIPA1_S(304) SIPA1_S(314) SIPA1_S(53) SIPA1_S(559) SIPA1_S(74) SIPA1_S(810) SIPA1_S(837) SIPA1_S(839) SIPA1_S(845) SIPA1_S(908) SIPA1_S(912) SIPA1_T(64) SIPA1_T(865),0.8,0.5,4,1,8,1.0,0.025634171546010633,0.7137517663924811

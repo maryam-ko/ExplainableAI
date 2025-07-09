@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDAP1_S(176) PDAP1_S(3) PDAP1_S(4) PDAP1_S(56) PDAP1_S(60) PDAP1_S(63) PDAP1_T(3) PDAP1_T(7) PDAP1_Y(70),0.8,0.5,4,10,8,1.0,0.06064379053375164,0.6595826337874107

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLTA_S(105) CLTA_S(236),0.8,0.5,4,1,6,1.0,0.026376394175214615,0.5630815599880772

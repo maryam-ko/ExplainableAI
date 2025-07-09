@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF11_S(1033) KIF11_S(36) KIF11_S(39) KIF11_S(540) KIF11_S(7) KIF11_S(8) KIF11_S(931) KIF11_S(965) KIF11_T(918) KIF11_T(923) KIF11_T(925) KIF11_T(926) KIF11_Y(399) KIF11_Y(480) KIF11_Y(66),1.0,0.5,4,1,8,1.0,0.04275906126187207,0.5235038823120022

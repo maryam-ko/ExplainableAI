@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UNG_S(23) UNG_S(63) UNG_S(64) UNG_S(67) UNG_T(60),1.0,0.5,4,10,8,1.0,0.0403392945785173,0.7312125236857486

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAPA_S(10) VAPA_S(11) VAPA_S(14) VAPA_S(153) VAPA_S(164) VAPA_S(166) VAPA_S(209) VAPA_S(211) VAPA_S(214) VAPA_S(219) VAPA_S(3) VAPA_S(65) VAPA_S(9) VAPA_T(170) VAPA_T(215),1.0,0.5,4,10,6,1.0,0.03413559984712773,0.6245135151369146

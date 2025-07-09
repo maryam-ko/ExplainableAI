@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DOCK1_S(1704) DOCK1_S(1751) DOCK1_S(1756) DOCK1_S(1758) DOCK1_S(1761) DOCK1_S(1767) DOCK1_S(204) DOCK1_T(1637) DOCK1_T(1756) DOCK1_T(1844),0.8,0.5,4,10,8,1.0,0.017954699858990515,0.7671930992439172

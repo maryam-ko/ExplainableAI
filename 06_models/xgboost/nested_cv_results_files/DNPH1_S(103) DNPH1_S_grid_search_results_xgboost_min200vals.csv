@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNPH1_S(103) DNPH1_S(12) DNPH1_S(128) DNPH1_S(13) DNPH1_S(169) DNPH1_S(197) DNPH1_S(238) DNPH1_S(28) DNPH1_S(3),1.0,0.5,4,10,8,1.0,0.04033210777169099,0.5746399856355056

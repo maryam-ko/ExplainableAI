@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP11_S(204) USP11_S(452) USP11_S(584) USP11_S(605) USP11_S(641) USP11_S(648) USP11_S(733) USP11_S(905) USP11_S(948) USP11_S(951),1.0,0.5,4,1,8,1.0,0.033566587990770724,0.6482509671568661

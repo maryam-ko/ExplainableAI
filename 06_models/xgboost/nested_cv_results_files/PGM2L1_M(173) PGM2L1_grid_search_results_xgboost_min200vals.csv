@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGM2L1_M(173) PGM2L1_M(175) PGM2L1_S(10) PGM2L1_S(165) PGM2L1_S(175) PGM2L1_T(173) PGM2L1_T(8),0.6,0.5,4,1,8,1.0,0.05011072045874675,0.597551093245185

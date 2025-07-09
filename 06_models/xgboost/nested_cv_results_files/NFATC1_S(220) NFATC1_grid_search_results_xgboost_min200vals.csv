@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFATC1_S(220) NFATC1_S(233) NFATC1_S(237) NFATC1_S(241) NFATC1_S(256) NFATC1_S(346) NFATC1_S(6) NFATC1_S(670) NFATC1_S(887),1.0,0.5,4,10,8,0.8,0.02616552857215779,0.6253389109195691

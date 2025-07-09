@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS10_S(129) RPS10_S(130) RPS10_S(146) RPS10_S(157) RPS10_S(605) RPS10_S(7) RPS10_S(8) RPS10_T(118) RPS10_T(126) RPS10_T(148) RPS10_Y(12) RPS10_Y(82),1.0,0.5,4,5,8,1.0,0.0350730802558187,0.43065494700672174

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFIP11_M(210) TFIP11_S(2) TFIP11_S(210) TFIP11_S(392) TFIP11_S(46) TFIP11_S(568) TFIP11_S(57) TFIP11_S(59) TFIP11_S(98) TFIP11_T(50) TFIP11_Y(279),0.8,0.5,4,10,8,1.0,0.05246938212631579,0.5793842106169113

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDCD5_M(119) PDCD5_S(119) PDCD5_S(57) PDCD5_S(81) PDCD5_Y(114) PDCD5_Y(125) PDCD5_Y(87),0.8,0.5,4,5,8,1.0,0.047247801450030075,0.57905939941651

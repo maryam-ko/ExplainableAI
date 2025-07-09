@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FTH1_M(183) FTH1_S(109) FTH1_S(114) FTH1_S(183),1.0,0.5,4,10,8,1.0,0.024175727819559154,0.6295337154948104

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDCL_C(293) PDCL_C(296) PDCL_S(18) PDCL_S(19) PDCL_S(20) PDCL_S(210) PDCL_S(213) PDCL_S(25) PDCL_S(293) PDCL_S(296) PDCL_S(734),0.8,0.5,4,1,8,1.0,0.029328319869822043,0.6121198504622514

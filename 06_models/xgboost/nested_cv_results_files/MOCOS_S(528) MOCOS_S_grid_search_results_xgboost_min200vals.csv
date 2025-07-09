@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MOCOS_S(528) MOCOS_S(530),1.0,0.5,4,1,6,1.0,0.03529962002140592,0.323085595285725

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRNP27_S(111) SNRNP27_S(132) SNRNP27_S(59) SNRNP27_S(61) SNRNP27_S(63) SNRNP27_S(65) SNRNP27_T(60),1.0,0.5,4,10,8,1.0,0.03410332848960434,0.46985681367228693

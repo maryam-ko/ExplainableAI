@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UFD1_S(10) UFD1_S(209) UFD1_S(217) UFD1_S(229) UFD1_S(231) UFD1_S(240) UFD1_S(245) UFD1_S(247) UFD1_S(281) UFD1_S(283) UFD1_S(294) UFD1_S(299) UFD1_S(5) UFD1_T(210) UFD1_Y(261),0.8,0.5,4,5,8,1.0,0.0270799533610612,0.7872044569150505

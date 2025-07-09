@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFAP4_C(37) TFAP4_S(114) TFAP4_S(115) TFAP4_S(121) TFAP4_S(123) TFAP4_S(124) TFAP4_S(13) TFAP4_S(139) TFAP4_S(55) TFAP4_S(64) TFAP4_T(37) TFAP4_T(8) TFAP4_Y(3),1.0,0.5,4,5,8,0.8,0.040486593191114084,0.6104728857196038

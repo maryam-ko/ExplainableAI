@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC26A6_S(47) SLC26A6_S(509) SLC26A6_S(616) SLC26A6_S(747) SLC26A6_S(752) SLC26A6_S(755) SLC26A6_T(757),1.0,0.5,4,1,6,1.0,0.02336115197621071,0.6939492555444036

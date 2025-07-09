@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAB3_S(126) TAB3_S(3) TAB3_S(357) TAB3_S(383) TAB3_S(385) TAB3_S(392) TAB3_S(4) TAB3_S(492) TAB3_S(5) TAB3_S(504) TAB3_S(506) TAB3_S(507) TAB3_S(509) TAB3_S(60) TAB3_S(645) TAB3_T(378),1.0,0.5,4,10,6,1.0,0.027068242374895628,0.5852598114298121

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPAN_S(119) PPAN_S(306) PPAN_S(355) PPAN_S(359),0.8,0.5,4,10,8,1.0,0.03739040215392307,0.8059415315945404

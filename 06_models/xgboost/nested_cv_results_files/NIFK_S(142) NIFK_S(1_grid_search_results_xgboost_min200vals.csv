@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NIFK_S(142) NIFK_S(145) NIFK_S(218) NIFK_S(230) NIFK_S(247) NIFK_S(283) NIFK_T(220) NIFK_T(226) NIFK_T(227) NIFK_T(234) NIFK_T(238) NIFK_T(271) NIFK_T(277) NIFK_T(279) NIFK_T(281) NIFK_Y(183),1.0,0.5,4,1,8,1.0,0.018542686014651446,0.8158228467991678

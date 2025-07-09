@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YAF2_S(125) YAF2_S(136) YAF2_S(137) YAF2_S(149) YAF2_S(151) YAF2_S(155) YAF2_S(163) YAF2_S(165) YAF2_S(167) YAF2_S(173) YAF2_S(174) YAF2_S(179) YAF2_S(3) YAF2_S(57) YAF2_S(94),1.0,0.5,4,1,8,1.0,0.02288016056556096,0.692481902521493

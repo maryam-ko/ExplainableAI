@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYNRG_S(1009) SYNRG_S(1072) SYNRG_S(1075) SYNRG_S(786) SYNRG_S(911),0.8,0.5,4,1,8,1.0,0.029881446743484804,0.8813257234962479

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FANCE_S(210) FANCE_S(238) FANCE_S(247) FANCE_T(495),0.8,0.5,4,1,8,1.0,0.018530173935503155,0.7394099421768429

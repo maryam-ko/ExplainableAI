@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COMT_S(217) COMT_S(267),0.8,0.5,4,10,6,1.0,0.020303532518903145,0.6943389515456756

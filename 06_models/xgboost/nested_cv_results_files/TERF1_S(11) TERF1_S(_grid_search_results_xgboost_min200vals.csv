@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TERF1_S(11) TERF1_S(228) TERF1_S(367) TERF1_S(434) TERF1_S(435) TERF1_S(437) TERF1_S(7) TERF1_T(330) TERF1_T(366) TERF1_T(371) TERF1_Y(229),0.8,0.5,4,1,8,1.0,0.017707919834018388,0.8001408914794392

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DPM1_S(9),1.0,0.5,4,5,8,1.0,0.042785395541300314,0.636676916133674

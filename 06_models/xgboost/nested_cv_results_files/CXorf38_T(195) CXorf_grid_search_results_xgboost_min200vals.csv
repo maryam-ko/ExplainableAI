@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CXorf38_T(195) CXorf38_T(304) CXorf38_T(314),1.0,0.5,4,10,8,1.0,0.032789492049349535,0.5057614843571798

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPRY4_M(125) SPRY4_S(125) SPRY4_S(98) SPRY4_Y(52),0.8,0.5,4,10,6,0.8,0.024295453155402717,0.6354917090350205

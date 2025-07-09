@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM7_S(128) RBM7_S(133) RBM7_S(134) RBM7_S(135) RBM7_S(136) RBM7_S(137) RBM7_S(138) RBM7_S(149) RBM7_S(164) RBM7_S(169) RBM7_S(171) RBM7_S(172) RBM7_S(201) RBM7_S(204) RBM7_T(110) RBM7_Y(206),1.0,0.5,4,1,8,1.0,0.03359062603232902,0.6803121586798716

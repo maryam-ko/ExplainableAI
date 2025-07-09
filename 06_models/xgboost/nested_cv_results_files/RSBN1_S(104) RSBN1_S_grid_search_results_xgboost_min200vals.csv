@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RSBN1_S(104) RSBN1_S(33) RSBN1_S(506) RSBN1_S(547) RSBN1_S(554) RSBN1_S(8) RSBN1_S(81) RSBN1_S(92),1.0,0.5,4,5,6,1.0,0.02190283631675041,0.6307337413151185

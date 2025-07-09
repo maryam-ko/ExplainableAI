@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEDD4L_S(308) NEDD4L_S(342) NEDD4L_S(384) NEDD4L_S(448) NEDD4L_S(538) NEDD4L_T(473),1.0,0.5,4,1,8,1.0,0.03346466341816965,0.7046177150970002

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+E2F8_C(102) E2F8_S(102) E2F8_S(3) E2F8_S(396) E2F8_S(413) E2F8_S(416) E2F8_S(417) E2F8_S(64) E2F8_S(661) E2F8_S(664) E2F8_S(71) E2F8_T(20) E2F8_T(44) E2F8_T(58) E2F8_T(60) E2F8_T(812),0.8,0.5,4,5,8,1.0,0.03447217875769438,0.6337568327195002

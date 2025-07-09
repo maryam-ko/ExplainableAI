@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HBB_S(1) HBB_S(45) HBB_S(50) HBB_S(7) HBB_S(90) HBB_T(13) HBB_T(51) HBB_T(88) HBB_Y(131),0.6,0.5,3,1,8,1.0,0.03203211383112763,0.5596369965461426

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAT10_S(934) NAT10_S(978) NAT10_S(984) NAT10_S(987) NAT10_S(990) NAT10_T(223) NAT10_T(666) NAT10_T(686),1.0,0.5,4,10,8,1.0,0.016779579825566528,0.7456174482181409

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ILK_S(186) ILK_S(232) ILK_S(263) ILK_S(52) ILK_S(98) ILK_T(172),1.0,0.5,4,10,8,1.0,0.019608039477519077,0.6731672599764947

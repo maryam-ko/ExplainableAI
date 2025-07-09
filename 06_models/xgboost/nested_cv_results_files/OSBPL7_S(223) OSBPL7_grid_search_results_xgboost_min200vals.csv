@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OSBPL7_S(223) OSBPL7_S(226) OSBPL7_S(236) OSBPL7_S(272) OSBPL7_S(4),0.8,0.5,4,10,8,1.0,0.023611789691457163,0.7552780723953911

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSDMD_S(181) GSDMD_S(185) GSDMD_S(197) GSDMD_S(229) GSDMD_S(252) GSDMD_S(45) GSDMD_T(251) GSDMD_Y(158),1.0,0.5,4,10,8,1.0,0.032100464042355864,0.6220970297654391

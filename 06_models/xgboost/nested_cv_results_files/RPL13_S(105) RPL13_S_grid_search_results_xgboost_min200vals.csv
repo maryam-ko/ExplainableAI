@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL13_S(105) RPL13_S(106) RPL13_S(109) RPL13_S(122) RPL13_S(135) RPL13_S(139) RPL13_S(140) RPL13_S(181) RPL13_S(52),1.0,0.5,4,5,8,1.0,0.03754560898977706,0.6087080607632315

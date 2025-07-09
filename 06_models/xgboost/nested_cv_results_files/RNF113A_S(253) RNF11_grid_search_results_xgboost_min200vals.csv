@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF113A_S(253) RNF113A_S(329) RNF113A_S(43) RNF113A_S(45) RNF113A_S(46) RNF113A_S(47) RNF113A_S(6) RNF113A_S(84) RNF113A_S(85) RNF113A_T(323) RNF113A_Y(249) RNF113A_Y(80),0.8,0.5,4,10,8,1.0,0.038247178943506106,0.6543470304532081

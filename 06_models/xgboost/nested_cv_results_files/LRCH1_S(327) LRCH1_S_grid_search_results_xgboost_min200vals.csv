@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRCH1_S(327) LRCH1_S(335) LRCH1_S(362) LRCH1_S(365) LRCH1_S(370) LRCH1_S(532) LRCH1_S(536) LRCH1_S(562) LRCH1_S(597) LRCH1_T(1488) LRCH1_T(568) LRCH1_T(581),1.0,0.5,4,1,8,1.0,0.021221130958198515,0.7647695249689288

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLN_T(17) PLN_T(5),1.0,0.5,4,1,6,1.0,0.06203390190302411,0.21316296077802505

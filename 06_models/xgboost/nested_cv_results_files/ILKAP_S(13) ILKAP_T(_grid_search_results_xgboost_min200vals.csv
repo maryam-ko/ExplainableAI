@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ILKAP_S(13) ILKAP_T(81),0.6,0.5,4,1,8,0.8,0.046795242269524216,0.5625579521753119

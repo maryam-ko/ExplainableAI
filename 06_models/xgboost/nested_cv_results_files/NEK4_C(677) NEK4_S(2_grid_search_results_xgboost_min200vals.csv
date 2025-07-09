@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEK4_C(677) NEK4_S(266) NEK4_S(288) NEK4_S(340) NEK4_S(372) NEK4_S(395) NEK4_S(461) NEK4_S(474) NEK4_S(484) NEK4_S(563) NEK4_S(572) NEK4_S(588) NEK4_S(639) NEK4_S(661) NEK4_S(662) NEK4_S(677),1.0,0.5,4,5,8,1.0,0.02041671061941324,0.7542421182784705

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPGR_S(4) RPGR_S(418) RPGR_S(513) RPGR_S(518) RPGR_S(56) RPGR_S(694) RPGR_S(756) RPGR_S(961) RPGR_T(623),0.8,0.5,4,1,8,1.0,0.01991228961123182,0.8310941301162071

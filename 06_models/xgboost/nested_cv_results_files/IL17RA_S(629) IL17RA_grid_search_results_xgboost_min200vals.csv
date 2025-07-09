@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IL17RA_S(629) IL17RA_S(632) IL17RA_S(708),0.6,0.5,4,1,8,1.0,0.012481160429491624,0.7109452780509276

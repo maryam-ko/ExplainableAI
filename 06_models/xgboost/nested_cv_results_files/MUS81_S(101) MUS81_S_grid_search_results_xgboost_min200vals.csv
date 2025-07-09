@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MUS81_S(101) MUS81_S(115) MUS81_S(20) MUS81_S(95) MUS81_S(97) MUS81_Y(53),1.0,0.5,4,5,8,1.0,0.03440042663524906,0.6093701730975513

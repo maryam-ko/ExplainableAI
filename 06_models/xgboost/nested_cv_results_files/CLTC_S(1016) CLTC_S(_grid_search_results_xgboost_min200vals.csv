@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLTC_S(1016) CLTC_S(1167) CLTC_S(1532) CLTC_S(1618) CLTC_T(235) CLTC_T(394) CLTC_T(5) CLTC_Y(899),0.6,0.5,4,10,8,1.0,0.03117895403315945,0.49566675537171745

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STRN3_S(153) STRN3_S(201) STRN3_S(202) STRN3_S(214) STRN3_S(229) STRN3_S(257) STRN3_S(335) STRN3_T(150) STRN3_T(157) STRN3_T(171) STRN3_T(293),1.0,0.5,4,5,8,1.0,0.02236751612545481,0.8350232709777291

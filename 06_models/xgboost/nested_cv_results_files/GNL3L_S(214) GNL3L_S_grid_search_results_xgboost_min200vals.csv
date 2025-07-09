@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GNL3L_S(214) GNL3L_S(22) GNL3L_S(275) GNL3L_S(465) GNL3L_S(511) GNL3L_S(513) GNL3L_S(519) GNL3L_S(543) GNL3L_T(333) GNL3L_T(84),0.6,0.5,4,10,8,1.0,0.03913566697540888,0.4876416575129362

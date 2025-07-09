@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ALYREF_S(15) ALYREF_S(152) ALYREF_S(239) ALYREF_S(246) ALYREF_S(34) ALYREF_S(8) ALYREF_S(94) ALYREF_T(111),1.0,0.5,4,10,6,1.0,0.031204742752543854,0.6312024192350385

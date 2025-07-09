@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HABP4_S(108) HABP4_S(22) HABP4_S(273) HABP4_S(7) HABP4_S(74) HABP4_S(91) HABP4_S(96) HABP4_S(97) HABP4_T(268),1.0,0.5,4,1,8,1.0,0.03987113488302385,0.5570065176821176

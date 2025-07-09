@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JOSD1_S(12) JOSD1_S(13) JOSD1_S(15),0.8,0.5,4,1,8,1.0,0.027196430251965175,0.6011514503298915

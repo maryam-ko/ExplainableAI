@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCLK1_S(172) DCLK1_S(2) DCLK1_S(294) DCLK1_S(30) DCLK1_S(32) DCLK1_S(334) DCLK1_S(352) DCLK1_S(355) DCLK1_S(358) DCLK1_S(36) DCLK1_S(364) DCLK1_S(726) DCLK1_S(738) DCLK1_S(742),0.8,0.5,4,1,8,1.0,0.01994239627882135,0.6544407412590448

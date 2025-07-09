@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PUM2_S(102) PUM2_S(1050) PUM2_S(3) PUM2_S(4) PUM2_S(531) PUM2_S(587) PUM2_S(67) PUM2_S(80) PUM2_T(119) PUM2_T(184),1.0,0.5,4,1,8,1.0,0.019208388864058738,0.7825468640283987

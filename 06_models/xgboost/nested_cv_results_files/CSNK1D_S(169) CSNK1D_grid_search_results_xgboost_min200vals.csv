@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSNK1D_S(169) CSNK1D_S(324) CSNK1D_S(331) CSNK1D_S(350) CSNK1D_S(356) CSNK1D_S(375) CSNK1D_S(382) CSNK1D_S(383) CSNK1D_T(344) CSNK1D_T(347) CSNK1D_T(352) CSNK1D_T(355),1.0,0.5,4,5,8,1.0,0.024926197399024474,0.7985283690552981

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ASMTL_S(165) ASMTL_S(181) ASMTL_S(19) ASMTL_S(21) ASMTL_S(223) ASMTL_S(228) ASMTL_S(239) ASMTL_S(255) ASMTL_S(421),0.8,0.5,4,1,8,1.0,0.023209539471481883,0.7998051258398007

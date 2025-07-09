@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM5_S(18) RBM5_S(37) RBM5_S(55) RBM5_S(576) RBM5_S(59) RBM5_S(621) RBM5_S(624) RBM5_S(69) RBM5_S(71) RBM5_S(72) RBM5_S(78) RBM5_Y(76),1.0,0.5,4,1,8,1.0,0.040409920919625586,0.7103231979695065

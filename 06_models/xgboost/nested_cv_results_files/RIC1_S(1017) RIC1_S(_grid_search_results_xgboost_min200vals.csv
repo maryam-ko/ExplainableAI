@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIC1_S(1017) RIC1_S(1019) RIC1_S(1021) RIC1_S(1037) RIC1_S(909) RIC1_T(1035) RIC1_T(960) RIC1_T(965) RIC1_T(992) RIC1_T(996),0.6,0.5,4,5,8,1.0,0.01911422344713809,0.7579972961950259

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNMT3A_S(105) DNMT3A_S(255) DNMT3A_S(390) DNMT3A_S(75) DNMT3A_T(138) DNMT3A_T(251) DNMT3A_T(257) DNMT3A_T(261) DNMT3A_T(65),1.0,0.5,4,1,8,1.0,0.03038905649474774,0.7090918854755086

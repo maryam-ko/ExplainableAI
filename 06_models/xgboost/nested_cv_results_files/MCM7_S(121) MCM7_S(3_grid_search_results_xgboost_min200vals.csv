@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM7_S(121) MCM7_S(314) MCM7_S(365) MCM7_S(500) MCM7_S(674) MCM7_S(678) MCM7_T(320),0.8,0.5,4,1,8,1.0,0.0183589171343734,0.7682155585751774

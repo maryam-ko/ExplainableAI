@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEC23IP_S(258) SEC23IP_S(48) SEC23IP_S(636) SEC23IP_S(737) SEC23IP_S(740) SEC23IP_S(742) SEC23IP_S(862) SEC23IP_S(864) SEC23IP_S(922) SEC23IP_S(926) SEC23IP_S(930),0.8,0.5,4,5,8,1.0,0.030597093178337056,0.6815878728732634

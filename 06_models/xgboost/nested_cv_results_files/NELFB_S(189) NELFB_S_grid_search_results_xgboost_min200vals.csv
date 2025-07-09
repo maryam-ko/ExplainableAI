@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NELFB_S(189) NELFB_S(191) NELFB_S(557) NELFB_S(605) NELFB_T(56),0.8,0.5,4,5,8,1.0,0.03154869922391928,0.6163859961745592

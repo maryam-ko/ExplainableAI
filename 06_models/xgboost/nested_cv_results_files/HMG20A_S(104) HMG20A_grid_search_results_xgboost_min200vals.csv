@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMG20A_S(104) HMG20A_S(105) HMG20A_S(20),1.0,0.5,4,1,8,1.0,0.03523430205904659,0.5617887192499411

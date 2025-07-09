@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARGLU1_S(74) ARGLU1_S(76) ARGLU1_S(77) ARGLU1_S(91),0.8,0.5,4,1,8,0.8,0.05727047846950459,0.6301930863452768

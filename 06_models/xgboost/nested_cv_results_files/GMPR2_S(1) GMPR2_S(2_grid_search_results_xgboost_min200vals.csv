@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GMPR2_S(1) GMPR2_S(25) GMPR2_S(28) GMPR2_S(37) GMPR2_T(292),1.0,0.5,4,1,8,1.0,0.02282262159356162,0.72522834134046

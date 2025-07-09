@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF639_S(200) ZNF639_S(60) ZNF639_S(88) ZNF639_T(62) ZNF639_Y(52),0.8,0.5,4,1,8,0.8,0.03317084631751111,0.687427257010971

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARD6B_S(11) PARD6B_S(177) PARD6B_S(4) PARD6B_S(6) PARD6B_T(108) PARD6B_T(371) PARD6B_Y(101),1.0,0.5,4,10,8,1.0,0.026861417013376843,0.5868424935958357

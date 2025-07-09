@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KPNA3_S(11) KPNA3_S(14) KPNA3_S(56) KPNA3_S(6) KPNA3_S(60) KPNA3_S(7),1.0,0.5,4,10,8,1.0,0.04333669494921673,0.5058528829336221

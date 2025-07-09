@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC7A11_S(26) SLC7A11_T(3) SLC7A11_Y(15),0.8,0.5,4,1,8,1.0,0.03271014399045537,0.5878625806129489

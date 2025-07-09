@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCK_C(11) DCK_C(13) DCK_C(15) DCK_S(11) DCK_S(13) DCK_S(15) DCK_S(74) DCK_T(19) DCK_T(3),1.0,0.5,4,1,8,1.0,0.04042650038926345,0.6778229925826114

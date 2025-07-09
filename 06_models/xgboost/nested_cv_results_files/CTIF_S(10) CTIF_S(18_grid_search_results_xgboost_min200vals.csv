@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTIF_S(10) CTIF_S(18) CTIF_S(298) CTIF_S(299) CTIF_S(328) CTIF_T(289) CTIF_T(366),1.0,0.5,4,1,8,1.0,0.026461646743658657,0.6680666128467065

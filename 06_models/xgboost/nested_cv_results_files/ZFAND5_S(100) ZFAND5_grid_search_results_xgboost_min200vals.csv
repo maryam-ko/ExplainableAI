@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFAND5_S(100) ZFAND5_S(128) ZFAND5_S(46) ZFAND5_S(48) ZFAND5_S(50) ZFAND5_S(54) ZFAND5_S(58) ZFAND5_T(52),1.0,0.5,4,10,8,1.0,0.035764224045344774,0.6593807866375391

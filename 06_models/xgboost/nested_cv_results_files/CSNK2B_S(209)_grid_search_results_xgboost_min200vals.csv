@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSNK2B_S(209),1.0,0.5,4,1,8,1.0,0.05147584947989925,0.7758124310541813

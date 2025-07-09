@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRTFA_C(807) MRTFA_S(333) MRTFA_S(335) MRTFA_S(367) MRTFA_S(404) MRTFA_S(446) MRTFA_S(454) MRTFA_S(778) MRTFA_S(785) MRTFA_T(204) MRTFA_T(334) MRTFA_T(400) MRTFA_T(447) MRTFA_T(456),0.8,0.5,4,1,8,1.0,0.033073110317081794,0.7265678812928129

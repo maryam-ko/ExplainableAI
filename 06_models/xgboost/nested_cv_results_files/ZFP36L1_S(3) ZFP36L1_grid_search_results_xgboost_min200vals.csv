@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFP36L1_S(3) ZFP36L1_S(51) ZFP36L1_S(70) ZFP36L1_S(92) ZFP36L1_T(56),1.0,0.5,4,10,8,1.0,0.04218273159627576,0.6680578257316473

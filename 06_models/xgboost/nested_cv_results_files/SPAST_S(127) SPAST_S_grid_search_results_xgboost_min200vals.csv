@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPAST_S(127) SPAST_S(182) SPAST_S(205) SPAST_S(207) SPAST_S(230) SPAST_S(243) SPAST_S(245) SPAST_S(268) SPAST_S(270) SPAST_S(6) SPAST_S(93) SPAST_T(303) SPAST_Y(126),1.0,0.5,4,1,8,1.0,0.028457672956837328,0.6971691857412837

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP107_S(10) NUP107_S(11) NUP107_S(27) NUP107_S(57) NUP107_S(58) NUP107_S(652) NUP107_S(69) NUP107_T(45) NUP107_T(46) NUP107_T(55) NUP107_T(64) NUP107_T(82),1.0,0.5,4,1,8,1.0,0.03778194446257028,0.605596678723377

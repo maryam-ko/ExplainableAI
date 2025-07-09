@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBL_S(116) FBL_S(121) FBL_S(122) FBL_S(124) FBL_S(130) FBL_S(63),1.0,0.5,4,1,8,1.0,0.049766892939036876,0.5192091682071218

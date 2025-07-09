@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+U2AF2_M(133) U2AF2_S(2) U2AF2_S(294) U2AF2_S(62) U2AF2_S(79) U2AF2_S(9) U2AF2_T(124) U2AF2_T(125) U2AF2_T(126) U2AF2_T(133),0.8,0.5,4,1,8,1.0,0.022353699309995985,0.785647904664571

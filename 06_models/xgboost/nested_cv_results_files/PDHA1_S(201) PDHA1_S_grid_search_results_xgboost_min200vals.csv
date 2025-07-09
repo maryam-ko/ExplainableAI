@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDHA1_S(201) PDHA1_S(226) PDHA1_S(232) PDHA1_S(239) PDHA1_S(269) PDHA1_S(270) PDHA1_S(300) PDHA1_T(231) PDHA1_T(5),1.0,0.5,4,5,8,1.0,0.04467487379550402,0.5639657416854453

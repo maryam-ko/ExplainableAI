@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADAM17_S(791),0.6,0.5,4,5,8,1.0,0.05556828961423634,0.550370500491082

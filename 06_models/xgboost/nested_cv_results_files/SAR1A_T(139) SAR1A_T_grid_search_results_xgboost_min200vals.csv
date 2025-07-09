@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAR1A_T(139) SAR1A_T(96),0.8,0.5,4,1,8,1.0,0.021591470702266653,0.7452467480590441

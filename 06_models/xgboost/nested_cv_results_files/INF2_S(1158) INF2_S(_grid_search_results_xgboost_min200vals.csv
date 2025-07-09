@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INF2_S(1158) INF2_S(1194) INF2_S(1201) INF2_S(1204) INF2_S(351) INF2_S(359) INF2_S(369) INF2_T(1199) INF2_T(1206),1.0,0.5,3,1,8,1.0,0.020592013527018272,0.5192101899427375

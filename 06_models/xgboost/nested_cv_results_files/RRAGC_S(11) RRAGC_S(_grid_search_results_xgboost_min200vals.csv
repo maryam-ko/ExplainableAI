@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRAGC_S(11) RRAGC_S(15) RRAGC_S(2) RRAGC_S(21) RRAGC_S(376) RRAGC_S(382) RRAGC_S(384) RRAGC_S(385) RRAGC_S(94) RRAGC_S(95) RRAGC_T(10) RRAGC_T(381) RRAGC_T(387) RRAGC_T(394) RRAGC_Y(16) RRAGC_Y(5),0.6,0.5,4,10,8,1.0,0.04158001144258225,0.6375233528009343

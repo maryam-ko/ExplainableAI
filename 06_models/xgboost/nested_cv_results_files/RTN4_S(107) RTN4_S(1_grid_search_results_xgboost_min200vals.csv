@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RTN4_S(107) RTN4_S(111) RTN4_S(114) RTN4_S(121) RTN4_S(124) RTN4_S(129) RTN4_S(13) RTN4_S(152) RTN4_S(181) RTN4_S(182) RTN4_S(184) RTN4_S(196) RTN4_S(4) RTN4_S(7) RTN4_S(738) RTN4_S(806) RTN4_S(987) RTN4_T(116) RTN4_T(160) RTN4_T(188),0.8,0.5,4,5,8,0.8,0.03352237258620989,0.6839906760324116

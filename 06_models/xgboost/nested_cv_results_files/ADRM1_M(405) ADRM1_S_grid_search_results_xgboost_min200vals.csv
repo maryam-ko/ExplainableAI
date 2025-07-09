@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADRM1_M(405) ADRM1_S(15) ADRM1_S(172) ADRM1_S(211) ADRM1_S(213) ADRM1_S(219) ADRM1_S(220) ADRM1_S(223) ADRM1_S(224) ADRM1_S(366) ADRM1_S(405) ADRM1_S(805) ADRM1_T(211) ADRM1_T(217) ADRM1_T(37),1.0,0.5,4,1,8,1.0,0.036103183249959925,0.6511960811261801

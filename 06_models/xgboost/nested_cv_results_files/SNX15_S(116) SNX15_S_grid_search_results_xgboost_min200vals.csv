@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX15_S(116) SNX15_S(227) SNX15_T(148) SNX15_T(229),1.0,0.5,4,10,8,0.8,0.024894528244020216,0.720357743023326

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OSTF1_S(199) OSTF1_S(202) OSTF1_S(342),1.0,0.5,4,10,8,1.0,0.02352363161844246,0.28563754322471324

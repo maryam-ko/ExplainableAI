@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNOT3_S(299) CNOT3_S(542),0.6,0.5,4,5,6,1.0,0.04164258673589689,0.40473869752298847

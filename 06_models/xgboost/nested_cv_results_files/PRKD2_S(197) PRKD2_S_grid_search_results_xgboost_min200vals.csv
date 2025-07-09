@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKD2_S(197) PRKD2_S(203) PRKD2_S(206) PRKD2_S(212) PRKD2_S(214) PRKD2_S(218) PRKD2_S(225) PRKD2_S(57) PRKD2_S(68) PRKD2_S(706) PRKD2_S(742) PRKD2_Y(717),1.0,0.5,4,1,8,1.0,0.028390008929944796,0.7860481343890567

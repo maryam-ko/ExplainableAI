@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP13A3_S(130) ATP13A3_S(176) ATP13A3_S(725) ATP13A3_S(817) ATP13A3_S(97) ATP13A3_S(98),0.6,0.5,4,5,8,1.0,0.03545503758043468,0.6398069701397326

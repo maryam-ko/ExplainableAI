@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WARS1_S(38) WARS1_S(4) WARS1_S(426) WARS1_S(467) WARS1_S(8),1.0,0.5,4,5,6,1.0,0.036121008561992074,0.45850261947324045

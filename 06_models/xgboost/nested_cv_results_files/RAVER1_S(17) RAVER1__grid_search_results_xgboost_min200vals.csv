@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAVER1_S(17) RAVER1_S(399) RAVER1_S(512) RAVER1_S(516) RAVER1_S(524) RAVER1_S(643) RAVER1_S(680),1.0,0.5,4,5,8,1.0,0.013340426363170507,0.7455405960989308

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELAVL1_S(197) ELAVL1_S(2) ELAVL1_S(202) ELAVL1_Y(200) ELAVL1_Y(5),0.8,0.5,4,1,8,1.0,0.02386888409311639,0.828575254497192

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HS1BP3_S(138) HS1BP3_S(139) HS1BP3_S(194) HS1BP3_S(207) HS1BP3_S(225) HS1BP3_S(246) HS1BP3_S(249) HS1BP3_S(254) HS1BP3_S(280) HS1BP3_S(289) HS1BP3_S(3) HS1BP3_S(302) HS1BP3_S(68),0.8,0.5,4,5,8,1.0,0.035764237507701524,0.6772477684678095

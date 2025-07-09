@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CMBL_S(111) CMBL_S(188) CMBL_S(208) CMBL_T(191) CMBL_Y(3),0.8,0.5,4,1,8,0.8,0.030561449735477704,0.7406426198337963

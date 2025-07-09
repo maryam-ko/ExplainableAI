@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIRT2_S(21) SIRT2_S(23) SIRT2_S(25) SIRT2_S(27) SIRT2_S(298) SIRT2_S(364) SIRT2_S(368) SIRT2_S(372),0.8,0.5,4,5,8,1.0,0.02795544934306508,0.507727344089801

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SP110_S(194) SP110_S(233) SP110_S(244) SP110_S(256) SP110_S(373) SP110_S(380) SP110_S(53),1.0,0.5,4,5,8,1.0,0.02565271600921322,0.8111666461686058

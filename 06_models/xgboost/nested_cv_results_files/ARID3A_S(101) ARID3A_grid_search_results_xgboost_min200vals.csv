@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARID3A_S(101) ARID3A_S(119) ARID3A_S(123) ARID3A_S(1496) ARID3A_S(353) ARID3A_S(357) ARID3A_S(362) ARID3A_S(77) ARID3A_S(81) ARID3A_S(88) ARID3A_S(95) ARID3A_T(98),0.8,0.5,4,5,8,1.0,0.036437952978523196,0.604540232243014

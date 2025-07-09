@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIFC1_M(6) KIFC1_S(26) KIFC1_S(31) KIFC1_S(33) KIFC1_S(6) KIFC1_S(71) KIFC1_T(359) KIFC1_Y(622),1.0,0.5,4,1,8,1.0,0.022205704313745873,0.7941708825533761

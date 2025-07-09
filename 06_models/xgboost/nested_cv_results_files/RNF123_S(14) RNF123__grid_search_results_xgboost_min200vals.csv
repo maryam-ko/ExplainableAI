@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF123_S(14) RNF123_S(19) RNF123_S(4) RNF123_S(675) RNF123_S(711) RNF123_S(9) RNF123_T(677) RNF123_T(694),1.0,0.5,4,1,8,0.8,0.027781168861333753,0.7131247042884985

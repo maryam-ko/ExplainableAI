@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAF1_S(138) FAF1_S(269) FAF1_S(270) FAF1_S(320) FAF1_S(404) FAF1_S(579) FAF1_S(581) FAF1_S(582) FAF1_T(428) FAF1_T(580),1.0,0.5,4,5,8,1.0,0.03240858962488922,0.6697150109909513

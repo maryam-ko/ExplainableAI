@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL29_S(142) RPL29_S(149) RPL29_S(150) RPL29_S(158) RPL29_S(31) RPL29_S(66),1.0,0.5,4,10,8,1.0,0.04184078887880759,0.5996050689144085

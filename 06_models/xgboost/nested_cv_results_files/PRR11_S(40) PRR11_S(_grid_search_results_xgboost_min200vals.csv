@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRR11_S(40) PRR11_S(52) PRR11_T(165) PRR11_T(323) PRR11_T(348),1.0,0.5,4,5,8,1.0,0.044710141883543955,0.5060088414759276

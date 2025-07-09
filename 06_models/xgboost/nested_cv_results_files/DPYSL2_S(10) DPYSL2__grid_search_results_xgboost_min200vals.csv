@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DPYSL2_S(10) DPYSL2_S(14) DPYSL2_S(501) DPYSL2_S(565) DPYSL2_S(570) DPYSL2_S(578) DPYSL2_S(645) DPYSL2_T(496) DPYSL2_T(565) DPYSL2_T(570) DPYSL2_T(577),1.0,0.5,4,1,6,1.0,0.016885422939868607,0.521652004721615

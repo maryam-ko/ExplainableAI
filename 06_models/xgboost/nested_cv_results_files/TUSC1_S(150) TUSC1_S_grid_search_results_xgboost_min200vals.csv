@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUSC1_S(150) TUSC1_S(153),1.0,0.5,4,1,8,1.0,0.03370496698600522,0.4938599836451716

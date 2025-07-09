@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KCMF1_S(145) KCMF1_S(146) KCMF1_S(2),1.0,0.5,4,1,6,1.0,0.032964805308193484,0.43187962310748684

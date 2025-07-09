@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAMHD1_S(102) SAMHD1_S(18) SAMHD1_S(27) SAMHD1_S(278) SAMHD1_S(603) SAMHD1_T(21) SAMHD1_T(522) SAMHD1_T(568) SAMHD1_T(576) SAMHD1_T(608),0.8,0.5,3,1,8,1.0,0.023625641856938176,0.5003791745144686

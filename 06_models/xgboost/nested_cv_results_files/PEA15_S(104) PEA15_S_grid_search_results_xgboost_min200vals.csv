@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PEA15_S(104) PEA15_S(116) PEA15_S(137) PEA15_S(6) PEA15_S(82) PEA15_S(94),0.8,0.5,4,1,8,0.8,0.030106083477602925,0.7999004027598613

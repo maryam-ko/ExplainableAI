@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C1orf174_C(217) C1orf174_S(13) C1orf174_S(148) C1orf174_S(153) C1orf174_S(182) C1orf174_S(189) C1orf174_S(214) C1orf174_S(215) C1orf174_T(169),1.0,0.5,4,5,8,1.0,0.0385694148963673,0.5191984640312841

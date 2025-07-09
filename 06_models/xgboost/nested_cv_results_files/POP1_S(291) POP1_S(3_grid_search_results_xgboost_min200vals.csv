@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POP1_S(291) POP1_S(367) POP1_S(718) POP1_S(726) POP1_S(729) POP1_S(730) POP1_S(762) POP1_T(365),0.8,0.5,4,5,8,1.0,0.04593024803205428,0.5877618236087445

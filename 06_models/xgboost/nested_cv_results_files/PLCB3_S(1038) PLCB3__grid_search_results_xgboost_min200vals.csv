@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCB3_S(1038) PLCB3_S(1105) PLCB3_S(470) PLCB3_S(480) PLCB3_S(632) PLCB3_S(916) PLCB3_S(931) PLCB3_S(934) PLCB3_T(924),1.0,0.5,4,10,8,1.0,0.020855009448441066,0.6834003665644024

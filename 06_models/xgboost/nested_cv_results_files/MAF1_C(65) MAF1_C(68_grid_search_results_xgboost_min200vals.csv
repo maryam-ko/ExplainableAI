@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAF1_C(65) MAF1_C(68) MAF1_S(70) MAF1_S(75),0.6,0.5,4,5,8,1.0,0.046255608253306185,0.654225887232092

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RHBDF1_S(11) RHBDF1_S(176) RHBDF1_S(3) RHBDF1_S(390) RHBDF1_S(51) RHBDF1_S(60) RHBDF1_S(61) RHBDF1_S(76) RHBDF1_S(8) RHBDF1_S(92) RHBDF1_T(183) RHBDF1_T(302),0.6,0.5,4,5,8,1.0,0.04288818272801877,0.5664737559730968

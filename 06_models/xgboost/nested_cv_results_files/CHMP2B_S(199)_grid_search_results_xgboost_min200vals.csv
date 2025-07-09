@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHMP2B_S(199),0.8,0.5,4,5,8,1.0,0.03705869413700918,0.7949507008837738

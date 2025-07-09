@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RANBP10_S(358) RANBP10_S(36) RANBP10_S(365) RANBP10_S(369) RANBP10_S(386) RANBP10_T(486) RANBP10_Y(362),1.0,0.5,4,10,8,1.0,0.02343037317357747,0.7304231581485409

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCF3_S(134) TCF3_S(139) TCF3_S(154) TCF3_S(156) TCF3_S(328) TCF3_S(359) TCF3_S(379) TCF3_S(39) TCF3_S(509) TCF3_S(514),1.0,0.5,4,1,8,1.0,0.01722322136563556,0.8360881931476924

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL5_S(176) RPL5_S(185) RPL5_S(187) RPL5_S(286) RPL5_T(232) RPL5_Y(12) RPL5_Y(16),1.0,0.5,4,5,8,1.0,0.03170307982726613,0.6002756531010618

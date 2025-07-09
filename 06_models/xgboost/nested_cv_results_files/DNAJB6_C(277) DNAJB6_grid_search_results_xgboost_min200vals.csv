@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJB6_C(277) DNAJB6_S(277),0.6,0.5,4,1,8,1.0,0.03235736226138324,0.7282524489723577

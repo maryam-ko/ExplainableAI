@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HDAC4_S(129) HDAC4_S(196) HDAC4_S(210) HDAC4_S(246) HDAC4_S(355) HDAC4_S(467) HDAC4_S(5) HDAC4_S(520) HDAC4_S(632),0.8,0.5,4,1,8,1.0,0.03958130118947055,0.6792168032855193

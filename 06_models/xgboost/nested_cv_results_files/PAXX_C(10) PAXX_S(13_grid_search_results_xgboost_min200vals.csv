@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAXX_C(10) PAXX_S(134) PAXX_S(138) PAXX_S(148) PAXX_S(152) PAXX_S(192) PAXX_S(9) PAXX_T(145),0.6,0.5,4,10,8,1.0,0.05808575912473061,0.4726072614648592

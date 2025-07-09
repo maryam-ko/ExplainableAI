@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SFPQ_M(687) SFPQ_S(273) SFPQ_S(283) SFPQ_S(374) SFPQ_S(379) SFPQ_S(38) SFPQ_S(496) SFPQ_S(596) SFPQ_S(626) SFPQ_T(226) SFPQ_T(355) SFPQ_T(476) SFPQ_T(687),1.0,0.5,4,5,8,1.0,0.032478304006466355,0.6941849561498588

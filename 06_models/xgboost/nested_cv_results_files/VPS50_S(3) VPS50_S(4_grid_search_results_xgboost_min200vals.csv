@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS50_S(3) VPS50_S(492) VPS50_S(493) VPS50_S(494) VPS50_S(496) VPS50_S(498) VPS50_S(500) VPS50_S(529) VPS50_S(559) VPS50_S(561) VPS50_S(595) VPS50_Y(557),1.0,0.5,4,10,8,1.0,0.03388839800717206,0.7332337119986304

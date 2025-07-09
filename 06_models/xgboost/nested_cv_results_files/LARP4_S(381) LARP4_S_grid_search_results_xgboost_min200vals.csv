@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LARP4_S(381) LARP4_S(512) LARP4_S(583) LARP4_S(589) LARP4_S(597) LARP4_S(599) LARP4_S(642) LARP4_S(714) LARP4_S(717) LARP4_S(722) LARP4_T(595) LARP4_T(649) LARP4_Y(68) LARP4_Y(714),0.8,0.5,4,1,8,1.0,0.03074200277298568,0.7963821195603529

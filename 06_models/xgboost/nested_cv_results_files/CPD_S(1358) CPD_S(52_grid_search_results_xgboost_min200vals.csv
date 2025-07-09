@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPD_S(1358) CPD_S(528) CPD_T(1365) CPD_T(1367) CPD_T(1368) CPD_T(1370) CPD_T(843),1.0,0.5,3,5,8,1.0,0.03636406173721207,0.6498998929064685

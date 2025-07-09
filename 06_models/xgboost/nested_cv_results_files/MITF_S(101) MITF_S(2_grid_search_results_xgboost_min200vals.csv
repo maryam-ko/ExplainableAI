@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MITF_S(101) MITF_S(245) MITF_S(322) MITF_S(335) MITF_S(347) MITF_S(408) MITF_S(414) MITF_S(485) MITF_S(491) MITF_S(498) MITF_S(504) MITF_S(510) MITF_T(104) MITF_T(105) MITF_T(483),1.0,0.5,4,10,8,1.0,0.020527288665745286,0.6918875327001193

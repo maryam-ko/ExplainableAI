@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FRMD4A_S(335) FRMD4A_S(640) FRMD4A_S(689) FRMD4A_S(711) FRMD4A_S(797) FRMD4A_S(800) FRMD4A_S(908) FRMD4A_T(674),1.0,0.5,4,10,8,1.0,0.042269927965824405,0.4891236528285181

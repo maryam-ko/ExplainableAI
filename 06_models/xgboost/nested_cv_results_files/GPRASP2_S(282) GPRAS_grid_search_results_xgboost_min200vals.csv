@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPRASP2_S(282) GPRASP2_S(284) GPRASP2_S(328) GPRASP2_S(330) GPRASP2_S(512) GPRASP2_Y(335),1.0,0.5,4,1,8,1.0,0.03034832486555741,0.5757435290794266

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL21_S(101) RPL21_S(104) RPL21_T(124),0.8,0.5,4,1,8,1.0,0.037994980858450024,0.5788862095737098

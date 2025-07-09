@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EAPP_S(109) EAPP_S(111) EAPP_S(57) EAPP_S(88) EAPP_S(89) EAPP_S(90) EAPP_T(121) EAPP_Y(106),0.8,0.5,4,1,8,1.0,0.0351077766416371,0.4308273637792821

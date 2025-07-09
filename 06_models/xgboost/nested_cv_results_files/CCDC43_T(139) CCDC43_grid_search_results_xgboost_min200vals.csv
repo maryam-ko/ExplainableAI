@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC43_T(139) CCDC43_T(151) CCDC43_Y(135),0.8,0.5,4,5,8,0.8,0.05366409694559639,0.6197174085983721

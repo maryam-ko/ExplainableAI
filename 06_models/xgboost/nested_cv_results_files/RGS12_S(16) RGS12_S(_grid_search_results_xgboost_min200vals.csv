@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGS12_S(16) RGS12_S(172) RGS12_S(192) RGS12_S(667) RGS12_S(715) RGS12_S(850) RGS12_S(853),1.0,0.5,4,1,8,1.0,0.0262392329633535,0.7144322180941265

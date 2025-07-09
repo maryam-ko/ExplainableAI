@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRRC8A_S(199) LRRC8A_S(202) LRRC8A_S(217) LRRC8A_T(215),0.8,0.5,4,1,8,1.0,0.03668675231333919,0.6458254984244151

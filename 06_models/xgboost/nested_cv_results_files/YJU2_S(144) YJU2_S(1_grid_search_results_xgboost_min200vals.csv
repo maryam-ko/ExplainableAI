@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YJU2_S(144) YJU2_S(179) YJU2_S(211) YJU2_S(213) YJU2_S(220) YJU2_S(237) YJU2_S(239) YJU2_S(342) YJU2_T(285),1.0,0.5,4,1,8,1.0,0.051015017803217384,0.36152788847562384

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRP72_S(4) SRP72_S(443) SRP72_S(463) SRP72_S(511) SRP72_S(541) SRP72_S(560) SRP72_S(617) SRP72_S(625) SRP72_T(624),1.0,0.5,4,1,8,0.8,0.025051003148948706,0.6516324339716331

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IMMT_S(102) IMMT_S(113) IMMT_S(115) IMMT_S(121) IMMT_S(252) IMMT_S(34) IMMT_S(345) IMMT_S(377) IMMT_S(388) IMMT_S(4) IMMT_S(447) IMMT_S(528) IMMT_S(544) IMMT_S(594) IMMT_T(276) IMMT_T(377) IMMT_T(387) IMMT_Y(8),0.8,0.5,4,1,8,1.0,0.019587122000927788,0.5174654161732865

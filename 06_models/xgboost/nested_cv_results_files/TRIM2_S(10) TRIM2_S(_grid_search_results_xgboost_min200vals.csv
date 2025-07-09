@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM2_S(10) TRIM2_S(375) TRIM2_S(423) TRIM2_S(424) TRIM2_S(428) TRIM2_S(440) TRIM2_S(443) TRIM2_S(456) TRIM2_S(459) TRIM2_T(305) TRIM2_T(338) TRIM2_T(349) TRIM2_T(350) TRIM2_T(371) TRIM2_T(460),0.8,0.5,4,1,8,1.0,0.028510232536695327,0.6687374776893519

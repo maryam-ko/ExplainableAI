@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP135_S(1130) CEP135_S(1134) CEP135_S(253) CEP135_S(356) CEP135_S(383) CEP135_S(668) CEP135_T(1121),0.8,0.5,4,1,8,1.0,0.03447118133256431,0.6356747665535927

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZCRB1_S(155) ZCRB1_S(210),0.8,0.5,4,1,8,1.0,0.03971380972753073,0.41126617152261635

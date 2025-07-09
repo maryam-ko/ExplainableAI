@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HELB_C(1048) HELB_C(1050) HELB_S(1020) HELB_S(1021) HELB_S(1048) HELB_S(1058) HELB_S(939) HELB_S(967) HELB_T(1027) HELB_T(666),0.8,0.5,4,10,8,1.0,0.025700754530882497,0.6080323548472832

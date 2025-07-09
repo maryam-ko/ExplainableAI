@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CUL9_S(1347) CUL9_S(1457) CUL9_S(1461) CUL9_S(2326) CUL9_S(2436) CUL9_S(329) CUL9_S(820) CUL9_S(837) CUL9_S(866) CUL9_S(930) CUL9_S(947) CUL9_S(976) CUL9_T(591),1.0,0.5,4,1,8,1.0,0.018337118850601016,0.6809102703257495

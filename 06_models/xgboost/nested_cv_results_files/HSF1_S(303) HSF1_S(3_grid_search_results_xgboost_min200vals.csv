@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSF1_S(303) HSF1_S(307) HSF1_S(352) HSF1_S(363) HSF1_S(380) HSF1_T(367) HSF1_T(369),0.6,0.5,4,1,8,1.0,0.01815789296680118,0.8911345447388375

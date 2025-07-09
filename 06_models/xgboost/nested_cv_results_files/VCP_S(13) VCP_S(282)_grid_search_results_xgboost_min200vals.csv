@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VCP_S(13) VCP_S(282) VCP_S(284) VCP_S(3) VCP_S(511) VCP_S(581) VCP_S(7) VCP_S(705) VCP_S(746) VCP_S(770) VCP_S(775) VCP_T(509) VCP_T(715) VCP_Y(209),0.6,0.5,4,5,8,1.0,0.03576079239410659,0.47052250896937675

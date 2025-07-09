@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAG1_S(485) DAG1_S(807) DAG1_S(888) DAG1_T(221) DAG1_T(782) DAG1_T(784) DAG1_T(788) DAG1_T(790) DAG1_T(884) DAG1_Y(886) DAG1_Y(892),1.0,0.5,4,5,8,1.0,0.03998424070516422,0.3997472969977025

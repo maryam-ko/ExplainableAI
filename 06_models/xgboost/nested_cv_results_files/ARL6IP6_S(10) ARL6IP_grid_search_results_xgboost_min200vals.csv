@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARL6IP6_S(10) ARL6IP6_S(36) ARL6IP6_S(60) ARL6IP6_S(65) ARL6IP6_S(80) ARL6IP6_T(19),1.0,0.5,4,10,8,1.0,0.03950060800474145,0.6042401499922064

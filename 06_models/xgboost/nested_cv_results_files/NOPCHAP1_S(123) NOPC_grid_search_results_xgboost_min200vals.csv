@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOPCHAP1_S(123) NOPCHAP1_S(14) NOPCHAP1_S(15) NOPCHAP1_S(170) NOPCHAP1_S(178) NOPCHAP1_S(34) NOPCHAP1_S(48) NOPCHAP1_S(66) NOPCHAP1_T(17),0.8,0.5,4,5,8,1.0,0.0426775663249094,0.6409064850894902

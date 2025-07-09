@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL27A_S(68) RPL27A_T(72),1.0,0.5,4,10,8,1.0,0.03453484275407277,0.5682836224860314

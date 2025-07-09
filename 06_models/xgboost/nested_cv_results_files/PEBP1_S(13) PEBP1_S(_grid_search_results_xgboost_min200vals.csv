@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PEBP1_S(13) PEBP1_S(153) PEBP1_S(185) PEBP1_S(5) PEBP1_S(52) PEBP1_S(54) PEBP1_S(6) PEBP1_S(60) PEBP1_S(7) PEBP1_S(9) PEBP1_S(98) PEBP1_S(99) PEBP1_T(101) PEBP1_T(42) PEBP1_T(51) PEBP1_Y(181) PEBP1_Y(81),1.0,0.5,4,1,8,1.0,0.044290035276045615,0.6363431749724118

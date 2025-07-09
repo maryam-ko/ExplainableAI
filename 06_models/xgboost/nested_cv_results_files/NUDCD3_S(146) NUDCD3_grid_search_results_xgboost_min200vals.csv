@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUDCD3_S(146) NUDCD3_S(340),1.0,0.5,4,1,6,1.0,0.026659305803135067,0.6034684956318632

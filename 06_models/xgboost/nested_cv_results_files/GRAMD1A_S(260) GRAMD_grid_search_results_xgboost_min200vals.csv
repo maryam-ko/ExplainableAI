@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRAMD1A_S(260) GRAMD1A_S(263) GRAMD1A_S(267) GRAMD1A_S(281) GRAMD1A_S(354) GRAMD1A_S(560) GRAMD1A_S(586) GRAMD1A_S(72) GRAMD1A_T(12) GRAMD1A_T(270) GRAMD1A_T(277),0.8,0.5,4,5,8,1.0,0.02222472138322637,0.6406276382986714

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NMD3_C(258) NMD3_M(433) NMD3_S(11) NMD3_S(25) NMD3_S(258) NMD3_S(35) NMD3_S(460) NMD3_S(462) NMD3_S(468) NMD3_S(490) NMD3_T(433) NMD3_T(470),0.8,0.5,4,10,8,1.0,0.03134300345726058,0.7046235300722258

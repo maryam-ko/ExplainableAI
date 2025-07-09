@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCD_S(194) SCD_S(196) SCD_S(198) SCD_S(203) SCD_T(194) SCD_T(196) SCD_T(199) SCD_T(37) SCD_Y(55),0.8,0.5,4,1,8,1.0,0.0431673662357697,0.3354360484475472

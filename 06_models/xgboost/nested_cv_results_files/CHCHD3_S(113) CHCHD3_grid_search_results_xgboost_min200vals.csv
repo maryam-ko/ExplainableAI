@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHCHD3_S(113) CHCHD3_S(4) CHCHD3_S(48) CHCHD3_S(50) CHCHD3_T(195) CHCHD3_T(203) CHCHD3_T(9),0.8,0.5,4,1,8,1.0,0.056801796328620896,0.6248807746607801

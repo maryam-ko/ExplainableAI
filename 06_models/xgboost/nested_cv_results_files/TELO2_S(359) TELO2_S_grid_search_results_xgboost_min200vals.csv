@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TELO2_S(359) TELO2_S(637) TELO2_S(688) TELO2_S(694) TELO2_S(836),1.0,0.5,4,1,8,1.0,0.03181507619487795,0.4816213545927246

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPN1_S(312) GPN1_S(314) GPN1_S(328) GPN1_T(340),1.0,0.5,4,1,8,1.0,0.027258113730710076,0.5994679078068529

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STIP1_S(16) STIP1_S(481) STIP1_S(528) STIP1_S(80) STIP1_Y(354),0.6,0.5,4,5,8,1.0,0.03227584307466908,0.7106563759469071

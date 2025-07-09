@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRK_M(518) SNRK_S(145) SNRK_S(184) SNRK_S(289) SNRK_S(351) SNRK_S(383) SNRK_S(390) SNRK_S(401) SNRK_S(518) SNRK_S(569) SNRK_S(639) SNRK_T(521),1.0,0.5,4,1,8,1.0,0.03233771221705088,0.7094015999660829

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KHDRBS1_S(137) KHDRBS1_S(18) KHDRBS1_S(20) KHDRBS1_S(21) KHDRBS1_S(29) KHDRBS1_S(58) KHDRBS1_S(90) KHDRBS1_S(94) KHDRBS1_T(92),1.0,0.5,4,10,8,1.0,0.044761896601299346,0.6553304765739971

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WIZ_S(1010) WIZ_S(1025) WIZ_S(1127) WIZ_S(1134) WIZ_S(1139) WIZ_S(1309) WIZ_S(1314) WIZ_S(1332) WIZ_S(1335) WIZ_S(1475) WIZ_S(263) WIZ_S(439) WIZ_S(577) WIZ_S(626) WIZ_S(631) WIZ_S(649) WIZ_S(968) WIZ_T(1332) WIZ_T(173) WIZ_T(179) WIZ_T(989),0.8,0.5,4,10,8,1.0,0.015076578642498424,0.6086897714920194

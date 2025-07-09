@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PBK_M(9) PBK_S(108) PBK_S(110) PBK_S(14) PBK_S(264) PBK_S(310) PBK_S(32) PBK_S(52) PBK_S(54) PBK_S(57) PBK_S(59) PBK_S(91) PBK_T(24) PBK_T(260) PBK_T(9) PBK_Y(74),1.0,0.5,4,10,8,1.0,0.020135150653542714,0.7480649836485259

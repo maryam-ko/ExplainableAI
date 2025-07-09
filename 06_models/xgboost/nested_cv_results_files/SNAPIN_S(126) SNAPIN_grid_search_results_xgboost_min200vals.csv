@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNAPIN_S(126) SNAPIN_T(14) SNAPIN_Y(121) SNAPIN_Y(129),0.6,0.5,4,1,8,1.0,0.028991433832189197,0.5042914828510862

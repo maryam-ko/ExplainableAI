@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PANK4_S(19) PANK4_S(3) PANK4_S(365) PANK4_S(393) PANK4_S(404) PANK4_S(63) PANK4_S(67) PANK4_T(367) PANK4_T(406),1.0,0.5,4,5,8,1.0,0.04554904043658168,0.5740908730545417

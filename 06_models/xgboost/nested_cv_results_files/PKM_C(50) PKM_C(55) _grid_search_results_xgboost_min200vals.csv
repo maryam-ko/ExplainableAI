@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PKM_C(50) PKM_C(55) PKM_S(100) PKM_S(2) PKM_S(205) PKM_S(243) PKM_S(269) PKM_S(32) PKM_S(346) PKM_S(406) PKM_S(420) PKM_S(437) PKM_S(519) PKM_S(55) PKM_S(6) PKM_S(97) PKM_T(129) PKM_T(41) PKM_T(412) PKM_T(49) PKM_T(93) PKM_T(95) PKM_Y(105) PKM_Y(175) PKM_Y(390),0.8,0.5,4,1,8,1.0,0.016228601151157238,0.7400324019065548

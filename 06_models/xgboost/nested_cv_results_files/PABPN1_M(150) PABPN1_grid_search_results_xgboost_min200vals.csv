@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PABPN1_M(150) PABPN1_S(145) PABPN1_S(150) PABPN1_S(161) PABPN1_S(19) PABPN1_S(90) PABPN1_S(95),1.0,0.5,4,1,8,1.0,0.028835787748983,0.7829464966273834

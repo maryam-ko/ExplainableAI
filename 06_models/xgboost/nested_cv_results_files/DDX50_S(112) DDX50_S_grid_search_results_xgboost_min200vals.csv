@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX50_S(112) DDX50_S(113) DDX50_S(36) DDX50_S(41) DDX50_S(45) DDX50_S(673) DDX50_S(683) DDX50_S(80) DDX50_S(82) DDX50_S(86) DDX50_T(116) DDX50_T(266) DDX50_T(47) DDX50_T(519) DDX50_T(74),0.8,0.5,4,5,8,1.0,0.03688544588836245,0.6569131826992303

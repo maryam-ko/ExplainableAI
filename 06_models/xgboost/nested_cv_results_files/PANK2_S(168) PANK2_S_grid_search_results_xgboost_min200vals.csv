@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PANK2_S(168) PANK2_S(191) PANK2_S(203) PANK2_S(45) PANK2_T(182) PANK2_Y(190),0.8,0.5,4,5,8,1.0,0.02128030824657083,0.7009229085596136

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MOCS3_S(331) MOCS3_S(47),1.0,0.5,4,1,6,1.0,0.038156711077256815,0.5581094381210707

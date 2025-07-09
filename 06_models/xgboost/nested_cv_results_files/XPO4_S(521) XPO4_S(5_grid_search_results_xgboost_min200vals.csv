@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XPO4_S(521) XPO4_S(524) XPO4_S(525) XPO4_S(587),1.0,0.5,4,5,8,1.0,0.03215834381584055,0.7376708202135739

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZBTB17_S(120) ZBTB17_S(357) ZBTB17_S(792) ZBTB17_T(119) ZBTB17_T(130),1.0,0.5,4,1,8,1.0,0.023605536786181654,0.7218323261289111

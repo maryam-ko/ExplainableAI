@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAP3K21_S(514) MAP3K21_S(522) MAP3K21_S(528) MAP3K21_S(614) MAP3K21_S(618) MAP3K21_S(650) MAP3K21_T(592),0.6,0.5,4,1,8,1.0,0.02486970726558909,0.6358418516999507

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTA3_S(417) MTA3_S(428) MTA3_S(430) MTA3_S(457) MTA3_S(512) MTA3_S(517) MTA3_S(519) MTA3_T(556),1.0,0.5,4,1,8,1.0,0.02947503618431059,0.7502500107691532

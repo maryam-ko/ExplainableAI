@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTX3_S(15) MTX3_S(188) MTX3_S(223) MTX3_S(244) MTX3_S(249) MTX3_S(250) MTX3_S(284) MTX3_S(296) MTX3_S(298) MTX3_S(306) MTX3_S(311) MTX3_S(8) MTX3_T(237) MTX3_T(298),1.0,0.5,4,1,8,1.0,0.026870091029269585,0.7127796906034318

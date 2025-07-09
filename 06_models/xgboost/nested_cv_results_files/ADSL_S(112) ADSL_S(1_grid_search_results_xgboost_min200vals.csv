@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ADSL_S(112) ADSL_S(15) ADSL_S(4) ADSL_S(434) ADSL_S(5) ADSL_S(9),0.6,0.5,4,10,8,1.0,0.032679292783715314,0.75038373585395

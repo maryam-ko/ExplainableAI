@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAG6_S(100) BAG6_S(1062) BAG6_S(1075) BAG6_S(1081) BAG6_S(1117) BAG6_S(113) BAG6_S(96) BAG6_S(964) BAG6_S(973) BAG6_S(984) BAG6_S(985) BAG6_T(1074) BAG6_T(1080) BAG6_T(972) BAG6_Y(1110) BAG6_Y(1116),1.0,0.5,4,1,8,1.0,0.03134133697632529,0.7756656589902677

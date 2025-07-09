@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HASPIN_S(108) HASPIN_S(145) HASPIN_S(147) HASPIN_S(288) HASPIN_S(387) HASPIN_S(389) HASPIN_S(93) HASPIN_T(112) HASPIN_T(253) HASPIN_T(289) HASPIN_T(97),1.0,0.5,4,5,8,1.0,0.022632709702545266,0.6539919505436561

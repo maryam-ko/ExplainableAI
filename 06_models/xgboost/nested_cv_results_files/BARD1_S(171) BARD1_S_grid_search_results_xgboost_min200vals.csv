@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BARD1_S(171) BARD1_S(186) BARD1_S(267) BARD1_S(313) BARD1_S(367) BARD1_S(391) BARD1_S(410) BARD1_S(412) BARD1_S(496) BARD1_S(538) BARD1_S(89) BARD1_T(202) BARD1_T(299) BARD1_T(394),1.0,0.5,4,10,8,1.0,0.022654705640646682,0.5836481062546406

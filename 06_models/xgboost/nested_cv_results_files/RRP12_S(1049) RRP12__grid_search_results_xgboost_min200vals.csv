@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRP12_S(1049) RRP12_S(1072) RRP12_S(1080) RRP12_S(118) RRP12_S(1217) RRP12_S(383) RRP12_S(4) RRP12_S(64) RRP12_S(66) RRP12_S(801) RRP12_S(980) RRP12_T(88),0.8,0.5,4,1,8,1.0,0.02592174383390515,0.746424403002188

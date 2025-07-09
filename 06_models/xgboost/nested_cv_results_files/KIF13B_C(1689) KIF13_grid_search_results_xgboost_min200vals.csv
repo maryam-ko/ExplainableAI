@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF13B_C(1689) KIF13B_C(1691) KIF13B_S(1381) KIF13B_S(1400) KIF13B_S(1447) KIF13B_S(1689) KIF13B_S(1791) KIF13B_S(435),0.6,0.5,4,5,8,1.0,0.05038964763852161,0.5975080622099442

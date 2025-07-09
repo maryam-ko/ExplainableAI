@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARID1B_S(1240) ARID1B_S(1608) ARID1B_S(1612) ARID1B_S(1749) ARID1B_S(502) ARID1B_S(632) ARID1B_S(662) ARID1B_S(805) ARID1B_T(1242),0.8,0.5,4,1,8,1.0,0.016971035892732408,0.5494687841165657

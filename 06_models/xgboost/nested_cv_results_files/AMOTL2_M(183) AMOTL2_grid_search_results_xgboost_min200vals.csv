@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+AMOTL2_M(183) AMOTL2_S(166) AMOTL2_S(236) AMOTL2_S(294) AMOTL2_S(540) AMOTL2_S(600) AMOTL2_S(604) AMOTL2_S(757) AMOTL2_S(762),0.8,0.5,4,1,8,1.0,0.022980340203370732,0.40148245735554056

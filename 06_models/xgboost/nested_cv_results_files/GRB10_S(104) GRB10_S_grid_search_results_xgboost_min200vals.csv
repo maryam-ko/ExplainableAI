@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRB10_S(104) GRB10_S(360) GRB10_S(373) GRB10_S(421) GRB10_S(426) GRB10_S(428) GRB10_S(431) GRB10_S(476) GRB10_T(146),1.0,0.5,3,1,8,1.0,0.024949995488528633,0.7975981152500646

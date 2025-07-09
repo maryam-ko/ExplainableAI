@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC35F6_S(353) SLC35F6_S(354) SLC35F6_S(371) SLC35F6_T(363) SLC35F6_T(365),1.0,0.5,4,1,8,1.0,0.04099735518651361,0.3988716174991468

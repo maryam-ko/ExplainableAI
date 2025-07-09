@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ROCK1_S(1108) ROCK1_S(1146) ROCK1_S(1333) ROCK1_S(1336) ROCK1_S(1341) ROCK1_S(567) ROCK1_S(572) ROCK1_S(6) ROCK1_S(679) ROCK1_S(952) ROCK1_T(1101) ROCK1_T(1334) ROCK1_T(1337),1.0,0.5,4,10,8,1.0,0.033589482775775885,0.6768390864419082

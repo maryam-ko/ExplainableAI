@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLUH_S(605) CLUH_S(649) CLUH_S(652) CLUH_S(664) CLUH_S(669),1.0,0.5,4,1,8,1.0,0.05155092727936549,0.6368482012913732

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRD9_C(103) BRD9_S(15) BRD9_S(197) BRD9_S(2) BRD9_S(470) BRD9_S(56) BRD9_S(566) BRD9_S(588) BRD9_T(103),1.0,0.5,4,1,8,0.8,0.03268516756017201,0.611818248437121

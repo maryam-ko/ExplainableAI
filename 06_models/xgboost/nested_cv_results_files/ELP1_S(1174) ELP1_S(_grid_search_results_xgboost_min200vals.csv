@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELP1_S(1174) ELP1_S(1185) ELP1_S(1190) ELP1_S(1211) ELP1_S(173) ELP1_S(251) ELP1_S(471) ELP1_S(679) ELP1_S(683) ELP1_S(867),1.0,0.5,4,1,8,1.0,0.020406984411773542,0.6601356258457037

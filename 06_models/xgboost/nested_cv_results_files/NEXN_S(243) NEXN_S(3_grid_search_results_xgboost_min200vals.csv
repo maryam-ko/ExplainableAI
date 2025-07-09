@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEXN_S(243) NEXN_S(378) NEXN_S(7) NEXN_S(80) NEXN_S(9) NEXN_T(363),1.0,0.5,4,1,8,1.0,0.04240618331996516,0.7844812374075277

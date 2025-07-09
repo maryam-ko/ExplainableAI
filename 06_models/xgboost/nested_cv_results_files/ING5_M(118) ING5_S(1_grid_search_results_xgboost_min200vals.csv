@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ING5_M(118) ING5_S(112) ING5_S(114) ING5_S(118) ING5_S(122) ING5_S(145) ING5_S(148) ING5_S(452) ING5_S(54) ING5_S(57) ING5_T(145) ING5_T(146) ING5_T(147) ING5_T(152),1.0,0.5,4,1,8,1.0,0.022692852266353283,0.7989593904604464

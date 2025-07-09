@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRWD1_C(26) GRWD1_S(119) GRWD1_S(122) GRWD1_S(341) GRWD1_S(344) GRWD1_T(10),0.6,0.5,4,5,8,1.0,0.035595611859598905,0.2818272658305999

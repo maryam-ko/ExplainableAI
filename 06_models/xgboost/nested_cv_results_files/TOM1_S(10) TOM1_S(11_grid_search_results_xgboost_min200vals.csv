@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOM1_S(10) TOM1_S(11) TOM1_S(160) TOM1_S(326) TOM1_S(355) TOM1_S(417) TOM1_S(461) TOM1_S(473) TOM1_S(474) TOM1_T(154) TOM1_T(164) TOM1_Y(386),1.0,0.5,4,1,8,1.0,0.022217564947752535,0.7130693811997973

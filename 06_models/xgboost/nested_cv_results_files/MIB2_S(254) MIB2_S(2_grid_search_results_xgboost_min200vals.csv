@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIB2_S(254) MIB2_S(295) MIB2_S(309) MIB2_S(312),0.8,0.5,4,1,8,1.0,0.029038106705536255,0.5805597208782013

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITFG2_S(104) ITFG2_S(220) ITFG2_T(218),0.8,0.5,4,1,8,1.0,0.03746370219680697,0.5605325295798187

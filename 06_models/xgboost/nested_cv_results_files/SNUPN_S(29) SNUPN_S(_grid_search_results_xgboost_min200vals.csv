@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNUPN_S(29) SNUPN_S(329) SNUPN_S(350) SNUPN_S(356) SNUPN_S(41) SNUPN_S(75) SNUPN_T(341) SNUPN_Y(334) SNUPN_Y(35),0.8,0.5,4,1,8,1.0,0.026568486212935345,0.7270867977813529

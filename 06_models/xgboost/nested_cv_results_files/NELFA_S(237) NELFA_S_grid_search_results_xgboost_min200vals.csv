@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NELFA_S(237) NELFA_S(350) NELFA_S(360) NELFA_S(363) NELFA_S(374) NELFA_S(83) NELFA_S(86) NELFA_T(246) NELFA_T(250) NELFA_T(288) NELFA_T(297),1.0,0.5,4,5,8,1.0,0.032440816572224175,0.8231782416746422

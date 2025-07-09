@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IRF2BP1_S(117) IRF2BP1_S(125) IRF2BP1_S(144) IRF2BP1_S(186) IRF2BP1_S(194) IRF2BP1_S(384) IRF2BP1_S(421) IRF2BP1_S(436) IRF2BP1_S(478) IRF2BP1_S(66) IRF2BP1_T(377),1.0,0.5,4,5,8,0.8,0.04044303581295913,0.5003630230944442

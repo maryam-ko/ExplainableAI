@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DMAP1_S(40) DMAP1_S(41) DMAP1_S(418) DMAP1_S(448) DMAP1_S(450) DMAP1_S(451) DMAP1_S(454) DMAP1_S(460) DMAP1_T(409) DMAP1_T(433) DMAP1_T(435) DMAP1_T(445),1.0,0.5,4,1,8,1.0,0.02816930938339069,0.7353956961336309

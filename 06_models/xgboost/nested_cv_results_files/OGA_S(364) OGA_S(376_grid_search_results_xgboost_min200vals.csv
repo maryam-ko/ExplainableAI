@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OGA_S(364) OGA_S(376) OGA_S(378) OGA_S(505) OGA_S(509) OGA_S(511) OGA_S(527) OGA_S(6) OGA_T(501) OGA_T(709) OGA_T(806),0.6,0.5,4,5,8,1.0,0.022903284327156076,0.6781828357520909

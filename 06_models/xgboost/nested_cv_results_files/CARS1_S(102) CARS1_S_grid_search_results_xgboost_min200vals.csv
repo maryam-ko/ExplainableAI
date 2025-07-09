@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CARS1_S(102) CARS1_S(117) CARS1_S(12) CARS1_S(19) CARS1_S(305) CARS1_S(307) CARS1_S(320) CARS1_S(34) CARS1_S(388) CARS1_S(390) CARS1_S(395) CARS1_S(829) CARS1_T(36) CARS1_Y(32),1.0,0.5,4,1,8,1.0,0.023771676937664934,0.7601486888788255

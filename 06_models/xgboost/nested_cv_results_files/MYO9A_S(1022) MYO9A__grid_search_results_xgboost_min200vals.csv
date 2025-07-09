@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO9A_S(1022) MYO9A_S(1063) MYO9A_S(1202) MYO9A_S(1230) MYO9A_S(1363) MYO9A_S(1364) MYO9A_S(1712) MYO9A_S(1730) MYO9A_S(1733) MYO9A_S(1829) MYO9A_S(2058) MYO9A_S(3) MYO9A_T(2279),1.0,0.5,4,1,8,0.8,0.017318756225502066,0.7700145841776592

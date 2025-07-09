@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAAP1_S(167) CAAP1_S(203) CAAP1_S(205) CAAP1_S(301) CAAP1_S(311) CAAP1_S(312) CAAP1_S(332) CAAP1_S(6) CAAP1_S(7) CAAP1_S(89) CAAP1_S(92) CAAP1_S(93) CAAP1_S(94) CAAP1_S(96) CAAP1_T(90),0.8,0.5,4,5,8,1.0,0.03475144378082878,0.6538830303721854

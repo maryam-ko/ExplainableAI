@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARMCX3_C(53) ARMCX3_S(108) ARMCX3_S(110) ARMCX3_S(113) ARMCX3_S(119) ARMCX3_S(43) ARMCX3_S(52) ARMCX3_S(53) ARMCX3_S(61) ARMCX3_S(67) ARMCX3_S(72) ARMCX3_T(116),0.8,0.5,4,1,8,1.0,0.0410274826257461,0.5998251392206647

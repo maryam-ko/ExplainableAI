@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX2_M(119) SNX2_S(117) SNX2_S(119) SNX2_S(127) SNX2_S(185) SNX2_S(226) SNX2_S(277) SNX2_S(97) SNX2_T(101) SNX2_T(104),0.8,0.5,4,5,8,1.0,0.02724174115355077,0.7582756300493277

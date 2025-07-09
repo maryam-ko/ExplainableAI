@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIER3_C(156) MIER3_C(163) MIER3_S(114) MIER3_S(122) MIER3_S(156) MIER3_S(52) MIER3_S(53) MIER3_T(150),1.0,0.5,4,1,8,0.8,0.01694754422824825,0.7212174391124908

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMCC3_S(15) TMCC3_S(174) TMCC3_S(195) TMCC3_S(216) TMCC3_S(226) TMCC3_S(242) TMCC3_S(4) TMCC3_S(438) TMCC3_S(46) TMCC3_S(5) TMCC3_T(17) TMCC3_T(194) TMCC3_T(244) TMCC3_T(48),1.0,0.5,4,1,8,1.0,0.032461848700956725,0.5212684803066816

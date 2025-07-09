@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUDS3_S(234) SUDS3_S(235) SUDS3_S(236) SUDS3_S(237) SUDS3_S(238) SUDS3_S(248) SUDS3_S(32) SUDS3_S(40) SUDS3_S(53) SUDS3_T(49) SUDS3_T(91) SUDS3_Y(95),1.0,0.5,4,1,8,1.0,0.04496190780284222,0.7278468718195704

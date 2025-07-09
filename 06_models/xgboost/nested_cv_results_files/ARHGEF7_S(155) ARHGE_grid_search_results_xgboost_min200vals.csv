@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARHGEF7_S(155) ARHGEF7_S(242) ARHGEF7_S(3) ARHGEF7_S(438) ARHGEF7_S(516) ARHGEF7_S(518) ARHGEF7_S(601) ARHGEF7_S(673) ARHGEF7_S(691) ARHGEF7_T(425),1.0,0.5,4,5,8,0.8,0.03266644724881034,0.7742916866700631

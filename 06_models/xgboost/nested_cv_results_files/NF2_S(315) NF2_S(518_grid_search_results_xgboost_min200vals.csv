@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NF2_S(315) NF2_S(518) NF2_S(584) NF2_S(587) NF2_T(578),0.6,0.5,4,1,8,1.0,0.029359816378633094,0.6944556485958048

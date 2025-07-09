@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR55_C(14) WDR55_C(22) WDR55_S(14) WDR55_S(21) WDR55_S(369) WDR55_S(382) WDR55_S(93) WDR55_T(22) WDR55_T(378) WDR55_T(4) WDR55_T(5),1.0,0.5,4,1,8,1.0,0.04421784448753584,0.5473409000036966

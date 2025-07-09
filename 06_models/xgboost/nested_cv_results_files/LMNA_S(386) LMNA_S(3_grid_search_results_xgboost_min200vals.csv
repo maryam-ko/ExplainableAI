@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMNA_S(386) LMNA_S(390) LMNA_S(392) LMNA_S(419) LMNA_T(24),0.6,0.5,4,5,8,1.0,0.04809778353114018,0.8050658285169725

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TXLNA_S(18) TXLNA_S(19) TXLNA_S(35) TXLNA_S(499) TXLNA_S(514) TXLNA_S(515),0.8,0.5,4,5,8,1.0,0.03788547921075771,0.7566198997131124

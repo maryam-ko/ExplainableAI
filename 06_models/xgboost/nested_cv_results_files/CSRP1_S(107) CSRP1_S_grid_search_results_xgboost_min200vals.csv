@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSRP1_S(107) CSRP1_S(116) CSRP1_S(14) CSRP1_S(155) CSRP1_S(159) CSRP1_S(192) CSRP1_S(366) CSRP1_S(48) CSRP1_S(81) CSRP1_T(79) CSRP1_Y(57) CSRP1_Y(71) CSRP1_Y(73),1.0,0.5,4,1,8,1.0,0.04907539330279033,0.5397710629093799

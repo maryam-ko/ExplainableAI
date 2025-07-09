@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ATP5F1B_S(106) ATP5F1B_S(316) ATP5F1B_S(415) ATP5F1B_S(465) ATP5F1B_S(528) ATP5F1B_S(529) ATP5F1B_S(7) ATP5F1B_S(9) ATP5F1B_T(213) ATP5F1B_Y(12) ATP5F1B_Y(269),0.8,0.5,4,1,8,1.0,0.03557153899153523,0.55709449583937

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRAT1_S(582) BRAT1_S(742) BRAT1_S(792) BRAT1_S(798) BRAT1_T(484) BRAT1_T(581),1.0,0.5,4,5,8,1.0,0.020759516848357876,0.783957727593013

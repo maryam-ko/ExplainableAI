@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LEMD2_S(132) LEMD2_S(134) LEMD2_S(138) LEMD2_S(139) LEMD2_S(166) LEMD2_S(494) LEMD2_S(496) LEMD2_S(497) LEMD2_S(499) LEMD2_S(5) LEMD2_S(501) LEMD2_S(81) LEMD2_S(82) LEMD2_T(100) LEMD2_T(11) LEMD2_T(147),1.0,0.5,4,1,8,1.0,0.032094664313075075,0.7627629660858078

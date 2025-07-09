@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OIP5_S(10) OIP5_S(225) OIP5_T(14) OIP5_T(221),1.0,0.5,4,1,8,1.0,0.030663752097855847,0.5009874488608592

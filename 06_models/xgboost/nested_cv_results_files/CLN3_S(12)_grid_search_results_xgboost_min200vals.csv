@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLN3_S(12),1.0,0.5,4,5,8,1.0,0.03512094529098352,0.6918779092085603

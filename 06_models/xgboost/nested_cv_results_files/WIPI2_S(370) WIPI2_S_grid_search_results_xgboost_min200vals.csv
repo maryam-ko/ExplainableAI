@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WIPI2_S(370) WIPI2_S(413) WIPI2_T(415),0.6,0.5,4,10,8,1.0,0.027535612974766255,0.6210892100186596

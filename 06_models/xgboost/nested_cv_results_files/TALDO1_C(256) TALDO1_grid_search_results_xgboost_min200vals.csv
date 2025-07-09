@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TALDO1_C(256) TALDO1_S(237) TALDO1_S(256) TALDO1_S(3) TALDO1_S(4) TALDO1_S(7),1.0,0.5,4,1,8,1.0,0.045594257460267726,0.5726218006887009

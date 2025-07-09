@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LSP1_S(177) LSP1_S(188) LSP1_S(189) LSP1_S(193) LSP1_S(204) LSP1_S(24) LSP1_S(252) LSP1_S(257),0.8,0.5,4,1,6,1.0,0.05431926786589268,0.4468163999556465

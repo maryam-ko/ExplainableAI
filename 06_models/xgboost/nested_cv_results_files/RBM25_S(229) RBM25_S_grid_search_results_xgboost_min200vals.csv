@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM25_S(229) RBM25_S(231) RBM25_S(282) RBM25_S(516) RBM25_S(581) RBM25_S(583) RBM25_S(6) RBM25_S(671) RBM25_S(675) RBM25_S(677) RBM25_S(681) RBM25_S(683) RBM25_S(693) RBM25_S(701) RBM25_S(703),1.0,0.5,4,5,8,1.0,0.025794603961827086,0.7954197814641821

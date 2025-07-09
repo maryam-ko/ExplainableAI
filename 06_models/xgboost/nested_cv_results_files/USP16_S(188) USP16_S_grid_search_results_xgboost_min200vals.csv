@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP16_S(188) USP16_S(242) USP16_S(523) USP16_S(537) USP16_S(552) USP16_S(597) USP16_T(554),0.6,0.5,4,1,8,1.0,0.022877616627311546,0.6447602143385065

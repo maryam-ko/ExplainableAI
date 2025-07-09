@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+P2RY8_S(324) P2RY8_S(327) P2RY8_S(335),1.0,0.5,3,10,4,1.0,0.03479579365371687,0.15875074501220948

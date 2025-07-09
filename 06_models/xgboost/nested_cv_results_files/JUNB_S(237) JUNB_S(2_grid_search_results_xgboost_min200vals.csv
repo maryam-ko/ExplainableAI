@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JUNB_S(237) JUNB_S(259) JUNB_T(255),1.0,0.5,4,5,8,1.0,0.05984907479282688,0.5156785374176405

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKAR1A_S(101) PRKAR1A_S(13) PRKAR1A_S(14) PRKAR1A_S(2) PRKAR1A_S(7) PRKAR1A_S(74) PRKAR1A_S(77) PRKAR1A_S(83) PRKAR1A_T(106) PRKAR1A_T(75) PRKAR1A_Y(373),0.8,0.5,4,1,6,1.0,0.04381777217689518,0.6943076906448589

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WRN_M(1133) WRN_S(1127) WRN_S(1128) WRN_S(1133) WRN_S(1400) WRN_S(409) WRN_S(426) WRN_S(440) WRN_S(467) WRN_S(478),1.0,0.5,4,5,6,1.0,0.03329715409715218,0.6799299534949494

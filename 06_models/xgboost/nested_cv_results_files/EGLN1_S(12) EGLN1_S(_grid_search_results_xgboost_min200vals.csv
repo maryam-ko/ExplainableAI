@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EGLN1_S(12) EGLN1_S(125) EGLN1_S(14) EGLN1_S(5),1.0,0.5,4,1,8,1.0,0.022319702596018464,0.6156788509871617

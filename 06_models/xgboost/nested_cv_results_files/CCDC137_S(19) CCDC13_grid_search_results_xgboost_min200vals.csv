@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC137_S(19) CCDC137_S(358),0.8,0.5,4,5,8,1.0,0.0532378069142147,0.5435493585384498

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP18_S(100) UTP18_S(182) UTP18_S(186) UTP18_S(206) UTP18_S(210) UTP18_S(45) UTP18_S(46) UTP18_S(55) UTP18_S(97) UTP18_T(204),0.6,0.5,4,1,8,1.0,0.055135250293088904,0.4949732548536422

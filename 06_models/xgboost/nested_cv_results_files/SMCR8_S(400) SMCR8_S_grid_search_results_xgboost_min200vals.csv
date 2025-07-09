@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMCR8_S(400) SMCR8_S(417) SMCR8_S(421) SMCR8_S(467) SMCR8_S(468) SMCR8_S(471) SMCR8_S(489) SMCR8_S(492) SMCR8_S(498) SMCR8_S(639) SMCR8_T(494),0.6,0.5,4,1,8,1.0,0.03478867744351857,0.6686635081664241

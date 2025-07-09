@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CA2_S(172) CA2_S(2) CA2_S(212) CA2_S(258) CA2_S(3) CA2_S(50) CA2_S(73) CA2_T(87) CA2_Y(114),1.0,0.5,2,1,8,1.0,0.024701434623029296,0.1227717110753834

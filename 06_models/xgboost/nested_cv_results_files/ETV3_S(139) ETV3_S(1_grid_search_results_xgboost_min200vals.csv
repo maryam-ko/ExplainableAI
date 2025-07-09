@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ETV3_S(139) ETV3_S(159) ETV3_S(245) ETV3_S(250) ETV3_Y(240),0.8,0.5,4,1,8,1.0,0.04309702387236697,0.630151529315335
