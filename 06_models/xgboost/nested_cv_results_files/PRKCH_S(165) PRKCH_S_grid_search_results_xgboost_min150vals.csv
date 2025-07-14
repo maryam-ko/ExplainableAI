@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKCH_S(165) PRKCH_S(243) PRKCH_S(304) PRKCH_S(514) PRKCH_S(672) PRKCH_S(675) PRKCH_S(678) PRKCH_T(166),0.6,0.5,4,1,6,1.0,0.016620495416336988,0.516624271982448

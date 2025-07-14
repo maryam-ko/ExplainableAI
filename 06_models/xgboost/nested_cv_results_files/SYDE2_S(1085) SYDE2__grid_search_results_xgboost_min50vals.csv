@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYDE2_S(1085) SYDE2_S(223) SYDE2_S(622) SYDE2_S(626) SYDE2_Y(620),1.0,0.5,3,1,8,0.8,0.018865783600766486,0.11603895215521527

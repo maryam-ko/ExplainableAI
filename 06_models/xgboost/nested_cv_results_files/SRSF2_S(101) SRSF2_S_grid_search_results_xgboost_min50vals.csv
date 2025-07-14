@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRSF2_S(101) SRSF2_S(119) SRSF2_S(145) SRSF2_S(147) SRSF2_S(187) SRSF2_S(2) SRSF2_S(207) SRSF2_S(9) SRSF2_S(91) SRSF2_T(1) SRSF2_T(29) SRSF2_T(5) SRSF2_T(8) SRSF2_Y(6),0.6,0.5,4,10,8,1.0,0.031229654479914087,0.427426530903645

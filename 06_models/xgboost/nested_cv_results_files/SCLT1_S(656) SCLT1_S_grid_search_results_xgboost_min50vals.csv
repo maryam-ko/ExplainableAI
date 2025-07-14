@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCLT1_S(656) SCLT1_S(681),0.8,0.5,3,1,6,1.0,0.020604323081007823,0.41310646830702796

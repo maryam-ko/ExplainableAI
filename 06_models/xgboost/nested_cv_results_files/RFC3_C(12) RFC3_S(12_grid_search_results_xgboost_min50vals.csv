@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFC3_C(12) RFC3_S(12) RFC3_T(76),0.6,0.5,1,1,8,1.0,0.011014826628485472,0.337182766447607

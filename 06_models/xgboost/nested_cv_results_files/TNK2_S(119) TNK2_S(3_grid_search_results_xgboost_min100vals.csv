@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNK2_S(119) TNK2_S(36) TNK2_S(756) TNK2_S(760) TNK2_S(785) TNK2_S(800) TNK2_S(817) TNK2_T(119) TNK2_T(33) TNK2_Y(209) TNK2_Y(284) TNK2_Y(316) TNK2_Y(518) TNK2_Y(826) TNK2_Y(827) TNK2_Y(859),1.0,0.5,4,5,8,1.0,0.020929348033415545,0.5721265690516291

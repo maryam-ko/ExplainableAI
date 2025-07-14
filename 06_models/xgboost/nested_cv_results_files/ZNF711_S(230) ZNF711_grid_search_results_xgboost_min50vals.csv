@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF711_S(230) ZNF711_S(459) ZNF711_T(221),0.8,0.5,4,1,4,1.0,0.020305291160792965,0.262493684780324

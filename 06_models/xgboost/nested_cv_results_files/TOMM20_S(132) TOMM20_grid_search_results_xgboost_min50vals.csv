@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOMM20_S(132) TOMM20_S(135) TOMM20_S(138) TOMM20_S(30) TOMM20_S(55),0.6,0.5,3,1,8,1.0,0.032202575469083235,0.5598216925941412

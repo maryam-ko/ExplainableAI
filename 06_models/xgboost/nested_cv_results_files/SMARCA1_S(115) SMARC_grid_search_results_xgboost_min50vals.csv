@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMARCA1_S(115) SMARCA1_S(116) SMARCA1_S(119) SMARCA1_T(118),1.0,0.5,4,1,8,0.8,0.031348056308603565,0.4287691923458349

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SFT2D2_S(20) SFT2D2_S(9),1.0,0.5,1,1,8,0.6,0.020335387300380602,0.07952551944675497

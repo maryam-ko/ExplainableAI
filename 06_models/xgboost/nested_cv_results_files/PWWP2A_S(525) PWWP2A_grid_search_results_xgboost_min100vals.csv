@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PWWP2A_S(525) PWWP2A_S(527) PWWP2A_S(587),1.0,0.5,2,1,8,0.8,0.016372609404497696,0.040279820960372394

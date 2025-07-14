@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SH3RF3_S(3) SH3RF3_S(381) SH3RF3_S(400) SH3RF3_S(401) SH3RF3_S(542) SH3RF3_S(731) SH3RF3_S(797) SH3RF3_S(804) SH3RF3_S(881) SH3RF3_T(458),0.8,0.5,3,5,8,1.0,0.015753068064857934,0.2548214215258312

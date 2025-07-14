@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRMT61A_S(46),0.6,0.5,4,1,8,1.0,0.007652507491722049,0.25733919399707894

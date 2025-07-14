@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WAC_S(12) WAC_S(131) WAC_S(279) WAC_S(371) WAC_S(51) WAC_S(56) WAC_S(8) WAC_S(96) WAC_T(379) WAC_T(457) WAC_T(531),0.8,0.5,2,10,4,1.0,0.016377690987674776,0.12606180546816806

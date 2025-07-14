@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SACS_S(1029) SACS_S(1779) SACS_S(2031) SACS_S(2032) SACS_S(2511) SACS_S(2514) SACS_S(2732) SACS_S(3) SACS_S(3510) SACS_S(3514) SACS_S(4257) SACS_S(4264) SACS_T(4263) SACS_T(4266) SACS_Y(2514),1.0,0.5,4,1,8,1.0,0.03744748721302509,0.3879798000282766

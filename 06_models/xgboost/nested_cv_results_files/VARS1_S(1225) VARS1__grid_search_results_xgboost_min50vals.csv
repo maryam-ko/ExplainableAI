@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VARS1_S(1225) VARS1_S(124) VARS1_S(15) VARS1_S(301) VARS1_S(405) VARS1_S(437) VARS1_S(486) VARS1_S(525) VARS1_S(527) VARS1_S(536) VARS1_S(570) VARS1_S(774) VARS1_T(284) VARS1_Y(280),0.6,0.5,4,5,6,1.0,0.022587677388079156,0.2704295215378887

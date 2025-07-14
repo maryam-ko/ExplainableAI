@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBTF_S(23) UBTF_S(238) UBTF_S(329) UBTF_S(364) UBTF_S(433) UBTF_S(447) UBTF_S(449) UBTF_S(546) UBTF_S(584) UBTF_S(608) UBTF_T(201) UBTF_T(9),0.6,0.5,2,1,8,0.6,0.010127489861161,0.042228181596123404

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMED8_C(34) TMED8_C(62) TMED8_C(71) TMED8_C(74) TMED8_S(14) TMED8_S(153) TMED8_S(21) TMED8_S(28) TMED8_S(39) TMED8_S(50) TMED8_S(63) TMED8_S(71),1.0,0.5,3,10,8,1.0,0.016374427417518374,0.5052438567815118

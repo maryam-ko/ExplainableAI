@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UNK_C(240) UNK_S(316) UNK_S(375) UNK_S(383) UNK_S(411) UNK_S(442) UNK_S(447) UNK_S(461),0.6,0.5,1,1,8,1.0,0.013072160946869535,0.16369642462682985

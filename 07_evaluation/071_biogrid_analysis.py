@@ -26,7 +26,7 @@ def parse_arguments():
     parser.add_argument('--network_name', type=str, default=None, help='Network name if analyzing specific network')
     parser.add_argument('--model_types', nargs='+', default=['linear_regression'], 
                         help='Model types to evaluate')
-    parser.add_argument('--thresholds', nargs='+', type=int, default=[200], 
+    parser.add_argument('--thresholds', nargs='+', type=int, default=[50,100,150,200], 
                         help='Thresholds to evaluate')
     return parser.parse_args()
 
@@ -80,35 +80,41 @@ def load_prediction_data(base_dir, network_name, model_type, threshold):
     
     if model_type == 'linear_regression':
         df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
-        df['Feature'] = df['Feature'].str.split('_').str[0]
-        df = df[['Feature', 'TargetFeature', 'MedianCoeff']]
+        df['PredictiveFeature'] = df['Feature'].str.split('_').str[0]
+        df = df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']]
         value_col = 'MedianCoeff'
     else:
-        df = df[['Feature', 'TargetFeature', 'LogSHAPValue']]
+        df = df[['PredictiveFeature', 'TargetFeature', 'LogSHAPValue']]
         value_col = 'LogSHAPValue'
     
     # Remove duplicates
     df.dropna(subset=[value_col], inplace=True)
-    df.drop_duplicates(subset=['Feature', 'TargetFeature'], inplace=True)
+    df.drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'], inplace=True)
     print(f'Predicted dataframe ({model_type}, {threshold}): {df}')
     return df
 
 def filter_for_common_proteins(predictions, reference):
     """Retain only proteins present in both datasets."""
     # Standardize protein names
+    # Rename columns if needed for consistency
+    if 'Feature' in predictions.columns:
+        predictions = predictions.rename(columns={'Feature': 'PredictiveFeature'})
+    if 'Feature' in reference.columns:
+        reference = reference.rename(columns={'Feature': 'PredictiveFeature'})
+
     for df in [predictions, reference]:
-        df['Feature'] = df['Feature'].str.upper().str.strip()
+        df['PredictiveFeature'] = df['PredictiveFeature'].str.upper().str.strip()
         df['TargetFeature'] = df['TargetFeature'].str.upper().str.strip()
     
     # Get common proteins
-    pred_prots = set(predictions['Feature']) | set(predictions['TargetFeature'])
-    ref_prots = set(reference['Feature']) | set(reference['TargetFeature'])
+    pred_prots = set(predictions['PredictiveFeature']) | set(predictions['TargetFeature'])
+    ref_prots = set(reference['PredictiveFeature']) | set(reference['TargetFeature'])
     common_prots = pred_prots & ref_prots
     print(f'Number of common proteins: {len(common_prots)}')
     
     # Filter both datasets
-    mask_preds = (predictions['Feature'].isin(common_prots)) & (predictions['TargetFeature'].isin(common_prots))
-    mask_ref = (reference['Feature'].isin(common_prots)) & (reference['TargetFeature'].isin(common_prots))
+    mask_preds = (predictions['PredictiveFeature'].isin(common_prots)) & (predictions['TargetFeature'].isin(common_prots))
+    mask_ref = (reference['PredictiveFeature'].isin(common_prots)) & (reference['TargetFeature'].isin(common_prots))
     
     return predictions[mask_preds].copy(), reference[mask_ref].copy()
 
@@ -158,7 +164,7 @@ def format_df_per_model_and_threshold(base_dir, network_name, model_types, thres
             else:
                 df[column_to_normalise] = 0.0  # If all values are the same, set them to 0
 
-            df.columns = ['Feature', 'TargetFeature', 'NormalisedCoeffOrSHAP']
+            df.columns = ['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP']
             predictions_dict[model][threshold] = df
 
     return predictions_dict, reference_filtered_dict
@@ -169,15 +175,15 @@ def calculate_aucs(preds_dict, ref_dict, base_dir, network_name, model_types, th
     for model in model_types:
         model_results = []
         for threshold in thresholds:
-            preds_dict[model][threshold] = preds_dict[model][threshold].drop_duplicates(subset=['Feature', 'TargetFeature'])
-            ref_dict[model][threshold] = ref_dict[model][threshold].drop_duplicates(subset=['Feature', 'TargetFeature'])
+            preds_dict[model][threshold] = preds_dict[model][threshold].drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'])
+            ref_dict[model][threshold] = ref_dict[model][threshold].drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'])
             
             y_scores = preds_dict[model][threshold]['NormalisedCoeffOrSHAP'].tolist()
 
             # identify predicted interactions also found in reference dataset
             # all rows from predictions are in output (df length is same as predictions)
             # rows in both dfs = 'both' / rows just in predictions = 'left_only'
-            merged_df = pd.merge(preds_dict[model][threshold], ref_dict[model][threshold], on=['Feature', 'TargetFeature'],
+            merged_df = pd.merge(preds_dict[model][threshold], ref_dict[model][threshold], on=['PredictiveFeature', 'TargetFeature'],
                                 how='left', indicator=True)
             print('merged_df:', merged_df.head())
 
@@ -326,7 +332,7 @@ def filter_for_all_models_and_thresholds(predictions_dict, model_types, threshol
         for threshold in thresholds:
             # Get the interactions for the current model and threshold
             current_interactions = set(zip(
-                predictions_dict[model][threshold]['Feature'],
+                predictions_dict[model][threshold]['PredictiveFeature'],
                 predictions_dict[model][threshold]['TargetFeature'],
                 predictions_dict[model][threshold]['NormalisedCoeffOrSHAP']
             ))
@@ -344,9 +350,9 @@ def filter_for_all_models_and_thresholds(predictions_dict, model_types, threshol
             print('common_interactions:', len(common_interactions))
     # Convert the common interactions back to a DataFrame
     if common_interactions:
-        filtered_df = pd.DataFrame(list(common_interactions), columns=['Feature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])
+        filtered_df = pd.DataFrame(list(common_interactions), columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])
     else:
-        filtered_df = pd.DataFrame(columns=['Feature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])  # Empty DataFrame if no common interactions
+        filtered_df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])  # Empty DataFrame if no common interactions
 
     return filtered_df
 
@@ -371,7 +377,16 @@ def plot_aucs_ints_in_all_models_and_thresholds(auc_df, base_dir, network_name, 
 
     # Create the plot
     fig, ax = plt.subplots(figsize=(8, 6))
-    ax.bar(bar_labels, bar_values, color=bar_colors, width=0.5)
+    bars = ax.bar(bar_labels, bar_values, color=bar_colors, width=0.5)
+
+    # Add value labels on top of each bar
+    for bar in bars:
+        height = bar.get_height()
+        ax.annotate(f'{height:.2f}',
+                    xy=(bar.get_x() + bar.get_width() / 2, height),
+                    xytext=(0, 5),  # 5 points vertical offset
+                    textcoords="offset points",
+                    ha='center', va='bottom', fontsize=12)
 
     # Format the plot
     ax.set_ylim(0, 1)  # AUC values range from 0 to 1
@@ -411,7 +426,7 @@ def filter_by_union_of_models(predictions_dict, model_types, thresholds):
         for threshold in thresholds:
             # Get the interactions for the current model and threshold
             current_interactions = set(zip(
-                predictions_dict[model][threshold]['Feature'],
+                predictions_dict[model][threshold]['PredictiveFeature'],
                 predictions_dict[model][threshold]['TargetFeature']
             ))
             
@@ -423,9 +438,9 @@ def filter_by_union_of_models(predictions_dict, model_types, thresholds):
 
     # Convert the common interactions back to a DataFrame
     if common_interactions:
-        filtered_df = pd.DataFrame(list(common_interactions), columns=['Feature', 'TargetFeature'])
+        filtered_df = pd.DataFrame(list(common_interactions), columns=['PredictiveFeature', 'TargetFeature'])
     else:
-        filtered_df = pd.DataFrame(columns=['Feature', 'TargetFeature'])  # Empty DataFrame if no common interactions
+        filtered_df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature'])  # Empty DataFrame if no common interactions
 
     return filtered_df
   
@@ -444,7 +459,7 @@ def filter_by_minimum_two_models_or_thresholds(predictions_dict, filter_type, mo
                 
                 for other_model in other_models:
                     other_preds = predictions_dict[other_model][threshold]
-                    other_ints = set(zip(other_preds['Feature'], other_preds['TargetFeature']))
+                    other_ints = set(zip(other_preds['PredictiveFeature'], other_preds['TargetFeature']))
                     combined_other_ints.update(other_ints)
                 
             elif filter_type == 'threshold':
@@ -454,12 +469,12 @@ def filter_by_minimum_two_models_or_thresholds(predictions_dict, filter_type, mo
                 
                 for other_threshold in other_thresholds:
                     other_preds = predictions_dict[model][other_threshold]
-                    other_ints = set(zip(other_preds['Feature'], other_preds['TargetFeature']))
+                    other_ints = set(zip(other_preds['PredictiveFeature'], other_preds['TargetFeature']))
                     combined_other_ints.update(other_ints)
             
             # Filter predictions
             filtered_dict[model][threshold] = predictions[
-                predictions[['Feature', 'TargetFeature']].apply(tuple, axis=1).isin(combined_other_ints)
+                predictions[['PredictiveFeature', 'TargetFeature']].apply(tuple, axis=1).isin(combined_other_ints)
             ]
     
     # combine the interactions across models at each threshold
@@ -470,7 +485,7 @@ def filter_by_minimum_two_models_or_thresholds(predictions_dict, filter_type, mo
             [filtered_dict[model][threshold] for model in model_types if threshold in filtered_dict[model]],
             ignore_index=True
         )
-        unique_interactions = combined_df.drop_duplicates(subset=['Feature', 'TargetFeature'])
+        unique_interactions = combined_df.drop_duplicates(subset=['PredictiveFeature', 'TargetFeature'])
         if 'LogSHAPValue' in unique_interactions.columns and unique_interactions['LogSHAPValue'].isna().all():
             unique_interactions = unique_interactions.drop(columns=['LogSHAPValue'])
         combined_dict[threshold] = unique_interactions

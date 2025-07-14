@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SALL2_S(344) SALL2_S(585) SALL2_S(656) SALL2_S(797) SALL2_S(802) SALL2_S(806) SALL2_T(326) SALL2_T(814),1.0,0.5,4,1,8,1.0,0.0158339533473682,0.3004357372014847

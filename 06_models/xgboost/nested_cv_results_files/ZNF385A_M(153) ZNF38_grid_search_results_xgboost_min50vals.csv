@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF385A_M(153) ZNF385A_S(153) ZNF385A_S(156) ZNF385A_S(160) ZNF385A_S(162) ZNF385A_S(165) ZNF385A_T(160) ZNF385A_T(248),0.8,0.5,2,1,8,0.6,0.012794262008927273,0.22116837653408933

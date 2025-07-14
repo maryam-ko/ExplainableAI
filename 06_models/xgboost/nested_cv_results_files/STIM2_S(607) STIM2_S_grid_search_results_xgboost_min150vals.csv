@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STIM2_S(607) STIM2_S(626) STIM2_S(661) STIM2_S(673) STIM2_S(683) STIM2_S(698) STIM2_S(725),1.0,0.5,4,1,8,1.0,0.01476680905005971,0.41252701022031946

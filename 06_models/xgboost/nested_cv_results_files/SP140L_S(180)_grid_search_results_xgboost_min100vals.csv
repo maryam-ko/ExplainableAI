@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SP140L_S(180),0.8,0.5,4,5,6,1.0,0.02817335511123982,0.30418145460080703

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMCO1_S(103) TMCO1_S(184) TMCO1_S(188) TMCO1_S(235) TMCO1_S(239) TMCO1_S(60),0.6,0.5,3,1,8,1.0,0.020997217294160393,0.23468563683375257

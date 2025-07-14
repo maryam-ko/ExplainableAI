@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSD3_S(1011) PSD3_S(1012) PSD3_S(1013) PSD3_S(1020) PSD3_S(1042) PSD3_S(331) PSD3_S(562) PSD3_S(750) PSD3_T(1018) PSD3_T(1019),1.0,0.5,4,1,8,1.0,0.039715096531692355,0.41418605079531945

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPP25_S(172) RPP25_S(182) RPP25_S(186) RPP25_T(198),0.6,0.5,2,1,8,0.8,0.01848775992362219,-0.011091602900913777

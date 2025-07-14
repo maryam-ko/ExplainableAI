@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTK6_Y(440) PTK6_Y(447),0.6,0.5,1,1,8,0.8,0.007501316491386928,-0.005022607093032772

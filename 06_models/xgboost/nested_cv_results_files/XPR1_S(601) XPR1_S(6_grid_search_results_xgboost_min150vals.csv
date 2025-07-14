@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XPR1_S(601) XPR1_S(603) XPR1_S(662) XPR1_S(666) XPR1_S(668) XPR1_T(625) XPR1_T(690),1.0,0.5,4,1,6,1.0,0.028241612386252685,0.664577569719266

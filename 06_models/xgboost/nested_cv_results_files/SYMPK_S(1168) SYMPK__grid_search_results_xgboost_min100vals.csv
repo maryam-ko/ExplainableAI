@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYMPK_S(1168) SYMPK_S(1170) SYMPK_S(1274) SYMPK_S(3) SYMPK_S(4) SYMPK_S(486) SYMPK_S(501) SYMPK_S(510) SYMPK_S(547) SYMPK_S(8) SYMPK_T(1231) SYMPK_T(1246),0.8,0.5,4,10,6,1.0,0.019211736098446317,0.21401908659066135

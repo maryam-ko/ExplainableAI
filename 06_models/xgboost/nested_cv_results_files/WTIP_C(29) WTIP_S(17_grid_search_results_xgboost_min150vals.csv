@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WTIP_C(29) WTIP_S(171) WTIP_S(422) WTIP_S(88),0.6,0.5,3,1,6,1.0,0.014474100812249934,0.5240299504800034

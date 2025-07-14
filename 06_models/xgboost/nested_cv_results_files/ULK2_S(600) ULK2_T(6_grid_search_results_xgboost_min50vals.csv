@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ULK2_S(600) ULK2_T(602),1.0,0.5,2,1,8,0.8,0.01628276137073959,0.05286532219760356

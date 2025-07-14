@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK11_S(28) STK11_T(32),0.6,0.5,1,1,2,0.6,0.014189876729371574,-0.013932970635369024

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STRIP1_S(59),0.6,0.5,4,10,8,1.0,0.025799036790295427,0.327186853705873

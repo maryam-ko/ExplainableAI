@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC39A6_S(203) SLC39A6_S(45) SLC39A6_S(471) SLC39A6_S(472) SLC39A6_S(475) SLC39A6_S(478) SLC39A6_S(583) SLC39A6_T(479) SLC39A6_Y(198) SLC39A6_Y(218),0.8,0.5,4,10,8,1.0,0.02622801361058667,0.6176160351503139

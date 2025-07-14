@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCAPD2_S(1366) NCAPD2_S(1367) NCAPD2_S(1370) NCAPD2_S(1371) NCAPD2_S(596) NCAPD2_T(1331) NCAPD2_T(1386) NCAPD2_T(596),1.0,0.5,4,1,8,1.0,0.022015608836328145,0.12087775105888805

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNW1_S(33) SNW1_S(370) SNW1_S(402) SNW1_S(481) SNW1_S(92) SNW1_T(261) SNW1_T(400) SNW1_T(401) SNW1_Y(179),0.8,0.5,3,1,8,1.0,0.013852225685354592,0.1326786582609075

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSFM_S(270) TSFM_T(324),0.6,0.5,1,1,8,0.8,0.010584087296284354,0.04734334017720689

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PYGB_S(15) PYGB_S(246) PYGB_S(31) PYGB_S(4) PYGB_S(430) PYGB_S(7) PYGB_S(8) PYGB_T(1) PYGB_T(241) PYGB_T(4) PYGB_T(6) PYGB_Y(1) PYGB_Y(197) PYGB_Y(281),0.6,0.5,4,10,8,1.0,0.03679296846665998,0.075504318710343

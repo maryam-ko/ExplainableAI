@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIP6_S(142) TRIP6_S(147) TRIP6_S(424) TRIP6_Y(123) TRIP6_Y(131) TRIP6_Y(149) TRIP6_Y(157) TRIP6_Y(55),0.6,0.5,3,1,8,1.0,0.021206298497181295,0.2587113245839404

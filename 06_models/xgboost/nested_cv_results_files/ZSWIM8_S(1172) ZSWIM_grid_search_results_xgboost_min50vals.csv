@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZSWIM8_S(1172) ZSWIM8_S(1836) ZSWIM8_S(19) ZSWIM8_S(4) ZSWIM8_S(45) ZSWIM8_S(46) ZSWIM8_S(64) ZSWIM8_S(823) ZSWIM8_T(1104) ZSWIM8_T(1211),0.6,0.5,1,1,8,0.6,0.005549573852460751,-0.003238296035963506

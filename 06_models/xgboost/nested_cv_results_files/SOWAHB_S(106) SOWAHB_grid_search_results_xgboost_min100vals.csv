@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOWAHB_S(106) SOWAHB_S(166) SOWAHB_S(258) SOWAHB_S(271) SOWAHB_S(450) SOWAHB_S(454) SOWAHB_S(500) SOWAHB_S(540) SOWAHB_S(740) SOWAHB_S(742) SOWAHB_S(761) SOWAHB_S(90),1.0,0.5,3,1,8,0.8,0.02905844448050303,0.0195988739912931

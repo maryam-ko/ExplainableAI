@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRR5_S(11) PRR5_S(238) PRR5_S(282),1.0,0.5,2,1,4,0.8,0.015178478327425136,0.06264127447299413

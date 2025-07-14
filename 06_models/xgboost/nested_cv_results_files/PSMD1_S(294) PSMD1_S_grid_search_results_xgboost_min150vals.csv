@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMD1_S(294) PSMD1_S(296) PSMD1_S(305) PSMD1_S(834) PSMD1_S(9) PSMD1_T(299) PSMD1_T(311) PSMD1_T(322),1.0,0.5,4,10,8,1.0,0.03230252101516375,0.6686503087295425

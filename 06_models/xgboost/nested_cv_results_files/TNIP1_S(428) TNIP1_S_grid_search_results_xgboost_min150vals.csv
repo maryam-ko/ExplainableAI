@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNIP1_S(428) TNIP1_S(435) TNIP1_S(442) TNIP1_S(627) TNIP1_S(77) TNIP1_S(9) TNIP1_T(431) TNIP1_T(438),0.6,0.5,4,1,8,1.0,0.015524719713306392,0.5710930989907963

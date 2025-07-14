@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTC3_C(429) TTC3_S(1009) TTC3_S(1244) TTC3_S(1278) TTC3_S(1819) TTC3_S(1927) TTC3_S(1935) TTC3_S(2006) TTC3_S(429) TTC3_S(456),0.6,0.5,3,10,8,1.0,0.018561944203147045,0.2267510118085286

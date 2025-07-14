@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS6KA3_S(341) RPS6KA3_S(346) RPS6KA3_S(347) RPS6KA3_S(375) RPS6KA3_S(392) RPS6KA3_S(413) RPS6KA3_S(415) RPS6KA3_S(5) RPS6KA3_S(686) RPS6KA3_T(337) RPS6KA3_Y(206),0.6,0.5,4,1,8,1.0,0.027522283015189192,0.6590851234846303

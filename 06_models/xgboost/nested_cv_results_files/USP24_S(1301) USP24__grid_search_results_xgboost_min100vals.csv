@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP24_S(1301) USP24_S(1887) USP24_S(2041) USP24_S(2044) USP24_S(2047) USP24_S(2073) USP24_S(21) USP24_S(2588) USP24_S(2602) USP24_S(3) USP24_S(4) USP24_S(7) USP24_S(9) USP24_Y(101) USP24_Y(2024),0.8,0.5,4,1,8,1.0,0.06401360485959388,0.6571548000145382

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRM1_C(780) RRM1_S(780) RRM1_S(792) RRM1_T(1598) RRM1_T(751) RRM1_Y(232),1.0,0.5,4,5,4,1.0,0.010190576086258991,0.40744424838091897

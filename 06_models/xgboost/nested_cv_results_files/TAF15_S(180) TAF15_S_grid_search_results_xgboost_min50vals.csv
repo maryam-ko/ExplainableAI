@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAF15_S(180) TAF15_S(223) TAF15_S(289) TAF15_S(295) TAF15_S(375) TAF15_S(422) TAF15_S(95) TAF15_S(97),1.0,0.5,1,1,8,0.8,0.005527724623527409,0.20204520980880664

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPRJ_S(1009),1.0,0.5,4,5,8,0.8,0.02666565505129029,0.049132298276796924

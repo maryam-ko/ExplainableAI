@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUGP2_S(133) SUGP2_S(224) SUGP2_S(273) SUGP2_S(572) SUGP2_S(573) SUGP2_S(735),1.0,0.5,2,1,8,0.8,0.011256482156441556,0.23931050680705948

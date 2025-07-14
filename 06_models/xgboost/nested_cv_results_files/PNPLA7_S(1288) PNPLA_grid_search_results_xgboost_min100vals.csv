@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PNPLA7_S(1288) PNPLA7_S(1302) PNPLA7_S(1313) PNPLA7_S(333) PNPLA7_S(355),0.8,0.5,3,1,8,1.0,0.018108544360801598,0.14506944683228096

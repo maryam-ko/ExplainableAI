@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TEPSIN_C(356) TEPSIN_M(333) TEPSIN_S(111) TEPSIN_S(272) TEPSIN_S(333) TEPSIN_S(356) TEPSIN_S(371) TEPSIN_S(413) TEPSIN_S(455) TEPSIN_T(417),0.8,0.5,4,1,8,1.0,0.027226374525762247,0.20019438897092562

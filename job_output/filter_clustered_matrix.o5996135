@@ -1,0 +1,13 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Dependencies loaded.
+Loading clustered matrix...
+Clusters in unfiltered matrix: 16358
+Generating one matrix per minimum value threshold...
+Clusters in filtered matrix (threshold 50): 8264
+Clusters in filtered matrix (threshold 100): 5986
+Clusters in filtered matrix (threshold 150): 4651
+Clusters in filtered matrix (threshold 200): 3731
+Execution time: 123.83 seconds, 2.06 minutes, 0.03 hours.

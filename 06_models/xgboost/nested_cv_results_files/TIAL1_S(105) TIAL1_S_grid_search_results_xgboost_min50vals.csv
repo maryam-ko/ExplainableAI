@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TIAL1_S(105) TIAL1_S(201) TIAL1_S(218),0.6,0.5,1,1,2,0.8,0.011731128032605802,-0.009640994720069785

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAC14_S(491) VAC14_S(509) VAC14_S(743) VAC14_S(745),0.6,0.5,4,1,8,1.0,0.01588063401639983,0.4966294356858264

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS17_S(113) RPS17_S(115) RPS17_S(70) RPS17_T(123) RPS17_T(130) RPS17_T(139),1.0,0.5,3,1,6,1.0,0.04102357492123254,0.47550955296137926

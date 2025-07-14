@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIMS3_S(104) RIMS3_S(289) RIMS3_S(294) RIMS3_S(295) RIMS3_S(297) RIMS3_S(298),0.8,0.5,2,1,8,0.6,0.01728569758476436,0.0054449171956077345

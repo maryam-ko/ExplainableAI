@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WFS1_S(232) WFS1_S(235) WFS1_S(236) WFS1_S(26) WFS1_S(3) WFS1_S(32) WFS1_S(6) WFS1_S(8),1.0,0.5,4,5,8,1.0,0.041767055333236464,0.5172403020806865

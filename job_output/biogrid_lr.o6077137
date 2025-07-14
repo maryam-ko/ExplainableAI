@@ -1,0 +1,171 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Formatting reference and prediction data for all models and thresholds...
+Loading reference data...
+Reference dataframe:          Feature TargetFeature
+0         MAP2K4          FLNC
+1           MYPN         ACTN2
+2          ACVR1          FNTA
+3          GATA2           PML
+4           RPA2         STAT3
+...          ...           ...
+1287954  RASGRF1         STIP1
+1287955     CHD3         STIP1
+1287956     UBR5         STIP1
+1287957    HIPK2         STIP1
+1287972   SFMBT2           QKI
+
+[1932539 rows x 2 columns]
+Loading and processing prediction data...
+Creating dictionaries of predictions and reference dataframes...
+Predicted dataframe (linear_regression, 50):         Feature TargetFeature  MedianCoeff
+0         ACIN1          AAAS     0.102209
+1         AKAP8          AAAS    -0.076585
+2          ANK2          AAAS     0.000077
+3         BUD13          AAAS     0.090150
+4         CCDC6          AAAS     0.074167
+...         ...           ...          ...
+181073    NSUN2          ZZZ3     0.103678
+181074   RABEP1          ZZZ3     0.021293
+181075    SAMD1          ZZZ3    -0.100898
+181076     TNS2          ZZZ3     0.020087
+181078  ZFYVE26          ZZZ3     0.299086
+
+[171661 rows x 3 columns]
+Number of common proteins: 5465
+Predicted dataframe (linear_regression, 100):        Feature TargetFeature  MedianCoeff
+0       ABLIM1          AAAS     0.117374
+1         ANK2          AAAS     0.009115
+2       ARPP19          AAAS    -0.001953
+3         BAG3          AAAS     0.252270
+4        BAZ2A          AAAS     0.247558
+...        ...           ...          ...
+170315     NEB          ZZZ3     0.242784
+170316   NOP56          ZZZ3    -0.112222
+170317  PBXIP1          ZZZ3    -0.177356
+170318   PLCL1          ZZZ3    -0.115545
+170320   XIRP1          ZZZ3     0.002683
+
+[160009 rows x 3 columns]
+Number of common proteins: 4362
+Predicted dataframe (linear_regression, 150):        Feature TargetFeature  MedianCoeff
+0       ABLIM1          AAAS     0.080876
+1       AHNAK2          AAAS     0.132037
+2       ARPP19          AAAS    -0.039681
+3         BAG3          AAAS     0.215493
+4         BRD8          AAAS     0.159214
+...        ...           ...          ...
+155998   SRRM2          ZZZ3     0.008705
+155999   TCOF1          ZZZ3    -0.028711
+156000    TJP1          ZZZ3    -0.042107
+156001    TNS1          ZZZ3     0.051242
+156002   XIRP2          ZZZ3    -0.138395
+
+[148938 rows x 3 columns]
+Number of common proteins: 3599
+Predicted dataframe (linear_regression, 200):        Feature TargetFeature  MedianCoeff
+0       ABLIM1          AAAS     0.082846
+1       AHNAK2          AAAS     0.208868
+2       ARPP19          AAAS    -0.020946
+3         BAG3          AAAS     0.223407
+4         BRD8          AAAS     0.281704
+...        ...           ...          ...
+141167   TCOF1          ZZZ3    -0.032609
+141168    TJP1          ZZZ3    -0.015812
+141169    TNS1          ZZZ3    -0.038738
+141170    TNS2          ZZZ3    -0.075070
+141171  TRIM28          ZZZ3     0.033100
+
+[135385 rows x 3 columns]
+Number of common proteins: 2967
+Predictions dictionary: {'linear_regression': {50:         Feature TargetFeature  NormalisedCoeffOrSHAP
+0         ACIN1          AAAS               0.554914
+1         AKAP8          AAAS               0.445616
+2          ANK2          AAAS               0.492480
+3         BUD13          AAAS               0.547543
+4         CCDC6          AAAS               0.537772
+...         ...           ...                    ...
+181071   IQSEC2          ZZZ3               0.599734
+181073    NSUN2          ZZZ3               0.555812
+181074   RABEP1          ZZZ3               0.505449
+181075    SAMD1          ZZZ3               0.430753
+181078  ZFYVE26          ZZZ3               0.675267
+
+[157242 rows x 3 columns], 100:        Feature TargetFeature  NormalisedCoeffOrSHAP
+0       ABLIM1          AAAS               0.581155
+1         ANK2          AAAS               0.489555
+2       ARPP19          AAAS               0.480190
+3         BAG3          AAAS               0.695293
+4        BAZ2A          AAAS               0.691306
+...        ...           ...                    ...
+170315     NEB          ZZZ3               0.687267
+170316   NOP56          ZZZ3               0.386890
+170317  PBXIP1          ZZZ3               0.331779
+170318   PLCL1          ZZZ3               0.384079
+170320   XIRP1          ZZZ3               0.484113
+
+[147285 rows x 3 columns], 150:        Feature TargetFeature  NormalisedCoeffOrSHAP
+0       ABLIM1          AAAS               0.558617
+1       AHNAK2          AAAS               0.610343
+2       ARPP19          AAAS               0.436726
+3         BAG3          AAAS               0.694722
+4         BRD8          AAAS               0.637820
+...        ...           ...                    ...
+155998   SRRM2          ZZZ3               0.485648
+155999   TCOF1          ZZZ3               0.447818
+156000    TJP1          ZZZ3               0.434274
+156001    TNS1          ZZZ3               0.528655
+156002   XIRP2          ZZZ3               0.336921
+
+[136707 rows x 3 columns], 200:        Feature TargetFeature  NormalisedCoeffOrSHAP
+0       ABLIM1          AAAS               0.562812
+1       AHNAK2          AAAS               0.696855
+2       ARPP19          AAAS               0.452414
+3         BAG3          AAAS               0.712320
+4         BRD8          AAAS               0.774326
+...        ...           ...                    ...
+141166   SRRM2          ZZZ3               0.420773
+141167   TCOF1          ZZZ3               0.440009
+141168    TJP1          ZZZ3               0.457875
+141169    TNS1          ZZZ3               0.433490
+141171  TRIM28          ZZZ3               0.509900
+
+[123170 rows x 3 columns]}}
+Evaluating interactions conserved across all models and thresholds...
+current_interactions: 157242
+common_interactions: 157242
+current_interactions: 147285
+common_interactions: 0
+current_interactions: 136707
+common_interactions: 0
+current_interactions: 123170
+common_interactions: 0
+Filtered for all: Empty DataFrame
+Columns: [Feature, TargetFeature, NormalisedCoeffOrSHAP]
+Index: []
+merged_df: Empty DataFrame
+Columns: [Feature, TargetFeature, NormalisedCoeffOrSHAP, _merge]
+Index: []
+y_true: []
+y_scores: []
+Traceback (most recent call last):
+  File "/data/home/bt24990/ExplainableAI/07_evaluation/071_biogrid_analysis.py", line 663, in <module>
+    conserved_all_auc_results = calculate_aucs(
+                                ^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/ExplainableAI/07_evaluation/071_biogrid_analysis.py", line 188, in calculate_aucs
+    precision, recall, _ = precision_recall_curve(y_true, y_scores)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/utils/_param_validation.py", line 216, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/metrics/_ranking.py", line 1005, in precision_recall_curve
+    fps, tps, thresholds = _binary_clf_curve(
+                           ^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/metrics/_ranking.py", line 835, in _binary_clf_curve
+    pos_label = _check_pos_label_consistency(pos_label, y_true)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2641, in _check_pos_label_consistency
+    raise ValueError(
+ValueError: y_true takes value in {} and pos_label is not specified: either make y_true take value in {0, 1} or {-1, 1} or pass pos_label explicitly.

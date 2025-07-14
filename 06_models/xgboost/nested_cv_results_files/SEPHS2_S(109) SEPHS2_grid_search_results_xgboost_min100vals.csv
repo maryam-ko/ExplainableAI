@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEPHS2_S(109) SEPHS2_S(33) SEPHS2_S(46) SEPHS2_S(48),1.0,0.5,2,1,8,0.6,0.02510642786591263,-0.0005811540452489439

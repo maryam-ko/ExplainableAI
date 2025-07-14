@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RLF_S(1091) RLF_S(1228) RLF_S(1272) RLF_S(1459) RLF_S(1642) RLF_S(1913) RLF_S(326) RLF_S(332) RLF_S(642) RLF_T(1895) RLF_Y(1466) RLF_Y(1467) RLF_Y(812) RLF_Y(813),1.0,0.5,2,1,6,0.8,0.009091117820667393,0.24663656578008242

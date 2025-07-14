@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RCOR2_S(213) RCOR2_S(47) RCOR2_S(63),0.6,0.5,4,10,6,1.0,0.03659882522857641,0.2485999472465879

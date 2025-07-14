@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YY1AP1_S(1255) YY1AP1_S(382) YY1AP1_S(647) YY1AP1_S(711) YY1AP1_S(724) YY1AP1_T(26),1.0,0.5,4,5,8,1.0,0.031199735249782336,0.15604950690317856

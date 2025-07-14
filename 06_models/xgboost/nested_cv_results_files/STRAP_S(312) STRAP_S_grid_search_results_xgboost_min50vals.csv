@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STRAP_S(312) STRAP_S(335) STRAP_S(338),0.6,0.5,4,1,8,1.0,0.029132435149274716,0.10667209413240156

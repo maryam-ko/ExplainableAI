@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX3_S(72) SNX3_S(79),1.0,0.5,4,1,8,0.8,0.02990791426240886,0.19596927175391468

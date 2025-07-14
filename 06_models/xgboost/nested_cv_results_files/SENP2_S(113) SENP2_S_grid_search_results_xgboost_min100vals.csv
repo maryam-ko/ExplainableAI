@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SENP2_S(113) SENP2_S(322) SENP2_S(323) SENP2_S(326) SENP2_S(344) SENP2_T(341),1.0,0.5,4,5,8,0.8,0.026715986581607426,0.3096475756423699

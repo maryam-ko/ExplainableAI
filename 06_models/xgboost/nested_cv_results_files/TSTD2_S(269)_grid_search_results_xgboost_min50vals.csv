@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSTD2_S(269),0.6,0.5,2,1,4,0.6,0.014345239077036514,-0.013030964823706049

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAE1_S(13) RAE1_S(209) RAE1_Y(345),0.6,0.5,1,1,2,0.8,0.010547495011363948,-0.0058391630612082855

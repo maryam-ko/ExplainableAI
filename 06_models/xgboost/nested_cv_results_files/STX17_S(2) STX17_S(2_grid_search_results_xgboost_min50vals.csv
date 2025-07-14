@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STX17_S(2) STX17_S(202) STX17_S(289) STX17_S(290),1.0,0.5,4,10,8,1.0,0.043810308707686534,0.2266383007868371

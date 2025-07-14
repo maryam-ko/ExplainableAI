@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIO_S(1627) TRIO_S(1723) TRIO_S(1724) TRIO_S(1786) TRIO_S(2188) TRIO_S(2223) TRIO_S(2367) TRIO_S(2381) TRIO_S(2400) TRIO_S(2477) TRIO_S(2495) TRIO_S(2508) TRIO_Y(3015),1.0,0.5,4,1,8,1.0,0.040703444345950864,0.3775313935924821

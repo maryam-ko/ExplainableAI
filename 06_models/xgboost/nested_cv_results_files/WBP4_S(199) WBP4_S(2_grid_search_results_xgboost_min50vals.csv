@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WBP4_S(199) WBP4_S(208) WBP4_S(229) WBP4_S(237) WBP4_S(277) WBP4_S(280) WBP4_S(6),0.6,0.5,1,1,8,0.6,0.021912369292480922,-0.0020510870420201053

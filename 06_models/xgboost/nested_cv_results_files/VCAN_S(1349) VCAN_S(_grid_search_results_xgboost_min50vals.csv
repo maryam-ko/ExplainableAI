@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VCAN_S(1349) VCAN_S(1351) VCAN_S(16) VCAN_S(1954) VCAN_S(2107) VCAN_S(2941) VCAN_S(362) VCAN_S(6),1.0,0.5,2,1,6,0.6,0.0146796945516079,0.07855515880947624

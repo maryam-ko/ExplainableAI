@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTC14_S(296) TTC14_S(454) TTC14_S(522) TTC14_S(525) TTC14_S(626) TTC14_S(627) TTC14_S(629) TTC14_S(634) TTC14_S(669) TTC14_S(671) TTC14_S(733) TTC14_T(670),0.8,0.5,4,10,8,1.0,0.027089927141076033,0.5447357799411143

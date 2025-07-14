@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIK3_S(1016) SIK3_S(34) SIK3_S(568) SIK3_S(6) SIK3_S(623) SIK3_S(626) SIK3_S(672) SIK3_S(673) SIK3_S(773) SIK3_S(778) SIK3_S(808) SIK3_S(857) SIK3_S(908) SIK3_S(920) SIK3_T(1259) SIK3_T(163) SIK3_T(215) SIK3_T(221) SIK3_T(411),0.6,0.5,4,5,8,1.0,0.020598296995784544,0.8110335071034305

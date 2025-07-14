@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMCC2_S(116) TMCC2_S(464) TMCC2_S(88),0.6,0.5,2,1,6,0.6,0.007804430574262734,0.08723466425361306

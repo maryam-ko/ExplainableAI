@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAD23A_S(119) RAD23A_S(122) RAD23A_S(123) RAD23A_S(125) RAD23A_S(128) RAD23A_S(136) RAD23A_S(356) RAD23A_S(56),0.8,0.5,4,5,8,1.0,0.033733583705298824,0.4928197419638029

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TIGAR_S(154) TIGAR_S(157) TIGAR_S(159),0.6,0.5,3,1,8,1.0,0.012806261230403944,0.14222177318303084

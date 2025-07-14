@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK32C_S(10) STK32C_S(11) STK32C_S(15) STK32C_S(18) STK32C_S(29) STK32C_S(7) STK32C_S(70) STK32C_S(71),1.0,0.5,4,5,8,1.0,0.03568421389186508,0.26892216855038037

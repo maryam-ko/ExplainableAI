@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC35B2_S(378) SLC35B2_S(427),1.0,0.5,4,1,8,1.0,0.0423130067686181,0.644510160026442

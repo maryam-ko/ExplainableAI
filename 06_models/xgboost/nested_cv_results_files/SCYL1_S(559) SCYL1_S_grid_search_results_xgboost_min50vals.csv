@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCYL1_S(559) SCYL1_S(737) SCYL1_S(754),1.0,0.5,4,5,8,0.8,0.01587474022732369,0.40658266348850514

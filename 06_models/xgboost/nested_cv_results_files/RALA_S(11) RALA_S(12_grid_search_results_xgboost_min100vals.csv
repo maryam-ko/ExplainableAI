@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RALA_S(11) RALA_S(129) RALA_S(138) RALA_S(4),0.6,0.5,1,10,8,0.6,0.01946189003467839,-0.008516545054165681

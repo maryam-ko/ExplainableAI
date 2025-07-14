@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RALY_S(106) RALY_S(119) RALY_S(176) RALY_S(184) RALY_S(244) RALY_S(272) RALY_S(274) RALY_S(279) RALY_S(4) RALY_S(63) RALY_S(8) RALY_T(151) RALY_T(160) RALY_T(270) RALY_T(282),0.6,0.5,4,1,8,1.0,0.029293698684101917,0.6999562323140455

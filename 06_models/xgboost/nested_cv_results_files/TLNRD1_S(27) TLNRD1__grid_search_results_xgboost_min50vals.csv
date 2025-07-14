@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TLNRD1_S(27) TLNRD1_S(3),0.6,0.5,2,1,8,1.0,0.010636659136454108,0.31747821557731787

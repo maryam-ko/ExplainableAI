@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLF2_S(15) SLF2_S(20) SLF2_S(21) SLF2_S(568) SLF2_S(838) SLF2_T(466) SLF2_T(551),0.6,0.5,1,1,6,0.8,0.01692497808883634,-0.004152934272384767

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMA7_S(2) PSMA7_S(3) PSMA7_S(30) PSMA7_T(9),1.0,0.5,4,1,6,0.8,0.018384312306395166,0.2535149681801627

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRAF2_S(123) TRAF2_S(7) TRAF2_T(11) TRAF2_T(7),1.0,0.5,4,1,8,1.0,0.01938629068444528,0.7733605745501265

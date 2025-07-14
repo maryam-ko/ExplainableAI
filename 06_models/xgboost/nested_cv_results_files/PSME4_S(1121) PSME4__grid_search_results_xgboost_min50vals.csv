@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSME4_S(1121) PSME4_S(1614) PSME4_S(1746) PSME4_S(1807) PSME4_S(265) PSME4_S(48),1.0,0.5,4,1,8,1.0,0.02155477932145185,0.5268638993180247

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZKSCAN1_S(13) ZKSCAN1_S(15) ZKSCAN1_S(208) ZKSCAN1_S(284) ZKSCAN1_S(359) ZKSCAN1_S(548) ZKSCAN1_S(551) ZKSCAN1_S(7),0.8,0.5,4,1,8,1.0,0.03440464164262631,0.6929884046718777

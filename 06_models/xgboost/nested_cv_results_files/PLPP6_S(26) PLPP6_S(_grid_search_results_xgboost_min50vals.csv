@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLPP6_S(26) PLPP6_S(297) PLPP6_S(59) PLPP6_S(61) PLPP6_S(63) PLPP6_S(67) PLPP6_S(70) PLPP6_S(81) PLPP6_S(97),1.0,0.5,3,1,4,1.0,0.03222448218162305,0.09328564614071724

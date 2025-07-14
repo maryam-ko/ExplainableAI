@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TEAD3_S(10) TEAD3_S(11) TEAD3_S(145) TEAD3_S(148) TEAD3_S(3) TEAD3_S(5),1.0,0.5,4,1,8,1.0,0.03962971194807365,0.3527454384674547

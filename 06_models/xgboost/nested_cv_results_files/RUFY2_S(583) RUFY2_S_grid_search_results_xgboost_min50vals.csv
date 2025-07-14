@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RUFY2_S(583) RUFY2_S(632) RUFY2_T(318) RUFY2_T(325),1.0,0.5,1,10,8,0.8,0.012264536720919603,0.09631057281385733

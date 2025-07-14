@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFTN1_S(199) RFTN1_S(220) RFTN1_S(239) RFTN1_S(250) RFTN1_S(485) RFTN1_S(555),0.6,0.5,4,5,8,1.0,0.042275375120339215,0.5809333658080122

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGS3_S(109) RGS3_S(570) RGS3_S(624) RGS3_S(648) RGS3_S(678) RGS3_S(702) RGS3_S(763) RGS3_S(806) RGS3_S(916) RGS3_S(917) RGS3_S(943),0.6,0.5,3,1,8,1.0,0.0320441883328423,0.34868865615993

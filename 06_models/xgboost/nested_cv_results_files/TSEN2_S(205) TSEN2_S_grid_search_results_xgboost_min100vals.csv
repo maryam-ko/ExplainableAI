@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSEN2_S(205) TSEN2_S(215) TSEN2_S(223),1.0,0.5,4,1,4,1.0,0.019101877321208716,0.4588903575993455

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAMSN1_C(347) SAMSN1_S(20) SAMSN1_S(23) SAMSN1_S(34) SAMSN1_S(7) SAMSN1_S(90),1.0,0.5,4,1,8,1.0,0.03202809244790618,0.3653041126852889

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBR5_M(2506) UBR5_S(1314) UBR5_S(139) UBR5_S(1551) UBR5_S(2369) UBR5_S(2490) UBR5_S(808) UBR5_S(985),1.0,0.5,2,1,8,0.8,0.009388187970184324,0.23298039484529126

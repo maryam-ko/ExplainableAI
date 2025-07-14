@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YOD1_S(129) YOD1_T(145),1.0,0.5,2,1,8,1.0,0.007210863897512259,0.3001304829444914

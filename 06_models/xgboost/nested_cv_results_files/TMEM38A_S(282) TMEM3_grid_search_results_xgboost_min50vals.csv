@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM38A_S(282) TMEM38A_S(287),1.0,0.5,4,1,2,1.0,0.020535741717681938,0.18893723566676063

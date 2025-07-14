@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VGF_S(238) VGF_S(284) VGF_S(360) VGF_S(420) VGF_S(65) VGF_S(95),0.6,0.5,2,1,8,1.0,0.0234006785690384,0.018688208831015206

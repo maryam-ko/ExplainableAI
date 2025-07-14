@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYT17_S(110),1.0,0.5,3,10,6,0.8,0.02417075710660592,0.00462193723055151

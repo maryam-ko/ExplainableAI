@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRMT3_S(25) PRMT3_S(2609) PRMT3_S(27) PRMT3_S(3),0.6,0.5,3,5,8,1.0,0.030101405137806486,0.13507364571113892

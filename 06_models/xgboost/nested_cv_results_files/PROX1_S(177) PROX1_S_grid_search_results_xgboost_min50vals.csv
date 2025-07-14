@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PROX1_S(177) PROX1_S(179) PROX1_S(191) PROX1_S(197) PROX1_S(199) PROX1_S(220) PROX1_S(291) PROX1_S(295) PROX1_S(4) PROX1_S(467) PROX1_S(507) PROX1_S(511) PROX1_S(514) PROX1_S(79),0.8,0.5,4,1,4,1.0,0.0410700256320171,0.1778337861810433

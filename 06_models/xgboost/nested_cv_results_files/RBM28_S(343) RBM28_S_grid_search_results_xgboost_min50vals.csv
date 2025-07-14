@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM28_S(343) RBM28_S(712) RBM28_S(713) RBM28_S(796),1.0,0.5,2,1,8,0.8,0.007273510663561045,0.030074377474868498

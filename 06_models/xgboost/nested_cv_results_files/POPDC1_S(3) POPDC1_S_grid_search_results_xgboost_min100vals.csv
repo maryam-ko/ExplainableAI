@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POPDC1_S(3) POPDC1_S(314) POPDC1_S(350) POPDC1_S(4) POPDC1_S(6) POPDC1_S(7),1.0,0.5,2,1,6,0.8,0.028103457444870583,0.244891487905897

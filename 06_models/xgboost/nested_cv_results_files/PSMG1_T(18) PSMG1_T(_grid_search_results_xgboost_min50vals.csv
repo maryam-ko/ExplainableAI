@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMG1_T(18) PSMG1_T(54),1.0,0.5,4,1,8,0.6,0.016362399708017922,0.2661165726755261

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFC3H1_S(1050) ZFC3H1_S(15) ZFC3H1_S(349) ZFC3H1_S(945),0.6,0.5,1,1,4,0.6,0.018298244522971793,-0.0013975124080130908

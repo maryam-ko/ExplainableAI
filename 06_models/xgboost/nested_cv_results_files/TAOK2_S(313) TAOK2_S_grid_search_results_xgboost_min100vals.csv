@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAOK2_S(313) TAOK2_S(473) TAOK2_S(654) TAOK2_S(815) TAOK2_S(825) TAOK2_T(431) TAOK2_T(604),1.0,0.5,4,1,8,0.8,0.018054692753489,0.2775657460003301

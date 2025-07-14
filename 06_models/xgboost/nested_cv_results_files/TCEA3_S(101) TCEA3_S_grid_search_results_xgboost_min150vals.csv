@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCEA3_S(101) TCEA3_S(115) TCEA3_S(130) TCEA3_S(14) TCEA3_S(140) TCEA3_S(145) TCEA3_S(272) TCEA3_S(6) TCEA3_S(81) TCEA3_T(283),0.8,0.5,4,5,8,1.0,0.029585004605299458,0.33272576890795336

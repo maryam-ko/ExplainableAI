@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STXBP1_S(506) STXBP1_S(507) STXBP1_S(516) STXBP1_S(593),0.8,0.5,1,10,8,0.8,0.018539523579171335,0.14823536339349774

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRP68_S(203) SRP68_S(22) SRP68_S(229) SRP68_S(241) SRP68_S(267) SRP68_S(27) SRP68_T(270) SRP68_Y(326),1.0,0.5,4,5,8,1.0,0.026077399262993704,0.4777714539260848

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS9D1_C(317) VPS9D1_C(322) VPS9D1_S(116) VPS9D1_T(317) VPS9D1_Y(115),1.0,0.5,2,1,8,0.8,0.008219616273700422,0.30566329469137443

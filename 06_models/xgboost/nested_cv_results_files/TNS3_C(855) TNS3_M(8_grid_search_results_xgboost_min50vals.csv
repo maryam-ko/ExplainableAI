@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNS3_C(855) TNS3_M(850) TNS3_S(1105) TNS3_S(1201) TNS3_S(361) TNS3_S(440) TNS3_S(6) TNS3_S(840) TNS3_S(844) TNS3_S(941) TNS3_S(952) TNS3_S(953) TNS3_S(963) TNS3_T(820) TNS3_T(853),0.8,0.5,2,1,2,1.0,0.011184424187152636,0.17296872357980486

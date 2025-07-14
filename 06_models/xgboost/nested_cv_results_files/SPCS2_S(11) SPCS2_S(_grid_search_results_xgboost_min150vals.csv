@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPCS2_S(11) SPCS2_S(123) SPCS2_S(14) SPCS2_S(18) SPCS2_S(192) SPCS2_S(24),0.8,0.5,4,10,8,0.8,0.025839057810800366,0.21941374702972566

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAF4_S(109) TAF4_S(15) TAF4_S(497) TAF4_S(5) TAF4_T(1046) TAF4_T(494),0.6,0.5,3,1,8,1.0,0.0198632385827922,0.1072551719021185

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBL1XR1_S(119) TBL1XR1_S(123),0.8,0.5,4,1,8,1.0,0.01756198631376554,0.29519201877705853

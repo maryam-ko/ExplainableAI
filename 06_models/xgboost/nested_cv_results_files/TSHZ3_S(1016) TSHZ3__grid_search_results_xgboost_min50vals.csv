@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSHZ3_S(1016) TSHZ3_S(1023) TSHZ3_S(584) TSHZ3_S(845) TSHZ3_S(848) TSHZ3_S(92) TSHZ3_T(36),0.6,0.5,1,1,8,0.8,0.020687673043796508,-0.002659610515562738

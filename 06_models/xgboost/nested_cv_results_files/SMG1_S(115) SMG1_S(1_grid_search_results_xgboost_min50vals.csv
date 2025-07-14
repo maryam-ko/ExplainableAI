@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMG1_S(115) SMG1_S(1158) SMG1_S(142) SMG1_S(34) SMG1_S(3460) SMG1_S(3556) SMG1_S(3570) SMG1_S(3574) SMG1_T(2943) SMG1_T(3463) SMG1_T(3550) SMG1_T(3571) SMG1_T(3573) SMG1_T(8),0.8,0.5,4,1,8,1.0,0.03498792910482455,0.5447104778972324

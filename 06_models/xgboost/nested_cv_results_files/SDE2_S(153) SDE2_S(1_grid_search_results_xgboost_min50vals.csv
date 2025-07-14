@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SDE2_S(153) SDE2_S(183) SDE2_S(188) SDE2_S(266) SDE2_S(270) SDE2_S(297) SDE2_S(304),0.6,0.5,1,1,2,1.0,0.013844556302766061,-0.0029963544212130433

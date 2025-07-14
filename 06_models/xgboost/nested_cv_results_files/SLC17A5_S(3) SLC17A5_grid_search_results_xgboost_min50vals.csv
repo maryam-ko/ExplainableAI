@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC17A5_S(3) SLC17A5_T(17),1.0,0.5,2,1,6,0.8,0.011439189901038118,0.30519855018348324

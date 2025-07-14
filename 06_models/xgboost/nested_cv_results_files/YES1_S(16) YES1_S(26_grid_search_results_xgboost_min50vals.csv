@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YES1_S(16) YES1_S(26) YES1_S(40) YES1_T(21) YES1_T(42) YES1_T(45) YES1_Y(32) YES1_Y(336) YES1_Y(345) YES1_Y(42),0.8,0.5,3,1,8,1.0,0.018248527825133563,0.2448092431340357

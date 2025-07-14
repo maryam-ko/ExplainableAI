@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PROM2_S(814) PROM2_S(815) PROM2_S(817) PROM2_S(818) PROM2_Y(102),0.8,0.5,2,1,6,0.8,0.01486965755392226,0.08408572042737936

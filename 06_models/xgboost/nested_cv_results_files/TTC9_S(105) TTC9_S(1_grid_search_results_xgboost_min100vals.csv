@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTC9_S(105) TTC9_S(15),0.8,0.5,4,1,4,1.0,0.01670296151776119,0.432829524221753

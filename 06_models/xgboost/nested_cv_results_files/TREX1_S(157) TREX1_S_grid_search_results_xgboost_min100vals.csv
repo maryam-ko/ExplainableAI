@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TREX1_S(157) TREX1_S(167) TREX1_S(251) TREX1_S(257) TREX1_S(261) TREX1_S(316),1.0,0.5,4,1,8,0.8,0.01885174681271189,0.4911684366087098

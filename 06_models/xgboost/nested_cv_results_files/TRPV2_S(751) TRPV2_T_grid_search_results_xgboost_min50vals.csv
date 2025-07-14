@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRPV2_S(751) TRPV2_T(2),0.8,0.5,2,1,6,0.8,0.011937511185935612,-0.0032574181653626244

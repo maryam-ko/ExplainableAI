@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VDAC1_S(101) VDAC1_S(13) VDAC1_S(215) VDAC1_S(35) VDAC1_S(44) VDAC1_S(46) VDAC1_S(96) VDAC1_T(165) VDAC1_T(188) VDAC1_T(19) VDAC1_T(21) VDAC1_T(250) VDAC1_T(33) VDAC1_T(70) VDAC1_T(96) VDAC1_Y(225),0.8,0.5,4,1,6,1.0,0.02647878419460782,0.4819504114078481

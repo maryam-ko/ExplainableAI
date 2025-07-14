@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WNK2_S(1150) WNK2_S(1777) WNK2_S(1798) WNK2_S(1817) WNK2_S(1818) WNK2_S(2015) WNK2_S(2067) WNK2_S(45) WNK2_S(49) WNK2_S(560) WNK2_T(1894),0.6,0.5,4,1,8,1.0,0.01979652472888306,0.1590361911110499

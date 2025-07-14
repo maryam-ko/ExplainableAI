@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SERBP1_S(1) SERBP1_S(2) SERBP1_S(25) SERBP1_S(3) SERBP1_S(329) SERBP1_S(8),0.8,0.5,4,1,8,1.0,0.04249002298616863,0.6393048332897451

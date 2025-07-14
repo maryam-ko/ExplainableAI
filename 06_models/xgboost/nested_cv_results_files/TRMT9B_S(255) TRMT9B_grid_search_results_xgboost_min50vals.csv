@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRMT9B_S(255) TRMT9B_S(259) TRMT9B_T(260),0.8,0.5,4,1,2,1.0,0.012207036926249719,0.4330595893080312

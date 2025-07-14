@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPX2_C(147) TPX2_C(369) TPX2_S(102) TPX2_S(174) TPX2_S(218) TPX2_S(285) TPX2_S(289) TPX2_S(646) TPX2_S(652) TPX2_S(654) TPX2_T(113) TPX2_T(338) TPX2_T(576) TPX2_T(59),0.6,0.5,2,1,6,1.0,0.013895434024439648,0.14971439820666504

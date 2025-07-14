@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SREBF2_S(1046) SREBF2_S(1098) SREBF2_S(117) SREBF2_S(120) SREBF2_S(466) SREBF2_S(469) SREBF2_S(79) SREBF2_T(128),0.6,0.5,2,1,6,1.0,0.021593179860932215,0.22653103834592456

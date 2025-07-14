@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RECQL_S(53) RECQL_S(58) RECQL_S(597) RECQL_S(603) RECQL_S(634) RECQL_S(636) RECQL_S(64) RECQL_T(190),0.8,0.5,4,1,8,1.0,0.02342512919628401,0.5388383434838386

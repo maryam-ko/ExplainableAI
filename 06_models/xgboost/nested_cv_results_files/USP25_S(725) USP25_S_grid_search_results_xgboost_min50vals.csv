@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP25_S(725) USP25_S(835) USP25_T(147) USP25_T(149) USP25_T(286) USP25_T(727),1.0,0.5,4,1,8,0.6,0.0115209539041401,0.2750292761325499

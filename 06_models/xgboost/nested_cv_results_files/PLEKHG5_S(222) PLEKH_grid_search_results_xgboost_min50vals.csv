@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLEKHG5_S(222) PLEKHG5_S(224) PLEKHG5_S(249) PLEKHG5_S(272) PLEKHG5_S(846) PLEKHG5_S(851) PLEKHG5_S(878) PLEKHG5_S(903) PLEKHG5_S(934),0.6,0.5,3,5,8,1.0,0.01629684361748395,0.2461229658404883

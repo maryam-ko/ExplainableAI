@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TINF2_S(260) TINF2_S(295) TINF2_S(330) TINF2_S(332) TINF2_S(396),0.8,0.5,4,1,8,1.0,0.018917719400866024,0.7120846311754787

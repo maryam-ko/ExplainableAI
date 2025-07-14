@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNFAIP1_S(11) TNFAIP1_S(174) TNFAIP1_S(197) TNFAIP1_S(278) TNFAIP1_S(280),1.0,0.5,1,1,6,0.6,0.0210298776868597,-4.14219507475444e-05

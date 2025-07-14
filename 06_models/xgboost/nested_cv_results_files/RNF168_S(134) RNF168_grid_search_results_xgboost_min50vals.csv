@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF168_S(134) RNF168_S(393) RNF168_S(394) RNF168_S(411) RNF168_S(414) RNF168_S(415) RNF168_S(470) RNF168_S(481),0.6,0.5,1,1,6,0.6,0.03148467893500446,-0.006668376960720757

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLPP3_S(19) PLPP3_S(297),0.8,0.5,3,5,8,1.0,0.031643568016792765,0.21893266136566747

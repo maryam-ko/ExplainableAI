@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFX5_S(10) RFX5_S(145) RFX5_S(181) RFX5_S(183) RFX5_S(185) RFX5_S(473) RFX5_S(505) RFX5_S(565) RFX5_S(605),0.8,0.5,4,10,8,1.0,0.0224166072587687,0.6969317921091701

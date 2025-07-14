@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPRA_S(180) PTPRA_S(181) PTPRA_S(185) PTPRA_S(187) PTPRA_S(189) PTPRA_S(796) PTPRA_S(8) PTPRA_Y(262) PTPRA_Y(779) PTPRA_Y(798) PTPRA_Y(825),0.8,0.5,4,1,8,1.0,0.03193589809531458,0.4728402797420726

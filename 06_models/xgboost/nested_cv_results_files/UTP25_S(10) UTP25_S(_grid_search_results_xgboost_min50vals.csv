@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP25_S(10) UTP25_S(153) UTP25_S(186) UTP25_Y(34),0.8,0.5,1,1,8,0.8,0.013363117422499616,0.16277730265743867

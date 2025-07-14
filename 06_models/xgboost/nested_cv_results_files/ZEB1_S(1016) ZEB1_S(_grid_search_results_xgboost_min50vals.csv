@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZEB1_S(1016) ZEB1_S(1101) ZEB1_S(264) ZEB1_S(293) ZEB1_S(302) ZEB1_S(343) ZEB1_S(538) ZEB1_S(584) ZEB1_S(619) ZEB1_S(687) ZEB1_S(705) ZEB1_S(887) ZEB1_T(703),0.8,0.5,2,1,8,1.0,0.01000544029119763,0.3778193074657218

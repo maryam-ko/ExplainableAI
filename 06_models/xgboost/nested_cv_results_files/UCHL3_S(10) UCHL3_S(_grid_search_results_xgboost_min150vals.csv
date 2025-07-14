@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UCHL3_S(10) UCHL3_S(128) UCHL3_S(130) UCHL3_S(151) UCHL3_S(16) UCHL3_S(161) UCHL3_S(9) UCHL3_S(94),1.0,0.5,4,1,8,1.0,0.04002349429256407,0.6656837581148387

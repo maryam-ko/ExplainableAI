@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC16A7_S(218) SLC16A7_S(219) SLC16A7_S(4) SLC16A7_S(448) SLC16A7_S(454) SLC16A7_S(457) SLC16A7_S(465) SLC16A7_S(469) SLC16A7_S(472) SLC16A7_T(445),0.6,0.5,3,1,8,1.0,0.02489905127893516,0.1628259751520853

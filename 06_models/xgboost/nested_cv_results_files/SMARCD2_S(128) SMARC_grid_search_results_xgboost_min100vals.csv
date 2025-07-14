@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMARCD2_S(128) SMARCD2_S(136) SMARCD2_S(195) SMARCD2_T(146) SMARCD2_T(206) SMARCD2_T(217) SMARCD2_T(221),1.0,0.5,4,1,8,1.0,0.020996895511223596,0.6563972253415179

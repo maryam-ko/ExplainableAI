@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REXO1_C(370) REXO1_S(3) REXO1_S(415) REXO1_S(616) REXO1_S(719) REXO1_S(914),1.0,0.5,3,10,8,0.6,0.028109353243420915,0.20350484999440938

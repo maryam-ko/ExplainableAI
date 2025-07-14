@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTF1_S(15) TTF1_S(213) TTF1_S(253) TTF1_S(403) TTF1_S(41) TTF1_S(472) TTF1_S(478) TTF1_S(481) TTF1_S(487) TTF1_S(57) TTF1_S(64) TTF1_S(65) TTF1_S(81) TTF1_S(872) TTF1_T(12) TTF1_T(263),0.8,0.5,4,1,8,1.0,0.054467945602553074,0.3428349258785456

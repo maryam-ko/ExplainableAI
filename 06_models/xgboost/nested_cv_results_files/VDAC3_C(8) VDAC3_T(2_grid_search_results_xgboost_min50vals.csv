@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VDAC3_C(8) VDAC3_T(250) VDAC3_T(4) VDAC3_Y(48),0.8,0.5,4,1,8,1.0,0.016448781750001685,0.38105262857869715

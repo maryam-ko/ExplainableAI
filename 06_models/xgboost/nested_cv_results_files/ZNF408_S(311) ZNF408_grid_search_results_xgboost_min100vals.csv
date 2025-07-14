@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF408_S(311) ZNF408_S(316) ZNF408_S(337) ZNF408_S(338) ZNF408_S(345) ZNF408_S(432) ZNF408_T(319) ZNF408_T(321) ZNF408_T(322),0.8,0.5,4,10,8,1.0,0.02669846237501463,0.30998152533181395

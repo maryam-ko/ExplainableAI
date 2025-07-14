@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBMS2_S(280) RBMS2_S(285) RBMS2_S(97) RBMS2_T(40),1.0,0.5,2,1,6,0.8,0.00918889502526408,0.28713697664698046

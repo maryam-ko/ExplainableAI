@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB1B_S(114) RAB1B_S(179) RAB1B_T(77) RAB1B_Y(5),0.8,0.5,2,1,8,1.0,0.01593812752176161,0.025078748732911695

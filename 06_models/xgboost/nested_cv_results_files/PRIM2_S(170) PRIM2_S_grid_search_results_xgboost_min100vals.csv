@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRIM2_S(170) PRIM2_S(267) PRIM2_S(476) PRIM2_T(470),0.8,0.5,1,1,8,0.8,0.01908625945442647,0.17784863084115182

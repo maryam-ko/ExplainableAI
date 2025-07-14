@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSC22D2_S(171) TSC22D2_S(190) TSC22D2_S(205) TSC22D2_S(46) TSC22D2_S(598) TSC22D2_T(55) TSC22D2_Y(57),1.0,0.5,2,1,8,1.0,0.014724766318430152,0.25365641396910227

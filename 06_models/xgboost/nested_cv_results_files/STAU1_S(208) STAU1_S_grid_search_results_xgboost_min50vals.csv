@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAU1_S(208) STAU1_S(307) STAU1_S(309) STAU1_S(382),0.6,0.5,1,1,2,1.0,0.009514208379059062,-0.0025978050643469695

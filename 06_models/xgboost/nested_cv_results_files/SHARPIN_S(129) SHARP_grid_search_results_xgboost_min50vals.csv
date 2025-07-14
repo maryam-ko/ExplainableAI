@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SHARPIN_S(129) SHARPIN_S(131) SHARPIN_S(132) SHARPIN_S(146) SHARPIN_S(165) SHARPIN_S(312) SHARPIN_T(137),1.0,0.5,3,1,8,1.0,0.04010229625941193,0.3948431661477337

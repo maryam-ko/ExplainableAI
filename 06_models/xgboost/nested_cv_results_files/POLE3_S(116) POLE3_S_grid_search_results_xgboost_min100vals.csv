@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POLE3_S(116) POLE3_S(122),1.0,0.5,2,1,4,0.8,0.0129260022857874,0.10385397480906818

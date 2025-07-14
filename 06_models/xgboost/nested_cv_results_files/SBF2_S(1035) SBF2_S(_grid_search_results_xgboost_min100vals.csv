@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SBF2_S(1035) SBF2_S(1085) SBF2_S(1087) SBF2_S(1129) SBF2_S(1214) SBF2_S(1278) SBF2_S(1279) SBF2_S(1687) SBF2_T(1105) SBF2_T(1153),1.0,0.5,4,1,8,1.0,0.01760337355241797,0.4125570522687201

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS13_S(12) RPS13_S(147) RPS13_S(21) RPS13_S(30) RPS13_S(48) RPS13_S(57) RPS13_T(29),1.0,0.5,2,1,6,0.6,0.016686839254767175,-0.011272130704272198

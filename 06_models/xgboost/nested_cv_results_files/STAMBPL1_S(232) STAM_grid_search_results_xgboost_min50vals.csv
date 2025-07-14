@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAMBPL1_S(232) STAMBPL1_S(240) STAMBPL1_S(242) STAMBPL1_S(9) STAMBPL1_T(6),0.6,0.5,1,1,2,1.0,0.02094671389461025,0.019272618428873668

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP5_S(7) USP5_S(751) USP5_S(756) USP5_S(760) USP5_S(762) USP5_S(778) USP5_S(779) USP5_S(783) USP5_S(785) USP5_T(623),1.0,0.5,4,1,8,1.0,0.030468025315248143,0.6403505822849691

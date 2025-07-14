@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM12_S(3) RBM12_S(352) RBM12_S(375) RBM12_S(413) RBM12_S(420) RBM12_S(422) RBM12_S(424) RBM12_S(525) RBM12_T(63) RBM12_Y(433),0.6,0.5,4,1,8,1.0,0.05925370283035045,0.3819955603160837

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SARNP_S(115) SARNP_S(138) SARNP_S(162) SARNP_S(163) SARNP_S(165) SARNP_S(168) SARNP_S(187) SARNP_S(412) SARNP_T(373) SARNP_T(60),1.0,0.5,4,1,8,1.0,0.022685210841826335,0.6145726500275552

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSPC1_M(477) PSPC1_M(479) PSPC1_M(481) PSPC1_S(164) PSPC1_S(466) PSPC1_S(473) PSPC1_S(475) PSPC1_S(477) PSPC1_S(479) PSPC1_T(487),0.8,0.5,4,10,6,1.0,0.0344267526908623,0.4494081056999497

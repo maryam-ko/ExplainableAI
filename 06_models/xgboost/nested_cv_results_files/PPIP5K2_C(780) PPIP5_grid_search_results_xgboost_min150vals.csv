@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPIP5K2_C(780) PPIP5K2_S(1031) PPIP5K2_S(1108) PPIP5K2_S(1152) PPIP5K2_S(1220) PPIP5K2_S(223) PPIP5K2_T(1011) PPIP5K2_T(1185) PPIP5K2_Y(1184),1.0,0.5,4,1,8,1.0,0.01852506546961315,0.7560979456960599

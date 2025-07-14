@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SENP7_S(11) SENP7_S(13) SENP7_S(24) SENP7_S(373) SENP7_S(416) SENP7_S(436) SENP7_S(443) SENP7_S(444) SENP7_S(46) SENP7_S(92),1.0,0.5,4,1,6,1.0,0.030338966046681515,0.44690143944721666

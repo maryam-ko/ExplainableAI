@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PUS7_S(155) PUS7_S(23) PUS7_S(36) PUS7_S(39) PUS7_S(90) PUS7_T(41) PUS7_T(610),1.0,0.5,3,10,8,1.0,0.02932339113659015,0.17802993222880964

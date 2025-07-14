@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THYN1_S(12) THYN1_S(14) THYN1_S(19),1.0,0.5,3,5,6,0.8,0.014088799205155345,0.39196480771100983

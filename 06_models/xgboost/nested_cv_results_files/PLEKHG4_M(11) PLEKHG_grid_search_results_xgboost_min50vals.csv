@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLEKHG4_M(11) PLEKHG4_S(11) PLEKHG4_S(142) PLEKHG4_S(64),1.0,0.5,4,1,6,1.0,0.019677903793441292,0.4385981016327575

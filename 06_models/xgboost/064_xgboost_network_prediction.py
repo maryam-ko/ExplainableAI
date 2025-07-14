@@ -29,7 +29,7 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=50, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, default=150, help='Threshold to compute')
 
     return parser.parse_args()
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
     subset_filename = f"xgboost_master_shap_file_cluster_level_min{args.threshold}vals.csv"
     df = pd.read_csv(f'{args.base_dir}/08_results/xgboost/nested_cv_master_shaps/{subset_filename}')
     df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
-    df['Feature'] = df['Feature'].str.split('_').str[0]
+    df['PredictiveFeature'] = df['Feature'].str.split('_').str[0]
     print('Protein level xgboost predictions:', df)
     subset_df = df[df.apply(lambda row: row['Feature'] in prots or row['TargetFeature'] in prots, axis=1)]
     print('Subset xgboost predictions:', subset_df)

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZGPAT_S(280) ZGPAT_S(344) ZGPAT_S(373),0.8,0.5,4,1,8,1.0,0.021358594338171836,0.24348135080774833

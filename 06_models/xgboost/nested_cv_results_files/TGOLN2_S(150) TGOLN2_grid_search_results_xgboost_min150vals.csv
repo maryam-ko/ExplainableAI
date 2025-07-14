@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TGOLN2_S(150) TGOLN2_S(193) TGOLN2_S(236) TGOLN2_S(295) TGOLN2_S(314) TGOLN2_S(351) TGOLN2_S(352) TGOLN2_S(70),1.0,0.5,4,1,6,1.0,0.02002666293213922,0.5805515976239664

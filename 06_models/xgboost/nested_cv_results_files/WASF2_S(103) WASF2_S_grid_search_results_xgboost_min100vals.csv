@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WASF2_S(103) WASF2_S(115) WASF2_S(2) WASF2_S(215) WASF2_S(284) WASF2_S(292) WASF2_S(293) WASF2_S(296) WASF2_S(308) WASF2_S(429) WASF2_S(442) WASF2_S(474) WASF2_T(129),1.0,0.5,4,1,8,1.0,0.03737051159323843,0.5843308487773033

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REPIN1_S(27) REPIN1_S(316) REPIN1_S(329) REPIN1_S(426) REPIN1_S(441) REPIN1_T(287) REPIN1_T(398) REPIN1_T(482) REPIN1_T(492) REPIN1_T(510),1.0,0.5,4,1,8,1.0,0.019584053300464466,0.5445861044851072

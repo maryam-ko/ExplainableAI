@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPA2_S(238) RPA2_S(241),0.6,0.5,4,5,8,1.0,0.02164618083706247,0.4390226189933878

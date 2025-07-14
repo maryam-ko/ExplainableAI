@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TASOR2_S(1087) TASOR2_S(1240) TASOR2_S(1530) TASOR2_S(19) TASOR2_S(2046) TASOR2_S(221) TASOR2_S(381) TASOR2_S(867) TASOR2_S(972) TASOR2_T(690),1.0,0.5,1,1,8,1.0,0.008037387174843926,0.2802795968346712

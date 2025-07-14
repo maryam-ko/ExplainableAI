@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPLP0P6_S(156) RPLP0P6_S(268) RPLP0P6_S(307) RPLP0P6_S(94) RPLP0P6_S(97) RPLP0P6_Y(24),0.6,0.5,1,1,8,0.6,0.02109270621611189,-0.006371327391014115

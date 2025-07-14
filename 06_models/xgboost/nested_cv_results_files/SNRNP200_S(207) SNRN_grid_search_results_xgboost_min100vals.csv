@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRNP200_S(207) SNRNP200_S(225) SNRNP200_S(229) SNRNP200_S(756) SNRNP200_Y(102) SNRNP200_Y(11),0.8,0.5,4,1,8,1.0,0.0397082081136511,0.7587706519861034

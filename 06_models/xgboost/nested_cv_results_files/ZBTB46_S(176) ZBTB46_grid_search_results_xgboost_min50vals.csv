@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZBTB46_S(176) ZBTB46_S(234) ZBTB46_S(236) ZBTB46_S(290) ZBTB46_S(576),0.8,0.5,2,1,8,0.8,0.007174295632569261,0.3836441276816506

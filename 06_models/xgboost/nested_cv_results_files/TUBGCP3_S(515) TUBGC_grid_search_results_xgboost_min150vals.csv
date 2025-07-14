@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUBGCP3_S(515) TUBGCP3_S(896) TUBGCP3_T(608) TUBGCP3_T(899),0.8,0.5,4,1,8,1.0,0.029467623893029732,0.2576227412777887

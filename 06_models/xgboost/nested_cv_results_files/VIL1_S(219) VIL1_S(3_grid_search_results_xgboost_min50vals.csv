@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VIL1_S(219) VIL1_S(356) VIL1_S(366) VIL1_S(735) VIL1_S(747) VIL1_T(607) VIL1_Y(604),0.6,0.5,1,1,2,1.0,0.014710550855434011,-0.008229980132394666

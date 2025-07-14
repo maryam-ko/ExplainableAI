@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKRA_S(15) PRKRA_S(164) PRKRA_S(167) PRKRA_S(22) PRKRA_S(221) PRKRA_S(83) PRKRA_T(20) PRKRA_T(82),0.8,0.5,4,1,8,0.8,0.028867129319722226,0.10524753278206514

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PWP1_S(406) PWP1_S(484) PWP1_S(495) PWP1_S(50) PWP1_S(57) PWP1_T(55) PWP1_Y(138),1.0,0.5,4,1,6,1.0,0.05487809456816233,0.38550695877568064

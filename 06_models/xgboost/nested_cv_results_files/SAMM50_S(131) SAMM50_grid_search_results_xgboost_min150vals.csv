@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAMM50_S(131) SAMM50_S(14) SAMM50_S(142) SAMM50_S(189) SAMM50_S(250) SAMM50_S(270) SAMM50_S(294) SAMM50_S(3) SAMM50_S(4) SAMM50_S(6) SAMM50_T(3),1.0,0.5,4,1,8,1.0,0.04318237851477416,0.16276119897765412

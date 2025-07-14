@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SV2A_S(127) SV2A_S(42) SV2A_S(80) SV2A_S(81) SV2A_T(71) SV2A_T(84),0.6,0.5,1,5,8,0.6,0.010885577517719366,0.02996921654670446

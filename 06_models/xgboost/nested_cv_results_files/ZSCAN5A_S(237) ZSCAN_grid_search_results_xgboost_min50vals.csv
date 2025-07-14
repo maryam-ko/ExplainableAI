@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZSCAN5A_S(237) ZSCAN5A_S(244) ZSCAN5A_S(245) ZSCAN5A_T(247),0.8,0.5,1,1,8,1.0,0.01205685473340579,0.3471994458912461

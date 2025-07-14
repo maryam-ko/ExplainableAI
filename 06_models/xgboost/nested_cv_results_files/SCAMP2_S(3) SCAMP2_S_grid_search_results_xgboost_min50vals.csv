@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCAMP2_S(3) SCAMP2_S(316) SCAMP2_S(319) SCAMP2_S(320),0.6,0.5,4,1,8,1.0,0.04771966036036963,0.2997668974563947

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZDHHC20_S(242) ZDHHC20_S(295) ZDHHC20_S(305) ZDHHC20_S(315) ZDHHC20_S(318) ZDHHC20_S(330),0.8,0.5,4,10,8,1.0,0.038423464034898165,0.23303291637087256

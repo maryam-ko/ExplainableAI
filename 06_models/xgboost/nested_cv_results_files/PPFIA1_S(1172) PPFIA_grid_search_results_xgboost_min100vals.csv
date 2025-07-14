@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPFIA1_S(1172) PPFIA1_S(663) PPFIA1_S(668) PPFIA1_S(688) PPFIA1_S(691) PPFIA1_S(692) PPFIA1_S(693) PPFIA1_S(697) PPFIA1_S(756) PPFIA1_T(230) PPFIA1_T(761) PPFIA1_Y(684),0.8,0.5,4,1,8,1.0,0.028024152078081756,0.7276748828696566

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTC28_C(2079) TTC28_S(2271) TTC28_S(2274) TTC28_S(2292) TTC28_S(2293) TTC28_S(2302) TTC28_S(2334) TTC28_T(16) TTC28_T(2230) TTC28_T(2254) TTC28_T(2367) TTC28_Y(856),0.8,0.5,2,1,8,0.8,0.008332916620517687,0.22580197143424904

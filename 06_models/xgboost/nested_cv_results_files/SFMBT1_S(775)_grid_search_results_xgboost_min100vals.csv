@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SFMBT1_S(775),0.6,0.5,3,1,8,1.0,0.022107962363326697,0.14802058629214854

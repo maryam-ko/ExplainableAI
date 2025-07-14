@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLPBP_S(135) PLPBP_S(244) PLPBP_Y(69),1.0,0.5,3,1,8,1.0,0.028730615022729052,0.11765432739222141

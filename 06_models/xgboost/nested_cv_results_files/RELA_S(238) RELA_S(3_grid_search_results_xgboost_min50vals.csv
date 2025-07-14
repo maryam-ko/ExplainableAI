@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RELA_S(238) RELA_S(303) RELA_S(316) RELA_S(32) RELA_S(45) RELA_S(727),1.0,0.5,1,1,8,1.0,0.014732724555509906,0.24202396549882704

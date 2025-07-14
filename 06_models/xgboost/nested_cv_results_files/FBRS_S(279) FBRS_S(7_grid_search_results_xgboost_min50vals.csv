@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBRS_S(279) FBRS_S(730) FBRS_S(739) FBRS_T(428),1.0,0.5,2,1,8,0.8,0.02527771440863034,0.1852543441402474

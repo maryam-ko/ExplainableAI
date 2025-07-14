@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM209_S(11) TMEM209_S(212) TMEM209_S(260) TMEM209_S(278) TMEM209_S(376) TMEM209_S(87) TMEM209_S(98) TMEM209_T(103) TMEM209_Y(203),1.0,0.5,2,1,8,0.8,0.008671909238389888,0.21575392589009956

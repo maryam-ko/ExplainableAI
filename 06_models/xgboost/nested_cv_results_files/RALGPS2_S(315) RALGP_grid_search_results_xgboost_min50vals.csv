@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RALGPS2_S(315) RALGPS2_S(37) RALGPS2_S(67) RALGPS2_S(734) RALGPS2_T(3) RALGPS2_T(368) RALGPS2_T(427) RALGPS2_T(64) RALGPS2_Y(420) RALGPS2_Y(434),0.8,0.5,1,1,8,0.8,0.009433339825658311,0.022666566408672484

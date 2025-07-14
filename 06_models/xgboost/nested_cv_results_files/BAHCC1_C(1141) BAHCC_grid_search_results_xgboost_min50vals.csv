@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BAHCC1_C(1141) BAHCC1_S(1715) BAHCC1_S(2044) BAHCC1_S(2467) BAHCC1_T(2470),1.0,0.5,2,1,8,0.6,0.01438412030964526,0.2336655922355786

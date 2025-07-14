@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TLK1_S(138) TLK1_S(188) TLK1_S(22) TLK1_S(27) TLK1_S(378) TLK1_S(41) TLK1_S(741) TLK1_S(80) TLK1_S(92) TLK1_T(24) TLK1_T(38) TLK1_T(753),0.6,0.5,3,1,4,1.0,0.018878498779096205,0.13692581822177885

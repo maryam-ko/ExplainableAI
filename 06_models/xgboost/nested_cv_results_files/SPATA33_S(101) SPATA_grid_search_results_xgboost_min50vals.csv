@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPATA33_S(101) SPATA33_S(35) SPATA33_S(94) SPATA33_T(101),0.6,0.5,2,1,6,0.6,0.011834913568046918,0.2910654673080969

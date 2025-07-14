@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOX4_S(152) TOX4_S(155) TOX4_S(159) TOX4_S(182) TOX4_T(104) TOX4_T(149) TOX4_T(175),0.6,0.5,4,5,8,1.0,0.036929372093412856,0.3587568440476125

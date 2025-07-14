@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZC3H11C_S(132),1.0,0.5,4,5,8,0.8,0.04637814416869501,0.38343647252155505

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAFB_M(384) SAFB_S(32) SAFB_S(373) SAFB_S(375) SAFB_S(614) SAFB_S(619) SAFB_S(761),0.6,0.5,1,1,2,1.0,0.002296834932608757,0.04405020966078048

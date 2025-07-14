@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR33_S(1196) WDR33_S(1210) WDR33_S(1216) WDR33_S(1219) WDR33_S(1276) WDR33_S(1277) WDR33_S(1279) WDR33_S(14) WDR33_S(266) WDR33_S(7) WDR33_T(1166) WDR33_T(907),1.0,0.5,4,5,8,1.0,0.03405873301547993,0.7037637514852331

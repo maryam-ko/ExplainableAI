@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TENM3_S(11) TENM3_S(116) TENM3_S(27) TENM3_S(42) TENM3_T(2612) TENM3_Y(2609),1.0,0.5,4,1,8,0.8,0.03001758094266538,0.34665996206225136

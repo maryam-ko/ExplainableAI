@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK39_S(370) STK39_S(371),1.0,0.5,4,1,6,0.8,0.02834559601082268,0.17600117730087286

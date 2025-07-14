@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPRU_S(839) PTPRU_S(843) PTPRU_S(848) PTPRU_S(853) PTPRU_S(863) PTPRU_T(815) PTPRU_T(867),0.8,0.5,4,1,8,0.8,0.023038097282931307,0.07688185674734974

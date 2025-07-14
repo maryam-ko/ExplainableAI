@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAD21_S(138) RAD21_S(153) RAD21_S(175) RAD21_S(46) RAD21_S(545) RAD21_T(394) RAD21_T(623),1.0,0.5,4,1,8,1.0,0.02671947470642346,0.5760529747197488

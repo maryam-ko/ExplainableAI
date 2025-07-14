@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZC3HAV1L_S(256) ZC3HAV1L_S(257) ZC3HAV1L_S(263) ZC3HAV1L_S(289),1.0,0.5,4,1,8,1.0,0.024211677995926488,0.44295098698555113

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMD12_S(335) PSMD12_S(434) PSMD12_S(6) PSMD12_T(319),0.6,0.5,1,1,2,0.6,0.008013589097554834,-0.002227491676218474

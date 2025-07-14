@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XIAP_S(40) XIAP_S(406) XIAP_S(5) XIAP_T(180) XIAP_T(359) XIAP_Y(404),0.8,0.5,4,1,4,1.0,0.022814810271375552,0.29782510434735565

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAC3D1_M(402) SAC3D1_S(210) SAC3D1_S(356) SAC3D1_S(402) SAC3D1_S(41) SAC3D1_S(7),1.0,0.5,4,1,8,1.0,0.036049332896133796,0.5448064675519065

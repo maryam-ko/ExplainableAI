@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SSBP3_S(320) SSBP3_S(325) SSBP3_S(352) SSBP3_S(355) SSBP3_S(381) SSBP3_T(333) SSBP3_T(360),1.0,0.5,4,1,8,1.0,0.023343020532950173,0.5764255568758124

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZZZ3_S(106) ZZZ3_S(107) ZZZ3_S(113) ZZZ3_S(381) ZZZ3_S(391) ZZZ3_S(776) ZZZ3_S(82) ZZZ3_S(86) ZZZ3_S(89) ZZZ3_T(380) ZZZ3_T(716),0.8,0.5,4,10,8,1.0,0.028607116610615782,0.7227121308807

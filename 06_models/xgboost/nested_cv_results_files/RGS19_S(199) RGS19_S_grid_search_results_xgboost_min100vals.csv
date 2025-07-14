@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGS19_S(199) RGS19_S(211) RGS19_S(213) RGS19_S(215) RGS19_S(65) RGS19_S(72) RGS19_S(97) RGS19_Y(143),0.6,0.5,2,1,2,1.0,0.018449318574266866,0.13310339092591195

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX19_S(375) SNX19_S(695) SNX19_S(699) SNX19_S(705),0.8,0.5,1,1,8,0.8,0.010274264071106246,0.023183781842722694

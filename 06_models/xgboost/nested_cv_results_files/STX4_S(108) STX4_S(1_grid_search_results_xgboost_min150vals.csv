@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STX4_S(108) STX4_S(169) STX4_S(208) STX4_S(36) STX4_Y(115) STX4_Y(251),1.0,0.5,4,5,8,1.0,0.025292738381911786,0.42679924999152286

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRAK1_C(714) TRAK1_S(200) TRAK1_S(393) TRAK1_S(535) TRAK1_S(537) TRAK1_S(719) TRAK1_S(919) TRAK1_T(922),0.8,0.5,4,1,8,1.0,0.029332826289385844,0.18268463291831397

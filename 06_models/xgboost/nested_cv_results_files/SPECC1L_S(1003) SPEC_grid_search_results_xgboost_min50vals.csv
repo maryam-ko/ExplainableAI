@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPECC1L_S(1003) SPECC1L_S(226) SPECC1L_S(35) SPECC1L_S(831) SPECC1L_S(872) SPECC1L_S(902) SPECC1L_S(928) SPECC1L_S(973) SPECC1L_Y(594),1.0,0.5,2,1,8,1.0,0.009787897223892488,0.23580095920829552

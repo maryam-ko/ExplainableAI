@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF337_S(148) ZNF337_S(277) ZNF337_S(681) ZNF337_S(750) ZNF337_T(163),0.8,0.5,3,1,6,0.8,0.00722067881063964,0.3039756902852661

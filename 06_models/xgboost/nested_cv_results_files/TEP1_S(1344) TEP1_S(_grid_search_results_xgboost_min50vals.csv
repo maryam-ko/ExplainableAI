@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TEP1_S(1344) TEP1_S(2353) TEP1_S(397) TEP1_S(400),0.6,0.5,3,1,8,0.8,0.019268970011512513,0.2109588834823311

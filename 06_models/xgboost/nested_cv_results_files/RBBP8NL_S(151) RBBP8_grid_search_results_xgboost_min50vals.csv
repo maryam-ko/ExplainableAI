@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBBP8NL_S(151) RBBP8NL_S(190) RBBP8NL_S(194) RBBP8NL_S(210) RBBP8NL_S(250) RBBP8NL_S(635) RBBP8NL_S(636) RBBP8NL_T(242) RBBP8NL_T(640),0.6,0.5,1,1,8,0.8,0.0250239909518643,-0.005806303042432903

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR47_S(155) WDR47_S(264) WDR47_S(276) WDR47_S(304) WDR47_S(319) WDR47_S(331) WDR47_S(364) WDR47_S(544) WDR47_S(549) WDR47_S(550) WDR47_T(257),0.8,0.5,3,1,2,0.8,0.023301057572221083,-0.0032680920646311895

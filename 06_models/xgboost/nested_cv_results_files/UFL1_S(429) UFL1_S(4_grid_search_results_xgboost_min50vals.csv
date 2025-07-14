@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UFL1_S(429) UFL1_S(431) UFL1_S(454) UFL1_S(462) UFL1_S(776) UFL1_S(777) UFL1_S(778) UFL1_S(789),0.6,0.5,1,1,4,0.8,0.0117855102909221,-0.004205610041163687

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SHANK1_S(1093) SHANK1_S(1287) SHANK1_S(1411) SHANK1_S(1436) SHANK1_S(1788) SHANK1_S(2000) SHANK1_S(890) SHANK1_T(1274),0.8,0.5,1,1,8,1.0,0.008562081032502855,0.3377474319022527

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBC1D13_S(184),0.8,0.5,4,1,8,0.8,0.03479886579362544,0.2124401910064874

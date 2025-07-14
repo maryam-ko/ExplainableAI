@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUBB_S(48) TUBB_T(166) TUBB_T(55) TUBB_Y(50),0.8,0.5,4,1,8,1.0,0.028228231847940807,0.263389952053115

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STRADA_S(12) STRADA_S(15) STRADA_S(2) STRADA_S(276) STRADA_S(46) STRADA_S(49) STRADA_S(52),0.6,0.5,1,1,8,0.6,0.010217558073094522,-0.0029199207479128297

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOCS6_S(129) SOCS6_S(133) SOCS6_S(163) SOCS6_S(18) SOCS6_S(311) SOCS6_S(317) SOCS6_S(9) SOCS6_T(22) SOCS6_T(93) SOCS6_Y(132),0.8,0.5,2,1,8,1.0,0.02396784425825468,0.19795969368983285

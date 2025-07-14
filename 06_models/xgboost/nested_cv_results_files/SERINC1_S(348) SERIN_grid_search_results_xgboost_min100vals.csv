@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SERINC1_S(348) SERINC1_S(352) SERINC1_S(364) SERINC1_S(4) SERINC1_T(351) SERINC1_T(352),0.6,0.5,4,1,8,1.0,0.048312027266801186,0.33780798970169207

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTC7A_S(185) TTC7A_S(51) TTC7A_S(53) TTC7A_S(690) TTC7A_T(653) TTC7A_T(693),0.8,0.5,4,1,8,1.0,0.021252414052596813,0.5009231874483618

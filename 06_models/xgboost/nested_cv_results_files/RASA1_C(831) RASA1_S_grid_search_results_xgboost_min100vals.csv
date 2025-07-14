@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASA1_C(831) RASA1_S(415) RASA1_S(416) RASA1_S(654) RASA1_S(705) RASA1_S(831),1.0,0.5,3,1,4,1.0,0.012636108856768904,0.2936793083819648

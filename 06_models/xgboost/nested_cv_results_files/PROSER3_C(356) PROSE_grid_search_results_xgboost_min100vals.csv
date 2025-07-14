@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PROSER3_C(356) PROSER3_C(362) PROSER3_S(344) PROSER3_S(356) PROSER3_S(454) PROSER3_S(459) PROSER3_T(342),0.6,0.5,4,10,8,1.0,0.018426876205429897,0.2720333462510759

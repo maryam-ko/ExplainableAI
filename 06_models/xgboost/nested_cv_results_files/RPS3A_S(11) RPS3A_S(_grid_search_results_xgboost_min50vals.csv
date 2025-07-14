@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS3A_S(11) RPS3A_S(117) RPS3A_S(154) RPS3A_S(217) RPS3A_S(236) RPS3A_S(237) RPS3A_S(238) RPS3A_S(258) RPS3A_S(263) RPS3A_S(9) RPS3A_Y(256),0.8,0.5,4,5,8,1.0,0.05557993960172983,0.45813813497866607

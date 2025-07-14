@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TP53_M(15) TP53_M(18) TP53_M(20) TP53_S(149) TP53_S(15) TP53_S(183) TP53_S(3) TP53_S(6) TP53_S(912) TP53_S(914),0.8,0.5,2,1,4,0.8,0.0131288988637022,0.22114763816450678

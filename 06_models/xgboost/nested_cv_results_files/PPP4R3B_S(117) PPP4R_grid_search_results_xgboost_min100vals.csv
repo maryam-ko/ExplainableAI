@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPP4R3B_S(117) PPP4R3B_S(155) PPP4R3B_S(695) PPP4R3B_S(768) PPP4R3B_S(840),0.6,0.5,4,1,6,1.0,0.016553205925021824,0.2984443630330681

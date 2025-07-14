@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS20_S(87) RPS20_S(93) RPS20_S(95) RPS20_T(23),1.0,0.5,2,1,8,1.0,0.010504346693424055,0.130246681625119

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRGAP3_S(407) SRGAP3_S(410) SRGAP3_S(7) SRGAP3_S(813) SRGAP3_S(834) SRGAP3_S(850) SRGAP3_S(858) SRGAP3_S(874) SRGAP3_S(884) SRGAP3_S(895),0.6,0.5,1,1,6,0.6,0.018514267853650807,-0.0002953565081324827

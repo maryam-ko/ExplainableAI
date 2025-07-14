@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAM_S(156) STAM_Y(198) STAM_Y(381) STAM_Y(384),1.0,0.5,4,10,8,1.0,0.025732037433697938,0.49648887685377224

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZBTB22_S(202) ZBTB22_S(599) ZBTB22_S(604),1.0,0.5,4,1,8,1.0,0.018577846544798913,0.21113557221124019

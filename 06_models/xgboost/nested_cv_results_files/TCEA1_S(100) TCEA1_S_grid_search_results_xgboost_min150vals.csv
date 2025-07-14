@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCEA1_S(100) TCEA1_S(57) TCEA1_S(60) TCEA1_S(75) TCEA1_S(89) TCEA1_S(90) TCEA1_S(97) TCEA1_T(58) TCEA1_Y(105),0.8,0.5,4,5,8,1.0,0.028588289046998082,0.8199009933190913

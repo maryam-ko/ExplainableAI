@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SH3D19_S(148) SH3D19_S(150) SH3D19_S(275) SH3D19_S(3) SH3D19_S(366) SH3D19_S(367) SH3D19_S(369) SH3D19_S(385) SH3D19_S(389) SH3D19_S(590) SH3D19_S(65) SH3D19_T(382) SH3D19_Y(452),0.8,0.5,4,1,8,1.0,0.0365054250265328,0.32676561351761263

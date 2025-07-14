@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WNK3_S(1095) WNK3_S(1471) WNK3_S(304) WNK3_S(49) WNK3_S(62) WNK3_S(95) WNK3_T(1647) WNK3_T(921),1.0,0.5,3,1,8,0.8,0.017791661363453126,0.08546797205689624

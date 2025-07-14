@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POLR2M_S(179) POLR2M_S(267) POLR2M_S(268) POLR2M_S(270) POLR2M_S(667) POLR2M_S(671) POLR2M_S(72),0.8,0.5,4,1,8,1.0,0.033872808690128264,0.26525385201645213

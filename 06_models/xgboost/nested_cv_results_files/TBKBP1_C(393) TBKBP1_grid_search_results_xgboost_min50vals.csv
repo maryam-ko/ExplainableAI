@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBKBP1_C(393) TBKBP1_S(365) TBKBP1_S(372) TBKBP1_S(379) TBKBP1_S(391) TBKBP1_S(400) TBKBP1_S(97),1.0,0.5,4,1,8,1.0,0.009846470168691017,0.34726836155440854

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POLR3C_S(202) POLR3C_S(203) POLR3C_S(204) POLR3C_S(205) POLR3C_T(412),0.8,0.5,3,5,8,1.0,0.039778510368948396,0.3134418405629066

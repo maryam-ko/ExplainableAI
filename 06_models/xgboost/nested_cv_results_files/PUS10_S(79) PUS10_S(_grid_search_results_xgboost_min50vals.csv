@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PUS10_S(79) PUS10_S(84),0.6,0.5,1,1,8,0.6,0.01224561592322662,0.011747377230831146

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STBD1_S(1) STBD1_S(10) STBD1_S(141) STBD1_S(175) STBD1_S(176) STBD1_S(3) STBD1_S(6),0.6,0.5,2,1,4,0.8,0.02822840414484459,-0.005902590588289636

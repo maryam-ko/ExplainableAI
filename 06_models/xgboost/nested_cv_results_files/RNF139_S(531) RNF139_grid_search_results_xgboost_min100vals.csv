@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF139_S(531) RNF139_S(625) RNF139_S(634) RNF139_T(635) RNF139_T(663),1.0,0.5,4,10,8,1.0,0.04719035425205335,0.21678171719522443

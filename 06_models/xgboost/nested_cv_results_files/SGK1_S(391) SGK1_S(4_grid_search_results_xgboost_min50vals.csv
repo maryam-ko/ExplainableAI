@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGK1_S(391) SGK1_S(401),0.8,0.5,1,10,8,0.8,0.010741091815275496,0.2358797549268794

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDCP_S(295) WDCP_S(422) WDCP_S(452) WDCP_S(466) WDCP_S(501) WDCP_S(686) WDCP_S(688),0.6,0.5,2,1,8,0.8,0.012066143033752332,0.10023836083118112

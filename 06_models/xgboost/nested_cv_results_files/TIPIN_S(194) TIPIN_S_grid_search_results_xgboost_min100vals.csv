@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TIPIN_S(194) TIPIN_S(222) TIPIN_T(196) TIPIN_T(244),1.0,0.5,4,10,8,1.0,0.01730771173088276,0.443463613722904

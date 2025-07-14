@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XPO6_S(208) XPO6_S(214) XPO6_S(219) XPO6_T(1008) XPO6_T(201) XPO6_T(204) XPO6_T(210),1.0,0.5,4,5,8,0.8,0.039300782063987655,0.22974034843268046

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFHX4_M(6) ZFHX4_S(1279) ZFHX4_S(1455) ZFHX4_S(1533) ZFHX4_S(2553) ZFHX4_S(3565) ZFHX4_S(460) ZFHX4_S(508),1.0,0.5,2,1,8,0.8,0.009114436318932188,0.22348939842627286

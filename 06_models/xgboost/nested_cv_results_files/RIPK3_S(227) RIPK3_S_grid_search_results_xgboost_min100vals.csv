@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIPK3_S(227) RIPK3_S(316) RIPK3_S(339) RIPK3_S(410) RIPK3_T(224),1.0,0.5,4,5,4,1.0,0.031096363805303368,0.31279073428227966

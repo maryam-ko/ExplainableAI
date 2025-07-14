@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WASL_S(183) WASL_S(207) WASL_S(421) WASL_S(426) WASL_S(430) WASL_S(432) WASL_S(484) WASL_S(485) WASL_T(185) WASL_T(205) WASL_T(457) WASL_T(460) WASL_Y(175) WASL_Y(256),1.0,0.5,4,1,8,1.0,0.04929922191284953,0.5453652743840973

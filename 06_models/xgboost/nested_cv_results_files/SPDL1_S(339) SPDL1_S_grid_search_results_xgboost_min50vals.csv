@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPDL1_S(339) SPDL1_S(372) SPDL1_S(405) SPDL1_S(414) SPDL1_S(416) SPDL1_S(471) SPDL1_S(493) SPDL1_S(513) SPDL1_S(515) SPDL1_S(555) SPDL1_T(410),0.6,0.5,4,1,4,1.0,0.03339263807830214,0.24258953104413977

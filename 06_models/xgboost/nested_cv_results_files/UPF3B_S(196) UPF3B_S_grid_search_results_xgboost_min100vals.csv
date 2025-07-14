@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UPF3B_S(196) UPF3B_S(25) UPF3B_S(297) UPF3B_S(310) UPF3B_S(396) UPF3B_S(399) UPF3B_S(402) UPF3B_T(169) UPF3B_T(18) UPF3B_Y(117) UPF3B_Y(160) UPF3B_Y(167) UPF3B_Y(429) UPF3B_Y(442),0.6,0.5,4,5,8,1.0,0.022694188474481566,0.7610746900771572

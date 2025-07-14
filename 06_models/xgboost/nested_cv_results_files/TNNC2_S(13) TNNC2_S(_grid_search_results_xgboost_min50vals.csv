@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNNC2_S(13) TNNC2_S(134) TNNC2_S(3) TNNC2_S(92) TNNC2_T(5),0.8,0.5,3,1,8,0.8,0.017372396579037195,0.08265610398226637

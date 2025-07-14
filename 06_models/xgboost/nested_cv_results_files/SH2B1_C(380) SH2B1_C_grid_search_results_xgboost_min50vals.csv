@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SH2B1_C(380) SH2B1_C(383) SH2B1_S(125) SH2B1_S(126) SH2B1_S(219) SH2B1_S(88) SH2B1_S(96) SH2B1_T(218) SH2B1_Y(48),1.0,0.5,4,1,8,1.0,0.03191423417574818,0.17897574787890677

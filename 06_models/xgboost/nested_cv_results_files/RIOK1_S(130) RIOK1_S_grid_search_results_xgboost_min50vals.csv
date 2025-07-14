@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIOK1_S(130) RIOK1_S(14) RIOK1_S(15) RIOK1_S(21) RIOK1_S(22) RIOK1_S(24) RIOK1_Y(466),1.0,0.5,4,5,8,1.0,0.05201150057262899,0.3371459669432901

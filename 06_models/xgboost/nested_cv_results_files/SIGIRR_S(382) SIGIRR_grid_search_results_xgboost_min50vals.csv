@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIGIRR_S(382) SIGIRR_S(383),0.6,0.5,1,1,8,1.0,0.014362213705682138,0.24905242250915088

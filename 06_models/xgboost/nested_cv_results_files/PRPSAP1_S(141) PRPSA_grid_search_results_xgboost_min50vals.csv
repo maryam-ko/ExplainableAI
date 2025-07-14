@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPSAP1_S(141) PRPSAP1_S(373),0.6,0.5,1,1,6,0.8,0.011272047603868206,-0.0021369104088955204

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SSH2_C(779) SSH2_S(1187) SSH2_S(1215) SSH2_S(1223) SSH2_S(1225) SSH2_S(1227) SSH2_S(1259) SSH2_S(36) SSH2_S(38) SSH2_S(40) SSH2_S(469) SSH2_S(514) SSH2_T(1423) SSH2_T(801) SSH2_T(810) SSH2_T(822),1.0,0.5,3,1,8,1.0,0.018824152497836498,0.2692113194284249

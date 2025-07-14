@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SKP2_S(179) SKP2_S(48) SKP2_S(75) SKP2_S(8),1.0,0.5,4,1,8,1.0,0.01697179901476098,0.5101376004652394

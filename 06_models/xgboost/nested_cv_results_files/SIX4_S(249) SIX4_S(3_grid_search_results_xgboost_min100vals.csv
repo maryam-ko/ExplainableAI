@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIX4_S(249) SIX4_S(308) SIX4_S(44) SIX4_S(5),1.0,0.5,4,1,8,0.8,0.023434361914762995,0.16947852741223862

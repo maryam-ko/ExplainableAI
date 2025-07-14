@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCARF1_C(799) SCARF1_S(503) SCARF1_S(520) SCARF1_S(570) SCARF1_S(591) SCARF1_S(610) SCARF1_S(628) SCARF1_S(742) SCARF1_S(747) SCARF1_S(749),0.6,0.5,2,1,6,0.8,0.013701535297542356,0.18074981029325904

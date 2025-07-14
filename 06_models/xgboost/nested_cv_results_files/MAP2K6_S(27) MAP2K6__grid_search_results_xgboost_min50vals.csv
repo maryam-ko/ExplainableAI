@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAP2K6_S(27) MAP2K6_T(11) MAP2K6_T(25) MAP2K6_T(28),0.6,0.5,3,1,8,1.0,0.02944138323250958,0.13457832946194953

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBMX2_S(10) RBMX2_S(121) RBMX2_S(148) RBMX2_S(149) RBMX2_S(177) RBMX2_S(186) RBMX2_S(187) RBMX2_S(188) RBMX2_S(216) RBMX2_S(232) RBMX2_S(272) RBMX2_S(273) RBMX2_S(309) RBMX2_S(314) RBMX2_S(337),0.6,0.5,4,1,8,1.0,0.036627830291188615,0.6725952993508478

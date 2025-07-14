@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLXNB2_S(1236) PLXNB2_S(1244) PLXNB2_S(1248) PLXNB2_S(1551) PLXNB2_S(1570) PLXNB2_S(1607) PLXNB2_S(321),0.6,0.5,2,1,8,1.0,0.021419758644596262,0.18325671111979788

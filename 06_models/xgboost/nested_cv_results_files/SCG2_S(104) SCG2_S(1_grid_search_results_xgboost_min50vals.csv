@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCG2_S(104) SCG2_S(128) SCG2_S(256) SCG2_S(285) SCG2_S(532) SCG2_S(533),0.6,0.5,1,1,2,1.0,0.021265020605662422,-0.0037977200319725844

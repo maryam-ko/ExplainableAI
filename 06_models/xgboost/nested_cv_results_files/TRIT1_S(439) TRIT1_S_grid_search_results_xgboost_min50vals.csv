@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIT1_S(439) TRIT1_S(441) TRIT1_S(443) TRIT1_S(73),0.8,0.5,4,5,8,0.8,0.02172087339301169,0.48073142517009815

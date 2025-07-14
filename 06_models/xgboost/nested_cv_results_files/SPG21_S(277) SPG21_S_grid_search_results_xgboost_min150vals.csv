@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPG21_S(277) SPG21_S(298) SPG21_S(300) SPG21_S(304),1.0,0.5,4,5,6,1.0,0.025851315864845396,0.400783616994154

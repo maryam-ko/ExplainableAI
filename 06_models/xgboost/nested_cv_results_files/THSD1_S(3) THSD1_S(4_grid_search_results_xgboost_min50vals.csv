@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THSD1_S(3) THSD1_S(469) THSD1_S(671) THSD1_S(791),0.8,0.5,2,10,8,1.0,0.006700447576033664,0.4975015059774326

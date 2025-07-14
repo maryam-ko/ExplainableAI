@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRP9_S(475) RRP9_S(50) RRP9_S(51) RRP9_S(53) RRP9_S(57) RRP9_T(74),0.8,0.5,3,10,6,1.0,0.02684140714715498,0.1456134866791514

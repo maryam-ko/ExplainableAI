@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGTA_S(297) SGTA_S(301) SGTA_S(305) SGTA_S(307) SGTA_S(77) SGTA_S(84) SGTA_T(3) SGTA_T(303) SGTA_T(5) SGTA_T(80) SGTA_T(81),1.0,0.5,4,10,8,0.8,0.028170585850329923,0.7479034161463127

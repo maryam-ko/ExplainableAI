@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFX7_S(1101) RFX7_S(1128) RFX7_S(1175) RFX7_S(1177) RFX7_S(421) RFX7_T(1025) RFX7_T(1028) RFX7_T(314) RFX7_T(351) RFX7_T(384) RFX7_T(560),0.6,0.5,3,10,2,1.0,0.011760812995402648,0.14870850636288924

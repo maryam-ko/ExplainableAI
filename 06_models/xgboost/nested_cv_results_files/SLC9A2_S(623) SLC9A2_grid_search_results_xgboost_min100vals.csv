@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC9A2_S(623) SLC9A2_S(720) SLC9A2_S(723),1.0,0.5,4,1,4,1.0,0.032569771991093864,0.188570993477425

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP15_S(1) USP15_S(170) USP15_S(225) USP15_T(134) USP15_T(226) USP15_T(237),0.6,0.5,1,1,8,1.0,0.013378727436369005,0.096072733058119

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TATDN2_S(115) TATDN2_S(123) TATDN2_S(257) TATDN2_S(299) TATDN2_S(420) TATDN2_S(45) TATDN2_S(454) TATDN2_S(51) TATDN2_S(80) TATDN2_S(85) TATDN2_T(253),0.8,0.5,4,1,8,1.0,0.02172346037483187,0.5877447001110992

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VASP_C(335) VASP_S(2) VASP_S(239) VASP_S(289) VASP_S(298) VASP_S(305) VASP_S(325) VASP_S(334) VASP_S(46) VASP_T(249) VASP_T(284) VASP_T(312) VASP_T(315) VASP_T(316) VASP_T(334) VASP_T(335) VASP_Y(39),0.6,0.5,4,1,8,1.0,0.04861349569698279,0.32801603229808923

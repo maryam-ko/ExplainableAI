@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAB1_S(378) TAB1_S(7),1.0,0.5,4,1,4,1.0,0.025752455686375596,0.3696271867589698

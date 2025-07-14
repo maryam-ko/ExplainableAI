@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOP1_S(10) TOP1_S(104) TOP1_S(106) TOP1_S(111) TOP1_S(112) TOP1_S(21) TOP1_S(298) TOP1_S(394) TOP1_S(52) TOP1_S(57) TOP1_S(73) TOP1_S(87) TOP1_Y(426),1.0,0.5,4,5,8,1.0,0.04798377472526069,0.6194752354258182

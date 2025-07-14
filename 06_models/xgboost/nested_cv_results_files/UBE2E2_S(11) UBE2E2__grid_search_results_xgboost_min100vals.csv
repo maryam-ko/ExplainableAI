@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBE2E2_S(11) UBE2E2_S(18) UBE2E2_S(19),1.0,0.5,4,10,8,1.0,0.019780608045714014,0.5076455302746545

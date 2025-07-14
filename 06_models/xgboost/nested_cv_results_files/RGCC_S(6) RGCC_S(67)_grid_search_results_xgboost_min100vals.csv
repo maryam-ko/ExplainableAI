@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGCC_S(6) RGCC_S(67) RGCC_S(71) RGCC_S(75) RGCC_S(77) RGCC_S(87) RGCC_S(89) RGCC_S(91) RGCC_S(97) RGCC_T(111) RGCC_T(99),1.0,0.5,4,5,8,1.0,0.023768768507432068,0.43020981119464813

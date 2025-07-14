@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMC1A_S(353) SMC1A_S(358) SMC1A_S(360) SMC1A_S(951) SMC1A_S(956) SMC1A_S(957) SMC1A_S(962) SMC1A_S(966) SMC1A_S(968) SMC1A_S(970) SMC1A_S(971),0.6,0.5,4,5,8,1.0,0.04458397598267393,0.3847484981764454

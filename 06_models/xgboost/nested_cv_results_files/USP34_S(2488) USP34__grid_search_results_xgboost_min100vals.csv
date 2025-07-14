@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP34_S(2488) USP34_S(2503) USP34_S(3152) USP34_S(3172) USP34_S(3386) USP34_S(98) USP34_T(3116) USP34_T(3350) USP34_T(3381),1.0,0.5,4,1,8,1.0,0.015370348665308618,0.30466512804398044

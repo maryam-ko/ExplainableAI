@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF174_S(171) ZNF174_S(174) ZNF174_S(188) ZNF174_S(194) ZNF174_S(195) ZNF174_S(265) ZNF174_S(266) ZNF174_S(281) ZNF174_S(287) ZNF174_T(165) ZNF174_T(202),0.8,0.5,4,1,6,1.0,0.03307084321572845,0.1697566657982846

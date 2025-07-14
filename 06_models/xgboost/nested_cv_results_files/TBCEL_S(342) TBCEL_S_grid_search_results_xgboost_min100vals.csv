@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBCEL_S(342) TBCEL_S(41) TBCEL_S(43) TBCEL_S(50) TBCEL_T(37),1.0,0.5,3,1,8,1.0,0.01843197805055996,0.29014406659670355

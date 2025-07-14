@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB23_S(187) RAB23_S(200) RAB23_T(184),0.8,0.5,1,1,8,1.0,0.02576247578695205,0.03435990177638097

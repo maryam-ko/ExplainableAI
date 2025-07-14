@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPPP_S(23) TPPP_S(32) TPPP_S(35) TPPP_S(4) TPPP_S(5) TPPP_T(14) TPPP_T(5),0.8,0.5,4,1,8,1.0,0.03469224821786708,0.5549121625632553

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCAF4_M(149) SCAF4_M(154) SCAF4_S(1004) SCAF4_S(1037) SCAF4_S(154) SCAF4_S(429) SCAF4_S(635) SCAF4_S(656) SCAF4_T(149) SCAF4_T(236) SCAF4_T(237) SCAF4_T(652),1.0,0.5,4,5,8,1.0,0.032558063268730064,0.7382829837776161

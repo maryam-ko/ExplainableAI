@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PNKP_T(118),0.6,0.5,4,1,8,1.0,0.04546866856499051,0.6302586227486395

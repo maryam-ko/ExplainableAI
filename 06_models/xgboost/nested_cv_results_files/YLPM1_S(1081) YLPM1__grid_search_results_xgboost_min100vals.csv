@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YLPM1_S(1081) YLPM1_S(1100) YLPM1_S(1108) YLPM1_S(1207) YLPM1_S(1249) YLPM1_S(1840) YLPM1_S(634) YLPM1_S(750) YLPM1_S(905) YLPM1_S(924) YLPM1_S(957) YLPM1_T(631),1.0,0.5,4,5,8,1.0,0.03079759566877573,0.5966658194752108

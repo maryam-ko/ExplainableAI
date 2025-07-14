@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM10_S(207) RBM10_S(22) RBM10_S(31) RBM10_S(4) RBM10_S(483) RBM10_S(492) RBM10_S(531) RBM10_S(645) RBM10_S(726) RBM10_S(73) RBM10_S(732) RBM10_S(780) RBM10_S(803) RBM10_S(845) RBM10_S(904),1.0,0.5,4,1,8,0.8,0.02068694339723921,0.42340338967491276

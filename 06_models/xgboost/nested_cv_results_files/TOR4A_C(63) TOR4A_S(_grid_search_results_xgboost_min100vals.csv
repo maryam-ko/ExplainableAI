@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOR4A_C(63) TOR4A_S(106) TOR4A_S(81) TOR4A_S(87) TOR4A_S(97) TOR4A_T(62) TOR4A_T(89),0.8,0.5,4,5,8,1.0,0.03751788182292007,0.187992337875308

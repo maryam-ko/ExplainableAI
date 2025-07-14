@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UGP2_S(102) UGP2_S(103) UGP2_S(120) UGP2_S(320) UGP2_S(435) UGP2_S(7) UGP2_S(8) UGP2_T(6) UGP2_Y(2) UGP2_Y(298) UGP2_Y(7),1.0,0.5,3,1,8,0.8,0.025286294694341523,0.07883866112528767

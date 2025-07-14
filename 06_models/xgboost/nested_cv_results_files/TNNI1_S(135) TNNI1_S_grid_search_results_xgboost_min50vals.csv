@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNNI1_S(135) TNNI1_S(169) TNNI1_S(183) TNNI1_S(3) TNNI1_S(4) TNNI1_S(5) TNNI1_S(58) TNNI1_S(6) TNNI1_S(60) TNNI1_T(3) TNNI1_T(5) TNNI1_T(8) TNNI1_Y(81),1.0,0.5,3,1,8,1.0,0.020559145102702327,0.4377020238128952

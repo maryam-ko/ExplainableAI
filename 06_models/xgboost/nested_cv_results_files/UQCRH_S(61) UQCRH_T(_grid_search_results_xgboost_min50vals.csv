@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UQCRH_S(61) UQCRH_T(63),1.0,0.5,2,1,6,0.6,0.0149930534240188,0.15447577249305913

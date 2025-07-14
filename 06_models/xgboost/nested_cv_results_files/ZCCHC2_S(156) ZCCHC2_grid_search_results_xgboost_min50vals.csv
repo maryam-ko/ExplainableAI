@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZCCHC2_S(156) ZCCHC2_S(236) ZCCHC2_S(564) ZCCHC2_S(569) ZCCHC2_S(572) ZCCHC2_S(649) ZCCHC2_S(652) ZCCHC2_S(791) ZCCHC2_T(605),1.0,0.5,4,1,8,0.8,0.014301591129770296,0.2413858585958181

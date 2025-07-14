@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RTN1_S(350) RTN1_S(352) RTN1_S(48) RTN1_S(487) RTN1_S(563) RTN1_S(71) RTN1_T(279),1.0,0.5,4,5,8,1.0,0.02973923466764036,0.681245873776364

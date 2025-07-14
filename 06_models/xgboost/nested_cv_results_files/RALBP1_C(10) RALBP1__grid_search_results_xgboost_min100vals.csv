@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RALBP1_C(10) RALBP1_C(11) RALBP1_C(9) RALBP1_S(116) RALBP1_S(13) RALBP1_S(303) RALBP1_S(639) RALBP1_T(25) RALBP1_T(26) RALBP1_T(9),1.0,0.5,4,10,8,1.0,0.03168866534790153,0.4952172802295992

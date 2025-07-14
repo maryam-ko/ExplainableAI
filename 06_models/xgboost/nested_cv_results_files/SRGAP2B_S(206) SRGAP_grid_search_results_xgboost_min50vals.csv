@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRGAP2B_S(206) SRGAP2B_S(426) SRGAP2B_T(203),0.6,0.5,1,1,8,0.8,0.014225402761058348,-0.001870992294967877

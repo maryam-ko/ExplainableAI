@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB8A_S(175) RAB8A_S(176) RAB8A_S(185) RAB8A_T(192),1.0,0.5,4,10,8,1.0,0.0505944217924711,0.5130845322399598

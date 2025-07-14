@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRAPPC8_S(1090) TRAPPC8_S(259) TRAPPC8_S(273) TRAPPC8_S(279) TRAPPC8_S(311) TRAPPC8_S(657),0.8,0.5,4,1,8,1.0,0.018198635782588894,0.43692028355953483

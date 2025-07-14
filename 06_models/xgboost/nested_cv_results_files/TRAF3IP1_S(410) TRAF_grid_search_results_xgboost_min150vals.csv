@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRAF3IP1_S(410) TRAF3IP1_S(476) TRAF3IP1_S(557),1.0,0.5,4,1,8,0.8,0.02226918961021054,0.5596159721706522

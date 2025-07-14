@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPIRE2_S(309) SPIRE2_S(371) SPIRE2_S(379) SPIRE2_S(442) SPIRE2_S(476) SPIRE2_S(622) SPIRE2_S(702),1.0,0.5,4,1,8,0.8,0.016734877012165757,0.3685218286825009

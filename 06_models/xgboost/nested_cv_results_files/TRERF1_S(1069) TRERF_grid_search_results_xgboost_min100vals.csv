@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRERF1_S(1069) TRERF1_S(1088) TRERF1_S(330) TRERF1_S(486) TRERF1_S(621) TRERF1_S(955) TRERF1_S(981) TRERF1_T(1088) TRERF1_T(767) TRERF1_T(954),0.8,0.5,4,1,8,0.8,0.02216409853162171,0.5399069155173192

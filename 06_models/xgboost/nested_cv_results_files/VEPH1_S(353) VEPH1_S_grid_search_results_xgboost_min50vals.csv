@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VEPH1_S(353) VEPH1_S(380) VEPH1_S(425) VEPH1_S(427) VEPH1_S(430) VEPH1_S(449) VEPH1_S(462) VEPH1_S(476) VEPH1_S(478) VEPH1_S(480) VEPH1_S(529) VEPH1_T(422) VEPH1_T(533),0.6,0.5,1,1,4,0.6,0.01824137742502931,-0.0025088917259350474

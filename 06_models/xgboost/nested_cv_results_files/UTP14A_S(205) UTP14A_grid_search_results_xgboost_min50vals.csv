@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP14A_S(205) UTP14A_S(237) UTP14A_S(429) UTP14A_S(569) UTP14A_S(748) UTP14A_T(448) UTP14A_T(510) UTP14A_T(566),0.8,0.5,2,1,8,1.0,0.009825346155428832,0.11281127946032901

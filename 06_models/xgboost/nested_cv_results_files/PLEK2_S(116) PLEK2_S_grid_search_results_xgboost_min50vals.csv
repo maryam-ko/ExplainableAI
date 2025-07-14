@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLEK2_S(116) PLEK2_S(120) PLEK2_S(240) PLEK2_T(154),0.8,0.5,1,1,8,0.8,0.014668842723515516,0.017042165713685442

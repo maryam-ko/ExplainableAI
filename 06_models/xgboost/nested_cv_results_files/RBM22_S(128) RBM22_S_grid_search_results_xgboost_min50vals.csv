@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM22_S(128) RBM22_S(142),0.6,0.5,4,1,8,1.0,0.01258036629579167,0.3121120924605066

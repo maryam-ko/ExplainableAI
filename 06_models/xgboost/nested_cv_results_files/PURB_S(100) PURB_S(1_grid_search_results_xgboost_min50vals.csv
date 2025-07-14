@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PURB_S(100) PURB_S(101) PURB_S(113) PURB_S(23) PURB_S(298) PURB_S(304) PURB_S(6) PURB_S(747) PURB_S(8),1.0,0.5,4,5,8,0.8,0.057965964897554074,0.38256585046026587

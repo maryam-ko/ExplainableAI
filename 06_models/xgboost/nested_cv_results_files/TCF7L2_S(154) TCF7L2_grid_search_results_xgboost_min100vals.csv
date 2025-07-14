@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCF7L2_S(154) TCF7L2_S(156) TCF7L2_S(177) TCF7L2_S(179) TCF7L2_S(31) TCF7L2_S(35) TCF7L2_S(60) TCF7L2_S(79) TCF7L2_S(82),1.0,0.5,3,1,6,1.0,0.01683008667674601,0.4020291644240676

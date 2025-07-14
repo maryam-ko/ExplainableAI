@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRDN_S(415) TRDN_S(553) TRDN_S(610) TRDN_T(324) TRDN_T(327) TRDN_T(383),0.8,0.5,4,1,6,1.0,0.030729285387061905,0.1874310757964462

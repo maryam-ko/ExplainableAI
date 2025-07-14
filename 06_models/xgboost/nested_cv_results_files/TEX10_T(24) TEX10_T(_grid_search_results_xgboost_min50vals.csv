@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TEX10_T(24) TEX10_T(29) TEX10_T(32) TEX10_T(49),1.0,0.5,3,5,8,1.0,0.03532722489588191,0.3835188176392773

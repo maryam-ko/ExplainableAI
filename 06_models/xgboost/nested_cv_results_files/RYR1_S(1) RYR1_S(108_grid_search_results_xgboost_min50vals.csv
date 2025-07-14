@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RYR1_S(1) RYR1_S(1084) RYR1_S(2) RYR1_S(2753) RYR1_S(2843) RYR1_S(3) RYR1_S(3566) RYR1_S(4) RYR1_S(5) RYR1_S(6) RYR1_S(7) RYR1_S(8) RYR1_T(1360) RYR1_T(4518) RYR1_T(7) RYR1_Y(1) RYR1_Y(2849) RYR1_Y(3),0.6,0.5,4,1,8,1.0,0.02251441443235299,0.12327268531976629

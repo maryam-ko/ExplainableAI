@@ -34,7 +34,7 @@ def parse_arguments():
     """Parse command line arguments for the script."""
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=50, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
     parser.add_argument('--matrix_col_index', type=int_or_str, help='Column in clustered matrix to perform XGBoost on.')
 
     return parser.parse_args()
@@ -53,7 +53,8 @@ def perform_nested_cross_validation(X, y, model, param_grid):
 
     # split data fives times for outer cross-validation
     global_shap_df = []
-    r2_scores = []
+    all_shap_df = []
+    all_r2_scores = []
 
     for outer_fold_idx, (train_idx, test_idx) in enumerate(outer_cv.split(X)):
         X_train, X_test = X.iloc[train_idx], X.iloc[test_idx]
@@ -71,10 +72,10 @@ def perform_nested_cross_validation(X, y, model, param_grid):
         neg_mse = -grid_search_result.cv_results_['mean_test_score']
         mean_mse = np.mean(neg_mse)
 
-        y_pred = best_model.predict(X_test)
+        # y_pred = best_model.predict(X_test)
 
-        r2 = r2_score(y_test, y_pred)
-        r2_scores.append(r2)
+        # r2 = r2_score(y_test, y_pred)
+        # r2_scores.append(r2)
         
         def model_predict(X):
             return best_model.predict(X) 
@@ -82,31 +83,58 @@ def perform_nested_cross_validation(X, y, model, param_grid):
 
         shap_inner_cv = KFold(n_splits=10, shuffle=True, random_state=42)
         shapley_arrays = []
+        inner_r2_scores = []
 
         for inner_fold_idx, (shap_train_idx, shap_test_idx) in enumerate(shap_inner_cv.split(X_test)):
             X_shap_test = X_test.iloc[shap_test_idx]
+            y_shap_test = y_test[shap_test_idx]
             # one shap value per feature per each of the 10 folds
             shap_values = explainer.shap_values(X_shap_test)
+            mean_shap_values = np.mean(shap_values, axis=0)
             # print(shap_values)
-            shapley_arrays.append(shap_values)
+            shapley_arrays.append(mean_shap_values)
+
+            y_shap_pred = best_model.predict(X_shap_test)
+            r2_inner = r2_score(y_shap_test, y_shap_pred)
+            inner_r2_scores.append(r2_inner)
+
+        all_r2_scores.append(inner_r2_scores)
+        r2_scores_flat = [score for fold_scores in all_r2_scores for score in fold_scores]
+        r2_scores_df = pd.DataFrame(r2_scores_flat, columns=['r2_score'])
         
-        concatenated_array = np.concatenate(shapley_arrays, axis=0)
+        # concatenated_array = np.concatenate(shapley_arrays, axis=0)
         # print(f"concatenated_array: {concatenated_array}")
-        shaps_df = pd.DataFrame(concatenated_array, columns=X.columns.tolist())
-        # print(f"shaps_df: {shaps_df}")
+        shaps_df = pd.DataFrame(shapley_arrays, columns=X.columns.tolist())
+        all_shap_df.append(shaps_df)
+
         local_global_values_df = shaps_df.median().to_frame().T
-        # local_global_values_df.columns = cropped_fscores['PredictiveFeature'].tolist()
         local_global_values_df.columns = X.columns.tolist()
-        # print(f"local_global_values_df: {local_global_values_df}")
         global_shap_df.append(local_global_values_df)
+        # print(f"shaps_df: {shaps_df}")
+        # local_global_values_df = shaps_df.median().to_frame().T
+        # # local_global_values_df.columns = cropped_fscores['PredictiveFeature'].tolist()
+        # local_global_values_df.columns = X.columns.tolist()
+        # # print(f"local_global_values_df: {local_global_values_df}")
+        # global_shap_df.append(local_global_values_df)
         # print(f"global_shap_df: {global_shap_df}")
 
-    global_shap_df = pd.concat(global_shap_df, ignore_index=True)
-    # print(f"global_shap_df before median: {global_shap_df}")
-    global_shap_df = global_shap_df.median().to_frame().T
-    # print(f"global_shap_df after median: {global_shap_df}")
+    all_shap_df = pd.concat(all_shap_df, ignore_index=True)
+    all_shap_df['r2'] = r2_scores_df.values
 
-    return grid_search_result, best_params, mean_mse, global_shap_df, r2_scores
+    all_shap_df = all_shap_df.loc[:, ~(all_shap_df == 0).all(axis=0)]
+    global_shap_df = pd.concat(global_shap_df, ignore_index=True)
+    global_shap_df = global_shap_df.loc[:, ~(global_shap_df == 0).all(axis=0)]
+    global_shap_df = global_shap_df.median().to_frame().T
+ 
+    return grid_search_result, best_params, mean_mse, all_shap_df, global_shap_df, r2_scores_df
+ 
+
+    # global_shap_df = pd.concat(global_shap_df, ignore_index=True)
+    # # print(f"global_shap_df before median: {global_shap_df}")
+    # global_shap_df = global_shap_df.median().to_frame().T
+    # # print(f"global_shap_df after median: {global_shap_df}")
+
+    # return grid_search_result, best_params, mean_mse, global_shap_df, r2_scores
     
 
 # ----------------- #
@@ -120,11 +148,9 @@ if __name__ == '__main__':
         base_dir=args.base_dir,
         threshold=args.threshold
     )
-    # clust_matrix.to_csv("/data/home/bt24990/ExplainableAI/clust_matrix.csv", index=False) # contains the FBP1_T(13) FBP1_T(18) column
 
     print("Removing columns not in both clustered matrix and fisher scores...")
     clust_matrix, fisher_score_dfs = mlfuncs.remove_cols_not_in_both(clust_matrix, fisher_score_dfs)
-    # clust_matrix.to_csv("/data/home/bt24990/ExplainableAI/clust_matrix_filtered.csv", index=False) # doesn't contain FBP1_T(13) FBP1_T(18) column
 
     print("Selecting cluster to be target feature for prediction...")
     current_cluster = mlfuncs.choose_all_or_one_cluster(
@@ -156,19 +182,38 @@ if __name__ == '__main__':
 
     print("Performing nested cross-validation...")
     model = XGBRegressor()
-    grid_search_result, best_params, mean_score, global_shap_df, r2_scores = perform_nested_cross_validation(
+    grid_search_result, best_params, mean_score, all_shap_df, global_shap_df, r2_scores = perform_nested_cross_validation(
         X, y, model, param_grid
     )
-    shap_file = f"{truncated_target_feature}_global_shaps_min{args.threshold}vals.csv"
-    global_shap_df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_global_shaps/{shap_file}", index=False)
-    print("R² scores for each outer fold:", r2_scores)
     print("Mean R2 score across outer folds:", np.mean(r2_scores))
 
+    # all_shaps_file = f"test_{truncated_target_feature}_shaps_before_medians_min{args.threshold}vals.csv"
+    # print(f"Saving all SHAPs per feature to {all_shaps_file}...")
+    # all_shap_df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/xgboost/shaps_before_medians/{all_shaps_file}", index=False)
+    # print(all_shap_df)
+    
+    shap_file = f"{truncated_target_feature}_global_shaps_min{args.threshold}vals.csv"
+    print(f"Saving SHAPs to {shap_file}...")
+    global_shap_df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/xgboost/global_shaps/{shap_file}", index=False)
+    print(global_shap_df)
+ 
     results_file = f"{truncated_target_feature}_grid_search_results_xgboost_min{args.threshold}vals.csv"
     print(f"Saving results to {results_file}...")
     results_df = pd.DataFrame(columns=['TargetFeature'] + list(grid_search_result.cv_results_['params'][0].keys()) + ['mean_mse'] + ['mean_r2'])
     results_df.loc[len(results_df)] = [target_feature] + list(best_params.values()) + [mean_score] + [np.mean(r2_scores)]
-    results_df.to_csv(f'/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_results_files/{results_file}', index=False)
+    results_df.to_csv(f'/data/home/bt24990/ExplainableAI/06_models/xgboost/results_files/{results_file}', index=False)
     print(results_df)
+ 
+    # shap_file = f"{truncated_target_feature}_global_shaps_min{args.threshold}vals.csv"
+    # global_shap_df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_global_shaps/{shap_file}", index=False)
+    # print("R² scores for each outer fold:", r2_scores)
+    # print("Mean R2 score across outer folds:", np.mean(r2_scores))
+
+    # results_file = f"{truncated_target_feature}_grid_search_results_xgboost_min{args.threshold}vals.csv"
+    # print(f"Saving results to {results_file}...")
+    # results_df = pd.DataFrame(columns=['TargetFeature'] + list(grid_search_result.cv_results_['params'][0].keys()) + ['mean_mse'] + ['mean_r2'])
+    # results_df.loc[len(results_df)] = [target_feature] + list(best_params.values()) + [mean_score] + [np.mean(r2_scores)]
+    # results_df.to_csv(f'/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_results_files/{results_file}', index=False)
+    # print(results_df)
 
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')

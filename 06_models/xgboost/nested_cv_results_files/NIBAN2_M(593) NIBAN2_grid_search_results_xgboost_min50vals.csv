@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NIBAN2_M(593) NIBAN2_S(574) NIBAN2_S(601) NIBAN2_S(625) NIBAN2_S(628) NIBAN2_S(665) NIBAN2_S(679) NIBAN2_S(683) NIBAN2_S(692) NIBAN2_S(696) NIBAN2_S(725) NIBAN2_Y(593),1.0,0.5,4,1,8,1.0,0.05484589980229245,0.5975948490651257

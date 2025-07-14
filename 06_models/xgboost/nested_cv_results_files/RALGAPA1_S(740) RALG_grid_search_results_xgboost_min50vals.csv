@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RALGAPA1_S(740) RALGAPA1_S(857) RALGAPA1_S(859) RALGAPA1_S(907) RALGAPA1_T(778),1.0,0.5,4,1,4,1.0,0.029813044686035368,0.3156790089436895

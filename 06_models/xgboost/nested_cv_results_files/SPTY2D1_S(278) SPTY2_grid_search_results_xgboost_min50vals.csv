@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPTY2D1_S(278) SPTY2D1_S(321) SPTY2D1_S(470) SPTY2D1_S(471) SPTY2D1_S(507) SPTY2D1_Y(23),0.8,0.5,3,10,8,0.8,0.01280624491573086,0.330030454274773

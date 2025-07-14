@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPARGC1B_S(379) PPARGC1B_S(384) PPARGC1B_S(524) PPARGC1B_S(992),0.6,0.5,1,1,4,0.6,0.013717948927551562,-0.008488767504076743

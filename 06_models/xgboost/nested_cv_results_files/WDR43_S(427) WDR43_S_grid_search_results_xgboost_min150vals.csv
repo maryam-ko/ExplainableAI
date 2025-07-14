@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR43_S(427) WDR43_S(431) WDR43_S(437) WDR43_S(586) WDR43_S(590) WDR43_S(6) WDR43_S(658) WDR43_S(674) WDR43_S(77) WDR43_S(85) WDR43_T(308) WDR43_T(321) WDR43_T(394) WDR43_T(646) WDR43_T(656) WDR43_T(8),0.8,0.5,4,1,8,1.0,0.029411934374127174,0.7631034173090193

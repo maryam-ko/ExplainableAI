@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS28_S(23) RPS28_S(3) RPS28_T(3),1.0,0.5,4,1,8,1.0,0.0347811638648451,0.24715724155883723

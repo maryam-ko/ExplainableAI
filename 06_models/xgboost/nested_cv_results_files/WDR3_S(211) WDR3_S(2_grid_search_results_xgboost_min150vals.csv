@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR3_S(211) WDR3_S(240) WDR3_S(241) WDR3_S(373) WDR3_S(719) WDR3_S(726) WDR3_S(923) WDR3_T(102) WDR3_T(247) WDR3_T(257) WDR3_Y(767),1.0,0.5,4,5,8,1.0,0.042997040824451584,0.4882495290576304

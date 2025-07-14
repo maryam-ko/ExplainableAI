@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS19BP1_S(84) RPS19BP1_S(89) RPS19BP1_T(119),0.6,0.5,2,1,8,1.0,0.010504717463325628,0.27149660586597013

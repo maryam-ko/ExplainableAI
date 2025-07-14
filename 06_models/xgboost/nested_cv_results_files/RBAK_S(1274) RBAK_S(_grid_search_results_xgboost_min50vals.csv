@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBAK_S(1274) RBAK_S(368) RBAK_S(618) RBAK_S(646) RBAK_S(78),0.6,0.5,1,1,6,0.6,0.017131151565251926,-0.009729030877374978

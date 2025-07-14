@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPA2_S(151) PPA2_S(299) PPA2_S(300) PPA2_S(308) PPA2_S(316) PPA2_S(317),0.6,0.5,4,5,8,1.0,0.04836305404693488,0.48382171308696825

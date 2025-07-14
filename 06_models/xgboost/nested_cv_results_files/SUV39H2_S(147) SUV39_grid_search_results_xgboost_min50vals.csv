@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUV39H2_S(147) SUV39H2_Y(51) SUV39H2_Y(63) SUV39H2_Y(64),1.0,0.5,2,1,8,0.6,0.016401678954945736,0.14818298291796675

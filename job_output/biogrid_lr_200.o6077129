@@ -1,0 +1,78 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Formatting reference and prediction data for all models and thresholds...
+Loading reference data...
+Reference dataframe:          Feature TargetFeature
+0         MAP2K4          FLNC
+1           MYPN         ACTN2
+2          ACVR1          FNTA
+3          GATA2           PML
+4           RPA2         STAT3
+...          ...           ...
+1287954  RASGRF1         STIP1
+1287955     CHD3         STIP1
+1287956     UBR5         STIP1
+1287957    HIPK2         STIP1
+1287972   SFMBT2           QKI
+
+[1932539 rows x 2 columns]
+Loading and processing prediction data...
+Creating dictionaries of predictions and reference dataframes...
+Predicted dataframe (linear_regression, 200):        Feature TargetFeature  MedianCoeff
+0       ABLIM1          AAAS     0.082846
+1       AHNAK2          AAAS     0.208868
+2       ARPP19          AAAS    -0.020946
+3         BAG3          AAAS     0.223407
+4         BRD8          AAAS     0.281704
+...        ...           ...          ...
+141167   TCOF1          ZZZ3    -0.032609
+141168    TJP1          ZZZ3    -0.015812
+141169    TNS1          ZZZ3    -0.038738
+141170    TNS2          ZZZ3    -0.075070
+141171  TRIM28          ZZZ3     0.033100
+
+[135385 rows x 3 columns]
+Number of common proteins: 2967
+Predictions dictionary: {'linear_regression': {200:        Feature TargetFeature  NormalisedCoeffOrSHAP
+0       ABLIM1          AAAS               0.562812
+1       AHNAK2          AAAS               0.696855
+2       ARPP19          AAAS               0.452414
+3         BAG3          AAAS               0.712320
+4         BRD8          AAAS               0.774326
+...        ...           ...                    ...
+141166   SRRM2          ZZZ3               0.420773
+141167   TCOF1          ZZZ3               0.440009
+141168    TJP1          ZZZ3               0.457875
+141169    TNS1          ZZZ3               0.433490
+141171  TRIM28          ZZZ3               0.509900
+
+[123170 rows x 3 columns]}}
+Evaluating interactions conserved across all models and thresholds...
+current_interactions: 123170
+common_interactions: 123170
+Filtered for all:        Feature TargetFeature  NormalisedCoeffOrSHAP
+0         SVIL           ZFR               0.620346
+1         IRS2         ASAP1               0.564306
+2          CA2         OTUD5               0.467407
+3        PCBP1         SRRM2               0.467671
+4        TCOF1       CSNK1A1               0.387372
+...        ...           ...                    ...
+123165    IMMT         VPS4B               0.416499
+123166    PPIG        FAM53C               0.485798
+123167    FLNA          FLI1               0.469046
+123168   KMT2D       PPP1R35               0.167679
+123169     NES        ANAPC1               0.634703
+
+[123170 rows x 3 columns]
+merged_df:   Feature TargetFeature  NormalisedCoeffOrSHAP     _merge
+0    SVIL           ZFR               0.620346  left_only
+1    IRS2         ASAP1               0.564306  left_only
+2     CA2         OTUD5               0.467407  left_only
+3   PCBP1         SRRM2               0.467671  left_only
+4   TCOF1       CSNK1A1               0.387372  left_only
+y_true: [0, 0, 0, 0, 0]
+y_scores: [0.6203455439729043, 0.5643059403502906, 0.46740657378572303, 0.4676711473050351, 0.3873722589342258]
+Positive vs negative examples (linear_regression, 200): 5312 vs 117858
+Execution time: 23.98 seconds, 0.40 minutes, 0.01 hours.

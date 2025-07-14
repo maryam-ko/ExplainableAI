@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM23_S(104) RBM23_S(127) RBM23_S(128) RBM23_S(140) RBM23_S(142) RBM23_S(146) RBM23_S(148) RBM23_S(149) RBM23_S(224) RBM23_S(64),1.0,0.5,4,1,8,1.0,0.02933398800893409,0.74567789157734

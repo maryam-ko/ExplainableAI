@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTRN_S(1486) UTRN_S(2210) UTRN_S(2211) UTRN_S(2213) UTRN_S(881) UTRN_T(2222) UTRN_T(2649),1.0,0.5,4,1,4,0.8,0.011115328036183307,0.3143254395192153

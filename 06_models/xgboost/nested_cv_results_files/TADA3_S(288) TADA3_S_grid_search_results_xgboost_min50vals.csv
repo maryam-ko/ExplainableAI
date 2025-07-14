@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TADA3_S(288) TADA3_S(298) TADA3_T(9),0.6,0.5,2,1,4,0.8,0.01501670582890239,0.10777412848536563

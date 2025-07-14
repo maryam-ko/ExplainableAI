@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPF4_S(185) PRPF4_S(240) PRPF4_S(483),1.0,0.5,2,1,8,0.8,0.011394081808276233,0.2677583958825639

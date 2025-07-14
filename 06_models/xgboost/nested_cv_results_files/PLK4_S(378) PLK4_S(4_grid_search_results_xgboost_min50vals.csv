@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLK4_S(378) PLK4_S(421) PLK4_S(665),0.6,0.5,4,1,6,1.0,0.016048284765437133,0.30552172337509037

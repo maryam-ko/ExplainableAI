@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRUNE2_S(1846) PRUNE2_S(2097) PRUNE2_S(2099) PRUNE2_S(2102) PRUNE2_S(2181) PRUNE2_S(2185) PRUNE2_S(597) PRUNE2_S(737) PRUNE2_T(2871),1.0,0.5,4,10,6,1.0,0.012124530189529114,0.15966840452026004

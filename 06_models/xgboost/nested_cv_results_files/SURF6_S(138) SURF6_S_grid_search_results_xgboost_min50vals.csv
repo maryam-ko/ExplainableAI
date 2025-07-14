@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SURF6_S(138) SURF6_S(202) SURF6_S(206) SURF6_S(74) SURF6_T(184) SURF6_T(229),1.0,0.5,4,1,6,1.0,0.052148382931130007,0.3076860962790283

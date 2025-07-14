@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SP4_S(126) SP4_S(136) SP4_S(43) SP4_S(46) SP4_S(55) SP4_S(757) SP4_S(767) SP4_S(770) SP4_T(138) SP4_T(774),1.0,0.5,4,1,6,1.0,0.03481376196496508,0.41372899552937437

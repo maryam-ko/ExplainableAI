@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POC5_S(104) POC5_S(105) POC5_S(109) POC5_S(2) POC5_S(3) POC5_S(512) POC5_S(53) POC5_S(79) POC5_S(80) POC5_S(84),0.6,0.5,2,1,8,1.0,0.017306557121427552,0.1934707986157294

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DHCR7_S(13) DHCR7_S(14) DHCR7_S(25) DHCR7_S(5),0.6,0.5,4,1,8,1.0,0.04825155401446683,0.30314234873809165

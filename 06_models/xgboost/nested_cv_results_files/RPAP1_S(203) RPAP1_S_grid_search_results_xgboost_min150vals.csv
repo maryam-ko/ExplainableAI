@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPAP1_S(203) RPAP1_S(266) RPAP1_S(603) RPAP1_S(72) RPAP1_S(80) RPAP1_S(84) RPAP1_T(187) RPAP1_T(321),0.6,0.5,4,5,8,1.0,0.019407353660680155,0.702720427330497

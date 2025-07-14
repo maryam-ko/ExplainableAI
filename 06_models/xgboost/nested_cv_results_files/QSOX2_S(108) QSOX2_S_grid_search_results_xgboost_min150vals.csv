@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+QSOX2_S(108) QSOX2_S(25) QSOX2_S(3) QSOX2_S(578),0.8,0.5,3,10,6,1.0,0.02975401348172269,0.2640622223452084

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPLP2_S(102) RPLP2_S(104) RPLP2_S(105) RPLP2_S(16) RPLP2_S(17) RPLP2_S(61) RPLP2_S(64) RPLP2_S(74) RPLP2_S(79) RPLP2_S(86),1.0,0.5,4,1,8,1.0,0.06175855027600059,0.42829078898435424

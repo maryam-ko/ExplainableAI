@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RC3H2_S(1119) RC3H2_S(354) RC3H2_S(870) RC3H2_S(983) RC3H2_T(358),0.6,0.5,3,1,8,0.8,0.02312918098267553,0.10599388023172174

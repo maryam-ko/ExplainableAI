@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMG8_S(386) SMG8_S(469) SMG8_S(656) SMG8_S(664) SMG8_S(668) SMG8_S(742) SMG8_S(755) SMG8_T(471) SMG8_T(657) SMG8_T(755) SMG8_Y(755),0.8,0.5,4,10,8,1.0,0.0182020125713235,0.7412609228866207

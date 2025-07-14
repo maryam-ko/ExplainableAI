@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGIP1_S(169) SGIP1_S(173) SGIP1_S(174) SGIP1_S(300) SGIP1_S(493) SGIP1_T(180) SGIP1_T(184) SGIP1_T(186) SGIP1_T(263),1.0,0.5,2,1,8,0.8,0.011128313755279036,0.03861145554216729

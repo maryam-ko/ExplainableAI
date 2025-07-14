@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PYM1_S(116) PYM1_S(64) PYM1_T(112) PYM1_T(25) PYM1_T(68) PYM1_Y(44) PYM1_Y(45),1.0,0.5,2,1,8,1.0,0.026387083775295524,0.16755251312255168

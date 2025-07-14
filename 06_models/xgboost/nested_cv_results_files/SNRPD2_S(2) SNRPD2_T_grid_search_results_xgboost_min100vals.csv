@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRPD2_S(2) SNRPD2_T(12) SNRPD2_T(2) SNRPD2_T(8),0.8,0.5,4,5,8,1.0,0.040378963603378705,0.46787903107410556

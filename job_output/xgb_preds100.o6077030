@@ -1,0 +1,54 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+/data/home/bt24990/ExplainableAI/funcs/plots.py:103: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['LogSHAPValue'] = pd.to_numeric(df['LogSHAPValue'], errors='coerce')
+Selecting MAPERK proteins...
+Protein level xgboost predictions:        Feature TargetFeature  SHAPValue  LogSHAPValue
+0          TTN       ZKSCAN8   0.003975     -5.527824
+1        BAZ2A       ZKSCAN8   0.006837     -4.985466
+2        EIF4B       ZKSCAN8   0.006431     -5.046681
+3         BRD8       ZKSCAN8   0.002769     -5.889226
+4        MKI67       ZKSCAN8   0.003484     -5.659619
+...        ...           ...        ...           ...
+46377    PALMD         PYGO2   0.002037     -6.196199
+46378   RALBP1         PYGO2   0.005205     -5.258172
+46379  EPS15L1         PYGO2   0.006296     -5.067873
+46380     BAG3         PYGO2   0.001071     -6.839622
+46381    EIF4B         PYGO2   0.007965     -4.832707
+
+[46382 rows x 4 columns]
+Subset xgboost predictions:       Feature TargetFeature  SHAPValue  LogSHAPValue
+2291      NEB         MAPK3   0.007279     -4.922723
+2292      TTN         MAPK3   0.017014     -4.073701
+2293   SAMM50         MAPK3   0.004080     -5.501593
+2294     LMO7         MAPK3   0.007380     -4.909002
+2295    CMYA5         MAPK3   0.004310     -5.446929
+...       ...           ...        ...           ...
+45079  AHCTF1          SOS2   0.001827     -6.304903
+45080   CDK12          SOS2   0.007709     -4.865376
+45081    ADAR          SOS2   0.001389     -6.579321
+45082  RSL1D1          SOS2   0.000926     -6.984282
+45577    BRAF        MAP4K3   0.004093     -5.498528
+
+[271 rows x 4 columns]
+Absolute SHAP values: 2291     4.922723
+2292     4.073701
+2293     5.501593
+2294     4.909002
+2295     5.446929
+           ...   
+45079    6.304903
+45080    4.865376
+45081    6.579321
+45082    6.984282
+45577    5.498528
+Name: LogSHAPValue, Length: 271, dtype: float64
+Strong boundary: -3.0071900146655284, Medium: -3.1921390860636514, Weak: -3.3420840600178545
+Predicted network graph saved!
+Execution time: 4.40 seconds, 0.07 minutes, 0.00 hours.

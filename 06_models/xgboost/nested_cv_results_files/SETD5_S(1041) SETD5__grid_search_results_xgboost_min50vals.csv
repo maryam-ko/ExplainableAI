@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SETD5_S(1041) SETD5_S(1125) SETD5_S(145) SETD5_S(191) SETD5_S(852) SETD5_S(865) SETD5_T(864),1.0,0.5,2,10,8,1.0,0.012585085713081133,0.09096230975477178

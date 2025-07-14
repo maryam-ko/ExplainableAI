@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB27A_S(198) RAB27A_S(203) RAB27A_S(206) RAB27A_S(211) RAB27A_S(83) RAB27A_T(200),1.0,0.5,4,5,8,1.0,0.023193768901295077,0.5503801129264082

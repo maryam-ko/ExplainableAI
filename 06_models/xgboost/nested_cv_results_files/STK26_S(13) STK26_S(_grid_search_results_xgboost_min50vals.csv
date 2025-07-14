@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK26_S(13) STK26_S(246) STK26_S(300) STK26_S(304) STK26_S(322) STK26_S(325) STK26_S(326) STK26_S(328) STK26_S(331) STK26_S(367) STK26_S(4) STK26_S(415) STK26_T(172) STK26_T(178) STK26_T(327),1.0,0.5,4,1,8,1.0,0.03863180535974598,0.48880200544032365

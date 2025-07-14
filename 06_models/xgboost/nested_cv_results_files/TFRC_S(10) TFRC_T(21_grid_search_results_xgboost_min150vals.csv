@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFRC_S(10) TFRC_T(21) TFRC_T(52) TFRC_Y(20),1.0,0.5,4,5,8,0.8,0.03038980272387543,0.29011122865010375

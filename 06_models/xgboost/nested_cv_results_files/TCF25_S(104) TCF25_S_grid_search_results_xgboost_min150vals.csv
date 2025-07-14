@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCF25_S(104) TCF25_S(143) TCF25_S(602) TCF25_S(605) TCF25_T(106) TCF25_T(111),0.6,0.5,4,10,8,1.0,0.019495525458931108,0.593362912413619

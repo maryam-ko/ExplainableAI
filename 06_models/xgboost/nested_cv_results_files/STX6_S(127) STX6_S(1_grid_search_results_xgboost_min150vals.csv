@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STX6_S(127) STX6_S(129) STX6_S(152) STX6_S(2),1.0,0.5,4,10,8,1.0,0.0356606839243699,0.4267828243229639

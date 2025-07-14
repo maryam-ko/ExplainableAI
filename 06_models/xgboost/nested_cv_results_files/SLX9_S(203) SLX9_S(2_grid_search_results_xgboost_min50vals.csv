@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLX9_S(203) SLX9_S(209) SLX9_S(73) SLX9_S(76) SLX9_T(19),0.8,0.5,2,1,8,1.0,0.008151585537317037,0.27960278680302975

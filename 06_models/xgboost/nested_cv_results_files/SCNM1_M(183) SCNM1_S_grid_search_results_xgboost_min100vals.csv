@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCNM1_M(183) SCNM1_S(144) SCNM1_S(148) SCNM1_S(183) SCNM1_S(2),0.8,0.5,4,1,6,1.0,0.021889748263129966,0.44010220052951643

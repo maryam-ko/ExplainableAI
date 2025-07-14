@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UVSSA_S(240) UVSSA_S(281) UVSSA_S(287),1.0,0.5,3,1,8,0.6,0.01705518125448798,0.034591866592611334

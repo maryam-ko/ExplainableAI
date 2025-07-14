@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TJAP1_S(166) TJAP1_S(214) TJAP1_S(290) TJAP1_S(310) TJAP1_S(320) TJAP1_S(335) TJAP1_S(350) TJAP1_S(357) TJAP1_S(470) TJAP1_S(535) TJAP1_S(542) TJAP1_T(308) TJAP1_T(318) TJAP1_T(547) TJAP1_T(6),1.0,0.5,4,1,8,1.0,0.024093781008879395,0.6518093285817066

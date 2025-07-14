@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SQOR_S(343) SQOR_T(342),0.6,0.5,1,1,6,0.6,0.013370046787148955,-0.004355133444513948

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLEKHA3_S(107) PLEKHA3_S(211) PLEKHA3_S(215) PLEKHA3_S(216) PLEKHA3_S(289) PLEKHA3_Y(263),1.0,0.5,4,10,8,1.0,0.02885022922282327,0.2739798015338873

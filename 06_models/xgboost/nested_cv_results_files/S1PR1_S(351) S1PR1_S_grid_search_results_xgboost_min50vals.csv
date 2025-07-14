@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+S1PR1_S(351) S1PR1_S(353) S1PR1_S(355),1.0,0.5,1,5,8,1.0,0.019828322306202052,0.20797957971941278

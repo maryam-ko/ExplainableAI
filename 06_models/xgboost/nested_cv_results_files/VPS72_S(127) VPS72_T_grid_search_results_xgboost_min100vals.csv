@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS72_S(127) VPS72_T(103),1.0,0.5,4,1,8,0.8,0.021270610043316183,0.1843558505373022

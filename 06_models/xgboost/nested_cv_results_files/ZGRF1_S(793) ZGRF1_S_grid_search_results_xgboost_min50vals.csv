@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZGRF1_S(793) ZGRF1_S(864) ZGRF1_S(877),0.6,0.5,2,1,8,1.0,0.011983166307305919,0.25465415069857233

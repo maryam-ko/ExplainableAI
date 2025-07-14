@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMAGP_S(77) SMAGP_S(90) SMAGP_Y(88),1.0,0.5,2,1,8,0.8,0.02119093663663155,0.17775159334027152

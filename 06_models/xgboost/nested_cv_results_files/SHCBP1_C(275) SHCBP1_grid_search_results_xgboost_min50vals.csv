@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SHCBP1_C(275) SHCBP1_S(42) SHCBP1_S(47),1.0,0.5,2,1,8,1.0,0.027494258732304325,0.19766433499889038

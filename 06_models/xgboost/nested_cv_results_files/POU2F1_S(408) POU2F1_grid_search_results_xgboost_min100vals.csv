@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POU2F1_S(408) POU2F1_S(448) POU2F1_T(410),1.0,0.5,4,1,8,1.0,0.03743641286449928,0.8081477239481503

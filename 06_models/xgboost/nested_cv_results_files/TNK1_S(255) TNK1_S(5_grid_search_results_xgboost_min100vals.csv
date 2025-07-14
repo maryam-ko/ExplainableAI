@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNK1_S(255) TNK1_S(502) TNK1_S(519) TNK1_S(94) TNK1_S(96) TNK1_T(514),1.0,0.5,2,10,8,0.8,0.02079621670126536,0.2907871713015378

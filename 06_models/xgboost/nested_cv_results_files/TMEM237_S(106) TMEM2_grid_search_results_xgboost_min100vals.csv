@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM237_S(106) TMEM237_S(47) TMEM237_S(49) TMEM237_S(59) TMEM237_S(62) TMEM237_S(86) TMEM237_S(89) TMEM237_S(96) TMEM237_S(97) TMEM237_T(56),1.0,0.5,3,10,8,1.0,0.028808358147800528,0.5727002464642637

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RARA_C(445) RARA_C(447) RARA_S(346) RARA_S(444) RARA_S(445),0.6,0.5,2,1,8,0.8,0.012283723875159025,0.2811358431554177

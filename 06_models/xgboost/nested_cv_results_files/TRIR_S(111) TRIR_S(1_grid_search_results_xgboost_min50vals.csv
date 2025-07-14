@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIR_S(111) TRIR_S(114) TRIR_S(39) TRIR_S(50) TRIR_S(64) TRIR_T(112),1.0,0.5,2,10,8,0.8,0.023848989112719213,0.20384231768420963

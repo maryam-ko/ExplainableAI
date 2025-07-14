@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYNJ2_S(1097) SYNJ2_S(1122) SYNJ2_S(1124) SYNJ2_S(1127) SYNJ2_S(1433) SYNJ2_S(1443) SYNJ2_T(1220),1.0,0.5,4,1,8,1.0,0.029247467604387768,0.3910170773883689

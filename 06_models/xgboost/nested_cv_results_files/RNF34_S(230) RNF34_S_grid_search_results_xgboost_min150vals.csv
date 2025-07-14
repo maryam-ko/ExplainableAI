@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF34_S(230) RNF34_S(254) RNF34_S(284) RNF34_S(323) RNF34_S(372),1.0,0.5,4,5,8,1.0,0.01607774967367895,0.595228191035505

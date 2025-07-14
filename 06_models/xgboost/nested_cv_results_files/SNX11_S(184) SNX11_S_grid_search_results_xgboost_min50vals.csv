@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX11_S(184) SNX11_S(186) SNX11_S(190) SNX11_S(192) SNX11_S(246),1.0,0.5,3,5,8,0.6,0.016082765266672214,0.0846467097089676

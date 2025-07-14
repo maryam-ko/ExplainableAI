@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMG7_S(510) SMG7_S(520) SMG7_S(528) SMG7_S(534) SMG7_S(693) SMG7_S(735) SMG7_S(739) SMG7_S(764) SMG7_S(781) SMG7_S(8) SMG7_S(855) SMG7_S(897) SMG7_T(539) SMG7_T(624),0.8,0.5,4,1,8,1.0,0.034341771837119374,0.495922756881099

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLXNA1_S(1619) PLXNA1_S(7) PLXNA1_T(1615),1.0,0.5,1,1,8,0.8,0.01892125410768864,0.06407220647208862

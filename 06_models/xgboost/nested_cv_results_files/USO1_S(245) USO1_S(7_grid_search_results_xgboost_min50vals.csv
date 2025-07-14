@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USO1_S(245) USO1_S(728) USO1_S(851) USO1_S(928) USO1_S(963),0.6,0.5,1,1,4,0.8,0.01049504565169954,-0.008590637274113267

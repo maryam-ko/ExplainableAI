@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP1_S(305) USP1_S(313) USP1_S(323) USP1_S(327) USP1_S(331) USP1_S(344) USP1_S(42) USP1_S(467) USP1_S(475) USP1_S(66) USP1_S(67) USP1_S(768) USP1_S(772) USP1_T(529) USP1_T(774),1.0,0.5,4,1,8,1.0,0.036448102045276994,0.6775219723867176

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIP10_S(235) TRIP10_S(25) TRIP10_S(298) TRIP10_S(304) TRIP10_S(335) TRIP10_S(351) TRIP10_S(354) TRIP10_S(502) TRIP10_S(504) TRIP10_S(506) TRIP10_S(72) TRIP10_T(302),1.0,0.5,4,1,8,1.0,0.04226251746673197,0.4559197373211328

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TENT4A_S(157) TENT4A_S(177) TENT4A_S(41) TENT4A_S(52) TENT4A_S(539) TENT4A_S(544) TENT4A_S(771) TENT4A_T(59),0.6,0.5,1,1,8,1.0,0.013504705099699203,0.3067716364878833

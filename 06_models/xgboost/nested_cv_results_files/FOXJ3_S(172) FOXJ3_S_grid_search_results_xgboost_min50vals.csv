@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FOXJ3_S(172) FOXJ3_S(189) FOXJ3_S(210) FOXJ3_S(223) FOXJ3_S(34) FOXJ3_T(65),1.0,0.5,3,1,6,1.0,0.024353916673953223,0.35019241997683215

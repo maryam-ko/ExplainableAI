@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNTA1_S(101) SNTA1_S(12) SNTA1_S(184) SNTA1_S(189) SNTA1_S(193) SNTA1_S(200) SNTA1_S(201) SNTA1_S(216) SNTA1_S(3) SNTA1_T(180),1.0,0.5,4,1,8,1.0,0.029105494312838695,0.5508496807007361

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASSF8_S(1) RASSF8_S(105) RASSF8_S(128) RASSF8_S(129) RASSF8_S(387) RASSF8_T(128) RASSF8_T(131) RASSF8_T(3),1.0,0.5,3,1,8,0.8,0.017893378701396446,0.690194604359968

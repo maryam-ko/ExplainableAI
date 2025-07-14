@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNPEP_S(7),0.8,0.5,4,1,8,1.0,0.04709909079263927,0.26560627937799663

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XRCC6_M(455) XRCC6_S(180) XRCC6_S(27) XRCC6_S(306) XRCC6_S(314) XRCC6_S(324) XRCC6_S(520) XRCC6_S(53) XRCC6_T(455),1.0,0.5,4,5,8,1.0,0.044322770470700844,0.5273647392190146

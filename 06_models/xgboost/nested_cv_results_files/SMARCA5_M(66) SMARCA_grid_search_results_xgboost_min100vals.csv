@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMARCA5_M(66) SMARCA5_S(112) SMARCA5_S(116) SMARCA5_S(31) SMARCA5_S(66) SMARCA5_S(9) SMARCA5_T(112) SMARCA5_T(115) SMARCA5_T(99),1.0,0.5,4,1,8,1.0,0.06186922974768294,0.559045496075192

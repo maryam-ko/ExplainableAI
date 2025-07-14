@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRSF12_S(105) SRSF12_S(136) SRSF12_S(146) SRSF12_S(198) SRSF12_S(199) SRSF12_S(215) SRSF12_S(217) SRSF12_S(219) SRSF12_S(223) SRSF12_S(227),1.0,0.5,3,1,2,1.0,0.01935829930340492,0.17487284318618704

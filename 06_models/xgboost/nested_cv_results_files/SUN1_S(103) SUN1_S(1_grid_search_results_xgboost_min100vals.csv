@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUN1_S(103) SUN1_S(138) SUN1_S(4) SUN1_S(48) SUN1_S(79) SUN1_S(96) SUN1_T(3),1.0,0.5,4,5,8,1.0,0.02437052024147421,0.4034943099358914

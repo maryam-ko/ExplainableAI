@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS26_S(54) RPS26_T(96),0.8,0.5,2,1,8,1.0,0.011111506681873976,0.4144382002414705

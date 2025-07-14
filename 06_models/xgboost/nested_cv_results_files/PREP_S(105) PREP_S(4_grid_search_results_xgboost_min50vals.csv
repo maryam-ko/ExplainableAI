@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PREP_S(105) PREP_S(433) PREP_S(554) PREP_S(667) PREP_Y(658) PREP_Y(71) PREP_Y(86) PREP_Y(88) PREP_Y(90),0.6,0.5,2,1,8,1.0,0.014558372078237026,0.08207524773562506

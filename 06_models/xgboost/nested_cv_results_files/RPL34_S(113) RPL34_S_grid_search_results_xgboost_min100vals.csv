@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL34_S(113) RPL34_S(12) RPL34_S(17) RPL34_S(68) RPL34_T(15) RPL34_T(20),1.0,0.5,4,10,8,1.0,0.038661106062683165,0.5242070544979177

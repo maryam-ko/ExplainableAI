@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLIN3_S(138) PLIN3_S(148) PLIN3_S(175) PLIN3_S(187) PLIN3_S(229) PLIN3_S(243) PLIN3_S(37) PLIN3_T(191) PLIN3_T(216) PLIN3_Y(46),1.0,0.5,4,1,8,1.0,0.019359861878920324,0.3254570609570687

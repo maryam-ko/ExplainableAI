@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB3GAP2_S(450) RAB3GAP2_S(455) RAB3GAP2_S(544) RAB3GAP2_S(627) RAB3GAP2_S(875) RAB3GAP2_S(952) RAB3GAP2_T(1242) RAB3GAP2_T(372),0.8,0.5,4,1,8,1.0,0.0347204297393736,0.22605135873302534

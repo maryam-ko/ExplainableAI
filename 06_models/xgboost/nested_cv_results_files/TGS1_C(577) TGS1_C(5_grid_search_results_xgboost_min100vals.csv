@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TGS1_C(577) TGS1_C(578) TGS1_S(141) TGS1_S(154) TGS1_S(298) TGS1_S(315) TGS1_S(405) TGS1_S(412) TGS1_S(438) TGS1_S(445) TGS1_S(55) TGS1_S(578) TGS1_S(85) TGS1_S(89) TGS1_T(407),0.8,0.5,4,1,8,1.0,0.0349078290772165,0.5030953750437428

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBA52_S(20) UBA52_S(3) UBA52_S(65) UBA52_T(12) UBA52_T(14) UBA52_T(22) UBA52_T(66),1.0,0.5,4,1,8,0.8,0.025022293077123094,0.1379963595532756

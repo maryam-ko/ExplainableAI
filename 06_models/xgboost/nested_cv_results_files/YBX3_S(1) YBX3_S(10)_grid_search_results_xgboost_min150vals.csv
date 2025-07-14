@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YBX3_S(1) YBX3_S(10) YBX3_S(13) YBX3_S(17) YBX3_S(2) YBX3_S(201) YBX3_S(203) YBX3_S(204) YBX3_S(293) YBX3_S(318) YBX3_S(324) YBX3_S(34) YBX3_S(346) YBX3_S(369) YBX3_S(370) YBX3_S(38) YBX3_S(79) YBX3_S(9) YBX3_T(18) YBX3_T(20) YBX3_T(3) YBX3_T(366),1.0,0.5,4,1,8,1.0,0.038439743521914385,0.6957137011349401

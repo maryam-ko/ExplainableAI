@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGPL1_S(118) SGPL1_S(564),1.0,0.5,4,1,8,0.6,0.026493935927246963,0.11678137409242129

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM230_S(24) TMEM230_S(87) TMEM230_T(25),1.0,0.5,4,1,6,1.0,0.034219126942063645,0.3817308292138445

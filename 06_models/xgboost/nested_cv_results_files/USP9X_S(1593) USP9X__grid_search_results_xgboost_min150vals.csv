@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP9X_S(1593) USP9X_S(1600) USP9X_S(1609) USP9X_S(2443) USP9X_S(2448) USP9X_S(2535) USP9X_S(2547) USP9X_S(2559) USP9X_S(2563) USP9X_S(588) USP9X_S(593) USP9X_T(1591) USP9X_Y(2556),0.6,0.5,4,10,8,1.0,0.02606697273643386,0.8129287375411135

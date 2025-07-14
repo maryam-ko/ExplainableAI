@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSAT1_S(331),0.6,0.5,1,1,6,0.6,0.01636804044619319,-0.014326721800891073

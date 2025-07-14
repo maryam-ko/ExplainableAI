@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRPC_C(17) SNRPC_S(17) SNRPC_S(48),0.8,0.5,4,1,8,1.0,0.02909547876774825,0.48995759796161487

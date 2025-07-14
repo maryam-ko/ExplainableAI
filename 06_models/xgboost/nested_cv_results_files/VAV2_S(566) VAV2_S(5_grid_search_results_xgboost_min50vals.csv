@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAV2_S(566) VAV2_S(573) VAV2_S(576) VAV2_S(616) VAV2_S(629) VAV2_S(653) VAV2_T(565) VAV2_Y(142) VAV2_Y(765),0.8,0.5,3,1,6,0.8,0.024047618720206384,0.11519831552065236

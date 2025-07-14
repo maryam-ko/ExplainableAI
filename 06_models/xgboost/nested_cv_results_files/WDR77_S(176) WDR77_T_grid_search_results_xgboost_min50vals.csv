@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR77_S(176) WDR77_T(3) WDR77_T(5),1.0,0.5,4,1,8,1.0,0.04382610289289764,0.40748732115502084

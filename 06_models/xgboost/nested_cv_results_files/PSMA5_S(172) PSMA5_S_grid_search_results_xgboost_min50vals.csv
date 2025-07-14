@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMA5_S(172) PSMA5_S(174) PSMA5_S(53) PSMA5_S(59) PSMA5_S(62) PSMA5_S(63) PSMA5_T(14) PSMA5_Y(26) PSMA5_Y(8),1.0,0.5,2,1,2,1.0,0.022107245812164257,0.10751824657557277

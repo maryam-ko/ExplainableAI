@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUPT7L_C(120) SUPT7L_S(108) SUPT7L_S(132) SUPT7L_S(21) SUPT7L_S(323) SUPT7L_S(327) SUPT7L_S(334),1.0,0.5,4,1,8,1.0,0.021095350309980943,0.5506005059663128

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCL1_S(2) PLCL1_S(3) PLCL1_S(569) PLCL1_S(77) PLCL1_S(92) PLCL1_S(95) PLCL1_S(97) PLCL1_S(98) PLCL1_T(556) PLCL1_T(93),0.8,0.5,3,1,8,0.8,0.04126401607851523,0.02762771485872395

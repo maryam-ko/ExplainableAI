@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCCPDH_S(10) SCCPDH_S(208) SCCPDH_S(217) SCCPDH_S(390) SCCPDH_S(406),1.0,0.5,4,1,6,0.8,0.021438287504975912,0.07387229411533962

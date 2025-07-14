@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM39_S(125) RBM39_S(127) RBM39_S(129) RBM39_S(133) RBM39_S(136) RBM39_S(94) RBM39_S(96) RBM39_S(97) RBM39_T(133),1.0,0.5,4,1,8,1.0,0.04705210176079966,0.783605097972468

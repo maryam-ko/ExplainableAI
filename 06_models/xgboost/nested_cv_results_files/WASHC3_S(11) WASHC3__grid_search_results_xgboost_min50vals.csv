@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WASHC3_S(11) WASHC3_S(186),0.8,0.5,3,1,8,0.8,0.010890798454292786,0.19189892489517255

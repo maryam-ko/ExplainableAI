@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF4_C(95) RNF4_S(101) RNF4_S(450) RNF4_S(90) RNF4_T(112),1.0,0.5,2,1,4,0.6,0.010749803550900954,0.2893625948433668

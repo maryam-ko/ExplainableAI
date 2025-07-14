@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SVIP_C(15) SVIP_S(11) SVIP_S(46) SVIP_T(15),0.6,0.5,3,5,8,0.8,0.0182829781950889,0.30525271858825154

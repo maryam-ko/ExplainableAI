@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCAF8_S(1259) SCAF8_S(273) SCAF8_S(444) SCAF8_S(447) SCAF8_S(609) SCAF8_S(779) SCAF8_T(609) SCAF8_T(614) SCAF8_T(615) SCAF8_Y(1237),1.0,0.5,3,5,8,0.8,0.01761714835535314,0.378992782948152

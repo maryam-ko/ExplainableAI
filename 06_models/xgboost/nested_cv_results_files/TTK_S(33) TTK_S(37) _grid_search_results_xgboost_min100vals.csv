@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTK_S(33) TTK_S(37) TTK_S(382) TTK_S(7) TTK_S(80) TTK_S(821) TTK_T(37) TTK_Y(574),0.6,0.5,4,1,8,1.0,0.016222474936455383,0.30735432855446915

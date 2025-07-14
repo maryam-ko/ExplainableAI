@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SORT1_S(688) SORT1_S(791) SORT1_S(814) SORT1_S(818) SORT1_S(819),0.8,0.5,1,10,8,0.8,0.018089084260223987,0.178401897054131

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS26B_S(302) VPS26B_S(304) VPS26B_S(311) VPS26B_S(319) VPS26B_S(327) VPS26B_T(318) VPS26B_T(325),0.8,0.5,4,5,8,1.0,0.03151922126455282,0.5911810487495778

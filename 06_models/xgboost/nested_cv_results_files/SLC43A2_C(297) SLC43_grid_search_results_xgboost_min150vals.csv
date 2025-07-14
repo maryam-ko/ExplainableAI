@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC43A2_C(297) SLC43A2_S(274) SLC43A2_S(297) SLC43A2_T(293),0.8,0.5,4,1,8,1.0,0.0279858871822774,0.396276433830016

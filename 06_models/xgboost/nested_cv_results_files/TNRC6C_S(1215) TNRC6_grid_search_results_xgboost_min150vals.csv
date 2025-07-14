@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNRC6C_S(1215) TNRC6C_S(1311) TNRC6C_S(3) TNRC6C_S(465) TNRC6C_S(714) TNRC6C_S(790) TNRC6C_S(924) TNRC6C_T(777) TNRC6C_T(987),1.0,0.5,4,5,8,1.0,0.028522914207210138,0.35572451868656274

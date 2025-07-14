@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLEKHH1_S(1160) PLEKHH1_S(263) PLEKHH1_S(324) PLEKHH1_S(566) PLEKHH1_S(628) PLEKHH1_S(638) PLEKHH1_S(869) PLEKHH1_T(320),1.0,0.5,4,1,6,0.8,0.02105442251453874,0.20400435217943116

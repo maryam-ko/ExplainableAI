@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XRN1_S(1348) XRN1_S(1645) XRN1_S(844),0.8,0.5,4,1,8,1.0,0.014537628489190062,0.18695920090488957

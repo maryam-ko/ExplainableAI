@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMARCE1_S(136) SMARCE1_S(244) SMARCE1_S(265) SMARCE1_S(314) SMARCE1_S(317) SMARCE1_S(353),0.8,0.5,3,1,8,0.8,0.02018483940478606,0.28519735548883196

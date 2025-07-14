@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCP1_S(327) TCP1_S(491) TCP1_S(544) TCP1_S(551) TCP1_Y(545),0.8,0.5,4,1,8,1.0,0.03261330032331795,0.6653062937207527

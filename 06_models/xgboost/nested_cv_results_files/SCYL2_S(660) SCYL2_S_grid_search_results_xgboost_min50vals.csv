@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCYL2_S(660) SCYL2_S(674) SCYL2_S(675) SCYL2_S(677) SCYL2_S(857) SCYL2_T(13) SCYL2_T(1378) SCYL2_T(675) SCYL2_T(679) SCYL2_T(708) SCYL2_T(807) SCYL2_T(810),0.8,0.5,4,1,8,1.0,0.04709681743243753,0.25381837932972406

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZMYM6_S(397) ZMYM6_S(43) ZMYM6_S(730),0.8,0.5,3,10,8,0.8,0.009870975546450222,0.2109838182103254

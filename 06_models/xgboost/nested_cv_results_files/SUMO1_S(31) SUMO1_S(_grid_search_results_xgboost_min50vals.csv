@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUMO1_S(31) SUMO1_S(32),1.0,0.5,4,1,8,0.8,0.019465209229877687,0.22755624222108986

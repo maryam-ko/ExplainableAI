@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STARD8_S(17) STARD8_S(235) STARD8_S(240),0.6,0.5,4,1,8,1.0,0.01376298599004435,0.27765638508297397

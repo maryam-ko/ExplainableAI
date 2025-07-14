@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLX4IP_S(130) SLX4IP_S(218) SLX4IP_S(271) SLX4IP_S(282),1.0,0.5,4,1,8,1.0,0.010047142509023476,0.34671429102905427

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLIN5_S(140),0.6,0.5,1,1,8,0.8,0.017698527515139204,0.007145083804113317

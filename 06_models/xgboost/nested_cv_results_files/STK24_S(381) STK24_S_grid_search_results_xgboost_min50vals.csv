@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK24_S(381) STK24_S(441) STK24_T(153) STK24_T(178) STK24_T(190),0.8,0.5,2,1,4,1.0,0.021711012903675466,0.024190783807517824

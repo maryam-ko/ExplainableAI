@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGPP1_S(112),1.0,0.5,4,5,8,1.0,0.05265979375232536,0.5537784590298727

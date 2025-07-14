@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRP1_S(2950) LRP1_S(4518) LRP1_S(4520) LRP1_S(4523) LRP1_S(5) LRP1_T(4460),1.0,0.5,4,1,6,0.8,0.04483304697033823,0.05045902021463104

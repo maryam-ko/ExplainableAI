@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK38_S(264) STK38_S(281) STK38_T(258) STK38_T(282) STK38_T(452) STK38_T(7),1.0,0.5,4,1,8,1.0,0.026271899918297936,0.4481457970822665

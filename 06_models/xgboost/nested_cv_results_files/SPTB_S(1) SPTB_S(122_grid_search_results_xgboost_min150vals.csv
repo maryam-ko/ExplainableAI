@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPTB_S(1) SPTB_S(1226) SPTB_S(1829) SPTB_S(1833) SPTB_S(2114) SPTB_S(2123) SPTB_S(2124) SPTB_S(2125) SPTB_S(2128) SPTB_S(2134) SPTB_S(3) SPTB_S(4) SPTB_S(5) SPTB_S(998) SPTB_T(104) SPTB_T(2113) SPTB_Y(2137),0.6,0.5,4,10,8,1.0,0.03550337551295671,0.41858237719216695

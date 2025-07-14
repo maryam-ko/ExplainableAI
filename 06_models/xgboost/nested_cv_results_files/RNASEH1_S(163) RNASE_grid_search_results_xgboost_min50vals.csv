@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNASEH1_S(163) RNASEH1_S(62) RNASEH1_S(74),1.0,0.5,3,1,8,0.6,0.02595030057622836,0.11327908254113295

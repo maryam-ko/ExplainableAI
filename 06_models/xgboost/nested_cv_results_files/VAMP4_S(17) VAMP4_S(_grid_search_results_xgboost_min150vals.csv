@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAMP4_S(17) VAMP4_S(30) VAMP4_S(42) VAMP4_S(88) VAMP4_S(90) VAMP4_S(92),1.0,0.5,4,1,8,1.0,0.050743111101234174,0.468724779329676

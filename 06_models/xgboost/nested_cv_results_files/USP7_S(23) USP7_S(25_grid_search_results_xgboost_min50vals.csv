@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP7_S(23) USP7_S(25) USP7_T(30),1.0,0.5,2,1,8,1.0,0.020081870109733908,0.2447861439730819

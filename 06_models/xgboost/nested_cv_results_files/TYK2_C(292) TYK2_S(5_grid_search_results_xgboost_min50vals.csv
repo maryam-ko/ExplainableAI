@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TYK2_C(292) TYK2_S(580) TYK2_Y(1054) TYK2_Y(107) TYK2_Y(292),0.6,0.5,3,1,4,1.0,0.03576263966120347,0.1380435621638706

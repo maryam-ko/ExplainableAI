@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR4_S(245) WDR4_S(412) WDR4_T(409),0.8,0.5,2,1,2,1.0,0.006222519276753415,0.35750945603015943

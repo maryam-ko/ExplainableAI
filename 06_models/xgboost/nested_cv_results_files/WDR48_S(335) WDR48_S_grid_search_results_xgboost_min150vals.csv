@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR48_S(335) WDR48_S(575) WDR48_S(611),0.8,0.5,3,1,8,1.0,0.03163493944282784,0.1385316523698789

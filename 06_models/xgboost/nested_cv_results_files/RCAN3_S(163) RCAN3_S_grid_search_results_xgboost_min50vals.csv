@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RCAN3_S(163) RCAN3_S(19) RCAN3_S(203),0.6,0.5,1,1,2,0.6,0.009993585995035475,-0.015366307755595355

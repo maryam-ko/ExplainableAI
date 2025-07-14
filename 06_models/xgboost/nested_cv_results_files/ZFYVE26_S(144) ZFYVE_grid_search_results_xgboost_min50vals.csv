@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFYVE26_S(144) ZFYVE26_S(1742) ZFYVE26_S(613) ZFYVE26_S(703) ZFYVE26_T(1105),0.8,0.5,2,1,8,0.8,0.019494419070047,0.025203404703654942

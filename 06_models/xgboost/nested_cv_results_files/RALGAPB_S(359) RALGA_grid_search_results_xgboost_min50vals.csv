@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RALGAPB_S(359) RALGAPB_S(377) RALGAPB_S(421) RALGAPB_T(367) RALGAPB_T(733),1.0,0.5,4,1,8,0.8,0.03431747058643669,0.236637235717387

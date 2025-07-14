@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKRIP1_S(3) PRKRIP1_S(38),1.0,0.5,3,10,6,0.8,0.026838746851046053,0.059936588418605566

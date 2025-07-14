@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS4B_S(102) VPS4B_S(108) VPS4B_S(385) VPS4B_S(93) VPS4B_S(98),1.0,0.5,4,1,8,1.0,0.05056074766432449,0.47692323643291423

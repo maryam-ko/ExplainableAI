@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THUMPD3_S(138) THUMPD3_S(154) THUMPD3_S(215) THUMPD3_S(216) THUMPD3_T(212),1.0,0.5,3,1,8,0.8,0.018024416788915792,0.15352409614847856

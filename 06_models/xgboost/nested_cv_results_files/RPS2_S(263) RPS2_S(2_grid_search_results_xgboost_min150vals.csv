@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS2_S(263) RPS2_S(264) RPS2_S(281) RPS2_S(6) RPS2_S(77) RPS2_T(232) RPS2_T(278) RPS2_Y(133) RPS2_Y(266),1.0,0.5,4,5,8,1.0,0.03395533642044166,0.7700897267780045

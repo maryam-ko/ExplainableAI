@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZSCAN21_S(157) ZSCAN21_T(136),0.6,0.5,1,1,6,0.8,0.010434624728279556,-0.014537615308498753

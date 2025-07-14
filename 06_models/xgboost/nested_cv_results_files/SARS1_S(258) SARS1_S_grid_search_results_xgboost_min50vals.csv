@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SARS1_S(258) SARS1_S(307) SARS1_S(491),0.8,0.5,1,1,8,1.0,0.014765005686271307,0.056899134621429794

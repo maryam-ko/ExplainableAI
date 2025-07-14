@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TIMM8A_S(92) TIMM8A_S(94) TIMM8A_S(96),1.0,0.5,4,5,8,0.8,0.023661319207346626,0.44842862641496756

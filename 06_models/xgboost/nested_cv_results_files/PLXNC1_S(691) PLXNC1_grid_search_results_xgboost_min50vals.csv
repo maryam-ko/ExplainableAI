@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLXNC1_S(691) PLXNC1_S(978) PLXNC1_T(1163) PLXNC1_T(1264) PLXNC1_Y(1158),0.6,0.5,1,1,4,0.6,0.01348140016937763,-0.002678860156835805

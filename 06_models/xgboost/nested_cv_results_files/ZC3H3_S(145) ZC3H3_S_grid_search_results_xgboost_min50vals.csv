@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZC3H3_S(145) ZC3H3_S(220) ZC3H3_S(412) ZC3H3_S(437) ZC3H3_S(487) ZC3H3_S(593) ZC3H3_S(806) ZC3H3_S(914),0.8,0.5,2,5,8,1.0,0.01112980949587328,0.2025039720425586

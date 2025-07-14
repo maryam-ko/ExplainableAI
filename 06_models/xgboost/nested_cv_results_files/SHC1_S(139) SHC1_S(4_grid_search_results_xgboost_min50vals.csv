@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SHC1_S(139) SHC1_S(426) SHC1_S(453) SHC1_S(80) SHC1_T(276) SHC1_Y(427),1.0,0.5,4,5,8,1.0,0.03182760068244431,0.6023422833479877

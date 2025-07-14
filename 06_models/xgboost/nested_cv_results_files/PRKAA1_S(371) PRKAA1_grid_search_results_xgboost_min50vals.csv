@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKAA1_S(371) PRKAA1_S(493) PRKAA1_S(494) PRKAA1_S(501) PRKAA1_S(524) PRKAA1_S(539) PRKAA1_S(542) PRKAA1_T(382) PRKAA1_T(503) PRKAA1_T(505) PRKAA1_T(526),1.0,0.5,2,1,4,1.0,0.011070028172956367,0.2500789092036058

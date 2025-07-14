@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCYL3_S(653) SCYL3_S(707),0.8,0.5,3,1,8,1.0,0.023051223991498945,0.020115265117055213

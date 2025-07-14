@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPRD1B_M(134) RPRD1B_S(126) RPRD1B_S(128) RPRD1B_S(131) RPRD1B_S(132) RPRD1B_S(134) RPRD1B_S(166) RPRD1B_S(212) RPRD1B_S(3) RPRD1B_S(8),0.6,0.5,4,1,8,1.0,0.04163598885997404,0.553540279724831

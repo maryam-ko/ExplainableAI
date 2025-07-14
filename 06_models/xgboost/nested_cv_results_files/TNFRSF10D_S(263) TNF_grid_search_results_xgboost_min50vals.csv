@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNFRSF10D_S(263) TNFRSF10D_S(369) TNFRSF10D_S(381),0.6,0.5,1,1,4,0.6,0.009604553936973714,-0.0013488787518592283

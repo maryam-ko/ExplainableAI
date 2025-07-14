@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNTB2_S(10) SNTB2_S(110) SNTB2_S(129) SNTB2_S(205) SNTB2_S(21) SNTB2_S(222) SNTB2_S(233) SNTB2_S(373) SNTB2_S(389) SNTB2_S(392) SNTB2_S(393) SNTB2_S(395) SNTB2_S(6) SNTB2_S(9) SNTB2_S(95) SNTB2_T(201),1.0,0.5,4,5,8,0.8,0.05327072064841301,0.40621498507140136

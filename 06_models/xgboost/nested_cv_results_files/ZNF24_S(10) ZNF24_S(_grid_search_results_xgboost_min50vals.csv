@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF24_S(10) ZNF24_S(132) ZNF24_S(142) ZNF24_S(2) ZNF24_S(274) ZNF24_S(292) ZNF24_S(5) ZNF24_T(330),1.0,0.5,2,1,8,0.8,0.013968529746719771,0.013790393772049292

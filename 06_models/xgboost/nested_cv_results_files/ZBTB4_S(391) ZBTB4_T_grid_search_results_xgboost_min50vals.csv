@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZBTB4_S(391) ZBTB4_T(983),0.8,0.5,1,1,8,0.6,0.016939592581772658,0.02173174391240549

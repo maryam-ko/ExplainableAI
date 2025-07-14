@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFC4_S(11) RFC4_S(9) RFC4_T(12) RFC4_T(17),0.8,0.5,1,1,8,0.8,0.012338932587114994,0.12750138340395345

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTGDR2_S(331) PTGDR2_S(338) PTGDR2_S(339),0.8,0.5,4,1,4,1.0,0.02563312477983033,0.39808237507810124

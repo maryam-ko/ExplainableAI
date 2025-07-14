@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UVRAG_S(126) UVRAG_S(498) UVRAG_S(509) UVRAG_S(550) UVRAG_S(554) UVRAG_S(571) UVRAG_T(518),1.0,0.5,4,1,8,1.0,0.019892312519142766,0.7425461762787645

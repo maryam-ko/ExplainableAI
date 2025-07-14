@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YWHAZ_S(207) YWHAZ_S(210) YWHAZ_S(230) YWHAZ_S(64) YWHAZ_T(205) YWHAZ_T(232) YWHAZ_Y(1) YWHAZ_Y(128),1.0,0.5,4,5,8,1.0,0.032924886267096394,0.6542630261749911

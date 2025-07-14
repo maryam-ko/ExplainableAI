@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL24_S(149) RPL24_S(64) RPL24_S(7) RPL24_S(86) RPL24_S(9) RPL24_T(3) RPL24_T(83),0.8,0.5,4,10,8,1.0,0.044914188716323404,0.3271682931778435

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPIN1_S(124) SPIN1_S(199) SPIN1_S(38) SPIN1_S(39),1.0,0.5,4,5,8,1.0,0.037484084625211564,0.6222465625078134

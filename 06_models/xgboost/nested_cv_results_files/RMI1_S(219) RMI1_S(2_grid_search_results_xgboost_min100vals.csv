@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RMI1_S(219) RMI1_S(225) RMI1_S(243) RMI1_S(283) RMI1_S(284) RMI1_S(292) RMI1_S(363) RMI1_S(400) RMI1_S(456) RMI1_T(359),1.0,0.5,4,5,8,1.0,0.03540584122891817,0.4544683359946446

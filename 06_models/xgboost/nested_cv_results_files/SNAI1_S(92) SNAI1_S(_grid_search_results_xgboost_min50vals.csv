@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNAI1_S(92) SNAI1_S(96),1.0,0.5,2,1,8,0.8,0.008878713870885962,0.4407622255556915

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM33_C(741) RBM33_C(744) RBM33_S(205) RBM33_S(735) RBM33_S(739) RBM33_S(741) RBM33_S(765) RBM33_S(849) RBM33_S(973) RBM33_T(853) RBM33_Y(835),1.0,0.5,4,1,8,1.0,0.03607250965188693,0.8041546282687317

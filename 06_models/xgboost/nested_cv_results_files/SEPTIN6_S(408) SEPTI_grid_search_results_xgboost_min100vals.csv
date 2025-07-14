@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEPTIN6_S(408) SEPTIN6_S(411) SEPTIN6_S(416) SEPTIN6_T(418),0.8,0.5,4,5,8,1.0,0.026951970107993235,0.687587000799707

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF445_S(150) ZNF445_S(171) ZNF445_S(665) ZNF445_S(927),0.8,0.5,4,1,8,1.0,0.02723712531432113,0.2557476412529903

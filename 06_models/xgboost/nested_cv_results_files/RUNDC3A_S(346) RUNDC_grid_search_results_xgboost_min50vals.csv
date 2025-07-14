@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RUNDC3A_S(346) RUNDC3A_S(366) RUNDC3A_S(413) RUNDC3A_S(428) RUNDC3A_T(215),0.6,0.5,1,1,8,0.8,0.012118061988131574,-0.004162803946129579

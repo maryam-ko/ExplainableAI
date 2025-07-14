@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SSBP4_S(341) SSBP4_S(342),1.0,0.5,3,5,8,1.0,0.01609114508069999,0.42482007922022474

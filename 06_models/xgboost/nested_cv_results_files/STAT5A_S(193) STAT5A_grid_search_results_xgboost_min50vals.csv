@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAT5A_S(193) STAT5A_S(777) STAT5A_S(780) STAT5A_Y(5) STAT5A_Y(682),1.0,0.5,2,1,4,1.0,0.014692736182141737,0.25687056582048695

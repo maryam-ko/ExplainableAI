@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC2A13_S(15) SLC2A13_S(18) SLC2A13_S(47) SLC2A13_S(6) SLC2A13_S(629) SLC2A13_S(634) SLC2A13_S(640) SLC2A13_S(645) SLC2A13_T(49) SLC2A13_Y(11),1.0,0.5,4,5,6,1.0,0.032000257913758774,0.2302970171910263

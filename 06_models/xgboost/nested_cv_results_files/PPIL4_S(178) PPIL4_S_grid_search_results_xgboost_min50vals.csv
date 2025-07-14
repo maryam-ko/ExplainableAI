@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPIL4_S(178) PPIL4_S(204) PPIL4_S(374) PPIL4_S(393) PPIL4_S(471) PPIL4_T(182),0.8,0.5,3,1,8,1.0,0.04490026885475727,0.20769259469140958

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNCG_S(112) SNCG_S(124) SNCG_S(3) SNCG_Y(39),1.0,0.5,4,5,8,1.0,0.025522803057335897,0.3312195034731325

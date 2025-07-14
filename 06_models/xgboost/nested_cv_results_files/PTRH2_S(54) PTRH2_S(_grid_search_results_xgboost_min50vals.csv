@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTRH2_S(54) PTRH2_S(57) PTRH2_S(58),0.6,0.5,1,1,8,1.0,0.01727348459001398,0.21048951687405887

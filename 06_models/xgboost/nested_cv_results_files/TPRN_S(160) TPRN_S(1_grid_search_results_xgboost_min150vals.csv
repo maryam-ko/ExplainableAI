@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPRN_S(160) TPRN_S(188) TPRN_S(222) TPRN_S(237) TPRN_S(241) TPRN_S(264) TPRN_S(274) TPRN_S(296) TPRN_S(362) TPRN_S(417) TPRN_S(418) TPRN_S(56) TPRN_S(96),1.0,0.5,4,5,8,1.0,0.027139300980041896,0.7606243994719026

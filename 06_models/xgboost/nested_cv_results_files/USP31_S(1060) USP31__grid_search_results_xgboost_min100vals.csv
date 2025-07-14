@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP31_S(1060) USP31_S(1089) USP31_S(1174) USP31_S(1178) USP31_S(1322) USP31_S(1323) USP31_S(169) USP31_S(382) USP31_S(54) USP31_S(616) USP31_S(879) USP31_S(887) USP31_S(914),0.6,0.5,4,1,8,1.0,0.027818373724244654,0.23786503263929387

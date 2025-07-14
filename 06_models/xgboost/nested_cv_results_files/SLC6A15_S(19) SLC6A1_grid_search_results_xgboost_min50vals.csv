@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC6A15_S(19) SLC6A15_S(25) SLC6A15_S(55) SLC6A15_S(568) SLC6A15_S(580) SLC6A15_S(594) SLC6A15_S(678) SLC6A15_S(683) SLC6A15_S(687) SLC6A15_S(699),0.6,0.5,1,1,8,1.0,0.011608673649439358,0.15103516383201188

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCF12_M(540) TCF12_S(142) TCF12_S(198) TCF12_S(28) TCF12_S(305) TCF12_S(311) TCF12_S(47) TCF12_S(67) TCF12_S(83) TCF12_S(89) TCF12_T(313) TCF12_T(560),1.0,0.5,4,1,8,1.0,0.028040332118626155,0.3276956599735546

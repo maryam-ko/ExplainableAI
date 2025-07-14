@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX33_S(169) SNX33_S(187) SNX33_S(261) SNX33_S(77) SNX33_Y(85) SNX33_Y(9),0.6,0.5,1,1,4,0.6,0.03014272341025946,-0.015944469922648485

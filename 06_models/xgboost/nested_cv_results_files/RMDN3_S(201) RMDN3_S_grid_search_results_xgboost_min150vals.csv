@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RMDN3_S(201) RMDN3_S(212) RMDN3_S(393) RMDN3_S(44) RMDN3_S(50),1.0,0.5,4,1,8,1.0,0.022670777985227885,0.3566728840216476

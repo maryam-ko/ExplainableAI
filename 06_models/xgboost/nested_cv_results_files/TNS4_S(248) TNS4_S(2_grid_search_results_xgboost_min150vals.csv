@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNS4_S(248) TNS4_S(253) TNS4_S(350) TNS4_S(404) TNS4_S(416) TNS4_S(571) TNS4_S(82) TNS4_T(347) TNS4_T(391) TNS4_T(616),1.0,0.5,4,1,4,1.0,0.02534627877674632,0.47819047320390623

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF11_S(10) RNF11_S(14),1.0,0.5,3,1,8,0.8,0.017861145420977245,0.22353514724778903

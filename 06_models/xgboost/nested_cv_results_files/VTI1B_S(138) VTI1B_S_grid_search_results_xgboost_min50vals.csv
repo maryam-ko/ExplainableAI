@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VTI1B_S(138) VTI1B_S(161) VTI1B_S(185) VTI1B_S(189) VTI1B_T(136),0.6,0.5,2,1,8,1.0,0.009005993066649539,0.24950456967831883

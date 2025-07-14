@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REV1_C(1108) REV1_C(901) REV1_S(1087) REV1_S(1088) REV1_S(1097) REV1_S(1108) REV1_S(297) REV1_S(301),0.6,0.5,4,1,8,1.0,0.03224734604497004,0.2634313418575417

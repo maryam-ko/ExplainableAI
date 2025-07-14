@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCEAL1_S(28),0.8,0.5,4,10,8,1.0,0.040359682020519205,0.4919603704140176

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNRD2_C(78) ZNRD2_S(78) ZNRD2_S(94),0.6,0.5,2,1,8,0.8,0.006904584643452796,0.3539309606343071

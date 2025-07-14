@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB10_S(177) RAB10_S(181) RAB10_S(187) RAB10_T(73) RAB10_Y(6),1.0,0.5,3,10,8,0.8,0.031165029903012512,0.1148135756733349

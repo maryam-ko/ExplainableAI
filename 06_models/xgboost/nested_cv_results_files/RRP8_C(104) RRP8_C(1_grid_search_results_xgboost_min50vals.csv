@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRP8_C(104) RRP8_C(106) RRP8_S(104) RRP8_S(106) RRP8_S(118) RRP8_S(124) RRP8_S(126) RRP8_S(169) RRP8_S(171) RRP8_S(174) RRP8_S(176) RRP8_S(219) RRP8_S(223) RRP8_S(58) RRP8_S(62) RRP8_S(64) RRP8_S(80) RRP8_S(83) RRP8_S(85) RRP8_T(175),0.6,0.5,4,5,8,1.0,0.04958069720938496,0.41665322460124565

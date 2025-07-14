@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB44_S(115) RAB44_S(153) RAB44_S(165) RAB44_S(167) RAB44_S(263) RAB44_S(411) RAB44_S(448) RAB44_S(509) RAB44_T(157) RAB44_T(188) RAB44_T(433) RAB44_T(434) RAB44_T(611),0.8,0.5,4,1,4,1.0,0.036120544582427395,0.2257255525683827

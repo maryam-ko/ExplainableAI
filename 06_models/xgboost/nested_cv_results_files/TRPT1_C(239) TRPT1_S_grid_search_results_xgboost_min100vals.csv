@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRPT1_C(239) TRPT1_S(191) TRPT1_S(240) TRPT1_T(237),1.0,0.5,4,1,6,1.0,0.016167453306205844,0.4398794411495787

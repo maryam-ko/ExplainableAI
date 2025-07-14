@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMNDC1_S(201) SMNDC1_S(204) SMNDC1_S(61) SMNDC1_S(63),0.8,0.5,4,5,8,1.0,0.032269616545156005,0.5549455452765534

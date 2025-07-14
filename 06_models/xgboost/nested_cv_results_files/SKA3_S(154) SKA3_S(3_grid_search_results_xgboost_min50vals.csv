@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SKA3_S(154) SKA3_S(317) SKA3_S(34) SKA3_T(193) SKA3_T(291),0.6,0.5,1,1,4,0.8,0.014210452770033083,-0.0018642985236550836

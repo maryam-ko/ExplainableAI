@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF784_S(12) ZNF784_S(13) ZNF784_S(2) ZNF784_T(37),1.0,0.5,2,1,8,0.8,0.025568732196132586,0.08804588523324994

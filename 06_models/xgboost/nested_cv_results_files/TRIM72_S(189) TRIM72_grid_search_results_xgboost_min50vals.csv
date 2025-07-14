@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM72_S(189) TRIM72_S(23) TRIM72_S(25) TRIM72_S(255) TRIM72_S(305) TRIM72_S(341) TRIM72_S(4) TRIM72_S(9) TRIM72_Y(215),1.0,0.5,2,1,4,1.0,0.020419357617473755,0.13148122559489211

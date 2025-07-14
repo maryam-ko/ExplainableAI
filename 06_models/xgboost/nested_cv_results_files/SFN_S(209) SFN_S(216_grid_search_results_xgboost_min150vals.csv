@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SFN_S(209) SFN_S(216) SFN_S(248) SFN_S(4) SFN_S(5) SFN_S(64) SFN_S(69) SFN_S(74),0.8,0.5,4,1,8,1.0,0.020630982761131154,0.4688259019884349

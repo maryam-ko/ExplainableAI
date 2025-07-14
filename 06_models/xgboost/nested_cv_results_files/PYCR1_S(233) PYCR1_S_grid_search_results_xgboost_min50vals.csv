@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PYCR1_S(233) PYCR1_S(294) PYCR1_S(303),0.8,0.5,1,10,4,0.8,0.007412701316093755,0.13079652662250021

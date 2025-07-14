@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SND1_S(11) SND1_S(29) SND1_S(426) SND1_S(755) SND1_T(103) SND1_Y(109) SND1_Y(329) SND1_Y(421) SND1_Y(908),1.0,0.5,4,10,8,1.0,0.060384856327341654,0.5863154067741349

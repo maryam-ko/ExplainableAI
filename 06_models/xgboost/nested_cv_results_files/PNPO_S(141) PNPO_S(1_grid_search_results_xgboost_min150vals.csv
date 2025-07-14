@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PNPO_S(141) PNPO_S(142) PNPO_S(146) PNPO_S(2) PNPO_S(218) PNPO_S(241) PNPO_S(40) PNPO_S(7) PNPO_T(246),1.0,0.5,4,10,8,0.8,0.02348812507640771,0.5796881235481515

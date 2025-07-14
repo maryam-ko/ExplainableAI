@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR59_S(275) WDR59_S(361) WDR59_S(48) WDR59_S(561) WDR59_S(564) WDR59_S(601) WDR59_S(603) WDR59_S(750) WDR59_S(773) WDR59_S(821) WDR59_S(822) WDR59_S(834) WDR59_T(566) WDR59_T(832),0.8,0.5,4,1,8,1.0,0.04392171523863726,0.5112650958738225

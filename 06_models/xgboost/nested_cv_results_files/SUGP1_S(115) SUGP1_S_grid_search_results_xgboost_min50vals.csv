@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUGP1_S(115) SUGP1_S(181) SUGP1_S(256) SUGP1_S(326) SUGP1_S(338) SUGP1_S(409) SUGP1_S(411) SUGP1_S(414) SUGP1_S(485) SUGP1_S(491) SUGP1_S(61) SUGP1_T(116) SUGP1_Y(483),0.8,0.5,4,1,6,1.0,0.05599808467541971,0.3047949684989022

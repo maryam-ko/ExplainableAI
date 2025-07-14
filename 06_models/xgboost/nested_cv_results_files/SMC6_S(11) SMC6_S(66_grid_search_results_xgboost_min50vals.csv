@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMC6_S(11) SMC6_S(669),0.8,0.5,4,1,8,0.8,0.01495501475514599,0.3444510398121226

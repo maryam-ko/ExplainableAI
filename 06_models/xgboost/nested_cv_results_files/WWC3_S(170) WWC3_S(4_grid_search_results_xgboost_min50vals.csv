@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WWC3_S(170) WWC3_S(442) WWC3_S(863) WWC3_S(896) WWC3_S(911) WWC3_S(925) WWC3_S(927) WWC3_T(909),0.8,0.5,2,10,8,1.0,0.03786075089674732,0.23844599578487685

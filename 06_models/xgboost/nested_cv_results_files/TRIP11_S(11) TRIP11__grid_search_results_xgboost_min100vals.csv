@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIP11_S(11) TRIP11_S(1607) TRIP11_S(412) TRIP11_S(464) TRIP11_T(1833),1.0,0.5,3,1,2,1.0,0.018008803819062853,0.2009245995307743

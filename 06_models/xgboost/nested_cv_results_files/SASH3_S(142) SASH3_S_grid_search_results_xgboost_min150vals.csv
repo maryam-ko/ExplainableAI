@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SASH3_S(142) SASH3_S(243) SASH3_S(25) SASH3_S(26) SASH3_S(27) SASH3_S(320) SASH3_S(37) SASH3_S(38) SASH3_S(42) SASH3_S(7) SASH3_S(97) SASH3_T(112) SASH3_T(318),0.8,0.5,4,1,8,1.0,0.03825687908039382,0.3759165353967219

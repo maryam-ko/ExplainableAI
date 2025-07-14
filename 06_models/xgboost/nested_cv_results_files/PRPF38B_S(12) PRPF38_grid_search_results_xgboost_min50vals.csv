@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPF38B_S(12) PRPF38B_S(207) PRPF38B_S(209) PRPF38B_S(272) PRPF38B_S(283) PRPF38B_S(29) PRPF38B_S(3) PRPF38B_S(389) PRPF38B_S(448) PRPF38B_S(513),0.6,0.5,1,1,8,1.0,0.01018756061784786,0.18579922266170942

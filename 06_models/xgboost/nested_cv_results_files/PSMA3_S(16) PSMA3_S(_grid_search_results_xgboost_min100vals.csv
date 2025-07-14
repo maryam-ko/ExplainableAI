@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMA3_S(16) PSMA3_S(175) PSMA3_S(243) PSMA3_S(250) PSMA3_S(255) PSMA3_S(6),0.8,0.5,4,1,8,1.0,0.04341039106010265,0.6886839547587019

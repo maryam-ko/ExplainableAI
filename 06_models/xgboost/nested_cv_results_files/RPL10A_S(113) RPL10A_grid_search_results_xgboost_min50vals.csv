@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL10A_S(113) RPL10A_S(115) RPL10A_S(2) RPL10A_S(3) RPL10A_S(50) RPL10A_S(6) RPL10A_Y(11),1.0,0.5,4,10,6,0.8,0.02105767220266727,0.20831972212837532

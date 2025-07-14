@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STARD10_S(284) STARD10_T(275),0.8,0.5,4,1,8,1.0,0.03942990618612971,0.3606338270090732

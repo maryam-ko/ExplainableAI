@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM115_S(306) TMEM115_S(314) TMEM115_S(320) TMEM115_S(324) TMEM115_T(329),1.0,0.5,4,1,4,1.0,0.04871557048647973,0.24210149496875846

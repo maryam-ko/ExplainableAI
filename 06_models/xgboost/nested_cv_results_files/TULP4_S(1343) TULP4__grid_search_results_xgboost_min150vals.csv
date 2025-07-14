@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TULP4_S(1343) TULP4_S(1373) TULP4_S(1374) TULP4_S(1451) TULP4_S(574) TULP4_S(577) TULP4_S(6),0.6,0.5,4,1,8,1.0,0.030054937462164984,0.44708737888111505

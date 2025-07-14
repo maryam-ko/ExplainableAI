@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SZT2_S(1209) SZT2_S(1660) SZT2_S(1762) SZT2_S(215) SZT2_S(2458) SZT2_S(2735) SZT2_S(2737) SZT2_S(743) SZT2_T(1815) SZT2_T(1817) SZT2_T(2486) SZT2_T(742),1.0,0.5,3,5,8,1.0,0.01581720323513455,0.5986634176358849

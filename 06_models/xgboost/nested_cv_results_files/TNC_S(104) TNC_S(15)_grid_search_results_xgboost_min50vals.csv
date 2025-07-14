@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNC_S(104) TNC_S(15) TNC_S(3) TNC_S(57) TNC_S(70) TNC_S(72) TNC_S(86) TNC_S(903),1.0,0.5,1,1,8,0.8,0.028456675787670506,0.0022333742280850723

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRRAP_S(1628) TRRAP_S(1798) TRRAP_S(2033) TRRAP_S(2036) TRRAP_S(2048) TRRAP_S(2051) TRRAP_S(2054) TRRAP_S(2059) TRRAP_S(2075) TRRAP_S(2077) TRRAP_T(1622) TRRAP_T(1634),1.0,0.5,4,10,8,1.0,0.037671607917115164,0.4068870557628642

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRAS2_C(186) RRAS2_C(190) RRAS2_S(176) RRAS2_S(186),0.8,0.5,4,5,8,1.0,0.07364917185649336,0.4607653271327704

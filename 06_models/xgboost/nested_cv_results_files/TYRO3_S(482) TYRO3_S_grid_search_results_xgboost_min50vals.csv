@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TYRO3_S(482) TYRO3_S(869) TYRO3_S(94) TYRO3_Y(849),0.6,0.5,1,1,8,0.6,0.010934846265208086,-0.00834844456698276

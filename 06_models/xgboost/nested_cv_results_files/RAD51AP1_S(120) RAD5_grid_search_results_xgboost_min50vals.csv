@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAD51AP1_S(120) RAD51AP1_S(125) RAD51AP1_S(139) RAD51AP1_S(241) RAD51AP1_S(263) RAD51AP1_S(296) RAD51AP1_S(301) RAD51AP1_S(317),1.0,0.5,4,1,4,1.0,0.03868165291444784,0.15848937328563473

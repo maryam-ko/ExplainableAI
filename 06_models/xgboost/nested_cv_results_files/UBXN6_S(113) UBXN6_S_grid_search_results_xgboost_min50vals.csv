@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBXN6_S(113) UBXN6_S(262) UBXN6_S(280) UBXN6_S(315) UBXN6_S(96),1.0,0.5,3,1,8,0.8,0.022349313444618577,0.1560951184875028

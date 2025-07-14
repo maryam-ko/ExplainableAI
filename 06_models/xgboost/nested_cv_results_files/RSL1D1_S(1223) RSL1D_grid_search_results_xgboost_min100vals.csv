@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RSL1D1_S(1223) RSL1D1_S(141) RSL1D1_S(361) RSL1D1_S(417) RSL1D1_S(440) RSL1D1_S(442) RSL1D1_T(21) RSL1D1_T(408),1.0,0.5,4,5,8,1.0,0.04653631537709802,0.7376501305120329

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRPA1_S(178) SNRPA1_S(197) SNRPA1_S(226) SNRPA1_S(236) SNRPA1_S(255) SNRPA1_T(180),0.6,0.5,3,1,8,1.0,0.025348431120308063,0.43851256192957333

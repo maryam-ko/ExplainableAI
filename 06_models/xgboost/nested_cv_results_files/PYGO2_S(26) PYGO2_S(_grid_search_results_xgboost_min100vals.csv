@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PYGO2_S(26) PYGO2_S(298) PYGO2_S(40) PYGO2_S(414) PYGO2_S(48) PYGO2_T(302),0.8,0.5,4,5,8,1.0,0.04762859774760165,0.5746427846572294

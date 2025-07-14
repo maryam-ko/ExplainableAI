@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB34_C(76) RAB34_S(238) RAB34_S(241) RAB34_S(244) RAB34_Y(247),1.0,0.5,3,1,4,1.0,0.02030417559805722,0.1624847685990254

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMC8_S(522) TMC8_S(658) TMC8_S(683),1.0,0.5,3,1,8,0.8,0.018018606298066474,0.04917674966004164

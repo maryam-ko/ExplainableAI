@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS8_S(1246) VPS8_S(26) VPS8_T(1302) VPS8_T(1331) VPS8_T(18) VPS8_Y(1307),0.8,0.5,4,1,8,1.0,0.02007744663857752,0.11486778742259056

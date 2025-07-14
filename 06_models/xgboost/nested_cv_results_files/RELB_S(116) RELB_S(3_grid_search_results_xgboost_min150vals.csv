@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RELB_S(116) RELB_S(37) RELB_S(570),1.0,0.5,4,1,8,1.0,0.02326447944498145,0.6090244332585824

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP3_C(362) UTP3_S(143) UTP3_S(150) UTP3_S(353) UTP3_S(365) UTP3_S(368) UTP3_S(396) UTP3_S(462) UTP3_T(362) UTP3_T(397),0.8,0.5,4,1,8,1.0,0.045358784619049394,0.3926496192558854

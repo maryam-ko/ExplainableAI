@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM41B_S(10) TMEM41B_T(17) TMEM41B_T(18),0.6,0.5,1,1,6,0.6,0.008546976768609457,-0.0013771375311581124

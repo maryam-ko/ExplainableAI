@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFEB_S(11) TFEB_S(138) TFEB_S(142) TFEB_S(152) TFEB_S(219) TFEB_S(224) TFEB_S(228) TFEB_S(405) TFEB_S(455) TFEB_S(552) TFEB_S(553) TFEB_S(567) TFEB_S(6) TFEB_S(97) TFEB_T(6) TFEB_T(7),0.6,0.5,1,1,8,0.8,0.01762978193866552,-0.004522252425274065

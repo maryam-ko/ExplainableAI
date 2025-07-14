@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR12_T(218) WDR12_T(221),0.8,0.5,4,1,8,0.8,0.026040854136410947,0.28407644271589827

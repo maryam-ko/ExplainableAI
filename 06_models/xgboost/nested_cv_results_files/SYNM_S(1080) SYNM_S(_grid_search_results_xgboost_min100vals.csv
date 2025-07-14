@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYNM_S(1080) SYNM_S(1089) SYNM_S(1153) SYNM_S(1159) SYNM_S(1163) SYNM_S(1432) SYNM_S(161) SYNM_S(3) SYNM_S(341) SYNM_S(5) SYNM_T(4),0.6,0.5,1,1,8,1.0,0.010086217300626575,0.019562847064944267

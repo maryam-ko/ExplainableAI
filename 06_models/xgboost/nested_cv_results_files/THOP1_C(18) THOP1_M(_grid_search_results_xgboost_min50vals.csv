@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THOP1_C(18) THOP1_M(18) THOP1_S(16) THOP1_S(6) THOP1_S(89),0.6,0.5,3,1,8,1.0,0.02966865847083162,0.15021132598450931

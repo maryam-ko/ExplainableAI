@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMYD1_S(1) SMYD1_S(285) SMYD1_S(298) SMYD1_S(3) SMYD1_S(4) SMYD1_S(469) SMYD1_S(478) SMYD1_S(6) SMYD1_Y(11) SMYD1_Y(336),0.8,0.5,3,1,8,0.8,0.0176380062711202,0.10920992656315416

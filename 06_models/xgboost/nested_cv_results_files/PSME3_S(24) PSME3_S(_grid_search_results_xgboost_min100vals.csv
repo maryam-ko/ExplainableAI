@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSME3_S(24) PSME3_S(247) PSME3_S(3) PSME3_S(43),1.0,0.5,3,10,4,1.0,0.022629904703174303,0.41908551245475334

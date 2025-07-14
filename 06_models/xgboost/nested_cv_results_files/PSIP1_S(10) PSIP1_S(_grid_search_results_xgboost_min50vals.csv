@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSIP1_S(10) PSIP1_S(118) PSIP1_S(201) PSIP1_S(94) PSIP1_T(115) PSIP1_T(140) PSIP1_T(212) PSIP1_T(270),1.0,0.5,1,1,8,1.0,0.010054388437699468,0.2176670751263928

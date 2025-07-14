@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAG1_S(1126) STAG1_S(1205) STAG1_S(20) STAG1_S(756) STAG1_T(1108),1.0,0.5,4,1,2,1.0,0.010179285444269801,0.2623346806956109

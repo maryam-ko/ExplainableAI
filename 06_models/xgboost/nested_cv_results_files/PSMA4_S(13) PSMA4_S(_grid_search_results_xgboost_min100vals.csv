@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMA4_S(13) PSMA4_S(147) PSMA4_S(173),1.0,0.5,4,5,8,1.0,0.018868975925002435,0.4639676198333501

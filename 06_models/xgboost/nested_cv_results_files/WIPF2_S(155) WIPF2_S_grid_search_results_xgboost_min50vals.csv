@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WIPF2_S(155) WIPF2_S(256) WIPF2_S(282) WIPF2_S(385) WIPF2_S(71) WIPF2_S(85),0.6,0.5,3,10,4,1.0,0.01125910526345822,0.23147545984643103

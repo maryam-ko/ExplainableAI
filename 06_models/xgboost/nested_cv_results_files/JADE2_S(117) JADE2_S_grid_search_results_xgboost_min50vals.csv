@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JADE2_S(117) JADE2_S(12) JADE2_S(15) JADE2_T(618),0.6,0.5,1,1,4,0.6,0.020800579629824206,-0.001034513603754439

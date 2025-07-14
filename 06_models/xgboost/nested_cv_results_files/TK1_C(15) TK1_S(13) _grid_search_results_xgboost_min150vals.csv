@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TK1_C(15) TK1_S(13) TK1_S(15) TK1_S(2) TK1_S(231) TK1_S(264) TK1_S(3) TK1_S(55) TK1_S(57) TK1_S(62) TK1_T(8),1.0,0.5,4,5,8,1.0,0.03342443273778937,0.5982764112534849

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMOD3_S(127) TMOD3_S(25),0.8,0.5,4,1,8,0.8,0.04444963357999045,0.21250184120363577

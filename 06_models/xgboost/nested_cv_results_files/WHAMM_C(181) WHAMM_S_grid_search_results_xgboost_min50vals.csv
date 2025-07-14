@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WHAMM_C(181) WHAMM_S(181) WHAMM_S(3) WHAMM_S(606) WHAMM_S(663) WHAMM_S(692),0.6,0.5,2,1,8,0.8,0.013233081593676543,0.18493074550844865

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK3_S(12) STK3_S(15) STK3_S(316) STK3_S(406) STK3_S(413) STK3_S(9) STK3_T(384),1.0,0.5,4,1,8,1.0,0.02647125168528199,0.6937169418834579

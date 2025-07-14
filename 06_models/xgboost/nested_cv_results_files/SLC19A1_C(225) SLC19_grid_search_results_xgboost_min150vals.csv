@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC19A1_C(225) SLC19A1_S(223) SLC19A1_S(225) SLC19A1_S(474) SLC19A1_S(499) SLC19A1_S(5) SLC19A1_S(503) SLC19A1_S(507) SLC19A1_S(515) SLC19A1_S(583),0.6,0.5,4,5,8,1.0,0.025559918331498947,0.5587874027363156

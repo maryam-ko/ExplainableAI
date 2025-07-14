@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLXDC2_S(128) PLXDC2_S(3) PLXDC2_S(369) PLXDC2_S(457) PLXDC2_S(476) PLXDC2_S(503) PLXDC2_S(504) PLXDC2_S(506) PLXDC2_S(507) PLXDC2_T(251) PLXDC2_Y(133) PLXDC2_Y(253),0.6,0.5,4,1,8,1.0,0.049064734833529584,0.1618245198434992

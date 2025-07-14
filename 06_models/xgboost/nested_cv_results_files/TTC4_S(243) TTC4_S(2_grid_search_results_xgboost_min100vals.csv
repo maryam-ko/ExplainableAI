@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTC4_S(243) TTC4_S(267) TTC4_S(47) TTC4_S(51),1.0,0.5,4,1,8,1.0,0.025037328718634067,0.5848025661494587

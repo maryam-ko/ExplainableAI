@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEC31A_S(11) SEC31A_S(1101) SEC31A_S(1194) SEC31A_S(188) SEC31A_S(397) SEC31A_S(532) SEC31A_S(7) SEC31A_T(1161) SEC31A_T(1165) SEC31A_T(1198),0.6,0.5,4,1,8,1.0,0.02074133694904005,0.7180690142548845

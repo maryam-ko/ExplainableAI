@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZRSR2_S(384),1.0,0.5,4,1,8,0.8,0.040491637556119564,0.22881248201754226

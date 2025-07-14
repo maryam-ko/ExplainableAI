@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SKAP2_S(5) SKAP2_S(6) SKAP2_S(8) SKAP2_S(9) SKAP2_Y(197),1.0,0.5,3,1,6,0.8,0.02285737150382715,0.0996206830192539

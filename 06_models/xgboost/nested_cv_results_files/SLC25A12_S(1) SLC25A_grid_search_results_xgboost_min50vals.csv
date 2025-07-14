@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC25A12_S(1) SLC25A12_S(101) SLC25A12_T(242) SLC25A12_T(4) SLC25A12_Y(278),0.8,0.5,4,1,4,1.0,0.04295381779801949,0.18555734089061005

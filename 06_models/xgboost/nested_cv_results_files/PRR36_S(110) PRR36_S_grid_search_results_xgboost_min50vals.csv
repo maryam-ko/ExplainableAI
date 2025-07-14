@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRR36_S(110) PRR36_S(116) PRR36_S(1310) PRR36_S(243) PRR36_T(591),1.0,0.5,4,1,8,0.8,0.019448154714961714,0.33947983877792576

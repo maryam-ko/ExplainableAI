@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBMXL1_S(175) RBMXL1_S(189) RBMXL1_S(195) RBMXL1_S(249) RBMXL1_S(273) RBMXL1_S(277) RBMXL1_S(280) RBMXL1_S(331) RBMXL1_S(362) RBMXL1_S(4) RBMXL1_S(5) RBMXL1_S(58),0.6,0.5,1,1,4,0.6,0.01156637016762227,-0.007022783395455079

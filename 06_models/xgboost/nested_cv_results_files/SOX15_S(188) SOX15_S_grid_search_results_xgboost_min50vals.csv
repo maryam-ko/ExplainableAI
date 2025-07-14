@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOX15_S(188) SOX15_S(32) SOX15_S(37),0.6,0.5,1,1,4,0.6,0.012458144879380954,-0.04371307580195305

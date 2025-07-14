@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM21_S(266) TRIM21_T(265),0.8,0.5,3,1,8,1.0,0.02235140338877167,0.3363749187838241

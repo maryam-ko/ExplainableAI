@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPF3_S(131) PRPF3_S(133) PRPF3_S(164) PRPF3_S(601) PRPF3_S(603) PRPF3_S(609) PRPF3_S(619) PRPF3_T(167) PRPF3_T(432),1.0,0.5,4,1,8,1.0,0.04639783695203853,0.6480056935177655

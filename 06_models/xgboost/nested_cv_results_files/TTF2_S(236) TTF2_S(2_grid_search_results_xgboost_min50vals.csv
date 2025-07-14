@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTF2_S(236) TTF2_S(244) TTF2_S(396) TTF2_S(460) TTF2_Y(285),1.0,0.5,4,1,8,0.8,0.018722322522664276,0.17977254525674444

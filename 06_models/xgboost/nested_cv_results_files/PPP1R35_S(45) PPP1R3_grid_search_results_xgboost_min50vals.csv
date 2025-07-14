@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPP1R35_S(45) PPP1R35_S(47) PPP1R35_S(59) PPP1R35_S(82) PPP1R35_S(84) PPP1R35_S(87) PPP1R35_T(84) PPP1R35_T(87),0.8,0.5,4,1,6,1.0,0.051534258134472925,0.20432008884210498

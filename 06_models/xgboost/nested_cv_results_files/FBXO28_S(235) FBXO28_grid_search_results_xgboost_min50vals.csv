@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBXO28_S(235) FBXO28_S(325) FBXO28_S(336) FBXO28_S(338) FBXO28_S(344) FBXO28_S(357) FBXO28_S(361),0.6,0.5,4,1,8,1.0,0.050329471424965855,0.292575733507347

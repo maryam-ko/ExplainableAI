@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSHZ2_S(510) TSHZ2_S(977) TSHZ2_S(980) TSHZ2_T(636) TSHZ2_T(639),0.8,0.5,2,1,6,0.6,0.012332498426085728,-0.004350828139590623

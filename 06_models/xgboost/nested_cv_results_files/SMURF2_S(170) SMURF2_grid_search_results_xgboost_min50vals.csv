@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMURF2_S(170) SMURF2_S(197) SMURF2_S(44) SMURF2_T(245) SMURF2_T(249),0.6,0.5,2,1,6,0.8,0.008685514657675456,0.4279722689712859

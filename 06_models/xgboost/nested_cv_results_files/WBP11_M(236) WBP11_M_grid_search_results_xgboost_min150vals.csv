@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WBP11_M(236) WBP11_M(237) WBP11_S(237) WBP11_S(253) WBP11_S(279) WBP11_S(283) WBP11_S(307) WBP11_S(353) WBP11_S(361) WBP11_S(364) WBP11_S(599) WBP11_S(600) WBP11_T(252) WBP11_Y(630),0.8,0.5,4,1,8,1.0,0.03826844975124183,0.5793681998688063

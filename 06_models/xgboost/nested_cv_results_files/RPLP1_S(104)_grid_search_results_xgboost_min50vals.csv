@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPLP1_S(104),0.8,0.5,4,10,8,1.0,0.07346981588670533,0.3743536870305523

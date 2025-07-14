@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SH3RF2_S(649) SH3RF2_Y(648),0.8,0.5,2,1,8,0.8,0.02056789351575195,0.14355945539818357

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRSF8_S(163) SRSF8_S(166) SRSF8_S(191) SRSF8_S(192) SRSF8_S(252) SRSF8_S(281) SRSF8_S(282) SRSF8_S(782) SRSF8_S(784),0.8,0.5,4,1,8,0.8,0.022350113808877754,0.2560636044236568

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM3_S(104) RBM3_S(138) RBM3_S(147) RBM3_Y(103) RBM3_Y(127) RBM3_Y(129) RBM3_Y(146) RBM3_Y(151) RBM3_Y(155),1.0,0.5,4,5,8,1.0,0.04302611637234481,0.3737500656664943

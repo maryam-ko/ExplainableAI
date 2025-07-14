@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRM2_S(20) RRM2_S(26) RRM2_S(354) RRM2_S(377) RRM2_S(80) RRM2_S(98) RRM2_T(33) RRM2_T(93),1.0,0.5,4,1,8,1.0,0.021352520668111177,0.783541755149372

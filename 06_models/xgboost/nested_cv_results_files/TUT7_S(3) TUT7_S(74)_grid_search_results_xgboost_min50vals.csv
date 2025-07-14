@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUT7_S(3) TUT7_S(74) TUT7_S(893) TUT7_S(939) TUT7_Y(61) TUT7_Y(77),1.0,0.5,4,1,6,0.6,0.015730941564318462,0.10027593217607529

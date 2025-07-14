@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RABEP2_S(189) RABEP2_S(193) RABEP2_S(200),1.0,0.5,4,1,4,1.0,0.01478879918693272,0.48027302373196107

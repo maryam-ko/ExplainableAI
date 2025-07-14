@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM4_S(309) RBM4_S(334) RBM4_S(7) RBM4_S(86) RBM4_T(88),0.8,0.5,4,1,8,1.0,0.025870372575700448,0.7592349367607145

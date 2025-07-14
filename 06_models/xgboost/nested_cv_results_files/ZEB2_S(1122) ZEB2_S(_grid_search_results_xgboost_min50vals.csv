@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZEB2_S(1122) ZEB2_S(1129) ZEB2_S(1167) ZEB2_S(1210) ZEB2_S(1214) ZEB2_S(160) ZEB2_S(162) ZEB2_S(353) ZEB2_S(356) ZEB2_S(360) ZEB2_S(641) ZEB2_S(647) ZEB2_S(731) ZEB2_S(741) ZEB2_T(34) ZEB2_T(362) ZEB2_T(38) ZEB2_Y(28),1.0,0.5,4,1,8,0.8,0.020774511284609814,0.2374623371650732

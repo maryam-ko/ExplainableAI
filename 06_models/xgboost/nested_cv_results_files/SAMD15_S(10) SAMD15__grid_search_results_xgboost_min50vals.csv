@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAMD15_S(10) SAMD15_S(360) SAMD15_S(500) SAMD15_S(525) SAMD15_S(59) SAMD15_T(474) SAMD15_T(57) SAMD15_T(59) SAMD15_Y(476),1.0,0.5,3,1,8,0.8,0.010521886380762593,0.3939352552152552

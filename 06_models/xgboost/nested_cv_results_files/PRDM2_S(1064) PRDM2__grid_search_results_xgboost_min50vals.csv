@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRDM2_S(1064) PRDM2_S(1141) PRDM2_S(1265) PRDM2_S(1577) PRDM2_S(361) PRDM2_S(542) PRDM2_S(851) PRDM2_T(423),1.0,0.5,1,1,6,0.6,0.009944276391600513,0.004953538278411984

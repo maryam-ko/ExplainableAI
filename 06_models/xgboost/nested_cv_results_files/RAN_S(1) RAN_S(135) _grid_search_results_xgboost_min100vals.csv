@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAN_S(1) RAN_S(135) RAN_S(47) RAN_Y(146) RAN_Y(147),1.0,0.5,4,1,8,1.0,0.027488277490029123,0.4417075053138431

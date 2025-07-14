@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRPRA_S(177) SRPRA_S(268) SRPRA_S(296) SRPRA_S(297) SRPRA_S(298) SRPRA_S(608) SRPRA_T(271) SRPRA_T(284) SRPRA_T(578) SRPRA_T(6) SRPRA_T(607),0.8,0.5,4,1,6,1.0,0.025299021153370647,0.4093069489995941

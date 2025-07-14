@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SP3_S(563) SP3_S(566),1.0,0.5,3,1,8,0.8,0.01677720120544708,0.263365202437975

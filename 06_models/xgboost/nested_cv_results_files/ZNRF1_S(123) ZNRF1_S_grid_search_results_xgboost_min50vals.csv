@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNRF1_S(123) ZNRF1_S(50) ZNRF1_S(52) ZNRF1_S(53),1.0,0.5,3,5,8,0.8,0.011528862310811431,0.3316485966857544

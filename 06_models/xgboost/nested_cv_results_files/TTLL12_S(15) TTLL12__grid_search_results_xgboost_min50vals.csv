@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTLL12_S(15) TTLL12_S(16) TTLL12_T(20),0.8,0.5,4,1,2,1.0,0.027882169475016545,0.04314226738699489

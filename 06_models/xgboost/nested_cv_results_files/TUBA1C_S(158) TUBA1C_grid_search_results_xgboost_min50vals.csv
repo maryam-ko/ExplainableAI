@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUBA1C_S(158) TUBA1C_S(439) TUBA1C_T(109) TUBA1C_T(223) TUBA1C_T(225) TUBA1C_T(334) TUBA1C_Y(282) TUBA1C_Y(449),0.6,0.5,1,1,8,1.0,0.014557300555670309,0.2692874483289497

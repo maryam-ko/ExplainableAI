@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WTAP_S(14) WTAP_S(244) WTAP_S(288) WTAP_S(305) WTAP_S(388) WTAP_S(58) WTAP_T(148),1.0,0.5,4,10,8,0.8,0.023007207084153804,0.3601738979862775

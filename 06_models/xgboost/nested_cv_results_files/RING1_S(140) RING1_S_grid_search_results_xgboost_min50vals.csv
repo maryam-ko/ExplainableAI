@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RING1_S(140) RING1_S(163) RING1_S(170) RING1_S(187) RING1_S(188) RING1_S(190) RING1_S(248) RING1_S(254) RING1_S(38) RING1_T(166) RING1_T(167) RING1_T(238),1.0,0.5,4,5,8,1.0,0.05387357449136752,0.40569848251865104

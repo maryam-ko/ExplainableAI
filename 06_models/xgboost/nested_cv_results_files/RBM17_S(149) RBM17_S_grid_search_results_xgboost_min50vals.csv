@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM17_S(149) RBM17_S(168) RBM17_S(170) RBM17_S(173),1.0,0.5,1,1,8,0.8,0.005158822005395612,0.28117891379966153

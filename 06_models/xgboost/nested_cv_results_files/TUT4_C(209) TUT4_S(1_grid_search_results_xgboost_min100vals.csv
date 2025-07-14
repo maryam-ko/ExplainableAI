@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUT4_C(209) TUT4_S(187) TUT4_S(49) TUT4_T(270) TUT4_T(33),1.0,0.5,3,1,2,1.0,0.014162072026441978,0.2602543256552532

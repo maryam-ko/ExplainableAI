@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STX7_S(123) STX7_S(126) STX7_S(127) STX7_S(129) STX7_S(131) STX7_S(136) STX7_S(144) STX7_S(173) STX7_S(2) STX7_S(205) STX7_S(4) STX7_S(45) STX7_S(6) STX7_S(75) STX7_S(81) STX7_T(26) STX7_T(4) STX7_T(41) STX7_T(71) STX7_T(78) STX7_T(79) STX7_T(8) STX7_Y(3),0.8,0.5,4,1,8,1.0,0.019953535316886244,0.836483250598266

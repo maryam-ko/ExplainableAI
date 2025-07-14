@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPPL2B_S(532) SPPL2B_S(543) SPPL2B_S(550) SPPL2B_S(583),0.6,0.5,1,1,8,1.0,0.0101772377704236,0.2093850998863497

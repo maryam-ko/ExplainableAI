@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEMA6B_S(745) SEMA6B_S(769) SEMA6B_S(812) SEMA6B_T(765) SEMA6B_T(769) SEMA6B_T(790) SEMA6B_T(805) SEMA6B_T(846),1.0,0.5,2,1,8,0.8,0.005165892374869297,0.3302108466106656

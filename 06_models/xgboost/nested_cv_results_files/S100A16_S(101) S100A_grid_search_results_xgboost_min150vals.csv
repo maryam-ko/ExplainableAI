@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+S100A16_S(101) S100A16_S(102) S100A16_S(103) S100A16_S(2) S100A16_S(21) S100A16_S(227) S100A16_S(36) S100A16_T(53),1.0,0.5,4,1,8,0.8,0.03370971482110364,0.6200574268466955

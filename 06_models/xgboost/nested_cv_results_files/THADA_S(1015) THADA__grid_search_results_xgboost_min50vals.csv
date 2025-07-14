@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THADA_S(1015) THADA_S(1024) THADA_S(437) THADA_S(560) THADA_S(725),0.6,0.5,1,1,6,0.8,0.015189049762322748,-0.009203533434967381

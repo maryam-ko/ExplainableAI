@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIOX1_S(109),0.6,0.5,3,10,8,1.0,0.02635959713192634,0.14520743761324237

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF223_S(19) RNF223_S(20) RNF223_S(27) RNF223_S(35) RNF223_T(150) RNF223_T(39),0.6,0.5,1,1,8,0.6,0.019606193147833677,-0.003910238371323649

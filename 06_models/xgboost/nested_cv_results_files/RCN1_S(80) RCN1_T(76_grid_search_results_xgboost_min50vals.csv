@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RCN1_S(80) RCN1_T(76),1.0,0.5,4,1,6,0.8,0.018863466953802067,0.0996291397038624

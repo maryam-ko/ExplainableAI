@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUPT20H_S(295) SUPT20H_S(298) SUPT20H_S(401) SUPT20H_S(516) SUPT20H_S(524) SUPT20H_T(494),1.0,0.5,2,10,8,0.8,0.01480569253721129,0.16299251248614652

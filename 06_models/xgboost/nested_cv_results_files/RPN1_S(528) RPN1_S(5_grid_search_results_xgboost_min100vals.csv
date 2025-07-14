@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPN1_S(528) RPN1_S(535) RPN1_T(103),0.6,0.5,1,1,6,0.6,0.015526468827291598,-0.007805200344651775

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUBA4A_S(48),0.6,0.5,1,1,8,0.8,0.011661449410583903,-0.012984976512478718

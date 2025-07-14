@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SDCCAG8_S(4) SDCCAG8_S(71) SDCCAG8_S(87) SDCCAG8_S(92),0.8,0.5,4,1,8,1.0,0.02823647467132922,0.30266034472587233

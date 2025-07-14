@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POLD3_S(352) POLD3_S(371) POLD3_S(413) POLD3_S(458),1.0,0.5,4,1,6,1.0,0.013908426704429964,0.33809992359974383

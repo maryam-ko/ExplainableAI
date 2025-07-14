@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF220_S(173) RNF220_S(194) RNF220_S(282) RNF220_S(286) RNF220_T(446),0.8,0.5,2,1,8,1.0,0.007111458397323374,0.4661954254784799

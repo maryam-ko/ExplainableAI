@@ -1,0 +1,2 @@
+model_type,threshold,pr_auc,roc_auc,positive_examples,negative_examples
+linear_regression,200,0.04622617163182524,0.5193652751437456,5312,117858

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SDC4_S(173) SDC4_S(174) SDC4_T(193) SDC4_Y(175) SDC4_Y(180) SDC4_Y(197),0.6,0.5,1,1,4,0.6,0.029202853395263677,-0.007223680094996299

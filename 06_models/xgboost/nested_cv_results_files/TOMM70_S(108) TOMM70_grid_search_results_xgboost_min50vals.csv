@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOMM70_S(108) TOMM70_S(110) TOMM70_S(2) TOMM70_S(253) TOMM70_S(279) TOMM70_S(434) TOMM70_S(7) TOMM70_S(8) TOMM70_S(89) TOMM70_S(96) TOMM70_T(85),1.0,0.5,4,1,6,1.0,0.05710091647067835,0.248148625033647

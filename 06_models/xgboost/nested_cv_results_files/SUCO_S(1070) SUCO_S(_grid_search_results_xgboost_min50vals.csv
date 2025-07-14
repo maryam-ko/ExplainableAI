@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUCO_S(1070) SUCO_S(1071) SUCO_S(1087) SUCO_S(1103) SUCO_S(1229) SUCO_S(732) SUCO_S(855),1.0,0.5,3,1,8,0.8,0.01576862236975333,0.11130147329225151

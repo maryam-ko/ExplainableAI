@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TVP23B_S(205) TVP23B_T(199),0.6,0.5,2,1,8,1.0,0.021612179109124444,0.31130517995485646

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUZ12_S(37) SUZ12_S(382) SUZ12_S(523) SUZ12_S(546) SUZ12_S(548) SUZ12_S(560) SUZ12_S(583) SUZ12_S(585) SUZ12_S(693) SUZ12_S(695) SUZ12_S(726),0.8,0.5,4,5,8,1.0,0.026994759571309777,0.7704314268953205

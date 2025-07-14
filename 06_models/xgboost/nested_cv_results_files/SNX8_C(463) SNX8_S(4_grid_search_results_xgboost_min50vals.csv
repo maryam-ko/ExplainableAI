@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX8_C(463) SNX8_S(456) SNX8_T(450) SNX8_T(452),1.0,0.5,4,1,8,1.0,0.012855235534349668,0.2777971991802839

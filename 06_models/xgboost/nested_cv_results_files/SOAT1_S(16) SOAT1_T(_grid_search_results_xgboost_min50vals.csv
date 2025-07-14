@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOAT1_S(16) SOAT1_T(36),1.0,0.5,4,5,8,0.8,0.02147793491789455,0.11254158396938256

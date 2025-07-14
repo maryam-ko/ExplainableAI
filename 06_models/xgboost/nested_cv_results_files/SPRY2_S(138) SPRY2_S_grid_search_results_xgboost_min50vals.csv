@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPRY2_S(138) SPRY2_S(139) SPRY2_S(142) SPRY2_S(167),0.6,0.5,1,1,6,0.8,0.016279719060743207,-0.01796056933400756

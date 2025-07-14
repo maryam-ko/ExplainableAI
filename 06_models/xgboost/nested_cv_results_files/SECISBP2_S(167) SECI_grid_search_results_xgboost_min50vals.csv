@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SECISBP2_S(167) SECISBP2_S(215) SECISBP2_S(297) SECISBP2_S(370) SECISBP2_Y(184),0.6,0.5,1,1,2,0.8,0.013686666267911547,-0.0014229408493433126

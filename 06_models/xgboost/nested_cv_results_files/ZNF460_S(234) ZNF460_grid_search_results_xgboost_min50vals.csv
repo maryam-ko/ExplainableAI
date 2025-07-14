@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF460_S(234) ZNF460_S(275) ZNF460_S(489) ZNF460_T(252) ZNF460_T(318) ZNF460_T(374),1.0,0.5,3,1,8,0.8,0.026485086821040404,0.0378042247957723

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR37_S(119) WDR37_S(19) WDR37_S(20) WDR37_S(22) WDR37_S(24) WDR37_S(3) WDR37_S(30) WDR37_S(5) WDR37_T(10) WDR37_T(14) WDR37_T(28),1.0,0.5,3,10,6,1.0,0.03413437420941714,0.2594815546867281

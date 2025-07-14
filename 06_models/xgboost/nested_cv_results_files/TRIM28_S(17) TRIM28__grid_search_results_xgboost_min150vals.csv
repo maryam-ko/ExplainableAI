@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM28_S(17) TRIM28_S(19) TRIM28_S(3) TRIM28_S(4) TRIM28_S(50) TRIM28_S(628) TRIM28_S(68) TRIM28_T(416) TRIM28_T(628),0.8,0.5,4,1,8,0.8,0.0446839776568953,0.7774288669680242

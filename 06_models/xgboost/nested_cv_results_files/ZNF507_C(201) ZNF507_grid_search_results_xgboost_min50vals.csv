@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF507_C(201) ZNF507_S(195) ZNF507_S(388) ZNF507_S(404) ZNF507_S(427) ZNF507_S(484) ZNF507_S(487) ZNF507_S(603) ZNF507_S(721) ZNF507_S(884) ZNF507_S(95),1.0,0.5,4,10,8,1.0,0.026487777469106712,0.3756915496915534

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRA2B_S(228) TRA2B_S(234) TRA2B_S(260) TRA2B_S(264) TRA2B_S(266) TRA2B_T(103) TRA2B_T(208),0.8,0.5,4,1,8,1.0,0.03578746477562242,0.19181099939103713

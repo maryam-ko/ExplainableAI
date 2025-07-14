@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMBIM1_S(2) TMBIM1_S(78) TMBIM1_S(81),1.0,0.5,2,1,8,0.6,0.023462260351090863,0.15052026054977086

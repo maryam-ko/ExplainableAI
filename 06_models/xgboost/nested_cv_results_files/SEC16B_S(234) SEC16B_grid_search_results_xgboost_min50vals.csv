@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEC16B_S(234) SEC16B_S(55) SEC16B_S(935) SEC16B_S(948) SEC16B_Y(236),0.8,0.5,2,1,8,1.0,0.022190554588974034,0.17259250523041175

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRP14_S(68) SRP14_T(45) SRP14_Y(27),1.0,0.5,2,1,8,0.8,0.02087519419618165,0.009963821841298626

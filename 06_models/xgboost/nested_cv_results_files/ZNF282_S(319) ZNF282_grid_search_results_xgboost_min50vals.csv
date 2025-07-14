@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF282_S(319) ZNF282_T(313) ZNF282_T(317) ZNF282_T(597),0.6,0.5,2,1,4,0.8,0.010894167545868326,0.3300007912852519

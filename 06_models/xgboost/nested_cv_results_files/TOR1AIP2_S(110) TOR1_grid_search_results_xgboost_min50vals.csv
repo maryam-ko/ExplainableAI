@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOR1AIP2_S(110) TOR1AIP2_S(118) TOR1AIP2_S(158) TOR1AIP2_S(163),0.8,0.5,3,1,8,0.8,0.014614163136334313,0.10504370711523783

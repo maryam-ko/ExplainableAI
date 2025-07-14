@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UNC45A_S(4) UNC45A_S(472) UNC45A_T(12) UNC45A_T(15) UNC45A_T(53) UNC45A_T(8),1.0,0.5,4,10,8,1.0,0.054916671861267065,0.3632971570398028

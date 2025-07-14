@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRA2A_S(159) TRA2A_S(161) TRA2A_S(195) TRA2A_S(215) TRA2A_S(30) TRA2A_S(34) TRA2A_S(36) TRA2A_T(204),0.6,0.5,1,1,2,0.6,0.004696289870812248,-0.003251092344951978

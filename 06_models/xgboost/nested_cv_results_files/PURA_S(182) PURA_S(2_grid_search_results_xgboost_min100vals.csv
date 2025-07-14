@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PURA_S(182) PURA_S(254) PURA_S(6) PURA_T(183),1.0,0.5,3,1,8,1.0,0.02584154120809713,0.029887477130141792

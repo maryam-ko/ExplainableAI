@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RTEL1_S(24) RTEL1_S(36) RTEL1_S(779) RTEL1_S(847) RTEL1_S(92),0.8,0.5,2,10,6,0.8,0.015343090372055708,0.27494350641585746

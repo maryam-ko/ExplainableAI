@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPM4_S(170) TPM4_S(5) TPM4_S(6) TPM4_T(216) TPM4_T(3) TPM4_T(4) TPM4_T(6) TPM4_Y(10),0.8,0.5,3,10,8,1.0,0.02119180776522596,0.5379287049824722

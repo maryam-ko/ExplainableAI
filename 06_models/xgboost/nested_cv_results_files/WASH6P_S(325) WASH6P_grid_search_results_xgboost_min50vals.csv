@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WASH6P_S(325) WASH6P_S(327),1.0,0.5,4,1,6,1.0,0.016751221486663463,0.33387635743733346

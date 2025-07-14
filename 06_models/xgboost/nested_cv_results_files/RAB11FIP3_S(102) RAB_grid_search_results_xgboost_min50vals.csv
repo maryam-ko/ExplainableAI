@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB11FIP3_S(102) RAB11FIP3_S(52) RAB11FIP3_S(648),0.6,0.5,2,1,8,0.8,0.006156801973009743,0.32318312480074196

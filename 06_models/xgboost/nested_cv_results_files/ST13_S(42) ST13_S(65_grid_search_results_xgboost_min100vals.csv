@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ST13_S(42) ST13_S(65) ST13_S(69) ST13_S(75) ST13_S(76) ST13_S(79) ST13_S(9),1.0,0.5,4,1,4,1.0,0.029911022852453856,0.17696409499367421

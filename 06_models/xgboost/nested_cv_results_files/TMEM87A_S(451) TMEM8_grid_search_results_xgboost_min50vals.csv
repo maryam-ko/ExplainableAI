@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM87A_S(451) TMEM87A_S(468) TMEM87A_S(475) TMEM87A_S(479) TMEM87A_S(540),0.6,0.5,4,1,8,1.0,0.033406391507238356,0.1645030921580809

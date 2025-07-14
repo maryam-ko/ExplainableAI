@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRUB1_S(101) TRUB1_S(11) TRUB1_S(211) TRUB1_T(165) TRUB1_T(18) TRUB1_T(27) TRUB1_T(34),1.0,0.5,4,5,6,1.0,0.021324068147407352,0.5583513659857756

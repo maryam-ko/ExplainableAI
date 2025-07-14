@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOWAHA_S(244) SOWAHA_S(252) SOWAHA_S(290),0.6,0.5,1,1,4,0.6,0.013411867677158967,-0.0064167966307904665

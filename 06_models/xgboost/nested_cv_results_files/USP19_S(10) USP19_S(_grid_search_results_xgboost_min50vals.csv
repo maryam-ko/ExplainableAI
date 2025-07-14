@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP19_S(10) USP19_S(335) USP19_T(407) USP19_T(492),1.0,0.5,2,1,8,0.6,0.00936319110688613,0.33400531023246793

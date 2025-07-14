@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPMT_S(14) TPMT_S(7) TPMT_T(16),1.0,0.5,4,1,6,1.0,0.05999872970278793,0.4089609154187592

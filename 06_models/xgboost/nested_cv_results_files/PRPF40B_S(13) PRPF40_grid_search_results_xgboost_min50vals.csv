@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPF40B_S(13) PRPF40B_S(2) PRPF40B_S(751) PRPF40B_S(762) PRPF40B_S(764) PRPF40B_S(785) PRPF40B_S(819) PRPF40B_S(832) PRPF40B_S(853) PRPF40B_S(932),0.8,0.5,4,1,8,0.8,0.04183964343542457,0.3680620497576653

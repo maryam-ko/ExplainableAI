@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIN2_S(112) RIN2_S(3) RIN2_S(306) RIN2_S(322) RIN2_S(366) RIN2_S(408) RIN2_S(415) RIN2_S(486) RIN2_S(533) RIN2_S(534) RIN2_S(63) RIN2_S(79) RIN2_T(321) RIN2_T(408),1.0,0.5,2,1,8,0.8,0.03579363955979925,0.40472925760036943

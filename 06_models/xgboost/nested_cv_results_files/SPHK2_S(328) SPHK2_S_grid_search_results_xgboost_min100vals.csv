@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPHK2_S(328) SPHK2_S(387) SPHK2_S(399) SPHK2_S(414) SPHK2_S(476) SPHK2_S(484) SPHK2_S(546) SPHK2_S(549) SPHK2_T(382) SPHK2_T(466),1.0,0.5,4,5,6,1.0,0.031280286824184156,0.4839324481612439

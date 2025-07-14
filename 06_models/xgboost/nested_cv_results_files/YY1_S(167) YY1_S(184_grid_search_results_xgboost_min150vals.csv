@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YY1_S(167) YY1_S(184) YY1_S(187) YY1_S(225) YY1_S(255) YY1_S(407) YY1_T(255) YY1_T(378),1.0,0.5,4,5,8,0.8,0.02241006598131756,0.5621211334852027

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCF19_S(193) TCF19_T(263) TCF19_T(265),0.8,0.5,1,1,8,1.0,0.007175343062525717,0.4578071975806693

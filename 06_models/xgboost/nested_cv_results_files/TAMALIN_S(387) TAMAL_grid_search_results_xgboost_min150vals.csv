@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAMALIN_S(387) TAMALIN_S(94) TAMALIN_T(77) TAMALIN_Y(237),1.0,0.5,4,1,8,0.8,0.03455025297299571,0.5351704679097068

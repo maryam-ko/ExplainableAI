@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPATA2L_S(217) SPATA2L_S(317) SPATA2L_S(332),0.6,0.5,1,5,6,0.8,0.02876183637480987,0.0377562613593454

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZYX_S(13) ZYX_S(14) ZYX_S(142) ZYX_S(15) ZYX_S(170) ZYX_S(226) ZYX_S(276) ZYX_S(278) ZYX_S(290) ZYX_S(303) ZYX_S(34) ZYX_S(44) ZYX_S(481) ZYX_S(6) ZYX_S(7) ZYX_S(9) ZYX_T(250) ZYX_T(270) ZYX_Y(172) ZYX_Y(20),1.0,0.5,4,1,8,1.0,0.023281612979024282,0.5788819995242923

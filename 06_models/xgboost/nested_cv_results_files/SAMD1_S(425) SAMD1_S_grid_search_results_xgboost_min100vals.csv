@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAMD1_S(425) SAMD1_S(427) SAMD1_S(448) SAMD1_T(444) SAMD1_T(448),0.8,0.5,4,1,8,1.0,0.028556378297246,0.20662111012074585

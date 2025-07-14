@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YBX2_S(137) YBX2_S(189) YBX2_T(65) YBX2_T(76),1.0,0.5,4,1,8,0.6,0.011536483411695171,0.22031815060126236

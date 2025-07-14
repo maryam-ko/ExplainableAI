@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZCCHC17_S(108) ZCCHC17_S(113) ZCCHC17_S(114) ZCCHC17_S(146) ZCCHC17_S(170) ZCCHC17_S(90) ZCCHC17_T(132),0.8,0.5,4,1,8,1.0,0.020705663168535796,0.5567060232976191

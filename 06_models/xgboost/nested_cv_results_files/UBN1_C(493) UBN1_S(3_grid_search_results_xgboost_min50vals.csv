@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBN1_C(493) UBN1_S(338) UBN1_S(493) UBN1_S(660) UBN1_S(821) UBN1_S(992) UBN1_T(818) UBN1_Y(64),1.0,0.5,4,1,8,1.0,0.046862962228728426,0.3901013926329934

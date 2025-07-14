@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ILF2_S(218) ILF2_S(385) ILF2_S(43) ILF2_S(52) ILF2_S(54) ILF2_S(68) ILF2_S(76) ILF2_T(388) ILF2_T(51),0.6,0.5,4,10,8,1.0,0.04103436234072363,0.12215131458664974

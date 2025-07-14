@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBQLN1_S(13) UBQLN1_S(16) UBQLN1_S(4),1.0,0.5,2,5,8,0.8,0.00985074516005563,0.3933906211986809

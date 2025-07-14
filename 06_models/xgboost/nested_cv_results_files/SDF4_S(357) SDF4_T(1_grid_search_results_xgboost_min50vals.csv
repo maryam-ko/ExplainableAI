@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SDF4_S(357) SDF4_T(193),1.0,0.5,4,1,8,0.8,0.021301727720703205,0.19047505546265037

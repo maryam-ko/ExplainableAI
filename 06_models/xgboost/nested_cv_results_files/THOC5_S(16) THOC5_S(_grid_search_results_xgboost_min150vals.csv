@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THOC5_S(16) THOC5_S(25) THOC5_S(28) THOC5_S(307) THOC5_S(312) THOC5_S(314) THOC5_T(30) THOC5_T(328),1.0,0.5,4,1,8,1.0,0.031936906857916364,0.6971503738878762

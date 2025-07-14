@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMC1_T(434),1.0,0.5,2,1,4,1.0,0.01041089941227351,0.3521916212207742

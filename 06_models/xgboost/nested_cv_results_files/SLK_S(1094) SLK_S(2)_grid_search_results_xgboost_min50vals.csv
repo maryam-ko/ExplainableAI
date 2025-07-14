@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLK_S(1094) SLK_S(2) SLK_S(654) SLK_T(4) SLK_T(527),0.6,0.5,1,1,2,0.6,0.003718863550654176,-0.006749413089144651

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UACA_S(1206) UACA_S(1353) UACA_S(258) UACA_S(4) UACA_Y(731),1.0,0.5,3,1,8,1.0,0.019702849000334102,0.3191758289858382

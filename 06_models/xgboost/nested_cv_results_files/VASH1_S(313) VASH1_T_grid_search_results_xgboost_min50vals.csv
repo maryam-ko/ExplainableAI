@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VASH1_S(313) VASH1_T(309),1.0,0.5,2,1,8,0.8,0.01840533607183364,0.04938043217468735

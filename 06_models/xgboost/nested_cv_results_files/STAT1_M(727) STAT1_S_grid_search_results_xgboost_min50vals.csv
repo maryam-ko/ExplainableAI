@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAT1_M(727) STAT1_S(532) STAT1_S(740),0.8,0.5,2,1,8,1.0,0.006461590379628702,0.3130722015996934

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGPD2_S(2518) RGPD2_S(2520) RGPD2_T(2293),1.0,0.5,2,1,4,1.0,0.015712030331257055,0.16379243460522927

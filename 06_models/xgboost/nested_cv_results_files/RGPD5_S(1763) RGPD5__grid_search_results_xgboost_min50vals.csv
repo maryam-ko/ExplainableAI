@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGPD5_S(1763) RGPD5_S(1764) RGPD5_S(1955) RGPD5_S(21) RGPD5_S(2246) RGPD5_S(2462) RGPD5_S(2510) RGPD5_S(839) RGPD5_T(19) RGPD5_T(2450) RGPD5_T(2458),1.0,0.5,2,1,4,0.8,0.023901615533347517,0.010862680263310031

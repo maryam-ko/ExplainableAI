@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RYBP_S(101) RYBP_S(123) RYBP_S(127) RYBP_S(130) RYBP_S(181) RYBP_S(214) RYBP_S(227) RYBP_S(574) RYBP_S(94) RYBP_S(96) RYBP_S(99) RYBP_T(215) RYBP_T(72),1.0,0.5,4,1,8,1.0,0.04009280774306659,0.6585867612566947

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RABGAP1L_M(490) RABGAP1L_S(292) RABGAP1L_S(459) RABGAP1L_Y(455),1.0,0.5,3,5,4,1.0,0.014591759193538612,0.23961989767503605

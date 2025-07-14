@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PODXL_S(122) PODXL_S(185) PODXL_S(188) PODXL_S(519) PODXL_S(529) PODXL_S(537) PODXL_T(518),1.0,0.5,4,1,2,1.0,0.019637545801333346,0.21174575257161762

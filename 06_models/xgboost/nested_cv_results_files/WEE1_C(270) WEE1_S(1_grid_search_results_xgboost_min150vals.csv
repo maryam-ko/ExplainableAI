@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WEE1_C(270) WEE1_S(127) WEE1_S(137) WEE1_S(139) WEE1_S(150) WEE1_S(164) WEE1_S(165) WEE1_S(262) WEE1_S(270) WEE1_S(312) WEE1_S(472) WEE1_S(642) WEE1_S(66) WEE1_S(67) WEE1_S(98) WEE1_T(173) WEE1_T(183) WEE1_T(187) WEE1_T(190) WEE1_T(239),0.8,0.5,4,1,8,1.0,0.03701609342647328,0.6350286078304713

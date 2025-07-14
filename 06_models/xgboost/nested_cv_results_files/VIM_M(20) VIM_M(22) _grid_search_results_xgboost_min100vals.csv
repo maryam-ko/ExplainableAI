@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VIM_M(20) VIM_M(22) VIM_M(25) VIM_S(13) VIM_S(205) VIM_S(226) VIM_S(339) VIM_S(424) VIM_S(458) VIM_S(50) VIM_S(6) VIM_S(65) VIM_S(66) VIM_S(7) VIM_T(202) VIM_T(32) VIM_T(327) VIM_T(33) VIM_T(361) VIM_T(37) VIM_T(4) VIM_T(446) VIM_Y(11) VIM_Y(117) VIM_Y(150) VIM_Y(276) VIM_Y(30) VIM_Y(38) VIM_Y(53),0.6,0.5,4,1,8,1.0,0.03587446195640405,0.4844292314496779

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCRN2_S(55) SCRN2_S(63) SCRN2_T(207) SCRN2_T(50) SCRN2_T(52),0.8,0.5,4,1,4,1.0,0.02406755302746333,0.2866953622199791

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUFU_S(342) SUFU_S(346) SUFU_S(481),1.0,0.5,3,10,8,0.8,0.011784651229819025,0.6037821459550541

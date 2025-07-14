@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASA3_S(5) RASA3_S(58) RASA3_S(777) RASA3_S(806) RASA3_S(809) RASA3_S(827) RASA3_S(833) RASA3_S(90) RASA3_T(829) RASA3_T(831) RASA3_Y(790) RASA3_Y(807),0.8,0.5,4,5,8,1.0,0.0277922835556328,0.5556662722930424

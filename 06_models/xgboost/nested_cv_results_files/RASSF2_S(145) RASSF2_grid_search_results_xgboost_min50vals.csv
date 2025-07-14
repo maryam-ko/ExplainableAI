@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASSF2_S(145) RASSF2_S(159) RASSF2_T(143),0.6,0.5,4,1,8,1.0,0.009437879231103372,0.30473856155041895

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLMAP_S(129) SLMAP_S(148) SLMAP_S(235) SLMAP_S(402) SLMAP_S(414) SLMAP_S(443) SLMAP_S(452),1.0,0.5,4,1,8,0.8,0.0352634157896038,0.4410227905686709

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFG_M(193) TFG_M(197) TFG_S(148) TFG_S(164) TFG_S(193) TFG_S(197) TFG_S(50) TFG_T(140) TFG_T(372),1.0,0.5,3,5,8,1.0,0.016634933434493914,0.7171768599106811

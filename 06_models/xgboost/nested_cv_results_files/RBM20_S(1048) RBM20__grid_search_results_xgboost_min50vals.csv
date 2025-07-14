@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM20_S(1048) RBM20_S(1060) RBM20_S(1210) RBM20_S(18) RBM20_S(3) RBM20_S(32) RBM20_S(5) RBM20_T(1104) RBM20_T(1124),0.8,0.5,1,1,8,0.6,0.012514832270867589,0.06572022105973133

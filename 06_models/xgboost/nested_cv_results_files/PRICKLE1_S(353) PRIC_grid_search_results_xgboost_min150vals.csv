@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRICKLE1_S(353) PRICKLE1_S(624) PRICKLE1_S(681) PRICKLE1_S(683),1.0,0.5,4,1,6,1.0,0.026813487476669978,0.4440851592721476

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RILP_S(144) RILP_S(145) RILP_S(314) RILP_S(315) RILP_S(354) RILP_S(355) RILP_S(361),1.0,0.5,3,1,2,1.0,0.00818627111242194,0.38903349626795675

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UNC13D_S(1082) UNC13D_S(784) UNC13D_T(99),0.6,0.5,1,1,8,0.6,0.009605472339337095,-0.0012116669366685872

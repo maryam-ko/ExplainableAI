@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RLIM_S(163) RLIM_S(164) RLIM_S(228) RLIM_S(230) RLIM_S(235) RLIM_S(236) RLIM_S(54) RLIM_S(6) RLIM_S(89) RLIM_T(349),0.6,0.5,4,1,8,1.0,0.026761715657614316,0.1803093288669002

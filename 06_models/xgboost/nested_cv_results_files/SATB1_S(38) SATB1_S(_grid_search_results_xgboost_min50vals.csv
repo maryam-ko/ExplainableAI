@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SATB1_S(38) SATB1_S(40) SATB1_S(47) SATB1_S(633) SATB1_S(637) SATB1_S(667) SATB1_S(671) SATB1_T(630),1.0,0.5,3,1,4,1.0,0.02446710501988027,0.2702039562341011

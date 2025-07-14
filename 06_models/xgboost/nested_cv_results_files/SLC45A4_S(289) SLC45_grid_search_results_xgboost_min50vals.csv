@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC45A4_S(289) SLC45A4_S(339) SLC45A4_S(348) SLC45A4_S(382) SLC45A4_S(424) SLC45A4_S(454) SLC45A4_S(732) SLC45A4_T(343),1.0,0.5,4,1,8,0.8,0.022183538603534562,0.07151397969679467

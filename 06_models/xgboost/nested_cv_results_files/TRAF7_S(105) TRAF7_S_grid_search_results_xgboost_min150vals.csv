@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRAF7_S(105) TRAF7_S(108) TRAF7_S(13) TRAF7_S(21) TRAF7_S(4) TRAF7_S(61) TRAF7_S(64) TRAF7_S(69) TRAF7_S(76) TRAF7_S(86) TRAF7_S(88) TRAF7_S(91) TRAF7_S(94) TRAF7_S(97) TRAF7_T(13) TRAF7_T(21) TRAF7_T(59) TRAF7_T(82),1.0,0.5,4,1,8,1.0,0.02620080115791847,0.45066243020032626

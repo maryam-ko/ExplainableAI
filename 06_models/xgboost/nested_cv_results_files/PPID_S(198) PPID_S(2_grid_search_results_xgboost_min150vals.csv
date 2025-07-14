@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPID_S(198) PPID_S(201) PPID_S(5) PPID_Y(323),0.8,0.5,4,1,8,1.0,0.03951219609445028,0.47260207640123564

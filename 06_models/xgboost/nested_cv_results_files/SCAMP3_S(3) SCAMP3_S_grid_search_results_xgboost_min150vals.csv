@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCAMP3_S(3) SCAMP3_S(32) SCAMP3_S(76) SCAMP3_S(91) SCAMP3_T(78) SCAMP3_Y(53),0.6,0.5,4,5,8,0.8,0.028484069534098856,0.7476817822437855

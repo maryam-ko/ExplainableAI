@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOD1_S(103) SOD1_S(108) SOD1_S(16) SOD1_S(69) SOD1_S(99) SOD1_T(59) SOD1_T(89),1.0,0.5,3,5,8,1.0,0.027643036785646394,0.35147023649203474

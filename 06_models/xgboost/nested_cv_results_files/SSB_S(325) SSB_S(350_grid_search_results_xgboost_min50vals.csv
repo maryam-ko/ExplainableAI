@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SSB_S(325) SSB_S(350) SSB_S(361) SSB_S(363) SSB_S(366) SSB_S(91),1.0,0.5,4,1,8,0.8,0.0651446290361174,0.4877610179653937

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS37A_S(10) VPS37A_S(18) VPS37A_S(3),0.6,0.5,2,1,8,1.0,0.018728398291911964,0.181112719939849

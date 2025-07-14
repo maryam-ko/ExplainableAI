@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKCB_S(11),0.8,0.5,4,1,8,1.0,0.009155000581067359,0.4019654357409383

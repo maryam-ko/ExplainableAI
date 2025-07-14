@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMAD3_S(416) SMAD3_T(8),1.0,0.5,4,5,8,1.0,0.030323680889890736,0.2195375367088536

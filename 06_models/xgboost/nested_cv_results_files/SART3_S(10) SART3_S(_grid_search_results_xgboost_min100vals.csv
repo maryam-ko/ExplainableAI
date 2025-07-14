@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SART3_S(10) SART3_S(769) SART3_S(784) SART3_S(8) SART3_T(7),0.8,0.5,4,10,8,1.0,0.029481690181825563,0.672182840297668

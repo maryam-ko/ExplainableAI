@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SETX_S(1300) SETX_S(1345) SETX_S(1623) SETX_S(1663) SETX_S(207) SETX_S(2605) SETX_S(2612) SETX_S(2639) SETX_S(2641) SETX_S(842) SETX_S(911) SETX_S(949) SETX_S(950) SETX_T(2478),0.8,0.5,4,1,8,1.0,0.017830332809512794,0.705166645854726

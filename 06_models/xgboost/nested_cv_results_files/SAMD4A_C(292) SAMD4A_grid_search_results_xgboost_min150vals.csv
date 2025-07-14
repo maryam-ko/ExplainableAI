@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAMD4A_C(292) SAMD4A_M(450) SAMD4A_S(11) SAMD4A_S(168) SAMD4A_S(272) SAMD4A_S(292) SAMD4A_S(319) SAMD4A_S(447) SAMD4A_S(450) SAMD4A_S(591) SAMD4A_S(67) SAMD4A_T(630),0.6,0.5,4,10,8,1.0,0.019499379526727516,0.5915339512462507

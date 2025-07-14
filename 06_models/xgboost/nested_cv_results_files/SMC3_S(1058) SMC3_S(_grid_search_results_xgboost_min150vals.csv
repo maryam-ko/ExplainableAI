@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMC3_S(1058) SMC3_S(1065) SMC3_S(1067) SMC3_S(1074) SMC3_S(1077) SMC3_S(1079) SMC3_S(1081) SMC3_S(1083) SMC3_S(1089) SMC3_S(292) SMC3_S(787) SMC3_S(886) SMC3_S(9),0.6,0.5,4,5,8,1.0,0.03706973117044085,0.6682022884067208

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UCK1_S(11) UCK1_S(244) UCK1_S(253) UCK1_S(3) UCK1_T(251),0.6,0.5,4,10,8,1.0,0.039718556068085345,0.35727982689980753

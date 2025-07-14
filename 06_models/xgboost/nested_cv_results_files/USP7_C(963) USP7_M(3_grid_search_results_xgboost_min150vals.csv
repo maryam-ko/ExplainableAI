@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP7_C(963) USP7_M(30) USP7_S(18) USP7_S(752) USP7_S(864) USP7_S(963) USP7_T(1092) USP7_Y(1091) USP7_Y(1093),0.8,0.5,4,1,8,1.0,0.03268413695454231,0.6821308175763532

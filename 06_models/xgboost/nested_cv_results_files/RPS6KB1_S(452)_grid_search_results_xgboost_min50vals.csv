@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS6KB1_S(452),0.8,0.5,2,1,6,0.8,0.010574900906123879,0.12128854380345704

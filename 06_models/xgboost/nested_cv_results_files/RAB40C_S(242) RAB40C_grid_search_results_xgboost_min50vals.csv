@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB40C_S(242) RAB40C_S(252) RAB40C_S(256) RAB40C_S(262) RAB40C_S(268) RAB40C_S(273),0.6,0.5,2,1,8,0.8,0.012281022254127815,0.23059301112555558

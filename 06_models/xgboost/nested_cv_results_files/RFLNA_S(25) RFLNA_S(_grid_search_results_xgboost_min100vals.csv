@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFLNA_S(25) RFLNA_S(33) RFLNA_S(37),1.0,0.5,4,1,8,0.8,0.02040513539447066,0.1348505001059333

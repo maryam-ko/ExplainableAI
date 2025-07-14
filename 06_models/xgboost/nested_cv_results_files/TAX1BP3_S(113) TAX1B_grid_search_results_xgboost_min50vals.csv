@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAX1BP3_S(113) TAX1BP3_S(124) TAX1BP3_S(61),0.6,0.5,3,5,8,1.0,0.030336711194457223,0.16885534600379187

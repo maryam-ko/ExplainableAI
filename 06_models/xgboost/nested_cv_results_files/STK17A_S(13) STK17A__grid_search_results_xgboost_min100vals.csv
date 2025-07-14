@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK17A_S(13) STK17A_S(18) STK17A_S(28) STK17A_S(9) STK17A_T(17),0.6,0.5,4,1,8,1.0,0.030837622540205476,0.5424098853863988

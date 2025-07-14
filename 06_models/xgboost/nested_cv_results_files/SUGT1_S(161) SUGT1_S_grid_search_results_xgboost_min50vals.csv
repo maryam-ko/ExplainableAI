@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUGT1_S(161) SUGT1_S(248) SUGT1_S(249) SUGT1_S(279) SUGT1_S(280) SUGT1_T(233) SUGT1_T(284) SUGT1_Y(245) SUGT1_Y(251) SUGT1_Y(285),1.0,0.5,4,5,8,0.8,0.02033623863577116,0.26619082329978705

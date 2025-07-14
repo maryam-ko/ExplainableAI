@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTBK2_S(1186) TTBK2_S(1191) TTBK2_S(1548) TTBK2_S(371) TTBK2_S(428) TTBK2_S(448) TTBK2_S(717) TTBK2_S(794) TTBK2_S(817) TTBK2_T(1225) TTBK2_T(1544) TTBK2_T(431) TTBK2_T(819),0.8,0.5,3,1,4,1.0,0.017738713607476163,0.30392347128401564

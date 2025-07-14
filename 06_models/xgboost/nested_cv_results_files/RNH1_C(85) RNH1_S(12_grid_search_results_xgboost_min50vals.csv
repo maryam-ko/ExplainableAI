@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNH1_C(85) RNH1_S(12) RNH1_S(225) RNH1_S(228) RNH1_S(285) RNH1_S(91) RNH1_T(82),1.0,0.5,4,1,8,0.8,0.017139344238389538,0.37828944146303634

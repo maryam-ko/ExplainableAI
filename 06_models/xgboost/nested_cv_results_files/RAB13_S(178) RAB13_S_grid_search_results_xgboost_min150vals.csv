@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB13_S(178) RAB13_S(186) RAB13_T(187) RAB13_T(49) RAB13_T(64) RAB13_T(72) RAB13_Y(37) RAB13_Y(5),0.8,0.5,4,1,8,1.0,0.025336455904097863,0.5149132101283179

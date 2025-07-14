@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAP30L_S(93) SAP30L_S(99),1.0,0.5,3,5,8,0.8,0.027504872783266895,0.1415144887461635

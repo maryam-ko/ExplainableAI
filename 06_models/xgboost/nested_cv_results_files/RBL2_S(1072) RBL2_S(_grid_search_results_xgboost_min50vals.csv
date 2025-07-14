@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBL2_S(1072) RBL2_S(349) RBL2_S(373) RBL2_S(692) RBL2_S(778) RBL2_S(965) RBL2_S(995) RBL2_T(352) RBL2_T(364) RBL2_T(398) RBL2_T(696) RBL2_T(954),0.6,0.5,2,1,8,0.8,0.005936985958008235,0.12638772069677962

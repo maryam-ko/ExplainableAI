@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRP7A_C(87) RRP7A_C(99) RRP7A_S(144) RRP7A_S(19) RRP7A_Y(68),1.0,0.5,3,1,8,1.0,0.025545075700444324,0.17093283646174431

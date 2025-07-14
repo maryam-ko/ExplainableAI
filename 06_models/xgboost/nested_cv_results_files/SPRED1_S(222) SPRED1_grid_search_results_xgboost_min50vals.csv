@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPRED1_S(222) SPRED1_S(225) SPRED1_S(238),0.6,0.5,1,1,2,0.6,0.013297000248665623,-0.007069470510876696

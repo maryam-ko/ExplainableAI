@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SZRD1_S(104) SZRD1_S(19) SZRD1_S(38) SZRD1_S(51) SZRD1_S(54) SZRD1_S(6),0.6,0.5,1,1,2,0.8,0.008473765023892604,-0.007215578410487833

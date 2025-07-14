@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL4_S(12) RPL4_S(161) RPL4_S(186) RPL4_S(233) RPL4_S(255) RPL4_S(275) RPL4_S(295) RPL4_S(365) RPL4_S(87) RPL4_T(266) RPL4_Y(211),1.0,0.5,4,1,8,1.0,0.029391842748845733,0.7558945117396751

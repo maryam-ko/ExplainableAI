@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UQCRC1_S(107) UQCRC1_S(205) UQCRC1_S(439) UQCRC1_S(5),0.6,0.5,4,5,8,1.0,0.038497552206907,0.5557405198875939

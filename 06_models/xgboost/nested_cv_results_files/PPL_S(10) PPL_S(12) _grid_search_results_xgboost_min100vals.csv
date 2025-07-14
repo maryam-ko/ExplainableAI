@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPL_S(10) PPL_S(12) PPL_S(14) PPL_S(153) PPL_S(1584) PPL_S(1656) PPL_S(1657) PPL_S(1670) PPL_S(259) PPL_S(827) PPL_S(887) PPL_S(929) PPL_T(10) PPL_T(1282) PPL_T(1665) PPL_Y(13) PPL_Y(992),1.0,0.5,4,1,8,0.8,0.041628661516281605,0.07278257269242887

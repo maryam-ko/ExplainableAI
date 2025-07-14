@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP40_S(1199),1.0,0.5,4,10,8,1.0,0.022241877154140204,0.17070314263689051

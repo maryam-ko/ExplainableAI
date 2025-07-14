@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TACC1_S(147) TACC1_S(153) TACC1_S(260) TACC1_S(305) TACC1_S(4) TACC1_S(55) TACC1_S(577) TACC1_T(257) TACC1_T(275) TACC1_T(48),1.0,0.5,4,1,6,1.0,0.015705660775800382,0.38018700712323544

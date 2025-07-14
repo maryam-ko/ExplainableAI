@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRAD_S(2) RRAD_S(26) RRAD_S(273) RRAD_S(290) RRAD_S(301) RRAD_S(39) RRAD_S(4) RRAD_T(2),1.0,0.5,4,1,8,1.0,0.03722023154072192,0.24436425187004546

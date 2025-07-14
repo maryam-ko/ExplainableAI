@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TKFC_S(436) TKFC_S(545) TKFC_S(575),0.8,0.5,4,1,8,1.0,0.012375079885879102,0.565604906531042

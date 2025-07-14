@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TERF2_S(323) TERF2_S(365) TERF2_S(410),0.8,0.5,4,1,8,1.0,0.05248179321696116,0.391523402051534

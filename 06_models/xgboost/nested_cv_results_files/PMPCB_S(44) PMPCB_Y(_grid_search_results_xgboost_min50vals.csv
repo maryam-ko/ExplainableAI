@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PMPCB_S(44) PMPCB_Y(36),0.6,0.5,1,1,2,1.0,0.009336603888456087,-0.0025564774409218226

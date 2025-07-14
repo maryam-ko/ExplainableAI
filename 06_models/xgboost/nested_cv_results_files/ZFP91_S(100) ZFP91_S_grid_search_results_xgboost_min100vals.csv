@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFP91_S(100) ZFP91_S(101) ZFP91_S(69) ZFP91_S(80) ZFP91_S(82) ZFP91_S(83) ZFP91_S(85),0.6,0.5,4,1,8,1.0,0.034127535230833284,0.7424632051784467

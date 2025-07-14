@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PBXIP1_S(14) PBXIP1_S(36) PBXIP1_S(407) PBXIP1_S(440) PBXIP1_S(45) PBXIP1_S(521) PBXIP1_S(522) PBXIP1_S(6) PBXIP1_S(67) PBXIP1_S(9),1.0,0.5,4,5,8,0.6,0.034445801065477406,0.47776313162923045

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SON_M(1076) SON_S(1026) SON_S(1450) SON_S(1461) SON_S(157) SON_S(1631) SON_S(1633) SON_S(1670) SON_S(1686) SON_S(1710) SON_S(1759) SON_S(1766) SON_S(1820) SON_S(2190) SON_T(1679) SON_T(39),1.0,0.5,3,1,8,1.0,0.017330209331082206,0.16065742498553007

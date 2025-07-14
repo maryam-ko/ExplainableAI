@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNAPC4_S(1170) SNAPC4_S(1224) SNAPC4_S(1398) SNAPC4_S(1400) SNAPC4_S(599) SNAPC4_S(626) SNAPC4_S(68) SNAPC4_S(702),0.6,0.5,4,5,8,1.0,0.029709433123379002,0.6117695168324649

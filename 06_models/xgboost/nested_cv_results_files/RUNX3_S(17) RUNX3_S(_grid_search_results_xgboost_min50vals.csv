@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RUNX3_S(17) RUNX3_S(214) RUNX3_T(231),0.6,0.5,1,1,8,0.6,0.008036494877189049,-0.0042362138962599

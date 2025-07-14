@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RTF1_S(105) RTF1_S(258) RTF1_S(262) RTF1_S(313) RTF1_S(53) RTF1_S(58) RTF1_S(60) RTF1_S(650) RTF1_S(652) RTF1_S(655) RTF1_S(675) RTF1_S(696) RTF1_S(697) RTF1_T(55),0.8,0.5,4,1,8,1.0,0.04364012791419567,0.2435576474135635

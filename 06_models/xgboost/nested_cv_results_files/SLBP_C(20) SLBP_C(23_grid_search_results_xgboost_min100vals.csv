@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLBP_C(20) SLBP_C(23) SLBP_S(110) SLBP_S(111) SLBP_S(182) SLBP_S(189) SLBP_S(20) SLBP_S(23) SLBP_S(59) SLBP_S(7) SLBP_T(171) SLBP_T(62),1.0,0.5,4,1,8,1.0,0.032188048733335695,0.5963295308533835

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SVIL_M(707) SVIL_S(1141) SVIL_S(1287) SVIL_S(1395) SVIL_S(194) SVIL_S(259) SVIL_S(344) SVIL_S(520) SVIL_S(65) SVIL_S(7) SVIL_S(912) SVIL_S(996) SVIL_T(1221) SVIL_T(123) SVIL_T(685) SVIL_T(7) SVIL_T(9),0.8,0.5,3,1,8,0.8,0.009842428611340185,0.24517881172464523

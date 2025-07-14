@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRPK3_S(330) SRPK3_S(397) SRPK3_S(4) SRPK3_S(402) SRPK3_S(9),1.0,0.5,2,1,8,0.6,0.013182300092311618,0.15090613291227375

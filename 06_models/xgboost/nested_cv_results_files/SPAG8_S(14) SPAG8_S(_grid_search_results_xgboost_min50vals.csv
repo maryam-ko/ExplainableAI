@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPAG8_S(14) SPAG8_S(16) SPAG8_S(22) SPAG8_S(23) SPAG8_S(232) SPAG8_S(430) SPAG8_S(438) SPAG8_T(318) SPAG8_T(441) SPAG8_T(475),1.0,0.5,4,1,8,0.8,0.020069997889725043,0.17355945005268772

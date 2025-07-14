@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TXLNG_C(102) TXLNG_C(105) TXLNG_S(101) TXLNG_S(517) TXLNG_S(520) TXLNG_S(86) TXLNG_S(97) TXLNG_T(518) TXLNG_Y(101),0.6,0.5,4,1,6,1.0,0.02242741934071528,0.4668966340381989

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNAPC1_S(292) SNAPC1_S(294),0.8,0.5,3,1,4,0.8,0.009371662148622938,0.09274376164369902

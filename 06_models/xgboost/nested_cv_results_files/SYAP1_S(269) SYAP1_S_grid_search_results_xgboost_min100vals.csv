@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYAP1_S(269) SYAP1_S(313) SYAP1_T(1) SYAP1_T(248),1.0,0.5,4,1,6,1.0,0.04815466233140591,0.6093790169724701

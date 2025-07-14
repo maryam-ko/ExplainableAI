@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEC24C_S(1254) SEC24C_S(328) SEC24C_S(862) SEC24C_S(891) SEC24C_S(957),0.6,0.5,1,5,8,0.6,0.011535137516584762,-0.014815359919279602

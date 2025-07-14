@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+R3HCC1_S(194) R3HCC1_S(236) R3HCC1_S(276),0.8,0.5,3,1,6,1.0,0.01598393071002424,0.5903062180302372

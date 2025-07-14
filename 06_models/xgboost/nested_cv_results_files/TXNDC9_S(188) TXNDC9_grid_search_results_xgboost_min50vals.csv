@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TXNDC9_S(188) TXNDC9_S(221) TXNDC9_S(223) TXNDC9_Y(187),1.0,0.5,3,1,8,1.0,0.046724826898413695,0.3193529480937968

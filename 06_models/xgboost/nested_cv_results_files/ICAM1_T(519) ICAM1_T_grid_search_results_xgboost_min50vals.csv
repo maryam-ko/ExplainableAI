@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ICAM1_T(519) ICAM1_T(530),0.8,0.5,4,1,8,1.0,0.039385575517858894,0.030309218805463157

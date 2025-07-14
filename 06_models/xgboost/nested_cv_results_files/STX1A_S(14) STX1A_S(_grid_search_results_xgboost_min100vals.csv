@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STX1A_S(14) STX1A_S(200) STX1A_S(59),1.0,0.5,4,1,8,1.0,0.030086488709750555,0.43279102490101984

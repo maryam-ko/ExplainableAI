@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLS3_S(268) PLS3_S(336) PLS3_S(339) PLS3_S(4) PLS3_T(331) PLS3_T(391) PLS3_T(617),0.6,0.5,2,10,8,1.0,0.02834180236122166,0.12879619788876698

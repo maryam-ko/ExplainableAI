@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFHX3_S(1146) ZFHX3_S(1195) ZFHX3_S(1247) ZFHX3_S(1394) ZFHX3_S(2207) ZFHX3_S(2623) ZFHX3_S(2625) ZFHX3_S(2804) ZFHX3_S(2889) ZFHX3_S(430) ZFHX3_T(1147) ZFHX3_T(413),0.6,0.5,4,1,8,0.8,0.020099735548047875,0.16649446404086846

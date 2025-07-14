@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZW10_S(3) ZW10_T(133) ZW10_T(438),1.0,0.5,3,1,8,1.0,0.025601202308064668,0.1744562897810685

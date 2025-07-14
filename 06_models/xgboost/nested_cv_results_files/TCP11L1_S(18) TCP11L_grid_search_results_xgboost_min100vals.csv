@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCP11L1_S(18) TCP11L1_S(21) TCP11L1_S(300) TCP11L1_S(46) TCP11L1_S(55) TCP11L1_S(56) TCP11L1_S(99),0.8,0.5,4,5,6,1.0,0.03097261700726717,0.44111165140656083

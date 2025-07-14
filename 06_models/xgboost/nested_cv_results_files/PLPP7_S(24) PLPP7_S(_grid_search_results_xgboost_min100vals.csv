@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLPP7_S(24) PLPP7_S(3) PLPP7_S(43) PLPP7_S(62),0.6,0.5,4,1,4,1.0,0.03177698361670489,0.163831847118104

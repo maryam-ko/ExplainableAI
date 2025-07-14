@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAE1_S(12) SAE1_S(185) SAE1_S(86) SAE1_T(194),0.8,0.5,4,1,8,1.0,0.022099305504330573,0.30818601610324714

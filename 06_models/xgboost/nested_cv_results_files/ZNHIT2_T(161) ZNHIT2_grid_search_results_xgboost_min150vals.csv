@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNHIT2_T(161) ZNHIT2_T(189),0.6,0.5,4,1,8,1.0,0.025017206738866336,0.4120802160562282

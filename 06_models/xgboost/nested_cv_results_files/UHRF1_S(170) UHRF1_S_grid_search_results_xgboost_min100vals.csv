@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UHRF1_S(170) UHRF1_S(651) UHRF1_S(657) UHRF1_S(661) UHRF1_S(76) UHRF1_T(68),1.0,0.5,1,1,4,0.8,0.013104044876993801,0.14500514731543546

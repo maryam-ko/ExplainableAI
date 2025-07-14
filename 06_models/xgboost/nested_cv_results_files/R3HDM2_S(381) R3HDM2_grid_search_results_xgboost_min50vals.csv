@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+R3HDM2_S(381) R3HDM2_S(550) R3HDM2_S(869) R3HDM2_S(921) R3HDM2_T(34),0.6,0.5,4,5,8,0.6,0.02018380934757131,0.0008814276448221303

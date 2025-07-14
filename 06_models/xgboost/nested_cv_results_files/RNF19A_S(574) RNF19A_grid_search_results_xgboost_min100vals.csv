@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF19A_S(574) RNF19A_S(599) RNF19A_S(600) RNF19A_S(631) RNF19A_S(66),1.0,0.5,4,1,8,1.0,0.022185090165936616,0.20280722307697063

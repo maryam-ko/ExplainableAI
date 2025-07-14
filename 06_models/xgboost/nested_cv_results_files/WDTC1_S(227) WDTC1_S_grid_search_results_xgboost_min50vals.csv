@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDTC1_S(227) WDTC1_S(3) WDTC1_S(352) WDTC1_S(353) WDTC1_S(510) WDTC1_S(511) WDTC1_S(662),0.6,0.5,3,1,8,1.0,0.02970311512370686,0.31109588362364304

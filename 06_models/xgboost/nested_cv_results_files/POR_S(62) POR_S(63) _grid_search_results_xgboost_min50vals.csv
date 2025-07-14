@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POR_S(62) POR_S(63) POR_S(67),0.6,0.5,3,1,8,1.0,0.019443500132566984,0.16399476903267957

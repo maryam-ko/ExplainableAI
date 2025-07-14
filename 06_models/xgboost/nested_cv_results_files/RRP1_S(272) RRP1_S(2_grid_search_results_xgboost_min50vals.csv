@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRP1_S(272) RRP1_S(291) RRP1_S(383) RRP1_S(386) RRP1_T(412),1.0,0.5,4,1,8,1.0,0.045666325851806445,0.12466842441531414

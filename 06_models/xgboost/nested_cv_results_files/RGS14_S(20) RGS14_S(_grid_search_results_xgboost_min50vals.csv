@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RGS14_S(20) RGS14_S(203) RGS14_S(218) RGS14_S(287) RGS14_S(288) RGS14_S(291) RGS14_S(478) RGS14_S(73) RGS14_T(200) RGS14_T(292),0.6,0.5,2,1,8,1.0,0.025577165577917158,0.4499617856297163

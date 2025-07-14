@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAGLN2_S(11) TAGLN2_S(184) TAGLN2_S(185) TAGLN2_Y(8),0.8,0.5,4,1,8,1.0,0.015577947888147595,0.7082148821300642

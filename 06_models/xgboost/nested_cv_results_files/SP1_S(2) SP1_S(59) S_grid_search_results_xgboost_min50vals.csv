@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SP1_S(2) SP1_S(59) SP1_S(68) SP1_S(7) SP1_S(73) SP1_T(12),0.6,0.5,4,5,8,1.0,0.036857668976002456,0.3924555843480114

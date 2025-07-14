@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPF8_S(1358) PRPF8_S(2079) PRPF8_S(569) PRPF8_S(859) PRPF8_T(1404) PRPF8_T(2042) PRPF8_T(2066) PRPF8_T(618),0.6,0.5,1,1,6,0.8,0.027551126643716225,-0.007702689301896703

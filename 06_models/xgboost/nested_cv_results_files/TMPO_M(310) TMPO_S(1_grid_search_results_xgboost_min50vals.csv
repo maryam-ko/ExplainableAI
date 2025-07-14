@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMPO_M(310) TMPO_S(148) TMPO_S(157) TMPO_S(158) TMPO_S(168) TMPO_S(247) TMPO_S(303) TMPO_S(345) TMPO_S(348) TMPO_S(354) TMPO_S(355) TMPO_S(370) TMPO_S(416) TMPO_S(436) TMPO_S(459) TMPO_S(497) TMPO_S(6) TMPO_S(8) TMPO_T(26) TMPO_T(3) TMPO_T(71),1.0,0.5,4,1,6,1.0,0.02588724481761724,0.29315224344544444

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPP30_S(246) RPP30_S(251) RPP30_S(257),0.8,0.5,4,1,8,1.0,0.0565185301069373,0.46917275703166006

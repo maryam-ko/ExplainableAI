@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UGDH_S(275) UGDH_S(476) UGDH_T(185) UGDH_T(91),1.0,0.5,4,1,8,0.8,0.03165185403519614,0.18989714344496272

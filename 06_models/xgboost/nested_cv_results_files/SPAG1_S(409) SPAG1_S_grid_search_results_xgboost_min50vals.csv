@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPAG1_S(409) SPAG1_S(520) SPAG1_S(560) SPAG1_S(565) SPAG1_S(581) SPAG1_T(409) SPAG1_T(418) SPAG1_Y(660),1.0,0.5,3,1,8,0.8,0.015463827392972546,0.09897782199456791

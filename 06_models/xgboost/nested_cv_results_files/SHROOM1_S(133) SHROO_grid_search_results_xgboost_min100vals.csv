@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SHROOM1_S(133) SHROOM1_S(190) SHROOM1_S(302) SHROOM1_S(344) SHROOM1_S(364) SHROOM1_S(82),0.6,0.5,4,1,8,1.0,0.02703036340156513,0.13686886020371408

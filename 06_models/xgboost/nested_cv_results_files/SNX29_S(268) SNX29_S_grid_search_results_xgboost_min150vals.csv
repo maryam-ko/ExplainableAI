@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNX29_S(268) SNX29_S(330) SNX29_S(344) SNX29_S(425) SNX29_S(450) SNX29_S(6) SNX29_S(639) SNX29_S(642) SNX29_S(646) SNX29_S(810) SNX29_T(641),1.0,0.5,4,1,8,1.0,0.025230860854166242,0.6706588995615616

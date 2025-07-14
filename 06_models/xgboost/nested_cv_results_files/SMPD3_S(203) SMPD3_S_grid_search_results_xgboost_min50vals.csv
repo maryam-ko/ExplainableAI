@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMPD3_S(203) SMPD3_S(206) SMPD3_S(209) SMPD3_S(328),0.6,0.5,1,1,2,0.6,0.0146760166319286,-0.00313446617568931

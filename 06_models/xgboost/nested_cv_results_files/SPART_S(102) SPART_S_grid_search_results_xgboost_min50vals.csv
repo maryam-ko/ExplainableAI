@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPART_S(102) SPART_S(393) SPART_S(400) SPART_S(470) SPART_S(524) SPART_S(60) SPART_T(101) SPART_Y(114) SPART_Y(628),1.0,0.5,4,1,8,0.6,0.023558993096399264,0.19096894297363365

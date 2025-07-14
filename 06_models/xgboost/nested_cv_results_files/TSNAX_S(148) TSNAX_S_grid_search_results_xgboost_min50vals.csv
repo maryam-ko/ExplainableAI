@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSNAX_S(148) TSNAX_S(32) TSNAX_S(33) TSNAX_S(7),1.0,0.5,3,1,8,0.8,0.03238866461495632,0.15878691766409717

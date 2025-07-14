@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSD4_S(131) PSD4_S(138) PSD4_S(143) PSD4_S(990) PSD4_S(993) PSD4_T(114),1.0,0.5,3,1,4,1.0,0.034529235738380494,0.25970703682074764

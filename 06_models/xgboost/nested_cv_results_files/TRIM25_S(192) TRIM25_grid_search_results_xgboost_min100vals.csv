@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM25_S(192) TRIM25_S(435) TRIM25_S(97) TRIM25_T(300),0.6,0.5,3,1,8,0.8,0.015177343583633172,0.15060596601760973

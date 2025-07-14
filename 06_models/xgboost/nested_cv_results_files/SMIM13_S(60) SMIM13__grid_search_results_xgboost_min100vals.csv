@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMIM13_S(60) SMIM13_T(48) SMIM13_T(62),0.8,0.5,4,10,4,1.0,0.03164806250585416,0.26313049404664424

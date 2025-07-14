@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMF1_C(319) TMF1_C(320) TMF1_S(102) TMF1_S(156) TMF1_S(325) TMF1_S(340) TMF1_S(436) TMF1_S(7) TMF1_S(925) TMF1_T(68) TMF1_Y(351),1.0,0.5,2,1,8,0.6,0.007134491013762249,0.22997136770635343

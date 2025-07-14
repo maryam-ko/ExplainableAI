@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEMA4B_S(779) SEMA4B_S(787) SEMA4B_S(789) SEMA4B_S(791) SEMA4B_S(798) SEMA4B_T(780),0.6,0.5,1,1,6,0.6,0.005263977408171169,-0.0020751136548348816

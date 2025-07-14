@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POLA1_S(186) POLA1_S(190) POLA1_S(192) POLA1_S(209) POLA1_S(215) POLA1_S(277) POLA1_T(1268) POLA1_T(174) POLA1_T(219) POLA1_T(406) POLA1_T(419),1.0,0.5,4,1,8,1.0,0.04473619252143754,0.4756681123184131

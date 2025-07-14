@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSP90AB2P_S(177) HSP90AB2P_T(343) HSP90AB2P_Y(260),1.0,0.5,2,1,8,0.6,0.016466266170053326,-0.010133443088370076

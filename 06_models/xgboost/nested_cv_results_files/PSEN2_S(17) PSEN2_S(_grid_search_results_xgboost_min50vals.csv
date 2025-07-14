@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSEN2_S(17) PSEN2_S(22) PSEN2_S(55) PSEN2_S(58) PSEN2_S(8) PSEN2_S(82) PSEN2_T(17),0.6,0.5,1,1,2,1.0,0.010658965140307541,-0.005385743505583962

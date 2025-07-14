@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIT1_S(182) SIT1_S(80) SIT1_S(83),1.0,0.5,4,1,8,1.0,0.026693393172181053,0.14501532306827258

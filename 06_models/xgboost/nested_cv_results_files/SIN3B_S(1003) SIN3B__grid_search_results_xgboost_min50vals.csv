@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIN3B_S(1003) SIN3B_S(122) SIN3B_S(273) SIN3B_S(279) SIN3B_S(708) SIN3B_S(739) SIN3B_S(740) SIN3B_T(262),1.0,0.5,4,1,8,1.0,0.029048133439762227,0.3759057646506762

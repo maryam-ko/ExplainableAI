@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMSB4X_S(2) TMSB4X_S(31) TMSB4X_S(44) TMSB4X_S(7) TMSB4X_T(21) TMSB4X_T(23) TMSB4X_T(26) TMSB4X_T(34),0.8,0.5,4,5,8,1.0,0.05982577803418471,0.5091678288997524

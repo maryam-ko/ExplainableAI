@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VEZT_C(696) VEZT_C(705) VEZT_S(617) VEZT_S(651) VEZT_S(668) VEZT_S(677) VEZT_S(678) VEZT_S(696),0.8,0.5,4,1,8,0.8,0.021474063130392886,0.2274651530074725

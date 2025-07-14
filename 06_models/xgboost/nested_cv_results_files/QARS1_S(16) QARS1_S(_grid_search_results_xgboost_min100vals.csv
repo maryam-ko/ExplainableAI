@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+QARS1_S(16) QARS1_S(6) QARS1_S(70) QARS1_Y(491),0.6,0.5,1,10,8,0.6,0.023320300842539332,-0.010960740312127504

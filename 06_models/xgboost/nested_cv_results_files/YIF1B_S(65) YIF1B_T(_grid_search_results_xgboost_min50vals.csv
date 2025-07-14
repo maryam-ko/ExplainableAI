@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YIF1B_S(65) YIF1B_T(13),0.8,0.5,2,1,4,0.8,0.008061165496809184,0.4701709321854949

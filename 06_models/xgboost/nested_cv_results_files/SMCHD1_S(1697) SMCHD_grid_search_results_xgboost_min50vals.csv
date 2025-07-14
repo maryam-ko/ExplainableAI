@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMCHD1_S(1697) SMCHD1_S(1709) SMCHD1_S(1974) SMCHD1_S(293) SMCHD1_S(67) SMCHD1_T(1499) SMCHD1_T(1962),1.0,0.5,3,1,4,1.0,0.028523381809367258,0.20652639456047459

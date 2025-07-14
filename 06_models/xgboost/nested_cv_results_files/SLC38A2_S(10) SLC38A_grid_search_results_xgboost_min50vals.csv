@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC38A2_S(10) SLC38A2_Y(28) SLC38A2_Y(41),0.8,0.5,1,1,8,0.8,0.022779189270937018,0.1800666659330885

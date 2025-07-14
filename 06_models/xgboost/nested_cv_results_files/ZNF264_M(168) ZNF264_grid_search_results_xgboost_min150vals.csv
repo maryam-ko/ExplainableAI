@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF264_M(168) ZNF264_S(150) ZNF264_S(155) ZNF264_S(168) ZNF264_S(177) ZNF264_S(338) ZNF264_T(422) ZNF264_T(534) ZNF264_T(562),1.0,0.5,4,5,8,1.0,0.026630980278084165,0.32749040007204844

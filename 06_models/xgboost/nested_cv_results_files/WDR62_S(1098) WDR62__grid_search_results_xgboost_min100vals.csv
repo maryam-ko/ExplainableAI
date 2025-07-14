@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR62_S(1098) WDR62_S(1106) WDR62_S(1342) WDR62_S(1405) WDR62_S(49) WDR62_S(52) WDR62_S(6) WDR62_S(7) WDR62_T(1072) WDR62_T(1191) WDR62_T(46) WDR62_T(50) WDR62_T(814),1.0,0.5,4,1,8,1.0,0.013662169269847715,0.5426990980960056

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUCLA2_S(221) SUCLA2_S(274) SUCLA2_S(5),0.6,0.5,1,1,6,0.8,0.021785558767327903,-0.006015672104147729

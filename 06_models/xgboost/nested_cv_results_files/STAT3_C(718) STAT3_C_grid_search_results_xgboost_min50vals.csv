@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STAT3_C(718) STAT3_C(727) STAT3_S(691) STAT3_S(727) STAT3_T(714) STAT3_T(721) STAT3_Y(539) STAT3_Y(705),1.0,0.5,4,5,8,1.0,0.03915166768648284,0.5587400145894964

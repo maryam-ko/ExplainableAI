@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRRC2A_S(1698) PRRC2A_S(3) PRRC2A_S(376) PRRC2A_S(4) PRRC2A_S(804) PRRC2A_S(823) PRRC2A_T(609) PRRC2A_T(825),0.6,0.5,1,1,4,0.6,0.027168933370985148,-0.006896225397926514

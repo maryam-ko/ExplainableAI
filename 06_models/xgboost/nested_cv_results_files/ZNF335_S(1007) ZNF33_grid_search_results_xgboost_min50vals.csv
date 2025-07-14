@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF335_S(1007) ZNF335_S(289) ZNF335_S(833) ZNF335_S(837) ZNF335_S(852) ZNF335_S(976) ZNF335_S(992) ZNF335_T(344),0.6,0.5,4,10,8,1.0,0.029070565906688158,0.2362225983263741

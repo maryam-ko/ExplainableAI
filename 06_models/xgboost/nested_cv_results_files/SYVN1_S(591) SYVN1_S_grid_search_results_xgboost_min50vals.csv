@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYVN1_S(591) SYVN1_S(613),1.0,0.5,2,1,8,0.8,0.014379467747099998,0.3186804864615461

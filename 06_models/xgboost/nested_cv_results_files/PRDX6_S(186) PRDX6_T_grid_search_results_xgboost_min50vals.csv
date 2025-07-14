@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRDX6_S(186) PRDX6_T(177) PRDX6_T(44) PRDX6_T(47) PRDX6_Y(89),0.6,0.5,4,1,8,1.0,0.03442186153464537,0.13917276455171496

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TEX264_S(188) TEX264_S(239) TEX264_S(244) TEX264_T(242),0.8,0.5,1,1,8,1.0,0.021918696571057897,0.11614426392295978

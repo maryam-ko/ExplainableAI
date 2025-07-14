@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPIDR_S(15) SPIDR_T(237) SPIDR_T(248),0.8,0.5,2,1,8,0.8,0.007053484418140557,0.2202801398614122

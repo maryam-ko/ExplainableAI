@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF787_S(171) ZNF787_S(173) ZNF787_T(127) ZNF787_T(145) ZNF787_T(155) ZNF787_T(89) ZNF787_T(99),0.6,0.5,2,1,8,1.0,0.015564453817058843,0.1484005999200151

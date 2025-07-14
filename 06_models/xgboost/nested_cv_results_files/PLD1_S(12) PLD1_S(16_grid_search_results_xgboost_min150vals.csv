@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLD1_S(12) PLD1_S(162) PLD1_S(2) PLD1_S(45) PLD1_S(493) PLD1_S(519) PLD1_S(522) PLD1_S(540) PLD1_S(561) PLD1_S(628) PLD1_S(629) PLD1_S(746) PLD1_Y(42),1.0,0.5,3,1,6,1.0,0.020252538637809944,0.6078166648600323

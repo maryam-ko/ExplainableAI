@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRL_S(12) SRL_S(526) SRL_S(533) SRL_S(591) SRL_S(904) SRL_T(550) SRL_Y(580),1.0,0.5,4,1,8,0.8,0.0264969355422145,0.2756067095475562

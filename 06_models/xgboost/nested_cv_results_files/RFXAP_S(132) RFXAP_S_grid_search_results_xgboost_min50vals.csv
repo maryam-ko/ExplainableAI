@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFXAP_S(132) RFXAP_S(241),1.0,0.5,4,1,8,1.0,0.016887836007442883,0.20899383813245853

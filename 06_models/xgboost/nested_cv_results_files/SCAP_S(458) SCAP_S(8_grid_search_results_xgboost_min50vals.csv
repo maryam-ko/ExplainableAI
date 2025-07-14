@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCAP_S(458) SCAP_S(822) SCAP_S(826) SCAP_S(904) SCAP_S(907) SCAP_S(937),1.0,0.5,4,1,8,1.0,0.03146628632739389,0.19860078691880753

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM45A_S(256) TMEM45A_S(271) TMEM45A_S(287),1.0,0.5,4,1,8,1.0,0.026317886798783604,0.579682558053073

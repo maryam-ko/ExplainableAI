@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLU7_S(15) SLU7_S(215) SLU7_S(235) SLU7_S(98) SLU7_Y(243),1.0,0.5,4,1,8,1.0,0.05136019552911558,0.5343184612926477

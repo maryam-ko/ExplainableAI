@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAMP8_S(18) VAMP8_S(5) VAMP8_S(55) VAMP8_T(48) VAMP8_T(54),1.0,0.5,4,10,8,1.0,0.034894766159694675,0.29923347771685443

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRSF3_M(10) SRSF3_S(120) SRSF3_S(122) SRSF3_S(124) SRSF3_S(148) SRSF3_S(150) SRSF3_S(152) SRSF3_S(158) SRSF3_S(160) SRSF3_S(87) SRSF3_T(24),1.0,0.5,3,1,8,1.0,0.01728001791699959,0.3474755586847036

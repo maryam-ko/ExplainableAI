@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPP38_S(12) RPP38_S(215) RPP38_S(226) RPP38_S(229) RPP38_S(235) RPP38_S(24) RPP38_S(253) RPP38_T(234) RPP38_T(255),1.0,0.5,4,5,8,1.0,0.04440838918995614,0.413179045279065

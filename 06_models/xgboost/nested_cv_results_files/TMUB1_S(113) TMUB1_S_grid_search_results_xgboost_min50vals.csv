@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMUB1_S(113) TMUB1_S(127) TMUB1_S(98) TMUB1_T(71) TMUB1_T(92),0.8,0.5,4,1,8,1.0,0.030813109920062476,0.2324421211454367

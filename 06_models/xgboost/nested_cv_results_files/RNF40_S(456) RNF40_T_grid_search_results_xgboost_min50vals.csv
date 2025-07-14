@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF40_S(456) RNF40_T(277) RNF40_T(529) RNF40_T(557),1.0,0.5,2,1,8,1.0,0.011107089865065875,0.5077688771188597

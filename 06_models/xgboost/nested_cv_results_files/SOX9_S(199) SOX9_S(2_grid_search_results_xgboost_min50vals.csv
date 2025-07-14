@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOX9_S(199) SOX9_S(211) SOX9_S(223) SOX9_S(494) SOX9_T(11) SOX9_T(196) SOX9_T(236) SOX9_T(240),0.6,0.5,2,5,8,1.0,0.03720001869608754,0.03887525577432347

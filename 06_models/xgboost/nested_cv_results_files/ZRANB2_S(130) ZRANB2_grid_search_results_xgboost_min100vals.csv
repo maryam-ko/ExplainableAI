@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZRANB2_S(130) ZRANB2_S(146) ZRANB2_S(153) ZRANB2_S(163) ZRANB2_S(165) ZRANB2_S(182) ZRANB2_S(188) ZRANB2_S(198) ZRANB2_T(303) ZRANB2_Y(114) ZRANB2_Y(124),0.6,0.5,4,5,8,0.8,0.06235550711580921,0.7169212945251843

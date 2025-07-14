@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UPF1_S(1089) UPF1_S(1091) UPF1_S(1096) UPF1_S(1110) UPF1_S(1111) UPF1_S(1116) UPF1_S(956) UPF1_Y(1107),0.8,0.5,4,1,8,1.0,0.020568994164217473,0.5008255209405851

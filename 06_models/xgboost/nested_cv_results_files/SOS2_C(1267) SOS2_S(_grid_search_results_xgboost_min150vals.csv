@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOS2_C(1267) SOS2_S(1132) SOS2_S(1234) SOS2_S(1282) SOS2_S(1315) SOS2_Y(213),0.6,0.5,4,10,8,1.0,0.021838341038733302,0.5362587613037938

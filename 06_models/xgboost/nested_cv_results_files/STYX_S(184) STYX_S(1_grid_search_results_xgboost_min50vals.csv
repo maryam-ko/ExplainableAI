@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STYX_S(184) STYX_S(191) STYX_S(193) STYX_S(196) STYX_S(201) STYX_S(3),1.0,0.5,4,1,8,0.8,0.020322397923937564,0.16055846834236065

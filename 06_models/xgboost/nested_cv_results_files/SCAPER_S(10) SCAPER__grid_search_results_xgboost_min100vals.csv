@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCAPER_S(10) SCAPER_S(185) SCAPER_S(200) SCAPER_S(215) SCAPER_S(297) SCAPER_S(832) SCAPER_S(86) SCAPER_S(899) SCAPER_T(78),1.0,0.5,3,1,8,0.8,0.017692832336853863,0.44980221175922025

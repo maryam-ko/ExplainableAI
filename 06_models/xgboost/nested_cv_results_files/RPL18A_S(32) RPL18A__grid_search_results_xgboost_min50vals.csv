@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL18A_S(32) RPL18A_S(71) RPL18A_S(84) RPL18A_T(24),0.6,0.5,4,5,8,1.0,0.05621324450342763,0.19247442183886018

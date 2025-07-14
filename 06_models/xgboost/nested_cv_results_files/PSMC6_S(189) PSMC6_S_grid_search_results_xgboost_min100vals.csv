@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMC6_S(189) PSMC6_S(244) PSMC6_Y(328),0.8,0.5,4,1,6,0.8,0.023871597734056935,0.23677166132555585

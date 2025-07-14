@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF827_S(30) ZNF827_S(518) ZNF827_S(724),0.8,0.5,4,1,2,1.0,0.006337471039854406,0.23309588679343185

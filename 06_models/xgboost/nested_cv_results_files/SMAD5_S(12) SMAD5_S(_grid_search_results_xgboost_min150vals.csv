@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMAD5_S(12) SMAD5_S(133) SMAD5_S(152) SMAD5_S(463) SMAD5_S(465) SMAD5_S(58) SMAD5_T(324),0.8,0.5,4,1,8,1.0,0.0195804183461934,0.7785360867133084

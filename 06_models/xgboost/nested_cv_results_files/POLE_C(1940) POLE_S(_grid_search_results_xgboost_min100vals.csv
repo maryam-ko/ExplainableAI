@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POLE_C(1940) POLE_S(1204) POLE_S(1297) POLE_S(1940) POLE_T(2023),0.6,0.5,3,1,8,1.0,0.02582214993410195,0.3848385828419848

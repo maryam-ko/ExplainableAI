@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZC3H11C_S(108) ZC3H11C_S(124) ZC3H11C_S(755) ZC3H11C_T(181) ZC3H11C_T(185) ZC3H11C_T(515),0.6,0.5,1,1,2,0.8,0.011787066386474618,-0.006501365260731973

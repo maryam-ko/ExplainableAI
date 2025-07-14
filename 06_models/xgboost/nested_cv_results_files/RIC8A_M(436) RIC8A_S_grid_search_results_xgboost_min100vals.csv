@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RIC8A_M(436) RIC8A_S(32) RIC8A_S(435) RIC8A_S(436) RIC8A_S(44) RIC8A_S(442) RIC8A_S(501) RIC8A_S(502) RIC8A_T(440) RIC8A_T(441) RIC8A_T(443) RIC8A_T(447) RIC8A_T(49) RIC8A_Y(434) RIC8A_Y(435) RIC8A_Y(446),1.0,0.5,4,1,8,1.0,0.03848001156300672,0.6635196551110575

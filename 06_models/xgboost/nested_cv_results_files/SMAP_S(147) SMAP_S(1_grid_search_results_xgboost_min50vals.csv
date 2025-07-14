@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMAP_S(147) SMAP_S(15) SMAP_S(17) SMAP_S(24) SMAP_S(25) SMAP_S(82) SMAP_S(87),1.0,0.5,4,1,8,1.0,0.05831992414048251,0.4523403420892932

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STEAP3_S(17) STEAP3_S(19) STEAP3_S(469) STEAP3_S(486),1.0,0.5,4,5,8,1.0,0.0243338946238134,0.3975144129716043

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPM1F_S(14) PPM1F_S(350) PPM1F_S(454),1.0,0.5,3,1,8,1.0,0.016678290522827863,0.48614392012273394

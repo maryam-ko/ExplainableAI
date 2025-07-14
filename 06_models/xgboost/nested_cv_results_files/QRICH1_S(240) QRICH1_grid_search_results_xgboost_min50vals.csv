@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+QRICH1_S(240) QRICH1_S(345),1.0,0.5,1,1,4,0.8,0.010587358245833942,-0.000776128636233886

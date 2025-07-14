@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SRC_S(12) SRC_S(16) SRC_S(17) SRC_S(35) SRC_S(43) SRC_S(69) SRC_S(74) SRC_S(75) SRC_S(98) SRC_T(37) SRC_T(74) SRC_Y(530),1.0,0.5,4,5,8,1.0,0.04858605869352171,0.37587266426414223

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM51_S(115) TMEM51_S(127) TMEM51_S(157) TMEM51_S(160) TMEM51_S(163) TMEM51_S(182) TMEM51_S(192) TMEM51_T(104) TMEM51_T(234) TMEM51_Y(161),0.8,0.5,4,1,8,1.0,0.05061850979341006,0.20485101919413937

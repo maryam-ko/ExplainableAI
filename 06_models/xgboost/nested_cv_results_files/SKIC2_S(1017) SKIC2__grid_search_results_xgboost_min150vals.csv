@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SKIC2_S(1017) SKIC2_S(245) SKIC2_S(247) SKIC2_S(253) SKIC2_S(255) SKIC2_S(256) SKIC2_S(270) SKIC2_S(3) SKIC2_S(779) SKIC2_S(882) SKIC2_T(271),0.6,0.5,4,1,8,1.0,0.04850020460817539,0.57396821916548

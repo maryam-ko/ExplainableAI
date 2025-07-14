@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSMD3_S(418) PSMD3_S(430) PSMD3_S(450) PSMD3_S(47) PSMD3_S(507) PSMD3_S(6) PSMD3_S(63) PSMD3_S(8) PSMD3_S(87) PSMD3_T(43) PSMD3_T(48) PSMD3_T(55) PSMD3_T(69) PSMD3_T(71) PSMD3_Y(467),0.6,0.5,4,10,8,1.0,0.021597604284347326,0.5652690852086776

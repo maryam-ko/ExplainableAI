@@ -314,7 +314,7 @@ def compute_global_shap_values_from_local_values(local_values_df, cropped_fisher
     global_values_df = local_values_df.abs().mean().to_frame().T
     
     # rename columns to match the feature names
-    global_values_df.columns = cropped_fisher_scores['Feature'].tolist()
+    global_values_df.columns = cropped_fisher_scores['PredictiveFeature'].tolist()
     return global_values_df
 
 
@@ -360,7 +360,7 @@ def concat_and_log_all_shap_files(threshold, model_type):
             respect to each target feature (cols = 'PredictiveFeature', 
             'TargetFeature', 'SHAPvalue', 'LogSHAPValue')
     """
-    df = pd.DataFrame(columns=['Feature', 'TargetFeature', 'SHAPValue'])
+    df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'SHAPValue'])
     
     for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_global_shaps"):
         # specify only certain files
@@ -370,10 +370,10 @@ def concat_and_log_all_shap_files(threshold, model_type):
             with open(f'/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_global_shaps/{filename}', 'r') as FILE:
                 current_file = pd.read_csv(FILE)
                 transformed_file = current_file.T.reset_index()
-                transformed_file.columns = ['Feature', 'SHAPValue']
+                transformed_file.columns = ['PredictiveFeature', 'SHAPValue']
                 # create new column in file to store the target feature
                 transformed_file['TargetFeature'] = truncated_feat
-                transformed_file = transformed_file[['Feature', 'TargetFeature', 'SHAPValue']]
+                transformed_file = transformed_file[['PredictiveFeature', 'TargetFeature', 'SHAPValue']]
                 # add current file contents to growing df
                 df = pd.concat([df, transformed_file], ignore_index=True)
 
@@ -388,10 +388,11 @@ def concat_and_log_all_shap_files(threshold, model_type):
     df.to_csv(f"/data/home/bt24990/ExplainableAI/08_results/{model_type}/nested_cv_master_shaps/{model_type}_master_shap_file_cluster_level_min{threshold}vals.csv", index=False)
     
     # reduce clusters to protein level
-    df['Feature'] = [i.split("_")[0] for i in df['Feature']]
+    df['PredictiveFeature'] = [i.split("_")[0] for i in df['PredictiveFeature']]
     df['TargetFeature'] = [j.split("_")[0] for j in df['TargetFeature']]
     print(f"Columns in SHAP DataFrame: {df.columns.tolist()}")
 
+    df['Coeff*R2'] = df['LogSHAPValue'] * df['mean_r2']
 
     df.to_csv(f"/data/home/bt24990/ExplainableAI/08_results/{model_type}/nested_cv_master_shaps/{model_type}_master_shap_file_protein_level_min{threshold}vals.csv", index=False)
 
@@ -449,5 +450,215 @@ def extract_specified_shap_values_and_return_log_shap_array(min_vals, model_type
     
     return log_shap_vals
 
+# ----------------- #
+
+def create_master_results_file(threshold, model_type):
+    """Concatenates the best models into a single file.
+    
+    Iterates through files in a directory, selecting the optimal model
+    parameters from each, and saves these to a new file. The output
+    CSV contains one row per feature, with optimal model parameters
+    stored in columns.
+    
+    Input:
+        loss_function <str>: One of 'mse', 'mae', or 'r2'
+        min_vals <int>: Threshold value to specify minimum values per feature
+        model_type <str>: One of 'cnn' or 'xgboost'
+        
+    Output:
+        CSV file <csv>: Concatenated file of best models and parameters
+    """
+    if model_type == 'cnn':
+        df = pd.DataFrame(columns=['TargetFeature', 'LR', 'epochs', 'num_filters',
+                               'num_layers', 'mean_mse', 'mean_mae', 'mean_r2'])
+    elif model_type == 'xgboost':
+        df = pd.DataFrame(columns=['TargetFeature', 'colsample_bytree', 'gamma', 'max_depth',
+                               'min_child_weight', 'n_estimators', 'subsample', 'mean_mse',
+                               'mean_r2'])
+    
+    for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_results_files"):
+        if f"min{threshold}vals" in filename:
+            with open(f'/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_results_files/{filename}', 'r') as FILE:
+                current_file = pd.read_csv(FILE)
+                current_row = pd.DataFrame(current_file.loc[0]).T
+                df = pd.concat([df, current_row], ignore_index=True)
+ 
+    df.to_csv(f'/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_results_files/{model_type}_nested_cv_master_results_file_min{threshold}vals.csv', index=False)
+    return df
 
 # ----------------- #
+ 
+def create_master_shaps_file(threshold, model_type):
+    """Concatenates all SHAP files and computes logged values.
+    
+    Iterates through global SHAP files in a directory, and concatenates
+    into a single file. Then computes log of SHAP values and add this column
+    to the dataframe.
+    
+    Input:
+        min_vals <int>: Threshold value to specify minimum values per feature
+        model_type <str>: One of 'cnn' or 'xgboost'
+        
+    Output:
+        CSV files <csv>: Concatenated file of SHAP values for each feature with
+            respect to each target feature (cols = 'PredictiveFeature',
+            'TargetFeature', 'SHAPvalue', 'LogSHAPValue')
+    """
+    df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'SHAPValue'])
+    
+    for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_global_shaps"):
+        # specify only certain files
+        if f"min{threshold}vals" in filename and f"_global" in filename:
+            truncated_feat = filename.split("_global")[0]
+            
+            with open(f'/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_global_shaps/{filename}', 'r') as FILE:
+                current_file = pd.read_csv(FILE)
+                transformed_file = current_file.T.reset_index()
+                transformed_file.columns = ['PredictiveFeature', 'SHAPValue']
+                # create new column in file to store the target feature
+                transformed_file['TargetFeature'] = truncated_feat
+                transformed_file = transformed_file[['PredictiveFeature', 'TargetFeature', 'SHAPValue']]
+                # add current file contents to growing df
+                df = pd.concat([df, transformed_file], ignore_index=True)
+ 
+    
+    df = df[df['SHAPValue'] != 0] # remove rows with SHAP value of 0
+    df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_cluster_level_min{threshold}vals.csv", index=False)
+    
+    # reduce clusters to protein level
+    df['PredictiveFeature'] = [i.split("_")[0] for i in df['PredictiveFeature']]
+    df['TargetFeature'] = [j.split("_")[0] for j in df['TargetFeature']]
+    # df['Coeff*R2'] = df['SHAPValue'] * df['mean_r2']
+    df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_protein_level_min{threshold}vals.csv", index=False)
+ 
+    return df
+ 
+
+# ----------------- #
+
+def multiply_shap_by_r2_per_threshold(threshold, model_type):
+    """
+    For each threshold, multiply SHAP value by R2 score for each (PredictiveFeature, TargetFeature) pair,
+    matching only the first 20 characters of TargetFeature, and save two new files per threshold.
+
+    Args:
+        threshold (int or list of int): Threshold(s) to process.
+        model_type (str): Model type, e.g., 'xgboost'
+    """
+   
+    if isinstance(threshold, int):
+        thresholds = [threshold]
+    else:
+        thresholds = threshold
+
+    for threshold in thresholds:
+        shap_file = None
+        results_file = None
+
+        # Find SHAP file matching the threshold
+        for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_shaps_files"):
+            if f"min{threshold}vals" in filename and "shap" in filename:
+                shap_file = f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_cluster_level_min{threshold}vals.csv"
+                break
+
+        # Find results file matching the threshold
+        for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_results_files"):
+            if f"min{threshold}vals" in filename and "results" in filename:
+                results_file = f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_results_files/{model_type}_nested_cv_master_results_file_min{threshold}vals.csv"
+                break
+
+        shap_df = pd.read_csv(shap_file)
+        results_df = pd.read_csv(results_file)
+
+        print("Results file columns:", results_df.columns.tolist())
+        possible_r2_cols = ['mean_r2', 'R2', 'MeanR2']
+        r2_col = next((col for col in possible_r2_cols if col in results_df.columns), None)
+        if r2_col is None:
+            raise KeyError(f"None of the expected R2 columns {possible_r2_cols} found in {results_file}. Columns are: {results_df.columns.tolist()}")
+
+        results_df[r2_col] = pd.to_numeric(results_df[r2_col], errors='coerce')
+
+        shap_df['TargetFeature_trunc'] = shap_df['TargetFeature'].astype(str).str[:20]
+        results_df['TargetFeature_trunc'] = results_df['TargetFeature'].astype(str).str[:20]
+
+        print(f"Processing threshold: {threshold}")
+        shap_thresh_df = shap_df[shap_df['Threshold'] == threshold] if 'Threshold' in shap_df.columns else shap_df.copy()
+        merged_df = pd.merge(
+            shap_thresh_df,
+            results_df[['TargetFeature_trunc', r2_col]].rename(columns={r2_col: 'mean_r2'}),
+            on='TargetFeature_trunc',
+            how='left'
+        )
+        merged_df['SHAP*R2'] = merged_df['SHAPValue'] * merged_df['mean_r2']
+        merged_df.to_csv(
+            f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_files_cluster_level_min{threshold}vals_shap_r2.csv",
+            index=False
+        )
+        merged_df[['PredictiveFeature', 'TargetFeature', 'SHAP*R2']].to_csv(
+            f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_files_cluster_level_min{threshold}vals_shap_r2_short.csv",
+            index=False
+        )
+
+# ----------------- #
+
+def multiply_lr_coeff_by_r2_per_threshold(threshold, model_type):
+    """
+    For each threshold, multiply LR coefficient by R2 score for each (PredictiveFeature, TargetFeature) pair,
+    matching only the first 20 characters of TargetFeature, and save two new files per threshold.
+
+    Args:
+        threshold (int or list of int): Threshold(s) to process.
+        model_type (str): Model type, should be 'linear_regression'
+    """
+    if isinstance(threshold, int):
+        thresholds = [threshold]
+    else:
+        thresholds = threshold
+
+    for threshold in thresholds:
+        coeff_file = None
+        results_file = None
+
+        # Find coefficient file matching the threshold
+        for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/coefficients"):
+            if f"min{threshold}vals" in filename and "coefficients" in filename:
+                coeff_file = f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv"
+                break
+
+        # Find results file matching the threshold
+        for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_results_files"):
+            if f"min{threshold}vals" in filename and "results" in filename:
+                results_file = f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/master_results_files/linear_regression_nested_cv_master_results_file_min{threshold}vals.csv"
+                break
+
+        coeff_df = pd.read_csv(coeff_file)
+        results_df = pd.read_csv(results_file)
+
+        print("Results file columns:", results_df.columns.tolist())
+        possible_r2_cols = ['mean_r2', 'R2', 'MeanR2']
+        r2_col = next((col for col in possible_r2_cols if col in results_df.columns), None)
+        if r2_col is None:
+            raise KeyError(f"None of the expected R2 columns {possible_r2_cols} found in {results_file}. Columns are: {results_df.columns.tolist()}")
+
+        results_df[r2_col] = pd.to_numeric(results_df[r2_col], errors='coerce')
+
+        coeff_df['TargetFeature_trunc'] = coeff_df['TargetFeature'].astype(str).str[:20]
+        results_df['TargetFeature_trunc'] = results_df['TargetFeature'].astype(str).str[:20]
+
+        print(f"Processing threshold: {threshold}")
+        merged_df = pd.merge(
+            coeff_df,
+            results_df[['TargetFeature_trunc', r2_col]].rename(columns={r2_col: 'mean_r2'}),
+            on='TargetFeature_trunc',
+            how='left'
+        )
+        merged_df['Coeff*R2'] = merged_df['MedianCoeff'] * merged_df['mean_r2']
+        merged_df.to_csv(
+            f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/coefficients/linear_regression_coeff_files_cluster_level_min{threshold}vals_coeff_r2.csv",
+            index=False
+        )
+        merged_df[['PredictiveFeature', 'TargetFeature', 'Coeff*R2']].to_csv(
+            f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/coefficients/linear_regression_coeff_files_cluster_level_min{threshold}vals_coeff_r2_short.csv",
+            index=False
+        )
+

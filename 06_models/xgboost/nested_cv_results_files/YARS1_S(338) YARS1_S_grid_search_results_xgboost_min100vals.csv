@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YARS1_S(338) YARS1_S(358) YARS1_S(386) YARS1_S(6) YARS1_T(330) YARS1_Y(388),1.0,0.5,4,1,2,1.0,0.015412497889660478,0.0515584212287733

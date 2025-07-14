@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC8A1_S(392) SLC8A1_S(52) SLC8A1_T(398) SLC8A1_T(51),0.6,0.5,2,1,6,1.0,0.014671831892883453,0.29020558686586595

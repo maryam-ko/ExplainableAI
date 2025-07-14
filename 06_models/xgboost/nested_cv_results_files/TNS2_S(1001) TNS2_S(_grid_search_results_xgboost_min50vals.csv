@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TNS2_S(1001) TNS2_S(1006) TNS2_S(1010) TNS2_S(1013) TNS2_S(1096) TNS2_S(12) TNS2_S(13) TNS2_S(475) TNS2_S(6) TNS2_S(842) TNS2_S(972) TNS2_S(975) TNS2_T(977) TNS2_Y(483),0.6,0.5,1,1,4,0.6,0.024636625117271944,-0.000767270731899261

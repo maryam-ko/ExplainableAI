@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF444_S(18) ZNF444_S(184) ZNF444_S(235),0.8,0.5,3,1,4,1.0,0.018821144248681608,0.22885533094664917

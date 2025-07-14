@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYTL3_S(185) SYTL3_S(203) SYTL3_S(228) SYTL3_S(231),1.0,0.5,3,5,4,1.0,0.028735638091563438,0.11890126008202347

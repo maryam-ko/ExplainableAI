@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRAM1_S(279) TRAM1_S(334) TRAM1_S(348) TRAM1_T(350),0.6,0.5,1,1,8,0.6,0.011217171287262162,-0.0035646646228626013

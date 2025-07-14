@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAF6L_S(481) TAF6L_S(495) TAF6L_S(501) TAF6L_S(512),1.0,0.5,2,10,6,1.0,0.02815979412990942,0.12966634228864332

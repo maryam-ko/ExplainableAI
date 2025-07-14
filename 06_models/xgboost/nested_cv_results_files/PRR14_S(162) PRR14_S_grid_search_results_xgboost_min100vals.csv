@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRR14_S(162) PRR14_S(259) PRR14_S(277) PRR14_S(29) PRR14_S(304) PRR14_S(7) PRR14_S(8) PRR14_S(93) PRR14_T(133) PRR14_T(266) PRR14_T(363),1.0,0.5,4,1,4,1.0,0.042426573358880386,0.1278984553955295

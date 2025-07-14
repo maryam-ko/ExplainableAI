@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SOWAHD_S(20) SOWAHD_S(38) SOWAHD_T(19),0.6,0.5,1,1,8,0.8,0.014839453632800856,-0.002981354389563462

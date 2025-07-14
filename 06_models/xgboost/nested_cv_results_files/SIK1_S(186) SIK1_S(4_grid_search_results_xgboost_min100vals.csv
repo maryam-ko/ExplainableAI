@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIK1_S(186) SIK1_S(435) SIK1_S(516) SIK1_S(534) SIK1_S(575) SIK1_S(618),1.0,0.5,1,10,6,0.8,0.023985475604266244,0.06056498185748573

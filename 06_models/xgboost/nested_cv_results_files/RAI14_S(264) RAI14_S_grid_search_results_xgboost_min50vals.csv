@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAI14_S(264) RAI14_S(274) RAI14_S(285) RAI14_S(306) RAI14_S(354) RAI14_S(357) RAI14_S(383) RAI14_S(478) RAI14_T(13) RAI14_T(283),0.6,0.5,1,1,6,0.8,0.005307469757005133,0.005179303229401433

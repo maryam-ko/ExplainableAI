@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP33_S(377) USP33_S(383) USP33_S(387) USP33_S(439) USP33_S(443),0.6,0.5,4,1,8,1.0,0.01787858240829283,0.235137110961574

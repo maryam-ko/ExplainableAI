@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RACK1_S(157) RACK1_S(161) RACK1_S(201) RACK1_S(205) RACK1_T(10) RACK1_T(2) RACK1_T(316) RACK1_T(343) RACK1_T(346) RACK1_T(6),1.0,0.5,2,10,8,0.8,0.016284673022432975,0.16386540196323313

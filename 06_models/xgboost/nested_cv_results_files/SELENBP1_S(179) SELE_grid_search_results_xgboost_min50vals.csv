@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SELENBP1_S(179) SELENBP1_S(243) SELENBP1_S(307) SELENBP1_S(8) SELENBP1_T(6),0.8,0.5,2,1,2,1.0,0.02246399527355029,0.08397891916585505

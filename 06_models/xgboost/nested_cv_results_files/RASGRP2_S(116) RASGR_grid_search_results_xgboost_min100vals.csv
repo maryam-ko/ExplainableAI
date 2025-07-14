@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASGRP2_S(116) RASGRP2_S(489) RASGRP2_S(563) RASGRP2_S(576) RASGRP2_S(70),0.8,0.5,4,1,8,1.0,0.016917985682671926,0.36304516358015115

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM11_S(142) TRIM11_S(320) TRIM11_S(85) TRIM11_S(92),1.0,0.5,4,1,8,0.8,0.04152520504824808,0.22621075143349315

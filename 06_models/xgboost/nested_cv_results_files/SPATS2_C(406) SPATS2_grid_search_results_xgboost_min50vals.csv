@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPATS2_C(406) SPATS2_S(123) SPATS2_S(124) SPATS2_S(219) SPATS2_S(408) SPATS2_S(480) SPATS2_S(520) SPATS2_T(425) SPATS2_T(523),1.0,0.5,4,1,4,1.0,0.014495616205530328,0.44405770800149186

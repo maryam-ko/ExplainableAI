@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZBTB8A_S(160) ZBTB8A_S(161) ZBTB8A_S(167),0.6,0.5,2,10,8,0.8,0.010533759677377465,0.2097158275338517

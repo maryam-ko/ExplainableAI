@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPI1_S(10) TPI1_S(106) TPI1_S(143) TPI1_S(18) TPI1_S(195) TPI1_S(212) TPI1_S(232) TPI1_S(249) TPI1_S(80) TPI1_T(213) TPI1_T(215) TPI1_T(28) TPI1_T(3) TPI1_T(5) TPI1_T(65) TPI1_T(90) TPI1_Y(246) TPI1_Y(68),0.8,0.5,4,1,6,1.0,0.0374376527980799,0.3641746556570503

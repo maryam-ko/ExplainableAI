@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFLNB_S(196) RFLNB_S(34) RFLNB_S(6),0.6,1,1,1,4,0.6,0.016038036925069894,-0.00252441457568211

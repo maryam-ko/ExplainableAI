@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPIA_S(147) PPIA_S(51) PPIA_T(93) PPIA_Y(79),1.0,0.5,4,10,6,0.8,0.01694676461863375,0.12821512149855016

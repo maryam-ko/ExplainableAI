@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+THOC7_S(188) THOC7_S(197),1.0,0.5,4,5,6,0.8,0.01807278052815351,0.25315671604205986

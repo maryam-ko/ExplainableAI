@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCERG1_S(638) TCERG1_S(933),0.6,0.5,1,1,8,0.8,0.00763884675393792,0.06015890104549051

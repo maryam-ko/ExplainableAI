@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPUSD2_S(68),0.6,0.5,4,5,8,1.0,0.03138683441331927,0.6578083711110105

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TSR3_S(228) TSR3_S(259) TSR3_S(264) TSR3_S(267) TSR3_S(281) TSR3_S(282) TSR3_S(284) TSR3_T(261),1.0,0.5,1,1,8,1.0,0.013672000608360307,0.2938652839647314

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNAP29_S(163) SNAP29_S(4) SNAP29_S(70) SNAP29_S(77) SNAP29_T(130) SNAP29_Y(160) SNAP29_Y(189) SNAP29_Y(68),0.6,0.5,3,1,6,1.0,0.034263574812054325,0.22092049619247156

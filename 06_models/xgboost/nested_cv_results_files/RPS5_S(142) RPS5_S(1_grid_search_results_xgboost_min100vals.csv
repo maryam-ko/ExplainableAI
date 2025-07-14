@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS5_S(142) RPS5_S(185) RPS5_S(52) RPS5_T(14),1.0,0.5,4,1,8,0.8,0.03281582841998993,0.4656261194804049

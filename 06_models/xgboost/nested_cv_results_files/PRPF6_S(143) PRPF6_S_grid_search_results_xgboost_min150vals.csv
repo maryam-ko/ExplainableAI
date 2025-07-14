@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRPF6_S(143) PRPF6_S(263) PRPF6_S(279) PRPF6_T(12) PRPF6_T(212) PRPF6_T(254) PRPF6_T(266) PRPF6_T(275) PRPF6_Y(214),1.0,0.5,4,10,8,1.0,0.02526263439635672,0.7396407013666713

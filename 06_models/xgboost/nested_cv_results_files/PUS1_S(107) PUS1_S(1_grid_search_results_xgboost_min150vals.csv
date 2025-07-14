@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PUS1_S(107) PUS1_S(127) PUS1_S(367) PUS1_S(387) PUS1_S(392) PUS1_S(420) PUS1_S(8) PUS1_T(133) PUS1_T(373) PUS1_T(398) PUS1_T(412) PUS1_T(426),0.6,0.5,4,1,8,0.8,0.02537706782719432,0.6540494140769282

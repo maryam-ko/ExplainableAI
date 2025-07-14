@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TET2_S(1095) TET2_S(334) TET2_S(38) TET2_S(817) TET2_S(99),0.6,0.5,4,1,8,1.0,0.018595711945541698,0.5670328288200439

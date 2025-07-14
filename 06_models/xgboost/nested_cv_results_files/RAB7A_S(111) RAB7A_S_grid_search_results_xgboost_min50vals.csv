@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB7A_S(111) RAB7A_S(69) RAB7A_S(72) RAB7A_Y(183),0.6,0.5,4,1,6,1.0,0.04552450780612245,0.2181420127227609

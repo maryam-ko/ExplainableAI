@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR13_S(111) WDR13_S(113) WDR13_S(116) WDR13_S(70) WDR13_S(74) WDR13_S(79) WDR13_S(81) WDR13_Y(117) WDR13_Y(128),1.0,0.5,4,1,8,1.0,0.04431512583139102,0.36200100872618746

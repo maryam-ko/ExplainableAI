@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TXLNB_S(3) TXLNB_S(38) TXLNB_S(464) TXLNB_S(470) TXLNB_S(474) TXLNB_S(480) TXLNB_S(554) TXLNB_S(94) TXLNB_T(40),1.0,0.5,4,1,6,1.0,0.04152965082767791,0.4333603412104264

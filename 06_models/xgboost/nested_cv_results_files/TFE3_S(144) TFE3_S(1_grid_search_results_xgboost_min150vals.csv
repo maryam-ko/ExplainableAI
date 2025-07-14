@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFE3_S(144) TFE3_S(149) TFE3_S(2) TFE3_S(334) TFE3_S(451) TFE3_S(548) TFE3_S(554) TFE3_S(556) TFE3_S(560) TFE3_S(563) TFE3_S(567) TFE3_S(568) TFE3_S(570) TFE3_T(206) TFE3_Y(202),1.0,0.5,4,1,8,0.8,0.04926040944534795,0.5759179398043763

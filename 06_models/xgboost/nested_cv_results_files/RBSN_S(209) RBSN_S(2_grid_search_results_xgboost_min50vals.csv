@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBSN_S(209) RBSN_S(215) RBSN_S(217) RBSN_S(219) RBSN_S(222) RBSN_S(226) RBSN_S(230) RBSN_S(232) RBSN_S(233) RBSN_S(235) RBSN_S(236) RBSN_S(239) RBSN_S(548) RBSN_S(578) RBSN_S(601) RBSN_T(214) RBSN_T(546) RBSN_T(588),0.8,0.5,4,1,8,1.0,0.053398621389553064,0.2202766691325399

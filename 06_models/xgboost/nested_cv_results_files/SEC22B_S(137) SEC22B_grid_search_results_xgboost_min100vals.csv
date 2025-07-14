@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEC22B_S(137) SEC22B_S(35) SEC22B_S(6),1.0,0.5,4,5,8,0.8,0.01986657903656343,0.45333352704922303

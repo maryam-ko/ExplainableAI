@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPIG_S(128) PPIG_S(173) PPIG_S(2) PPIG_S(354) PPIG_S(487) PPIG_S(489) PPIG_S(5) PPIG_S(535) PPIG_S(549) PPIG_S(577) PPIG_S(616) PPIG_S(630) PPIG_S(631) PPIG_S(636) PPIG_S(7) PPIG_S(701) PPIG_S(80) PPIG_T(3) PPIG_T(356) PPIG_T(579) PPIG_T(611),1.0,0.5,4,1,8,1.0,0.019413806234616075,0.38379715835126593

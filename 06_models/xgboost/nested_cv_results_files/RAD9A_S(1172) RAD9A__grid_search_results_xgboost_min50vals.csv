@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAD9A_S(1172) RAD9A_S(268) RAD9A_S(272) RAD9A_S(277) RAD9A_S(326) RAD9A_S(328) RAD9A_S(336) RAD9A_S(341) RAD9A_S(387) RAD9A_T(355) RAD9A_T(387),0.8,0.5,4,5,8,1.0,0.06253767310201383,0.2960475547682546

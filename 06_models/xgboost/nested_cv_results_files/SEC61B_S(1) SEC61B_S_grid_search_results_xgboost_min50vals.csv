@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SEC61B_S(1) SEC61B_S(13) SEC61B_S(14) SEC61B_S(17) SEC61B_S(19) SEC61B_S(25) SEC61B_S(29) SEC61B_S(4) SEC61B_S(43) SEC61B_S(49) SEC61B_S(63) SEC61B_S(7) SEC61B_T(30) SEC61B_T(5) SEC61B_T(9),0.8,0.5,4,1,8,1.0,0.06084641443669196,0.3148126513773378

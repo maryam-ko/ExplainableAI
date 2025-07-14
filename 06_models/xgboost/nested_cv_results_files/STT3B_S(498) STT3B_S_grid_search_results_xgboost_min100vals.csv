@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STT3B_S(498) STT3B_S(499),0.6,0.5,4,1,8,1.0,0.05076046037804365,0.6179115679349408

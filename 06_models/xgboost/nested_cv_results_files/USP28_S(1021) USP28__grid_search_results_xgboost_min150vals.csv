@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP28_S(1021) USP28_S(1044) USP28_S(1053) USP28_S(1058) USP28_S(113) USP28_S(375) USP28_S(521) USP28_T(1058),1.0,0.5,4,1,8,0.8,0.025849005114459304,0.5440912676450329

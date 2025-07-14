@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBC1D1_S(1452) TBC1D1_S(209) TBC1D1_S(211) TBC1D1_S(234) TBC1D1_S(237) TBC1D1_S(3) TBC1D1_S(503) TBC1D1_T(4) TBC1D1_T(604),1.0,0.5,4,10,8,0.6,0.04573234054665364,0.4407024536472931

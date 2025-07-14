@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC31A1_T(114) SLC31A1_T(119),0.6,0.5,1,1,2,0.6,0.01538501632278504,-0.001582650723774348

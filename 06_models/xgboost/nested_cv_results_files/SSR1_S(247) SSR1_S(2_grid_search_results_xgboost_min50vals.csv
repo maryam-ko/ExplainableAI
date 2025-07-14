@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SSR1_S(247) SSR1_S(260) SSR1_S(268) SSR1_S(281),1.0,0.5,4,1,8,1.0,0.041963965218390784,0.5437970518896302

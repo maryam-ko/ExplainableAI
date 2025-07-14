@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLITRK4_S(663) SLITRK4_S(741) SLITRK4_T(742) SLITRK4_Y(769) SLITRK4_Y(811) SLITRK4_Y(824),0.6,0.5,2,1,6,0.8,0.02195078608265695,0.019607283660408092

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REM2_S(333) REM2_T(31),1.0,0.5,1,1,8,0.8,0.015968342706214656,0.1377653071063398

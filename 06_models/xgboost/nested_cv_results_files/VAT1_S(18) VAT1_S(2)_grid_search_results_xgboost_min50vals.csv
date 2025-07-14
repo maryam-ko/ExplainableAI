@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAT1_S(18) VAT1_S(2) VAT1_S(44),0.6,0.5,3,5,8,1.0,0.023225433530398583,0.25918387443961444

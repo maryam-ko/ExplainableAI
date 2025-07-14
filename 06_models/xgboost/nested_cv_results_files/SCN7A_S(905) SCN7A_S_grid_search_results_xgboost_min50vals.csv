@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCN7A_S(905) SCN7A_S(906),0.8,0.5,4,1,4,1.0,0.008576781426002957,0.6383946892458396

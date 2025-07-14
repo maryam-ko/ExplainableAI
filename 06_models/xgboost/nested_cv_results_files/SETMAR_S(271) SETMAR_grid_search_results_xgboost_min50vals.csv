@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SETMAR_S(271) SETMAR_S(369) SETMAR_S(397) SETMAR_S(410) SETMAR_S(495) SETMAR_S(508),0.6,0.5,2,10,4,1.0,0.01906157194616768,0.24191177368748534

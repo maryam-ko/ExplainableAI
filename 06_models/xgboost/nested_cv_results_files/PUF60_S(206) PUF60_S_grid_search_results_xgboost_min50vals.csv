@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PUF60_S(206) PUF60_S(244) PUF60_S(41) PUF60_S(555) PUF60_T(311) PUF60_T(314),0.6,0.5,4,10,6,1.0,0.016372400640345647,0.40528363723439476

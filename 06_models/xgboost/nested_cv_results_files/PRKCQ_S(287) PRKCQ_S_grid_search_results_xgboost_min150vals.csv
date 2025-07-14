@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKCQ_S(287) PRKCQ_S(334) PRKCQ_S(449) PRKCQ_S(458) PRKCQ_S(5) PRKCQ_S(640) PRKCQ_S(659) PRKCQ_S(676) PRKCQ_T(502) PRKCQ_T(542),0.8,0.5,4,1,8,1.0,0.034862634205687276,0.6728438779062973

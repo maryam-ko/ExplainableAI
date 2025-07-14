@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TESK1_S(4) TESK1_S(440) TESK1_S(540),0.6,0.5,1,1,8,0.6,0.019664367921492183,0.00042336090114261096

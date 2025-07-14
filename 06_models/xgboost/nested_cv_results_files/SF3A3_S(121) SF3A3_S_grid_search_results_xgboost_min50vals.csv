@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SF3A3_S(121) SF3A3_S(292) SF3A3_S(295) SF3A3_S(299) SF3A3_S(365) SF3A3_S(367) SF3A3_S(369) SF3A3_T(225) SF3A3_T(470) SF3A3_T(475) SF3A3_Y(479),0.8,0.5,4,5,8,1.0,0.040719371679469395,0.3288985377716173

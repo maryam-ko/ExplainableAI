@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TARDBP_S(183) TARDBP_S(273) TARDBP_S(292) TARDBP_S(92),0.8,0.5,4,1,8,1.0,0.020576664115073334,0.5946814880688623

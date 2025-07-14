@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBASH3B_S(377) UBASH3B_T(23) UBASH3B_T(34),1.0,0.5,2,1,8,0.8,0.018197333620983698,0.02195793425583974

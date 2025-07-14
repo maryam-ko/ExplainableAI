@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAF9_S(147) TAF9_S(149) TAF9_S(152) TAF9_S(181) TAF9_S(194) TAF9_S(196) TAF9_S(3) TAF9_S(8) TAF9_T(102) TAF9_T(159) TAF9_T(164) TAF9_T(178) TAF9_T(183) TAF9_T(193),1.0,0.5,4,1,8,1.0,0.026321023400213518,0.453198186610439

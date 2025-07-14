@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OPTN_S(149) OPTN_S(174) OPTN_S(193) OPTN_S(194) OPTN_S(3) OPTN_S(336) OPTN_S(339) OPTN_T(450) OPTN_T(519) OPTN_Y(476),0.6,0.5,1,1,2,0.6,0.040909520018825404,-0.010339666772557977

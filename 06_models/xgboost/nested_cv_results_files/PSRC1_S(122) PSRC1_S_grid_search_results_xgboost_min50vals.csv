@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSRC1_S(122) PSRC1_S(140) PSRC1_S(175) PSRC1_S(186) PSRC1_S(190) PSRC1_S(477) PSRC1_S(70) PSRC1_S(98) PSRC1_T(116) PSRC1_T(138) PSRC1_T(145),1.0,0.5,4,1,8,0.8,0.022515466070338067,0.15701425302901018

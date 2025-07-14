@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAB2_S(166) TAB2_S(3) TAB2_S(349) TAB2_S(350) TAB2_S(372) TAB2_S(447) TAB2_S(450) TAB2_S(524) TAB2_S(527) TAB2_S(580) TAB2_S(582) TAB2_S(584) TAB2_T(449),0.8,0.5,4,1,8,1.0,0.028830879837102644,0.7336355648805118

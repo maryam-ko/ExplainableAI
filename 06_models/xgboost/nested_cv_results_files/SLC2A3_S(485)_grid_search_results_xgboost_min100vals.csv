@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLC2A3_S(485),0.8,0.5,2,10,8,1.0,0.02976993589448063,0.14397486864907919

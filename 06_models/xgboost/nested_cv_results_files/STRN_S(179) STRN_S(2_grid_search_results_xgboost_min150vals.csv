@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STRN_S(179) STRN_S(239) STRN_S(245) STRN_S(373) STRN_T(143) STRN_T(308) STRN_Y(135),1.0,0.5,4,1,8,1.0,0.041799512744772525,0.6814454505249072

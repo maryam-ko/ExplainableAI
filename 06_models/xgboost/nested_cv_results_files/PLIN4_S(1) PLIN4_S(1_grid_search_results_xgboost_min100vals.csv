@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLIN4_S(1) PLIN4_S(1256) PLIN4_S(17) PLIN4_S(2) PLIN4_S(238) PLIN4_S(25) PLIN4_S(253) PLIN4_S(27) PLIN4_S(30) PLIN4_S(31) PLIN4_S(41) PLIN4_S(42) PLIN4_S(719) PLIN4_S(8) PLIN4_S(9) PLIN4_T(1) PLIN4_T(18) PLIN4_T(2) PLIN4_T(6),1.0,0.5,3,1,6,0.8,0.019861204087771485,0.06749442763214983

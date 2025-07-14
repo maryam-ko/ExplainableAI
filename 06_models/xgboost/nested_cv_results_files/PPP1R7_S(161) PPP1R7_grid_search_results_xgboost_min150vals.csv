@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPP1R7_S(161) PPP1R7_S(20) PPP1R7_S(24) PPP1R7_S(27) PPP1R7_S(44) PPP1R7_S(47),0.8,0.5,4,10,8,1.0,0.030700543378387426,0.7556810064248474

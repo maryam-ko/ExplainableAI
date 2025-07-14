@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPRG_S(1182) PTPRG_S(1435) PTPRG_S(1443) PTPRG_S(4) PTPRG_S(815),1.0,0.5,2,1,8,0.8,0.020492659454629667,0.02824215409873987

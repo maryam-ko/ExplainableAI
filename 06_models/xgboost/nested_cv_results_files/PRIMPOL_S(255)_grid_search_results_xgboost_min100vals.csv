@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRIMPOL_S(255),0.6,0.5,4,1,4,1.0,0.022673702732050056,0.3079903901048363

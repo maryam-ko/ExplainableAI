@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VRK2_S(221) VRK2_S(329) VRK2_S(339) VRK2_S(344) VRK2_S(369) VRK2_S(406) VRK2_S(438) VRK2_S(445) VRK2_S(447) VRK2_S(449) VRK2_T(218) VRK2_T(336),1.0,0.5,4,1,6,0.6,0.02516778373417691,0.07615276634364723

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SAP130_S(432) SAP130_S(465) SAP130_S(855) SAP130_T(355) SAP130_T(432) SAP130_T(439) SAP130_T(856),1.0,0.5,4,1,8,1.0,0.030907391871111335,0.4547285138481857

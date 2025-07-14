@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RCC2_S(16) RCC2_S(45) RCC2_S(50) RCC2_S(51) RCC2_T(506) RCC2_T(521),0.8,0.5,4,1,8,1.0,0.028805413262396717,0.31421947916630505

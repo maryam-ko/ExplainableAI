@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SENP3_S(184) SENP3_S(212) SENP3_S(243) SENP3_S(25) SENP3_S(26) SENP3_S(288) SENP3_S(307) SENP3_S(99) SENP3_T(229) SENP3_Y(24),0.8,0.5,3,1,8,0.8,0.04374874328689192,0.1236787325611987

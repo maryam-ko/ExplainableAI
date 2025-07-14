@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM47_C(461) TRIM47_S(350) TRIM47_S(588) TRIM47_S(610) TRIM47_S(7),1.0,0.5,4,5,8,1.0,0.037519129419443416,0.5771616151152875

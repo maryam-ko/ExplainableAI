@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMPD4_C(169) SMPD4_S(130) SMPD4_S(158) SMPD4_S(169) SMPD4_S(242) SMPD4_S(355) SMPD4_S(38) SMPD4_S(458) SMPD4_S(661) SMPD4_S(662) SMPD4_S(753) SMPD4_S(792) SMPD4_S(799) SMPD4_Y(410),1.0,0.5,4,1,8,1.0,0.03408349673016186,0.1592121056958117

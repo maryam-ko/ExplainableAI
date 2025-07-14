@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRN3_S(11) RRN3_S(140) RRN3_S(142) RRN3_S(170) RRN3_S(172) RRN3_S(19) RRN3_S(44) RRN3_S(633) RRN3_S(637) RRN3_S(640) RRN3_S(649) RRN3_T(623),1.0,0.5,3,1,8,0.8,0.025812527579755985,0.2822513648279073

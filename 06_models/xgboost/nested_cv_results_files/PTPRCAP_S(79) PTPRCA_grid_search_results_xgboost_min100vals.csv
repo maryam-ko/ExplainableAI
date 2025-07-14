@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPRCAP_S(79) PTPRCAP_S(99) PTPRCAP_T(100),0.8,0.5,4,1,8,1.0,0.035025729509276717,0.22136599019150807

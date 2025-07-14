@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SH3GL1_S(108) SH3GL1_S(224) SH3GL1_S(300) SH3GL1_S(6) SH3GL1_T(298) SH3GL1_T(69) SH3GL1_T(73),1.0,0.5,2,1,8,1.0,0.025761574654199672,0.19043092046992585

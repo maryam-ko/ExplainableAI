@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBX2_S(320) TBX2_S(323) TBX2_S(324) TBX2_S(326) TBX2_S(336) TBX2_S(342) TBX2_S(376) TBX2_S(379) TBX2_S(384) TBX2_S(386) TBX2_S(4) TBX2_S(647) TBX2_S(653) TBX2_S(657) TBX2_S(676) TBX2_S(705) TBX2_S(710) TBX2_T(335),0.6,0.5,4,10,4,1.0,0.05203944192078255,0.19369810292259

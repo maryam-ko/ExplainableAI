@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TP53RK_T(3) TP53RK_T(8),1.0,0.5,4,5,8,1.0,0.03020891631585801,0.658630473889365

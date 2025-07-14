@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPP1R12C_C(498) PPP1R12C_C(499) PPP1R12C_S(333) PPP1R12C_S(398) PPP1R12C_S(450) PPP1R12C_S(499) PPP1R12C_S(559) PPP1R12C_S(604),0.8,0.5,4,1,8,1.0,0.018311767434581922,0.330498343030498

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBRG1_S(10),0.8,0.5,4,5,8,1.0,0.031215959967912488,0.43031441826172667

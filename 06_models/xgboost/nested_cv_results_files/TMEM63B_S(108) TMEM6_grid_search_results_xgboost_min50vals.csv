@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM63B_S(108) TMEM63B_S(111) TMEM63B_S(114) TMEM63B_S(115) TMEM63B_Y(661),0.6,0.5,1,1,8,0.6,0.012320454599121912,-0.0029845566650416712

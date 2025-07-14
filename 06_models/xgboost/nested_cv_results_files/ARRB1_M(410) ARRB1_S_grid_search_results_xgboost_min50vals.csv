@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ARRB1_M(410) ARRB1_S(400) ARRB1_S(404) ARRB1_S(412) ARRB1_T(410),1.0,0.5,4,10,8,1.0,0.048707536136607464,0.6351722158961529

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TKT_S(104) TKT_S(295) TKT_S(3) TKT_S(305) TKT_T(346) TKT_Y(275),1.0,0.5,4,1,8,1.0,0.02739013083250513,0.6442367980773861

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP54_S(1036) USP54_S(1156) USP54_S(1420) USP54_S(1531) USP54_S(254) USP54_S(279) USP54_S(582) USP54_S(587) USP54_T(240) USP54_T(442) USP54_T(446) USP54_Y(635),1.0,0.5,4,1,8,1.0,0.017933044575314798,0.21939485165793612

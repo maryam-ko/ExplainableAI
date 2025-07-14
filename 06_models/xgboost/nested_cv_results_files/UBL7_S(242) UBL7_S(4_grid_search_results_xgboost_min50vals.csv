@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBL7_S(242) UBL7_S(4) UBL7_T(18) UBL7_T(248),0.6,0.5,1,1,4,0.6,0.01890429318641703,-0.042330279702911436

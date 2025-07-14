@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTTG1IP_Y(142) PTTG1IP_Y(165) PTTG1IP_Y(174),1.0,0.5,4,1,8,1.0,0.030480502064315473,0.2500899342039563

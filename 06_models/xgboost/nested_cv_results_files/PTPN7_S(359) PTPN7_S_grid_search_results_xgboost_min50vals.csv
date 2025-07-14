@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPN7_S(359) PTPN7_S(63) PTPN7_T(66),0.6,0.5,1,1,2,0.6,0.010191847482345877,-0.0015315133794263857

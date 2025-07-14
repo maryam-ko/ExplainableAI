@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YTHDC1_S(114) YTHDC1_S(122) YTHDC1_S(145) YTHDC1_S(434) YTHDC1_S(515) YTHDC1_T(255) YTHDC1_T(258) YTHDC1_T(266),0.6,0.5,2,1,2,1.0,0.008400898575304863,0.09915030607067772

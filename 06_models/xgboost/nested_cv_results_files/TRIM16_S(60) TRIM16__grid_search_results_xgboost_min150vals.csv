@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM16_S(60) TRIM16_Y(341),1.0,0.5,4,10,6,1.0,0.02627647513707034,0.5995054137537593

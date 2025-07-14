@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SH3BP5_C(379) SH3BP5_S(10) SH3BP5_S(264) SH3BP5_S(375) SH3BP5_S(376) SH3BP5_S(416) SH3BP5_S(421),1.0,0.5,4,1,8,1.0,0.020140457614601735,0.24523995673410864

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFAND3_S(129),0.6,0.5,4,1,4,1.0,0.04076033143796984,0.13375754046110097

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMG9_S(11) SMG9_S(13) SMG9_S(2) SMG9_S(32) SMG9_S(4) SMG9_S(451) SMG9_S(510) SMG9_S(53) SMG9_S(69) SMG9_S(7) SMG9_T(118) SMG9_T(122) SMG9_T(64) SMG9_Y(147) SMG9_Y(41),0.6,0.5,4,5,8,1.0,0.02582489148269296,0.7971760375000045

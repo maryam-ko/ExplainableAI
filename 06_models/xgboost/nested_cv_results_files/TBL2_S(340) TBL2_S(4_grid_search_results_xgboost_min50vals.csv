@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBL2_S(340) TBL2_S(420),1.0,0.5,3,1,2,1.0,0.014808439171752777,-0.015810723581265673

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TTI1_S(459) TTI1_S(828) TTI1_S(838),0.8,0.5,4,5,8,1.0,0.035181960798757475,0.3818754012060362

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPR_S(103) SPR_S(145) SPR_S(16) SPR_S(213),0.6,0.5,4,5,4,1.0,0.035975427595166774,0.1658916536741676

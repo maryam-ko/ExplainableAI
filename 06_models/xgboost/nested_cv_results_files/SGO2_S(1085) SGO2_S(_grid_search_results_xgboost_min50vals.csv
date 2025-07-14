@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGO2_S(1085) SGO2_S(1089) SGO2_S(1138) SGO2_S(1144) SGO2_S(1150) SGO2_S(1187) SGO2_S(1222) SGO2_S(279) SGO2_S(34) SGO2_S(421) SGO2_S(743) SGO2_S(843) SGO2_T(838) SGO2_T(845),0.6,0.5,1,5,2,0.8,0.024978525818861945,-0.005124071165823541

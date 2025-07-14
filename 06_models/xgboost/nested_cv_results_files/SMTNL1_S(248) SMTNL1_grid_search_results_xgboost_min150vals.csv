@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMTNL1_S(248) SMTNL1_S(3) SMTNL1_S(469) SMTNL1_S(6),0.8,0.5,4,1,6,1.0,0.03137278010243203,0.6452116730743254

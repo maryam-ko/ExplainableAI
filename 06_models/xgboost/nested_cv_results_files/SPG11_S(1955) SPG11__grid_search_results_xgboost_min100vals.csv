@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPG11_S(1955) SPG11_S(1957) SPG11_S(1961) SPG11_S(343) SPG11_S(344) SPG11_T(348),0.6,0.5,2,1,6,1.0,0.015418920546409079,0.27135795867776

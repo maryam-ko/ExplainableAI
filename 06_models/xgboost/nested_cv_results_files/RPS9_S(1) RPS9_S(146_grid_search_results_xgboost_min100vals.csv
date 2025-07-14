@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS9_S(1) RPS9_S(146) RPS9_S(153) RPS9_S(160) RPS9_S(162) RPS9_S(163),0.6,0.5,4,1,6,1.0,0.03311239015836062,0.25949769193711614

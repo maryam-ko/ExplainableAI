@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TECR_S(1) TECR_S(58) TECR_S(96) TECR_Y(1),0.6,0.5,3,1,4,1.0,0.020405041253090277,0.07394532118022576

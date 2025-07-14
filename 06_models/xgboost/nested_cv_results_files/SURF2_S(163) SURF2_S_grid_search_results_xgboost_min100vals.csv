@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SURF2_S(163) SURF2_S(166) SURF2_S(234) SURF2_T(190) SURF2_T(195),1.0,0.5,4,10,8,1.0,0.04564202105654534,0.5186924947075011

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFR_S(1054) ZFR_S(195) ZFR_S(475) ZFR_S(476) ZFR_S(479) ZFR_S(481) ZFR_S(506) ZFR_S(590) ZFR_S(884) ZFR_T(529) ZFR_T(550) ZFR_T(883),1.0,0.5,4,5,8,1.0,0.055952075105537444,0.332018791801008

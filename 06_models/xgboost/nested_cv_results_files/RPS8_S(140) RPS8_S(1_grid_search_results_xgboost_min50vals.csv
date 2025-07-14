@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS8_S(140) RPS8_S(157) RPS8_S(160) RPS8_S(4) RPS8_S(95) RPS8_T(130),0.8,0.5,4,5,6,1.0,0.04628597985966989,0.26318319582611005

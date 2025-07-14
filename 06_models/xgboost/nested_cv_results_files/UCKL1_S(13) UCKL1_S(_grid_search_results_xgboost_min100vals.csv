@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UCKL1_S(13) UCKL1_S(16) UCKL1_S(539) UCKL1_S(56) UCKL1_S(9) UCKL1_T(53),1.0,0.5,4,1,8,0.8,0.02708914685514579,0.5909694612966335

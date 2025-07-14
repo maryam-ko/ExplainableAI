@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAD50_S(470) RAD50_S(496) RAD50_S(635) RAD50_S(640) RAD50_T(690),1.0,0.5,4,5,8,1.0,0.023350821545294536,0.6749585611297506

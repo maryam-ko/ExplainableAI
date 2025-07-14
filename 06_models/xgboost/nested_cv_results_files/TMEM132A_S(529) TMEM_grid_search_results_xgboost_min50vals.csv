@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMEM132A_S(529) TMEM132A_S(913) TMEM132A_Y(1015),1.0,0.5,4,1,6,1.0,0.02333338514312056,0.30617258499413513

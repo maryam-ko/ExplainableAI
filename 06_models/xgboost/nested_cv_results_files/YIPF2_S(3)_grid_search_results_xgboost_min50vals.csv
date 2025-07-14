@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YIPF2_S(3),0.6,0.5,3,1,6,0.8,0.020076695923906325,0.16345881265021725

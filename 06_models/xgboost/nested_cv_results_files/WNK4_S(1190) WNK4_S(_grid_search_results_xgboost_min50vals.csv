@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WNK4_S(1190) WNK4_S(1214) WNK4_S(1217),0.6,0.5,1,1,2,0.6,0.008679898491122155,-0.0040466867959091605

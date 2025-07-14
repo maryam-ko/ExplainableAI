@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBCB_S(110) TBCB_S(173),1.0,0.5,4,1,8,0.8,0.026011388499247893,0.13902342992424227

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAB32_S(134) RAB32_S(152) RAB32_S(71),1.0,0.5,4,1,8,1.0,0.019140148036437384,0.4229876653437046

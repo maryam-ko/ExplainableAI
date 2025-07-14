@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRMT2A_S(378) TRMT2A_S(602) TRMT2A_S(620) TRMT2A_T(595),0.8,0.5,4,10,8,1.0,0.03260193138870881,0.26947750143601706

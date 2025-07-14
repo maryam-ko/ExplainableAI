@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYNCRIP_S(159) SYNCRIP_Y(373),0.8,0.5,4,1,8,0.8,0.024818625535910695,0.24367181915906833

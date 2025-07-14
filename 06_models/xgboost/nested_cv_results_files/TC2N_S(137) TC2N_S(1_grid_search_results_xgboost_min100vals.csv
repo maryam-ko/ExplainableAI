@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TC2N_S(137) TC2N_S(156) TC2N_S(161) TC2N_S(164) TC2N_S(168) TC2N_S(174) TC2N_S(210) TC2N_S(218) TC2N_Y(154),0.8,0.5,4,1,4,1.0,0.019599098794517274,0.37522686418089957

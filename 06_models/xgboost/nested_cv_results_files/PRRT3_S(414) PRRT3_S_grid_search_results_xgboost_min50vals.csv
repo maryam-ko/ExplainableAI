@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRRT3_S(414) PRRT3_S(424) PRRT3_S(431) PRRT3_S(544) PRRT3_S(774) PRRT3_S(777) PRRT3_S(798) PRRT3_S(800) PRRT3_S(808) PRRT3_S(815) PRRT3_S(841) PRRT3_S(854) PRRT3_S(928),0.8,0.5,4,1,4,1.0,0.019129298826190532,0.3620580295858239

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP20_S(1198) UTP20_S(2548) UTP20_S(843) UTP20_T(2052),1.0,0.5,1,1,8,0.8,0.006252481415320312,0.2568395407307374

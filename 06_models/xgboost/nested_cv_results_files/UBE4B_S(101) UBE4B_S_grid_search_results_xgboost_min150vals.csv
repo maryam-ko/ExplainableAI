@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBE4B_S(101) UBE4B_S(1136) UBE4B_S(118) UBE4B_S(124) UBE4B_S(1256) UBE4B_S(14) UBE4B_S(143) UBE4B_S(229) UBE4B_S(238) UBE4B_S(311) UBE4B_S(327) UBE4B_S(383) UBE4B_S(84) UBE4B_T(226) UBE4B_T(308),1.0,0.5,4,1,8,1.0,0.01647590408879023,0.6085006563572685

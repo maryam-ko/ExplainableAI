@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRRG4_S(159) PRRG4_S(163) PRRG4_S(200) PRRG4_S(202) PRRG4_S(219) PRRG4_S(38) PRRG4_T(161) PRRG4_Y(207),1.0,0.5,1,1,8,0.6,0.030806721561534592,0.02583573139759763

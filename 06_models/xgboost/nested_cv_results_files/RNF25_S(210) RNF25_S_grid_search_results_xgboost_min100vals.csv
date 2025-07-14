@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF25_S(210) RNF25_S(450) RNF25_S(455) RNF25_T(427),0.8,0.5,4,1,8,1.0,0.0542472344173782,0.2646812449166959

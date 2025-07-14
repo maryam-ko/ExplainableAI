@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STOM_S(10) STOM_S(18) STOM_S(22) STOM_S(231) STOM_S(244),1.0,0.5,4,1,8,1.0,0.019166227033692227,0.23207936458583314

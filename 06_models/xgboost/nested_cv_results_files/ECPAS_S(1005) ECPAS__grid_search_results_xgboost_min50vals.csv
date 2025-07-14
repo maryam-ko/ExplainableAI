@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ECPAS_S(1005) ECPAS_S(1043) ECPAS_S(1826) ECPAS_S(7) ECPAS_S(822) ECPAS_S(830) ECPAS_S(833) ECPAS_S(9) ECPAS_T(1057) ECPAS_T(121) ECPAS_T(124) ECPAS_Y(107),0.6,0.5,3,1,8,1.0,0.036252094359293406,0.038150042135711514

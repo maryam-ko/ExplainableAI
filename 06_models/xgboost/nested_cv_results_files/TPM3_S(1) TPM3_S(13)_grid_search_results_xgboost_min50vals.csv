@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPM3_S(1) TPM3_S(13) TPM3_S(189) TPM3_S(2) TPM3_S(216) TPM3_S(88) TPM3_T(180) TPM3_Y(9),0.6,0.5,4,1,8,1.0,0.031045533381479452,0.29435999306263977

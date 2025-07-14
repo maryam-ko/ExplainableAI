@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR24_S(484) WDR24_S(496) WDR24_S(594) WDR24_S(598) WDR24_S(614) WDR24_S(633) WDR24_S(672) WDR24_T(711),0.8,0.5,3,1,4,1.0,0.02380887595624866,0.0050143626280486405

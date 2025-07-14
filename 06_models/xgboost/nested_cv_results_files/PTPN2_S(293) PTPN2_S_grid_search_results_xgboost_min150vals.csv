@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPN2_S(293) PTPN2_S(294) PTPN2_S(298) PTPN2_S(304) PTPN2_S(347) PTPN2_S(52),1.0,0.5,4,1,8,1.0,0.02244252197358139,0.8381505032376959

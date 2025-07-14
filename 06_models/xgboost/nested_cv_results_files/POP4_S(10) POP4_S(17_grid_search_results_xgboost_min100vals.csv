@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POP4_S(10) POP4_S(17) POP4_S(43),1.0,0.5,3,1,8,1.0,0.017765353753712368,0.5627921617188818

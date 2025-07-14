@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WWTR1_S(1) WWTR1_S(105) WWTR1_S(117) WWTR1_S(3) WWTR1_S(87) WWTR1_S(89) WWTR1_S(93) WWTR1_T(98),0.8,0.5,4,1,8,0.8,0.026445990096564592,0.2461892845985132

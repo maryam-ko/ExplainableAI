@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF524_M(11) ZNF524_S(5) ZNF524_T(3),1.0,0.5,2,1,8,0.8,0.016480508953583568,0.3091768036594117

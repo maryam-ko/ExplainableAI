@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POF1B_S(123) POF1B_S(361) POF1B_S(495) POF1B_S(56) POF1B_S(79) POF1B_S(921) POF1B_Y(166) POF1B_Y(256),0.6,0.5,1,1,2,0.6,0.01417429239795261,-0.01053691065703517

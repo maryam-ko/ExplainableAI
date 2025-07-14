@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDHD1_S(1075) WDHD1_S(1090) WDHD1_S(251) WDHD1_S(333) WDHD1_S(348) WDHD1_S(383) WDHD1_S(407) WDHD1_S(853) WDHD1_T(1073),0.6,0.5,4,5,8,1.0,0.035718727984250145,0.6999784524528554

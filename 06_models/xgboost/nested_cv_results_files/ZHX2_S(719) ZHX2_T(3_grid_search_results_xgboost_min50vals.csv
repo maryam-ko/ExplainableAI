@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZHX2_S(719) ZHX2_T(37) ZHX2_T(4) ZHX2_T(439),1.0,0.5,4,1,6,0.8,0.030763787913466945,0.0565852256124062

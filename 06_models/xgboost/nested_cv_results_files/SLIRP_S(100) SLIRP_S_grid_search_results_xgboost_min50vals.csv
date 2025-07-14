@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SLIRP_S(100) SLIRP_S(102) SLIRP_T(101),1.0,0.5,4,1,8,1.0,0.045681995537961304,0.43796545958534167

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPNS1_S(518) SPNS1_T(24),0.6,0.5,2,1,8,0.8,0.009202211327480734,0.3942285081853027

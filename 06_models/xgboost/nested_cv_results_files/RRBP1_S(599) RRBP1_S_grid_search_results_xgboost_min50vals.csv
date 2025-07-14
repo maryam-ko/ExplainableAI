@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RRBP1_S(599) RRBP1_S(803) RRBP1_S(997) RRBP1_T(110),0.6,0.5,1,1,6,0.6,0.007492424592706457,-0.005748996895071556

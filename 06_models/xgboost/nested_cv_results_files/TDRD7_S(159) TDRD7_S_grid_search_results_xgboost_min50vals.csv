@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TDRD7_S(159) TDRD7_S(179) TDRD7_S(190) TDRD7_S(319) TDRD7_S(785) TDRD7_S(854) TDRD7_S(859) TDRD7_T(327),0.8,0.5,4,1,8,0.8,0.02796529400030776,0.22058626739270623

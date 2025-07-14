@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STK10_S(1) STK10_S(10) STK10_S(20) STK10_S(361) STK10_S(371) STK10_S(374) STK10_S(413) STK10_S(444) STK10_S(485) STK10_S(5) STK10_S(951) STK10_S(964) STK10_S(968) STK10_Y(962),1.0,0.5,3,1,8,1.0,0.028612228035281427,0.09280799619477387

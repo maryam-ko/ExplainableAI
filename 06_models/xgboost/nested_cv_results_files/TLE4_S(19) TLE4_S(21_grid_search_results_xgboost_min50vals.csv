@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TLE4_S(19) TLE4_S(210) TLE4_S(222) TLE4_S(267) TLE4_S(287) TLE4_S(321) TLE4_S(5),0.6,0.5,1,10,4,0.8,0.013936504382973745,-0.0026482117250311798

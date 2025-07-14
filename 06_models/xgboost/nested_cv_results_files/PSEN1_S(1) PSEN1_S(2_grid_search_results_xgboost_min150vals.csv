@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PSEN1_S(1) PSEN1_S(274) PSEN1_S(275) PSEN1_S(332) PSEN1_S(333) PSEN1_S(334) PSEN1_S(357) PSEN1_S(358) PSEN1_S(363) PSEN1_S(365) PSEN1_S(366) PSEN1_S(367) PSEN1_S(43) PSEN1_S(51) PSEN1_S(59) PSEN1_T(354),0.6,0.5,4,5,8,1.0,0.026432628330361647,0.691419969222473

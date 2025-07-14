@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBE2V1_C(146) UBE2V1_S(146) UBE2V1_S(220) UBE2V1_S(3),1.0,0.5,4,5,8,0.8,0.026695397027000575,0.4721776169244459

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TPD52L1_S(137) TPD52L1_S(149) TPD52L1_S(174) TPD52L1_S(7),1.0,0.5,4,1,2,1.0,0.02390534668014383,0.13000447165728807

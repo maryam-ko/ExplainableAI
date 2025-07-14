@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TCAP_S(11) TCAP_S(13) TCAP_S(135) TCAP_S(137) TCAP_S(157) TCAP_S(31) TCAP_S(39) TCAP_S(4) TCAP_S(7) TCAP_T(85),0.8,0.5,2,1,8,0.6,0.01944121208851854,0.08260631931843894

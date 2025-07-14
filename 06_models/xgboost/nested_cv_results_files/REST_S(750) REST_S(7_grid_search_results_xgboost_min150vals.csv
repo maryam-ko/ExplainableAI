@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REST_S(750) REST_S(766) REST_S(841) REST_S(852) REST_S(861) REST_S(864) REST_S(971) REST_T(205),1.0,0.5,4,1,8,1.0,0.017115298678217768,0.7609599114092035

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SGMS1_S(2) SGMS1_S(8),1.0,0.5,2,1,8,0.8,0.017870404420759347,0.16938598037438912

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+XAB2_S(315) XAB2_S(793) XAB2_S(8) XAB2_S(851),0.6,0.5,1,1,8,1.0,0.018296914072301995,0.2149097362852032

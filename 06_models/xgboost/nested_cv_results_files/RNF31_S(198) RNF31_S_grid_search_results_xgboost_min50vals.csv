@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF31_S(198) RNF31_S(383) RNF31_S(88),0.8,0.5,2,5,8,1.0,0.008319124638390034,0.3995072278203978

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZBED6_S(105) ZBED6_S(109) ZBED6_S(14) ZBED6_S(381),1.0,0.5,4,10,8,0.8,0.041370909325746046,0.24123644142178496

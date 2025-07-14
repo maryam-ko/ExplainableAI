@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RBM26_S(186) RBM26_S(188) RBM26_S(487) RBM26_S(515) RBM26_S(518),1.0,0.5,4,10,8,1.0,0.033875086215429076,0.5585028924241835

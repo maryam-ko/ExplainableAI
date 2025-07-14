@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF407_S(1105) ZNF407_S(1262) ZNF407_S(1358) ZNF407_S(333) ZNF407_S(57) ZNF407_S(682) ZNF407_S(952) ZNF407_S(994) ZNF407_T(836) ZNF407_T(838),0.6,0.5,4,1,8,1.0,0.023486708702402305,0.3484198363001996

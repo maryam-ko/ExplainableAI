@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SMC4_S(22) SMC4_S(28) SMC4_S(41) SMC4_S(44) SMC4_S(50) SMC4_S(588) SMC4_T(39) SMC4_T(44),1.0,0.5,4,5,8,1.0,0.032758344352482774,0.7556795987241525

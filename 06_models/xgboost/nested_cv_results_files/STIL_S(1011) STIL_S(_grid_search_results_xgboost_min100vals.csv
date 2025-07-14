@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STIL_S(1011) STIL_S(1086) STIL_S(1111) STIL_S(1132) STIL_S(1135) STIL_S(1225) STIL_S(395) STIL_S(409) STIL_S(475) STIL_S(719) STIL_S(748) STIL_S(753) STIL_Y(470) STIL_Y(938),1.0,0.5,4,1,6,1.0,0.020890120498139774,0.5666120674160304

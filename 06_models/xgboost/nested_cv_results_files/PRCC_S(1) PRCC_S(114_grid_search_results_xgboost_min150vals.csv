@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRCC_S(1) PRCC_S(114) PRCC_S(157) PRCC_S(159) PRCC_S(206) PRCC_S(209) PRCC_S(212) PRCC_S(241) PRCC_S(243) PRCC_S(267) PRCC_S(278) PRCC_T(165) PRCC_T(239) PRCC_T(261),1.0,0.5,4,1,8,1.0,0.03497658911799993,0.6679411420291388

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+YRDC_S(37) YRDC_S(6) YRDC_S(60) YRDC_Y(278),1.0,0.5,4,1,8,1.0,0.043421137622000346,0.589350839255774

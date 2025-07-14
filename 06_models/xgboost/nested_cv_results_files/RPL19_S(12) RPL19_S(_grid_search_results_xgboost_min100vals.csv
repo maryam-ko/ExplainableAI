@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL19_S(12) RPL19_S(122) RPL19_S(13) RPL19_S(132) RPL19_S(164) RPL19_S(189) RPL19_S(9) RPL19_T(187),1.0,0.5,4,5,8,1.0,0.038386323057564925,0.5021566994139481

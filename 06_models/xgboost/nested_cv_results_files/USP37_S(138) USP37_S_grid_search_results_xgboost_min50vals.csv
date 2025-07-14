@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP37_S(138) USP37_S(170) USP37_S(650) USP37_S(652) USP37_S(698) USP37_T(631),1.0,0.5,4,1,6,0.8,0.018630076107822427,0.21063827677868613

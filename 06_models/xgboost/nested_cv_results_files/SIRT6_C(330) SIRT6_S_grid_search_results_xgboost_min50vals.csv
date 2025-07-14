@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SIRT6_C(330) SIRT6_S(10) SIRT6_S(303) SIRT6_S(316) SIRT6_S(326) SIRT6_S(330) SIRT6_S(338) SIRT6_S(7) SIRT6_T(267) SIRT6_T(294) SIRT6_T(305) SIRT6_T(310) SIRT6_T(337) SIRT6_T(4) SIRT6_Y(5),0.6,0.5,4,1,8,1.0,0.03230698024141213,0.3947811804392386

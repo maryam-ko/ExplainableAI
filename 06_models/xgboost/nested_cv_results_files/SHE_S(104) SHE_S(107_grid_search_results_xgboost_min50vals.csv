@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SHE_S(104) SHE_S(107) SHE_S(2) SHE_S(246) SHE_S(85),1.0,0.5,3,1,8,1.0,0.018985122680003803,0.08579046219682666

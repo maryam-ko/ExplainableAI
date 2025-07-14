@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WDR75_S(796) WDR75_S(809) WDR75_T(678) WDR75_T(795),1.0,0.5,4,10,8,1.0,0.05098940330843084,0.5430417287365973

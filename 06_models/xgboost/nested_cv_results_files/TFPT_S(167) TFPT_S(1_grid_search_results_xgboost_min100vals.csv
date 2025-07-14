@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFPT_S(167) TFPT_S(180) TFPT_S(249) TFPT_S(252) TFPT_T(207),0.8,0.5,4,1,8,1.0,0.026379974405733354,0.7506403010691564

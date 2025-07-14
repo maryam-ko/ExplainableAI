@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RETREG2_S(132) RETREG2_S(316) RETREG2_S(337) RETREG2_S(5) RETREG2_S(74) RETREG2_T(72),0.6,0.5,1,1,4,0.8,0.008646579368613874,-0.008508249320150752

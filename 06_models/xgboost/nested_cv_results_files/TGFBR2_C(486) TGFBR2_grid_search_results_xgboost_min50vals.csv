@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TGFBR2_C(486) TGFBR2_C(553) TGFBR2_S(409) TGFBR2_S(548) TGFBR2_S(550) TGFBR2_S(551) TGFBR2_S(552) TGFBR2_S(553) TGFBR2_S(556) TGFBR2_S(562) TGFBR2_S(573) TGFBR2_T(566),0.6,0.5,2,10,8,0.8,0.027067775738045072,0.15615685878707947

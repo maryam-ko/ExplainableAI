@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STX5_S(12) STX5_S(123) STX5_S(196) STX5_S(210) STX5_S(38) STX5_S(9) STX5_Y(17),1.0,0.5,2,1,8,0.8,0.014444576163114928,0.03784128999247971

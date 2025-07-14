@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WIPF3_S(138) WIPF3_S(149) WIPF3_S(281) WIPF3_S(330) WIPF3_S(383) WIPF3_S(412) WIPF3_T(233) WIPF3_T(386),0.8,0.5,4,1,4,1.0,0.03255460702795447,0.20058628633510917

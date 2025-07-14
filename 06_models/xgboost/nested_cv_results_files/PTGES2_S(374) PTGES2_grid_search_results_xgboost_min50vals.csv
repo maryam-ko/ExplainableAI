@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTGES2_S(374) PTGES2_S(6) PTGES2_S(95),1.0,0.5,2,1,8,0.6,0.017636029989187542,0.18679485948033842

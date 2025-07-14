@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VSIR_S(216) VSIR_S(235) VSIR_S(240) VSIR_S(248) VSIR_S(264) VSIR_S(280) VSIR_S(287) VSIR_S(305) VSIR_S(41),0.8,0.5,4,5,8,1.0,0.029221039555784818,0.5582909639242113

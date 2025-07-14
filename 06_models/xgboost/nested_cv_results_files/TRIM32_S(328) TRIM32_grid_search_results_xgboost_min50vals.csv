@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM32_S(328) TRIM32_S(339),0.8,0.5,3,1,8,1.0,0.01708801957350956,0.2659302328227787

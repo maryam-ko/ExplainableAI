@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RNF14_S(162) RNF14_S(175) RNF14_S(325) RNF14_S(348) RNF14_S(350) RNF14_S(451) RNF14_S(453) RNF14_T(165) RNF14_T(409),1.0,0.5,4,1,8,1.0,0.021146436730983504,0.14262745074596686

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SYNC_S(132) SYNC_S(15) SYNC_S(26) SYNC_S(27) SYNC_S(285) SYNC_S(3) SYNC_S(325) SYNC_S(326) SYNC_S(5) SYNC_S(7) SYNC_T(14),0.8,0.5,3,5,8,1.0,0.04211087173951564,0.1524662503262681

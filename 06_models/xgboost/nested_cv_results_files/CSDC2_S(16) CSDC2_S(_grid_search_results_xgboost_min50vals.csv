@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSDC2_S(16) CSDC2_S(19) CSDC2_S(32) CSDC2_S(43) CSDC2_S(47) CSDC2_S(58) CSDC2_S(64) CSDC2_S(7),0.8,0.5,2,1,4,0.8,0.025957089020993623,0.0077333224949853955

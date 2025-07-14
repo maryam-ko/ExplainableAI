@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RICTOR_S(1113) RICTOR_S(1231) RICTOR_S(1282) RICTOR_S(1292) RICTOR_S(1382) RICTOR_T(1172) RICTOR_T(1271) RICTOR_T(1295) RICTOR_T(1376) RICTOR_Y(863),1.0,0.5,4,1,4,0.6,0.023938845607190774,0.009828069372343973

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STXBP4_S(10) STXBP4_S(463) STXBP4_T(5),1.0,0.5,4,1,8,1.0,0.01713441421488643,0.4297480065858954

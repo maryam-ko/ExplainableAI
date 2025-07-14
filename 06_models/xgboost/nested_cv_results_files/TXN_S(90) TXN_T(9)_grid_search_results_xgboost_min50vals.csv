@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TXN_S(90) TXN_T(9),0.6,0.5,3,1,8,1.0,0.024580142090071,0.13216877594616133

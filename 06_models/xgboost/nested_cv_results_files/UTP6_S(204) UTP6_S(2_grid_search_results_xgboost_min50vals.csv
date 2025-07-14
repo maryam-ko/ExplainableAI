@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP6_S(204) UTP6_S(286) UTP6_T(288),0.6,0.5,3,1,6,1.0,0.01414462913363121,0.28549401533652297

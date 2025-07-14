@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SETDB1_S(1017) SETDB1_S(1066) SETDB1_S(528) SETDB1_Y(1061),1.0,0.5,4,1,8,1.0,0.023361515165103902,0.6157363055029993

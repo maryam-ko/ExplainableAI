@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UBA2_S(111) UBA2_S(207) UBA2_S(289) UBA2_S(507),0.8,0.5,3,1,6,1.0,0.019386716341578496,0.17842616538543257

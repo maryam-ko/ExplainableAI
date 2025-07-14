@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BLZF1_S(15) BLZF1_S(284) BLZF1_S(353) BLZF1_S(362) BLZF1_S(49) BLZF1_S(59) BLZF1_S(9) BLZF1_T(13) BLZF1_T(331),0.8,0.5,4,1,8,1.0,0.021008921155645992,0.2339936509129945

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TIAM2_S(1569) TIAM2_S(158) TIAM2_S(1583) TIAM2_S(199) TIAM2_S(209) TIAM2_S(312) TIAM2_S(375) TIAM2_S(389) TIAM2_S(767) TIAM2_T(1038) TIAM2_T(837),0.6,0.5,1,1,6,0.8,0.01808301683893584,-0.004111565845365206

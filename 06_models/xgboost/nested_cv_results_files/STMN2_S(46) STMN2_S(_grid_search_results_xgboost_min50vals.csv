@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STMN2_S(46) STMN2_S(50) STMN2_S(62) STMN2_S(97),0.6,0.5,1,1,4,0.6,0.01625852456877449,-0.0015030141964698096

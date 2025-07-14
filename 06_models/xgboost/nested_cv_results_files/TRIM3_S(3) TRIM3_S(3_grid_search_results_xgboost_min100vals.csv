@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TRIM3_S(3) TRIM3_S(358) TRIM3_S(427),1.0,0.5,4,10,8,1.0,0.02442558096831855,0.56684574268586

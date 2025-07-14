@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TECPR2_S(404) TECPR2_S(408) TECPR2_S(448) TECPR2_S(449) TECPR2_S(673) TECPR2_T(208) TECPR2_T(726),1.0,0.5,3,1,6,0.8,0.010964443564716497,0.3682532199749847

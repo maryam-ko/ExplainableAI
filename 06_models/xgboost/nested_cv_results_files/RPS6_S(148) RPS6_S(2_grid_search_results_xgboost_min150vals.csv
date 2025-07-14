@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPS6_S(148) RPS6_S(211) RPS6_S(216) RPS6_S(235) RPS6_S(236) RPS6_S(240) RPS6_S(242) RPS6_S(244) RPS6_S(246) RPS6_S(247) RPS6_S(3) RPS6_S(53) RPS6_S(6) RPS6_S(82) RPS6_T(128) RPS6_T(181) RPS6_T(241) RPS6_T(5),0.8,0.5,4,1,8,1.0,0.02657289620508363,0.8419492501792429

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VAPB_S(139) VAPB_S(146) VAPB_S(155) VAPB_S(156) VAPB_S(158) VAPB_S(159) VAPB_S(160) VAPB_S(200) VAPB_S(204) VAPB_S(206) VAPB_T(147) VAPB_T(150) VAPB_T(164),1.0,0.5,4,1,8,1.0,0.035883518148338296,0.525835571682362

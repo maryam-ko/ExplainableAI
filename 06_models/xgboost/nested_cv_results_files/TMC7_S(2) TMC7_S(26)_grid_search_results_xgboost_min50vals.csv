@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TMC7_S(2) TMC7_S(26) TMC7_S(72),0.8,0.5,4,1,8,1.0,0.010648169313586212,0.296698708429311

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TXNRD3_S(3) TXNRD3_S(32) TXNRD3_S(4) TXNRD3_S(41) TXNRD3_S(42) TXNRD3_S(71) TXNRD3_S(8),1.0,0.5,4,5,8,1.0,0.048559790885321495,0.47521056096937186

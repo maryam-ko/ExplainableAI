@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPP6R2_S(262) PPP6R2_S(400) PPP6R2_S(745) PPP6R2_S(752) PPP6R2_S(770) PPP6R2_S(816),0.8,0.5,1,10,8,0.8,0.016315295575648505,0.14363870834723677

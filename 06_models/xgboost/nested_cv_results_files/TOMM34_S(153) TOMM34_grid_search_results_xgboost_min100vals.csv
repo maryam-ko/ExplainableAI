@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TOMM34_S(153) TOMM34_S(186) TOMM34_S(279) TOMM34_S(280) TOMM34_S(5) TOMM34_S(8) TOMM34_S(93),1.0,0.5,4,10,8,1.0,0.05508918059283514,0.3777812213315964

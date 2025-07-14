@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SBNO1_S(1391) SBNO1_S(162) SBNO1_S(697) SBNO1_S(807) SBNO1_S(811) SBNO1_S(813) SBNO1_S(815) SBNO1_Y(487),1.0,0.5,4,1,4,1.0,0.020102403272247726,0.24534528376521042

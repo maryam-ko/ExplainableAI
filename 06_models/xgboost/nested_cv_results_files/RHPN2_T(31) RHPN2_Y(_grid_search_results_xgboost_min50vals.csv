@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RHPN2_T(31) RHPN2_Y(20),0.8,0.5,4,1,8,0.8,0.030353143936315163,0.3395548394860631

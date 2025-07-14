@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HERPUD2_S(94) HERPUD2_T(619) HERPUD2_T(90),0.8,0.5,2,1,8,0.8,0.025049385867259345,0.005535002722926197

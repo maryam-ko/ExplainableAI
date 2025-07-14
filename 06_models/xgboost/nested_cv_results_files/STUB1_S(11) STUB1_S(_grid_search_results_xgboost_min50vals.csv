@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STUB1_S(11) STUB1_S(137) STUB1_S(273) STUB1_S(7),0.8,0.5,2,10,8,0.8,0.011741439085020663,0.2282951732118216

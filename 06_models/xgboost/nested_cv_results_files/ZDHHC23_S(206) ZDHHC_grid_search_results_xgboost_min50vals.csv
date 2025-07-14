@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZDHHC23_S(206) ZDHHC23_S(252),0.6,0.5,1,1,8,0.6,0.019752197759852357,-0.011606578313568794

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TFAM_S(128) TFAM_S(193) TFAM_T(122),1.0,0.5,2,1,8,1.0,0.00860313733304616,0.45149926099131915

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SNRNP48_S(201) SNRNP48_S(204) SNRNP48_S(283),0.6,0.5,1,1,2,0.8,0.013686372887740939,-0.0066153193974560764

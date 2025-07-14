@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TDRKH_S(267) TDRKH_S(270) TDRKH_S(278) TDRKH_T(207),0.6,0.5,1,1,6,0.6,0.01497282024538773,-0.0038479207496288303

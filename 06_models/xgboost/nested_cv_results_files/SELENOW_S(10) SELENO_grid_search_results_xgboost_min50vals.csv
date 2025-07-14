@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SELENOW_S(10) SELENOW_S(11) SELENOW_S(70) SELENOW_S(9) SELENOW_Y(5) SELENOW_Y(6),0.6,0.5,3,1,4,0.8,0.014618122110660143,0.1698199919237878

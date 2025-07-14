@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP4_S(680),1.0,0.5,3,1,8,0.6,0.022286887849530094,0.07354868102531027

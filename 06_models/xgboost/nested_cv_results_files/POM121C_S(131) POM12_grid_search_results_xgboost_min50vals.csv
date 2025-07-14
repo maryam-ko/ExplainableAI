@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+POM121C_S(131) POM121C_S(180) POM121C_S(269) POM121C_S(348) POM121C_S(366) POM121C_S(367) POM121C_S(371) POM121C_S(378) POM121C_S(42) POM121C_S(80) POM121C_T(54),0.6,0.5,1,1,8,0.6,0.007390896036705307,-0.0013760085459664229

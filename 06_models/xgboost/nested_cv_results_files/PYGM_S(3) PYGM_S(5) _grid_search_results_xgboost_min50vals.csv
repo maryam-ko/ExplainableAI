@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PYGM_S(3) PYGM_S(5) PYGM_S(6) PYGM_S(7) PYGM_S(747) PYGM_S(831) PYGM_T(341) PYGM_T(395) PYGM_Y(405) PYGM_Y(52) PYGM_Y(549) PYGM_Y(6) PYGM_Y(727) PYGM_Y(732) PYGM_Y(781),1.0,0.5,2,1,6,0.8,0.013592446806970094,0.165075196936183

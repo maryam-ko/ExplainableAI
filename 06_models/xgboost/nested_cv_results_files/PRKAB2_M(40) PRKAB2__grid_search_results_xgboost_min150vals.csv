@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PRKAB2_M(40) PRKAB2_S(1) PRKAB2_S(107) PRKAB2_S(108) PRKAB2_S(183) PRKAB2_S(184) PRKAB2_S(39) PRKAB2_S(44) PRKAB2_S(5) PRKAB2_S(95) PRKAB2_T(40) PRKAB2_Y(189),0.6,0.5,4,10,8,1.0,0.04513559183179104,0.5932119078310631

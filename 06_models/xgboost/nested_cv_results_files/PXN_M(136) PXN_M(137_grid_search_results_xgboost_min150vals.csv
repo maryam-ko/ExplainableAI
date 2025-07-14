@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PXN_M(136) PXN_M(137) PXN_S(126) PXN_S(134) PXN_S(135) PXN_S(178) PXN_S(191) PXN_S(230) PXN_S(244) PXN_S(250) PXN_S(261) PXN_S(272) PXN_S(274) PXN_S(313) PXN_S(4) PXN_S(414) PXN_S(5) PXN_S(533) PXN_S(793) PXN_S(8) PXN_S(90) PXN_S(93) PXN_T(132) PXN_Y(409),0.6,0.5,4,10,8,1.0,0.019646709618725024,0.7228322177967764

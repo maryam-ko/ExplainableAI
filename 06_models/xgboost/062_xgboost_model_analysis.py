@@ -65,17 +65,20 @@ if __name__ == '__main__':
     
     """Concatenate optimal models into single file containing best model for each cluster."""
     print(f'Concatenating optimal XGBoost models...')
-    create_master_results_file(args.threshold)
+    mlfuncs.create_master_results_file(args.threshold, 'xgboost')
 
     """Concatenate optimal models into single file containing best model for each cluster."""
     print(f'Concatenating optimal XGBoost models...')
     mlfuncs.concat_best_models_all_clusters('mse', args.threshold, 'xgboost')
+
+    print(f'Concatenating and logging SHAP files...')
+    mlfuncs.create_master_shaps_file(args.threshold, 'xgboost')
     
     print(f'Identifying XGBoost models for retraining...')
     mlfuncs.identify_models_for_retraining(args.base_dir, args.threshold, 'xgboost')
 
-    print(f'Concatenating and logging SHAP files...')
-    mlfuncs.concat_and_log_all_shap_files(args.threshold, 'xgboost')
+    print(f'Multiplying SHAP values by R2 scores...')
+    mlfuncs.multiply_shap_by_r2_per_threshold(args.threshold,'xgboost')
     
     print(f'Execution time: {time.time() - start_time} seconds, {(time.time() - start_time)/60} minutes, {(time.time() - start_time)/3600} hours.')
 

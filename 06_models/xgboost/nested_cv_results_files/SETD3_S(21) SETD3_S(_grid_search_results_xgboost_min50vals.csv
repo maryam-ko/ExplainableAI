@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SETD3_S(21) SETD3_S(565) SETD3_T(14),1.0,0.5,3,1,8,0.8,0.00825106202753813,0.34626680007956046

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PREX1_M(1206) PREX1_S(1001) PREX1_S(1049) PREX1_S(1182) PREX1_S(1195) PREX1_S(1200) PREX1_S(1206) PREX1_S(1208) PREX1_S(1256) PREX1_S(282) PREX1_S(319) PREX1_S(323) PREX1_S(505),1.0,0.5,4,5,8,0.6,0.018701804536862304,0.3365023412232081

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SKI_S(343) SKI_S(354) SKI_S(377) SKI_S(383) SKI_S(394) SKI_S(480) SKI_S(515) SKI_S(720),0.8,0.5,4,5,8,0.8,0.028280636723897707,0.19954480394739071

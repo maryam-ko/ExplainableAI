@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPM1H_S(118) PPM1H_S(119) PPM1H_S(122) PPM1H_S(123) PPM1H_S(124) PPM1H_S(211) PPM1H_S(221) PPM1H_S(223) PPM1H_T(224),0.8,0.5,4,1,8,1.0,0.055704457796520446,0.31970699960253934

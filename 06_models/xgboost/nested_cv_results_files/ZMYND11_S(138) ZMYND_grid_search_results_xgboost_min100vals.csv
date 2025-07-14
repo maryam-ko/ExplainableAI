@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZMYND11_S(138) ZMYND11_S(216) ZMYND11_S(378) ZMYND11_S(403) ZMYND11_S(421) ZMYND11_S(427) ZMYND11_S(441) ZMYND11_S(442) ZMYND11_S(444) ZMYND11_S(447) ZMYND11_S(6),0.6,0.5,3,1,8,1.0,0.020207384470743866,0.5440770718667725

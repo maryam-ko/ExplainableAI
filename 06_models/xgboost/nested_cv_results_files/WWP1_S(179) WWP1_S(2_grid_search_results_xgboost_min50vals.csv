@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WWP1_S(179) WWP1_S(25) WWP1_S(26) WWP1_S(468),1.0,0.5,4,1,8,1.0,0.017537985448094307,0.10611034767818035

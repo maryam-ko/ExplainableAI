@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTK2B_S(361) PTK2B_S(559) PTK2B_S(568) PTK2B_S(778) PTK2B_S(839) PTK2B_T(842),0.8,0.5,4,1,8,1.0,0.02073418980757332,0.20800910780373788

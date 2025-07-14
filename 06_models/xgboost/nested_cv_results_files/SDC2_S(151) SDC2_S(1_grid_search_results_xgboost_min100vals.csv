@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SDC2_S(151) SDC2_S(178) SDC2_S(187) SDC2_S(188) SDC2_Y(179),0.6,0.5,4,10,8,1.0,0.027994251044725502,0.3136650743780224

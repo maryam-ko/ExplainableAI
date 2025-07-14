@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+UTP11_S(235) UTP11_S(241) UTP11_T(238) UTP11_T(90),0.6,0.5,4,1,6,1.0,0.043268385930610255,0.11809123690478107

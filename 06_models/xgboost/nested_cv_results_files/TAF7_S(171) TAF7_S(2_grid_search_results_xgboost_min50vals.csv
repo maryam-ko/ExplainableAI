@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAF7_S(171) TAF7_S(200) TAF7_S(201) TAF7_S(204) TAF7_S(213) TAF7_S(256) TAF7_S(264) TAF7_S(34),1.0,0.5,4,1,8,1.0,0.05221648086344534,0.3344606118041293

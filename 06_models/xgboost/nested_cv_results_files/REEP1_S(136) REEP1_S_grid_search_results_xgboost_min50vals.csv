@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REEP1_S(136) REEP1_S(138) REEP1_S(148) REEP1_S(152),1.0,0.5,2,1,4,1.0,0.011728452905489786,0.3299127099320631

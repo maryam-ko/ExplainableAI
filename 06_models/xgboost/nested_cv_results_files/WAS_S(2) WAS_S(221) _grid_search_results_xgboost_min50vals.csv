@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+WAS_S(2) WAS_S(221) WAS_S(483) WAS_S(484),0.6,0.5,1,1,4,0.8,0.011401562860069023,-0.005728155893688492

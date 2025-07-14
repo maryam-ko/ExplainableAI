@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SPN_S(291) SPN_S(336) SPN_S(363) SPN_S(368),0.8,0.5,4,1,8,1.0,0.03620003670735417,0.43663235428188524

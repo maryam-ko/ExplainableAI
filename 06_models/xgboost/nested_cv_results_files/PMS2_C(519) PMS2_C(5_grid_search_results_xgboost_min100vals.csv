@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PMS2_C(519) PMS2_C(523) PMS2_S(220) PMS2_S(339) PMS2_S(373) PMS2_S(388) PMS2_S(522) PMS2_S(523) PMS2_S(545) PMS2_S(547) PMS2_S(553) PMS2_S(603) PMS2_T(569) PMS2_T(573),0.8,0.5,4,5,8,1.0,0.022481170619017162,0.6548706547425736

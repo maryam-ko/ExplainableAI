@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TAF2_S(1069) TAF2_S(1184) TAF2_S(1185) TAF2_S(1188) TAF2_S(1191) TAF2_S(1194) TAF2_S(1198) TAF2_S(360) TAF2_S(364) TAF2_S(370) TAF2_T(1070) TAF2_T(1182),1.0,0.5,4,1,6,1.0,0.03199895490956765,0.6259853343351118

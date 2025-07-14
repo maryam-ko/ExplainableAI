@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRT7_S(13) KRT7_S(14) KRT7_S(2) KRT7_S(254) KRT7_S(30) KRT7_S(38) KRT7_S(53) KRT7_S(7) KRT7_S(71) KRT7_S(83) KRT7_Y(205) KRT7_Y(40) KRT7_Y(55),0.6,0.5,1,1,8,0.6,0.020560541937657776,-0.004003188974548033

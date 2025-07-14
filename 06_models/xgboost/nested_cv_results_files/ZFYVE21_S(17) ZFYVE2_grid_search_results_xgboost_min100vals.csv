@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZFYVE21_S(17) ZFYVE21_S(19),1.0,0.5,4,1,4,1.0,0.017085877335602774,0.4686279711363633

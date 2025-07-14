@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RAP1GAP_S(161) RAP1GAP_S(472) RAP1GAP_S(499) RAP1GAP_S(559) RAP1GAP_S(605) RAP1GAP_S(606) RAP1GAP_T(268) RAP1GAP_T(586) RAP1GAP_T(603),1.0,0.5,1,1,8,1.0,0.010500326128009172,0.1344304506937029

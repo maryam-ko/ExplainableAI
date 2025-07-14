@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STOML2_S(26) STOML2_S(27) STOML2_S(29) STOML2_S(300) STOML2_S(330) STOML2_S(332) STOML2_S(345) STOML2_T(281) STOML2_T(282) STOML2_T(316) STOML2_T(321) STOML2_T(327),1.0,0.5,4,1,8,1.0,0.02036736077641448,0.7295929130754834

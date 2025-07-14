@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REPS2_S(120) REPS2_S(254) REPS2_S(323) REPS2_S(353) REPS2_S(4) REPS2_S(489) REPS2_S(492) REPS2_S(631) REPS2_T(339) REPS2_Y(558),1.0,0.5,3,1,8,0.8,0.02394914912546263,0.0536394591805031

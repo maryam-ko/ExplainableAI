@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFWD3_S(266) RFWD3_S(425),0.6,0.5,3,1,6,1.0,0.017917555347010984,0.17326550249571965

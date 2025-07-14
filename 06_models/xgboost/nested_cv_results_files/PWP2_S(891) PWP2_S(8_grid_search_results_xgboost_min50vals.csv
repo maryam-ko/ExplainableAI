@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PWP2_S(891) PWP2_S(898) PWP2_S(902) PWP2_S(913),0.6,0.5,1,1,4,0.6,0.014113517205644981,-0.007489800744889097

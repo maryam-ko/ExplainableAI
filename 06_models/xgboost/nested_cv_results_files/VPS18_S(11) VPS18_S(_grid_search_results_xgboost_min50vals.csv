@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+VPS18_S(11) VPS18_S(529) VPS18_S(689),0.8,0.5,1,1,4,1.0,0.01103828681179398,0.11680060082725492

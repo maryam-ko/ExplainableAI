@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SCEL_S(10) SCEL_S(127) SCEL_S(162) SCEL_S(225) SCEL_S(232) SCEL_S(263) SCEL_S(305) SCEL_S(345) SCEL_S(347) SCEL_S(389) SCEL_S(455) SCEL_S(7) SCEL_S(88) SCEL_S(90) SCEL_S(91) SCEL_T(443) SCEL_T(94),1.0,0.5,4,1,8,1.0,0.03068130254292808,0.40300925655145237

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TBX3_S(409) TBX3_S(435) TBX3_S(680) TBX3_S(705) TBX3_T(441),1.0,0.5,4,1,8,0.8,0.012494877763359611,0.37194677391037934

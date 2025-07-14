@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RFX3_S(155) RFX3_S(664) RFX3_S(674) RFX3_S(678),1.0,0.5,2,10,8,0.8,0.011992327341410088,0.0052737740287267295

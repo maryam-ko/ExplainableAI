@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPL35A_S(2) RPL35A_S(81) RPL35A_S(90) RPL35A_Y(106),1.0,0.5,2,10,8,0.6,0.013349801843243258,0.03991502637585818

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP13_S(104) USP13_S(630) USP13_T(122) USP13_T(57),0.8,0.5,4,1,6,1.0,0.020657734439112712,0.26242582016387306

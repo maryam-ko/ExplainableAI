@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASAL3_S(51) RASAL3_S(785) RASAL3_S(816) RASAL3_S(831) RASAL3_S(944) RASAL3_S(945) RASAL3_S(988),1.0,0.5,4,1,8,0.8,0.04502290801996916,0.3307258074000252

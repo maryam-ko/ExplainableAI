@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SET_S(161) SET_S(28) SET_S(3) SET_S(50) SET_S(63) SET_S(7),1.0,0.5,4,1,8,1.0,0.036849267280951704,0.6567668709023863

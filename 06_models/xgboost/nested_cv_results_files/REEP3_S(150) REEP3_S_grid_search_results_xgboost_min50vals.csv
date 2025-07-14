@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+REEP3_S(150) REEP3_S(152) REEP3_S(153) REEP3_S(210) REEP3_S(242) REEP3_T(157) REEP3_T(158) REEP3_T(201) REEP3_T(216) REEP3_Y(209) REEP3_Y(240) REEP3_Y(245),1.0,0.5,4,1,6,1.0,0.05203562194541819,0.1456842832042083

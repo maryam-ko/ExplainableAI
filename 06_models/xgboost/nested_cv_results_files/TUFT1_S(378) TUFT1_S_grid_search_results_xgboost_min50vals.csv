@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TUFT1_S(378) TUFT1_S(397) TUFT1_S(72),1.0,0.5,1,1,8,1.0,0.013666331485318367,0.33957420874429844

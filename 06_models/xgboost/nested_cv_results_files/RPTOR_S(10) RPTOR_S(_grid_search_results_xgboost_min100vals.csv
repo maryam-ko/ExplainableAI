@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RPTOR_S(10) RPTOR_S(14) RPTOR_S(19) RPTOR_S(23) RPTOR_S(37) RPTOR_S(4) RPTOR_S(538) RPTOR_S(696) RPTOR_S(705) RPTOR_S(718) RPTOR_S(722) RPTOR_S(859) RPTOR_S(863) RPTOR_S(877) RPTOR_Y(534),0.8,0.5,4,1,8,1.0,0.03546789650487871,0.7713236913748601

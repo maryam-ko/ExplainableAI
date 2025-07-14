@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PTPN6_S(10) PTPN6_S(26) PTPN6_S(294) PTPN6_S(40) PTPN6_S(42) PTPN6_S(557) PTPN6_S(57) PTPN6_S(582) PTPN6_S(591) PTPN6_T(16) PTPN6_T(394) PTPN6_Y(536) PTPN6_Y(564),1.0,0.5,1,1,8,0.8,0.01793355622044896,-0.0027852966140596625

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+USP22_S(146) USP22_S(225) USP22_S(237) USP22_S(366) USP22_T(147) USP22_T(151),0.6,0.5,3,1,8,1.0,0.018700943865796137,0.3287820465261368

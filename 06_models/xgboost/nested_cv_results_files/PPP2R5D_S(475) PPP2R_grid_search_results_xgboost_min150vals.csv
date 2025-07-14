@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PPP2R5D_S(475) PPP2R5D_S(571) PPP2R5D_S(573) PPP2R5D_S(75) PPP2R5D_S(89) PPP2R5D_S(90) PPP2R5D_T(63),0.8,0.5,4,1,8,1.0,0.045055285093576196,0.7001304214640846

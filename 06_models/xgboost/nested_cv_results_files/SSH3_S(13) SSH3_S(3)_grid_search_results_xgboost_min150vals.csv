@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SSH3_S(13) SSH3_S(3) SSH3_S(37) SSH3_S(384) SSH3_S(388) SSH3_S(484) SSH3_S(602) SSH3_S(646) SSH3_S(649) SSH3_S(653) SSH3_S(67) SSH3_S(70) SSH3_S(8) SSH3_S(85) SSH3_S(87) SSH3_S(9) SSH3_T(67) SSH3_T(79),0.8,0.5,4,1,8,1.0,0.02403758070152841,0.7830519335622836

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZNF316_S(10) ZNF316_S(105) ZNF316_S(112) ZNF316_S(1416) ZNF316_S(22) ZNF316_T(396) ZNF316_T(565) ZNF316_T(6) ZNF316_T(7) ZNF316_T(882),0.6,0.5,4,1,8,1.0,0.06006215246501735,0.3902988635134507

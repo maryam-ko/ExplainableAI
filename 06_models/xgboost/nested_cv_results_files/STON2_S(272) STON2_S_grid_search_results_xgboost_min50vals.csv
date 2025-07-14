@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+STON2_S(272) STON2_S(281) STON2_S(302) STON2_S(307) STON2_S(326) STON2_S(354) STON2_S(762),0.6,0.5,1,10,8,0.8,0.010700955351431559,0.18268677425592275

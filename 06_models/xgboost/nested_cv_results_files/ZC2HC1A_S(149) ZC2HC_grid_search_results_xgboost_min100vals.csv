@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ZC2HC1A_S(149) ZC2HC1A_S(179) ZC2HC1A_T(258),1.0,0.5,2,1,8,1.0,0.01634363166161552,0.06360757204213104

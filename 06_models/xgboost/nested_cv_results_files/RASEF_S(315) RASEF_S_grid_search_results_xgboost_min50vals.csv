@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+RASEF_S(315) RASEF_S(334) RASEF_S(377) RASEF_S(393) RASEF_Y(311),1.0,0.5,4,5,8,1.0,0.031730800129788024,0.44145570359509245

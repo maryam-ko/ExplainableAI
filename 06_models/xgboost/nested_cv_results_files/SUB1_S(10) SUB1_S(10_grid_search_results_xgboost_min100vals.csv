@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+SUB1_S(10) SUB1_S(104) SUB1_S(111) SUB1_S(12) SUB1_S(13) SUB1_S(15) SUB1_S(51) SUB1_S(9),0.8,0.5,4,1,8,0.8,0.023111574882434,0.375346617211006

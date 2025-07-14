@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+TGIF1_S(137) TGIF1_S(140) TGIF1_S(142) TGIF1_S(286) TGIF1_T(144),1.0,0.5,2,1,8,0.6,0.015072669887008457,0.008260460508671774
