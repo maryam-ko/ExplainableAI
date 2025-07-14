@@ -24,9 +24,10 @@ def subset_lr_coefficients(base_dir, threshold, network_name):
 
     print(f"Subsetting LR coefficients for {network_name} at threshold = {threshold}...")
     df = pd.read_csv(f"{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv", header=0)
-    df.loc[:, 'Feature'] = df['Feature'].apply(lambda x: x.split("_")[0])
+    df = df.rename(columns={'Feature': 'PredictiveFeature'})
+    df.loc[:, 'PredictiveFeature'] = df['PredictiveFeature'].apply(lambda x: x.split("_")[0])
     df.loc[:, 'TargetFeature'] = df['TargetFeature'].apply(lambda x: x.split("_")[0])
-    df_subset = df[df.apply(lambda row: row['Feature'] in prots or row['TargetFeature'] in prots, axis=1)]
+    df_subset = df[df.apply(lambda row: row['PredictiveFeature'] in prots or row['TargetFeature'] in prots, axis=1)]
     df_subset.to_csv(f"{base_dir}/08_results/linear_regression/coefficients/linear_regression_nested_cv_{network_name}_coefficients_protein_level_min{threshold}vals.csv", index=False)
 
 # ----------------- #

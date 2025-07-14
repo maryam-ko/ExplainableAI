@@ -46,36 +46,6 @@ def parse_arguments():
 
     return parser.parse_args()
 
-def plot_LR_predicted_network(base_dir, subset_df, strong_percentile=1, medium_percentile=3, weak_percentile=5, selected_prots=None, save_as_filename="predicted_network.html"):
-    # Filter edges with MedianCoeff above the strong percentile threshold
-    coeff_threshold = subset_df['MedianCoeff'].quantile(1 - strong_percentile / 100)
-    filtered_df = subset_df[subset_df['MedianCoeff'] >= coeff_threshold]
-
-    # Filter for selected proteins if provided
-    if selected_prots is not None:
-        filtered_df = filtered_df[
-            (filtered_df['Feature'].isin(selected_prots)) &
-            (filtered_df['TargetFeature'].isin(selected_prots))
-        ]
-
-    # Extract unique nodes
-    nodes = list(set(filtered_df['Feature']).union(set(filtered_df['TargetFeature'])))
-    # Extract edges as tuples
-    edges = list(zip(filtered_df['Feature'], filtered_df['TargetFeature']))
-
-    # Create PyVis network
-    net = Network(height='600px', width='100%', notebook=False)
-    
-    for node in nodes:
-        net.add_node(node, label=node)
-
-    for source, target in edges:
-        net.add_edge(source, target)
-
-    output_path = os.path.join(base_dir, "08_results", "linear_regression", save_as_filename)
-    net.show(output_path)
-    print(f"Network saved to {output_path}")
-    
 # ----------------- #
 
 if __name__ == "__main__":
@@ -109,7 +79,7 @@ if __name__ == "__main__":
     print('Selecting MAPKERK proteins...')
     subset_filename = f"linear_regression_nested_cv_{network_name}_coefficients_protein_level_min{args.threshold}vals.csv"
     subset_df = pd.read_csv(f'{args.base_dir}/08_results/linear_regression/coefficients/{subset_filename}')
-    subset_df = subset_df[['Feature', 'TargetFeature', 'MedianCoeff']]
+    subset_df = subset_df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']]
 
     plots.plot_LR_predicted_network(
         args.base_dir,

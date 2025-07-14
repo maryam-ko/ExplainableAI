@@ -24,7 +24,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
     parser.add_argument('--network_name', type=str, default=None, help='Network name if analyzing specific network')
-    parser.add_argument('--model_types', nargs='+', default=['linear_regression'], 
+    parser.add_argument('--model_types', nargs='+', default=['linear_regression', 'xgboost'], 
                         help='Model types to evaluate')
     parser.add_argument('--thresholds', nargs='+', type=int, default=[50,100,150,200], 
                         help='Thresholds to evaluate')
@@ -35,14 +35,14 @@ def get_file_path(base_dir, network_name, model_type, threshold, file_type, int_
     if file_type == 'input_preds':
         if model_type == 'linear_regression':
             if network_name is None:
-                return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv'
+                return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_Min{threshold}Vals.csv'
             else:
                 return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_nested_cv_{network_name}_coefficients_protein_level_min{threshold}vals.csv'
         else:
             if network_name is None:
-                return f'{base_dir}/08_results/{model_type}/nested_cv_master_shaps/{model_type}_master_shap_file_cluster_level_min{threshold}vals.csv'
+                return f'{base_dir}/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_cluster_level_min{threshold}vals.csv'
             else:
-                return f'{base_dir}/08_results/{model_type}/nested_cv_master_shaps/{model_type}_master_shap_values_protein_level_min{threshold}vals.csv'
+                return f'{base_dir}/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_protein_level_min{threshold}vals.csv'
     elif file_type == 'csv_output':
         filename = f'biogrid_aucs_{int_type}'
         if network_name is not None:
@@ -62,7 +62,7 @@ def load_reference_data(base_dir):
     df2 = df[['Official Symbol Interactor B', 'Official Symbol Interactor A']]
     df2.columns = ['Official Symbol Interactor A', 'Official Symbol Interactor B']
     df = pd.concat([df, df2], axis=0)
-    df.columns = ['Feature', 'TargetFeature']
+    df.columns = ['PredictiveFeature', 'TargetFeature']
     df.drop_duplicates(inplace=True)
     print('Reference dataframe:', df)
     return df
@@ -80,12 +80,12 @@ def load_prediction_data(base_dir, network_name, model_type, threshold):
     
     if model_type == 'linear_regression':
         df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
-        df['PredictiveFeature'] = df['Feature'].str.split('_').str[0]
+        df['PredictiveFeature'] = df['PredictiveFeature'].str.split('_').str[0]
         df = df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']]
         value_col = 'MedianCoeff'
     else:
-        df = df[['PredictiveFeature', 'TargetFeature', 'LogSHAPValue']]
-        value_col = 'LogSHAPValue'
+        df = df[['PredictiveFeature', 'TargetFeature', 'SHAPValue']]
+        value_col = 'SHAPValue'
     
     # Remove duplicates
     df.dropna(subset=[value_col], inplace=True)
@@ -154,8 +154,8 @@ def format_df_per_model_and_threshold(base_dir, network_name, model_types, thres
             df = predictions_dict[model][threshold]
             if 'MedianCoeff' in df.columns:
                 column_to_normalise = 'MedianCoeff'
-            elif 'LogSHAPValue' in df.columns:
-                column_to_normalise = 'LogSHAPValue'
+            elif 'SHAPValue' in df.columns:
+                column_to_normalise = 'SHAPValue'
 
             min_value = df[column_to_normalise].min()
             max_value = df[column_to_normalise].max()

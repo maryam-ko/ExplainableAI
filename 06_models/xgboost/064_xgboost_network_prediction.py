@@ -33,6 +33,113 @@ def parse_arguments():
 
     return parser.parse_args()
 
+def plot_XGB_predicted_network(base_dir, df, strong_percentile, medium_percentile, 
+                              weak_percentile, selected_prots, save_as_filename):
+    """
+    Plots network of selected proteins using XGBoost SHAP values.
+
+    Inputs:
+    df <dataframe>: DataFrame with columns ['PredictiveFeature', 'TargetFeature', 'SHAPValue', 'SHAP*R2']
+    strong_percentile, medium_percentile, weak_percentile <int>: Percentile cutoffs for edge strength
+    selected_prots <tuple>: Proteins to highlight
+    save_as_filename <str>: Output filename
+    """
+    abs_shap = df['SHAPValue'].abs()
+    strong_boundary = np.percentile(abs_shap, 100 - strong_percentile)
+    medium_boundary = np.percentile(abs_shap, 100 - medium_percentile)
+    weak_boundary = np.percentile(abs_shap, 100 - weak_percentile)
+
+    nt = Network('1000px', '1000px', directed=True)
+    for row in df.itertuples(index=False):
+        PredictiveFeature = row.PredictiveFeature
+        TargetFeature = row.TargetFeature
+        SHAPValue = row.SHAPValue
+
+        # Set default colors
+        feature_color = '#a7b5e0'
+        targetfeat_color = '#a7b5e0'
+
+        # Highlight selected proteins
+        if PredictiveFeature in selected_prots:
+            feature_color = '#d16002'
+        if TargetFeature in selected_prots:
+            targetfeat_color = '#d16002'
+
+        strong_positive = '#36441d'
+        medium_positive = '#708d3e'
+        weak_positive = '#d4e2bd'
+        strong_negative = '#873c07'
+        medium_negative = '#ca5a0b'
+        weak_negative = '#f8bb8f'
+        node_fontsize = 25
+
+        # Feedback loops
+        if PredictiveFeature == TargetFeature:
+            if SHAPValue <= -strong_boundary:
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, PredictiveFeature, color=strong_negative, value=2)
+            elif SHAPValue <= -medium_boundary and SHAPValue > -strong_boundary:
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, PredictiveFeature, color=medium_negative, value=2)
+            elif SHAPValue <= -weak_boundary and SHAPValue > -medium_boundary:
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, PredictiveFeature, color=weak_negative, value=2)
+            elif SHAPValue >= strong_boundary:
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, PredictiveFeature, color=strong_positive, value=2)
+            elif SHAPValue >= medium_boundary and SHAPValue < strong_boundary:
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, PredictiveFeature, color=medium_positive, value=2)
+            elif SHAPValue >= weak_boundary and SHAPValue < medium_boundary:
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, PredictiveFeature, color=weak_positive, value=2)
+        # All other edges
+        else:
+            if SHAPValue <= -strong_boundary:
+                if TargetFeature not in nt.nodes:
+                    nt.add_node(TargetFeature, color=targetfeat_color, font={'size': node_fontsize})
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, TargetFeature, color=strong_negative, value=2)
+            elif SHAPValue <= -medium_boundary and SHAPValue > -strong_boundary:
+                if TargetFeature not in nt.nodes:
+                    nt.add_node(TargetFeature, color=targetfeat_color, font={'size': node_fontsize})
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, TargetFeature, color=medium_negative, value=2)
+            elif SHAPValue <= -weak_boundary and SHAPValue > -medium_boundary:
+                if TargetFeature not in nt.nodes:
+                    nt.add_node(TargetFeature, color=targetfeat_color, font={'size': node_fontsize})
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, TargetFeature, color=weak_negative, value=2)
+            elif SHAPValue >= strong_boundary:
+                if TargetFeature not in nt.nodes:
+                    nt.add_node(TargetFeature, color=targetfeat_color, font={'size': node_fontsize})
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, TargetFeature, color=strong_positive, value=2)
+            elif SHAPValue >= medium_boundary and SHAPValue < strong_boundary:
+                if TargetFeature not in nt.nodes:
+                    nt.add_node(TargetFeature, color=targetfeat_color, font={'size': node_fontsize})
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, TargetFeature, color=medium_positive, value=2)
+            elif SHAPValue >= weak_boundary and SHAPValue < medium_boundary:
+                if TargetFeature not in nt.nodes:
+                    nt.add_node(TargetFeature, color=targetfeat_color, font={'size': node_fontsize})
+                if PredictiveFeature not in nt.nodes:
+                    nt.add_node(PredictiveFeature, color=feature_color, font={'size': node_fontsize})
+                nt.add_edge(PredictiveFeature, TargetFeature, color=weak_positive, value=2)
+
+    nt.save_graph(f'{base_dir}/08_results/xgboost/predicted_networks/{save_as_filename}')
+    print('Predicted XGBoost network graph saved!')
 
 # ----------------- #
 
@@ -62,21 +169,20 @@ if __name__ == "__main__":
     
     print('Selecting MAPERK proteins...')
     subset_filename = f"xgboost_master_shap_file_cluster_level_min{args.threshold}vals.csv"
-    df = pd.read_csv(f'{args.base_dir}/08_results/xgboost/nested_cv_master_shaps/{subset_filename}')
+    df = pd.read_csv(f'{args.base_dir}/06_models/xgboost/master_shaps_files/{subset_filename}')
     df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
-    df['PredictiveFeature'] = df['Feature'].str.split('_').str[0]
+    df['PredictiveFeature'] = df['PredictiveFeature'].str.split('_').str[0]
     print('Protein level xgboost predictions:', df)
-    subset_df = df[df.apply(lambda row: row['Feature'] in prots or row['TargetFeature'] in prots, axis=1)]
+    subset_df = df[df.apply(lambda row: row['PredictiveFeature'] in prots or row['TargetFeature'] in prots, axis=1)]
     print('Subset xgboost predictions:', subset_df)
 
-    plots.plot_CNN_or_XGB_predicted_network(
-        base_dir=args.base_dir,
-        model='xgboost',
-        df=subset_df, 
+    plot_XGB_predicted_network(
+        args.base_dir,
+        subset_df, 
         strong_percentile=1, 
         medium_percentile=3,
         weak_percentile=5, 
-        selected_prots=prots,
+        selected_prots=prots, 
         save_as_filename=f"xgboost_nested_cv_{network_name}_predicted_network_min{args.threshold}vals.html")
     
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')

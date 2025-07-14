@@ -74,4 +74,9 @@ if __name__ == '__main__':
         thresholds=[50,100,150,200]
     )
 
+     # Extract LR Coeff*R2 and create output file(s)
+    mlfuncs.extract_coeff_r2_columns([50, 100, 150, 200], base_dir=args.base_dir)
+    
+    print("LR Coeff*R2 output files created for thresholds 50, 100, 150, 200.")
+
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')
