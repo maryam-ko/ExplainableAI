@@ -35,7 +35,7 @@ def overlapping_coefficients_histogram(base_dir, thresholds):
         df = pd.read_csv(f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv')
 
         # Extract the LogSHAPValue column
-        df = df[['Feature', 'TargetFeature', 'MedianCoeff']] 
+        df = df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']] 
         sorted_df = df.sort_values(by=['MedianCoeff'], ascending=False)
         lr_coeff_vals = sorted_df['MedianCoeff']
         print(lr_coeff_vals)
