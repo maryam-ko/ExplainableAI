@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BLOC1S3_S(27) BLOC1S3_S(30) BLOC1S3_S(32) BLOC1S3_S(33) BLOC1S3_S(34) BLOC1S3_S(65) BLOC1S3_T(25) BLOC1S3_T(63),0.6,0.5,4,1,8,1.0,0.05313388384038016,0.28110127997342643

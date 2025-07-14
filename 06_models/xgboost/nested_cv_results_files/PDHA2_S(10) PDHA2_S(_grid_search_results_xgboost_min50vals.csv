@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDHA2_S(10) PDHA2_S(262) PDHA2_S(264) PDHA2_S(269) PDHA2_S(291) PDHA2_S(293) PDHA2_S(295) PDHA2_S(298) PDHA2_S(300) PDHA2_S(331) PDHA2_S(338) PDHA2_S(5) PDHA2_T(231) PDHA2_Y(301),0.8,0.5,4,1,2,1.0,0.03741554682054129,0.07600338569108453

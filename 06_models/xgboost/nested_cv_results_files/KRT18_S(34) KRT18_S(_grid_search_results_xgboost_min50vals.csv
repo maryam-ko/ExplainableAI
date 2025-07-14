@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRT18_S(34) KRT18_S(44) KRT18_S(6) KRT18_T(5) KRT18_T(6) KRT18_T(65) KRT18_T(8),1.0,0.5,4,1,8,0.8,0.08322788357327476,0.40503293753789726

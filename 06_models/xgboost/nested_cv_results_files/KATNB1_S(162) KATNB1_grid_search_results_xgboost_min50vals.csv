@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KATNB1_S(162) KATNB1_S(360) KATNB1_S(363) KATNB1_S(393) KATNB1_S(400) KATNB1_S(421) KATNB1_T(395),1.0,0.5,2,1,6,0.6,0.02316347301001869,0.07351533589796108

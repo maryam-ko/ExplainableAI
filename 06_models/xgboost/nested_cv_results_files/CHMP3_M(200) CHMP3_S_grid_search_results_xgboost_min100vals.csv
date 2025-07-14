@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHMP3_M(200) CHMP3_S(160) CHMP3_S(200) CHMP3_S(213) CHMP3_T(185),0.8,0.5,4,1,8,1.0,0.043655952057160254,0.4494474571659698

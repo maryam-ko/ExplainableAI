@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IGF1R_S(1339) IGF1R_T(1366) IGF1R_T(587) IGF1R_Y(1250) IGF1R_Y(1346),1.0,0.5,4,1,8,0.8,0.026988834008137275,0.04247096275160067

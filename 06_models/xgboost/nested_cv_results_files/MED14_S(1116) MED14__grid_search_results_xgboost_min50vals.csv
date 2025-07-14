@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED14_S(1116) MED14_S(1128) MED14_S(1142) MED14_S(1144) MED14_S(758),0.6,0.5,3,10,8,1.0,0.015455912935542849,0.16509111469547427

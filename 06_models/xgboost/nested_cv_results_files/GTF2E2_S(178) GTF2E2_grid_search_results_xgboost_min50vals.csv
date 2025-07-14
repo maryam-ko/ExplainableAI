@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GTF2E2_S(178) GTF2E2_S(18) GTF2E2_S(227) GTF2E2_S(28) GTF2E2_S(290) GTF2E2_S(61) GTF2E2_S(71) GTF2E2_T(19),1.0,0.5,2,5,8,0.8,0.02452309612934405,0.17898036284451802

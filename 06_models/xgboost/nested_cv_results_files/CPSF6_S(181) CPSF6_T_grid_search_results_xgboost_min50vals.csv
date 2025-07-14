@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPSF6_S(181) CPSF6_T(157) CPSF6_T(331) CPSF6_T(334) CPSF6_T(404) CPSF6_T(407) CPSF6_Y(74),1.0,0.5,3,5,8,0.8,0.022811964597607717,0.36283614134147213

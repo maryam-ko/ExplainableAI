@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRT80_S(235) KRT80_S(242) KRT80_S(266) KRT80_S(396) KRT80_S(44) KRT80_S(45) KRT80_S(451) KRT80_T(44) KRT80_Y(259) KRT80_Y(288),0.6,0.5,1,1,8,0.6,0.01549733957506652,-0.00509140263262009

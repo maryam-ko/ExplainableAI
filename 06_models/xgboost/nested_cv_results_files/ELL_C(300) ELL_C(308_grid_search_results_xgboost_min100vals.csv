@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELL_C(300) ELL_C(308) ELL_S(308) ELL_S(442) ELL_S(444) ELL_S(561),0.8,0.5,4,10,8,1.0,0.04482200288767099,0.49304982198554564

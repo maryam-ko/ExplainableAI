@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DUSP16_S(148) DUSP16_S(446) DUSP16_S(459) DUSP16_S(501) DUSP16_T(455),0.8,0.5,4,1,8,1.0,0.025030182314393273,0.23328054274516327

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAGED2_S(157) MAGED2_S(162) MAGED2_S(190) MAGED2_S(191) MAGED2_S(194) MAGED2_S(197) MAGED2_S(2) MAGED2_S(247) MAGED2_S(264) MAGED2_S(265) MAGED2_S(5) MAGED2_T(4) MAGED2_T(42) MAGED2_T(72),1.0,0.5,4,1,8,1.0,0.043980213479396416,0.6007894342053601

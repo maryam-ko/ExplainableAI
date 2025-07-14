@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CASP2_S(157) CASP2_S(164) CASP2_S(343),0.8,0.5,2,1,8,1.0,0.005787875323479087,0.3081373612613015

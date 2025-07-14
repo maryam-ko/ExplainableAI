@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBX5_S(11) CBX5_S(110) CBX5_S(12) CBX5_S(13) CBX5_S(132) CBX5_S(14) CBX5_S(45) CBX5_S(7) CBX5_S(91) CBX5_S(92) CBX5_S(95) CBX5_S(97) CBX5_T(8) CBX5_Y(20),1.0,0.5,3,1,8,1.0,0.04592245245140982,0.3692590013991756

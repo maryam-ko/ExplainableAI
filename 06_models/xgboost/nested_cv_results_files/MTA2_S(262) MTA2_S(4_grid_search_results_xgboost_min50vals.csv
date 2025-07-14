@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTA2_S(262) MTA2_S(433) MTA2_S(496) MTA2_S(52) MTA2_S(548) MTA2_Y(437),1.0,0.5,1,1,8,0.8,0.010473717825277213,0.2610119352974377

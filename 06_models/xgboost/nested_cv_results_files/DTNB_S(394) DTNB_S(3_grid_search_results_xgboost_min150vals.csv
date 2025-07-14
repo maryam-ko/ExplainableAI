@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DTNB_S(394) DTNB_S(396) DTNB_S(4) DTNB_S(438) DTNB_S(498) DTNB_S(571) DTNB_S(608) DTNB_T(534),1.0,0.5,3,10,6,1.0,0.023331656636993752,0.4303685883699261

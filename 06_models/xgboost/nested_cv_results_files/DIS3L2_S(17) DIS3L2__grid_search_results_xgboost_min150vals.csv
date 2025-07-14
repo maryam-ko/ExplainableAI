@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DIS3L2_S(17) DIS3L2_S(175) DIS3L2_S(198) DIS3L2_S(31),1.0,0.5,4,5,6,1.0,0.013364732308497797,0.5754982746688666

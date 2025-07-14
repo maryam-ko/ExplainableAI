@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELOA_S(162) ELOA_S(373) ELOA_S(413) ELOA_T(420),0.8,0.5,4,5,8,0.8,0.015352177270254714,0.13445667258450744

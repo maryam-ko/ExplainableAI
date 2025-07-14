@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BMPR2_S(513) BMPR2_S(857) BMPR2_S(863) BMPR2_T(756),0.8,0.5,2,10,8,0.8,0.03334858364029624,0.1204114336900571

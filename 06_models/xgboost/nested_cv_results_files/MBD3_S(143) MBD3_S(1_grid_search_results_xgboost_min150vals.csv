@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MBD3_S(143) MBD3_S(144) MBD3_S(24) MBD3_S(37) MBD3_S(56) MBD3_S(86) MBD3_Y(36),1.0,0.5,4,1,8,1.0,0.020508276133298815,0.5319882708944744

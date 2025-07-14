@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPHN_C(295) GPHN_S(133) GPHN_S(203) GPHN_S(257) GPHN_S(280) GPHN_S(283) GPHN_S(291) GPHN_S(319) GPHN_T(132) GPHN_T(265) GPHN_T(279) GPHN_T(284) GPHN_T(8),1.0,0.5,2,10,8,1.0,0.018812787129261713,0.13789410387209203

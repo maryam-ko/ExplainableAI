@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MXRA5_S(1080) MXRA5_S(1638) MXRA5_S(2648) MXRA5_T(1078) MXRA5_Y(2643),0.8,0.5,1,10,8,0.6,0.017321816909481313,0.0006367968698715032

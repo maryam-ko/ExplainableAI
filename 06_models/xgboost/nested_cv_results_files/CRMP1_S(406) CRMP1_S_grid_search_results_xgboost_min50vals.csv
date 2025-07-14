@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRMP1_S(406) CRMP1_S(518) CRMP1_S(521) CRMP1_S(522) CRMP1_S(8) CRMP1_T(509) CRMP1_T(514),1.0,0.5,4,1,8,0.8,0.02747131159633933,0.44656717611852903

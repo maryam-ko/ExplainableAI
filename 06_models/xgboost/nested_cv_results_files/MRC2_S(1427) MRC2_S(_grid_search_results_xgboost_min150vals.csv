@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRC2_S(1427) MRC2_S(1453) MRC2_S(1455) MRC2_S(1456) MRC2_S(1457) MRC2_S(1458) MRC2_S(1470) MRC2_S(4),0.8,0.5,4,1,6,1.0,0.028672822125389647,0.36598826801986

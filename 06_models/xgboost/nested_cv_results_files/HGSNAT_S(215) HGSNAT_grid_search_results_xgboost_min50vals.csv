@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HGSNAT_S(215) HGSNAT_S(239) HGSNAT_S(243) HGSNAT_S(245),0.8,0.5,3,1,4,0.8,0.02006200972628325,0.20056931284015117

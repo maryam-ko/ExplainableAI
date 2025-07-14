@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MXRA7_S(127) MXRA7_S(140) MXRA7_S(144) MXRA7_S(187) MXRA7_S(191) MXRA7_S(34) MXRA7_S(96) MXRA7_T(4),0.8,0.5,4,5,8,1.0,0.038352785837895746,0.7053656160794839

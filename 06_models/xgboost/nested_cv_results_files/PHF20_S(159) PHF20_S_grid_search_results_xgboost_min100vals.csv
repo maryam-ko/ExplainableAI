@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHF20_S(159) PHF20_S(225) PHF20_S(488) PHF20_S(514) PHF20_S(519) PHF20_S(878) PHF20_S(880) PHF20_S(902) PHF20_Y(64),0.6,0.5,4,1,8,1.0,0.032341343539333746,0.46580595034580796

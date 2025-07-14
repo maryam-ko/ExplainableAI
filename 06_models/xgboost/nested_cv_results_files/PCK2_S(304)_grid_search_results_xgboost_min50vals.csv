@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCK2_S(304),0.6,0.5,1,1,4,0.6,0.015646929496103402,-0.005318897633168706

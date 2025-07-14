@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GNAS_S(116) GNAS_S(352) GNAS_S(5) GNAS_S(532) GNAS_S(622) GNAS_S(990) GNAS_T(542),0.6,0.5,1,1,2,1.0,0.013508496818164826,-0.006264563465098983

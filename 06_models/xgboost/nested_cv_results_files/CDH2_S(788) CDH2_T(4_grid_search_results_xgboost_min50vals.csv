@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDH2_S(788) CDH2_T(487) CDH2_Y(496) CDH2_Y(785),1.0,0.5,2,1,6,0.6,0.011647723249768335,0.2692388230508536

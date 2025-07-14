@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRK5_S(227) GRK5_S(484) GRK5_T(208) GRK5_T(485) GRK5_Y(109),0.6,0.5,4,1,8,1.0,0.04083417217120658,0.09181287678719266

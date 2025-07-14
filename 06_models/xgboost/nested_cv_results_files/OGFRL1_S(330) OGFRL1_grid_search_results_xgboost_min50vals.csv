@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OGFRL1_S(330) OGFRL1_S(381),1.0,0.5,3,1,6,0.6,0.019069115845640992,0.20536814085177565

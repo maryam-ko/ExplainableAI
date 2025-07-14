@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CXADR_S(304) CXADR_S(332) CXADR_T(328) CXADR_Y(277),0.8,0.5,4,5,8,1.0,0.028915747235723925,0.5777100621861406

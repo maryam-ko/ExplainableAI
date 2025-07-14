@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+H2BC26_S(37) H2BC26_S(56) H2BC26_S(57) H2BC26_S(65),0.8,0.5,2,5,8,0.8,0.01140930974613911,0.24302523077102461

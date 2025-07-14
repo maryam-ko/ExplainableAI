@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAB2_S(147) NAB2_S(157) NAB2_S(159) NAB2_S(162) NAB2_S(171) NAB2_S(205) NAB2_S(479) NAB2_S(481) NAB2_S(523) NAB2_S(6) NAB2_T(434) NAB2_T(8),1.0,0.5,4,5,8,1.0,0.05249097398411026,0.39013859117641514

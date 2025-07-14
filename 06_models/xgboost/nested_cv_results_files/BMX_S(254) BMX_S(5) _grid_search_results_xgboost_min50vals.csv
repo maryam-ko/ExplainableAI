@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BMX_S(254) BMX_S(5) BMX_T(3),1.0,0.5,3,1,8,0.8,0.012402662758614376,0.006151122706746115

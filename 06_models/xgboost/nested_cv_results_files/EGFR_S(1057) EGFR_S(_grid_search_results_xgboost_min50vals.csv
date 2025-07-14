@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EGFR_S(1057) EGFR_S(1104) EGFR_S(695) EGFR_S(720) EGFR_S(986) EGFR_T(1031) EGFR_T(1041) EGFR_T(686) EGFR_T(993),0.8,0.5,2,10,2,1.0,0.007040593032734917,0.33408168449599407

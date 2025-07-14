@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MORC3_S(12) MORC3_S(497) MORC3_S(502) MORC3_S(503) MORC3_S(514) MORC3_S(560) MORC3_S(561) MORC3_S(765),0.6,0.5,4,10,8,1.0,0.03903262427027264,0.23295029862697775

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNP_S(9) CNP_Y(74),1.0,0.5,4,1,8,1.0,0.025239882782404178,0.449734885308544

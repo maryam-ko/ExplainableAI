@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GCC2_S(11) GCC2_S(1483) GCC2_S(1487) GCC2_S(1490) GCC2_S(1542) GCC2_S(236) GCC2_S(445) GCC2_S(446) GCC2_S(482) GCC2_S(935) GCC2_S(937) GCC2_T(14) GCC2_T(1500),0.8,0.5,3,1,8,1.0,0.03268943649594691,0.14257991471078654

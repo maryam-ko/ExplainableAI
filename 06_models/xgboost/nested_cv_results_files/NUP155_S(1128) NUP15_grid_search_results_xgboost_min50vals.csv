@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP155_S(1128) NUP155_S(3) NUP155_S(4) NUP155_S(928) NUP155_S(930) NUP155_S(933) NUP155_S(987) NUP155_S(992),0.8,0.5,4,1,8,1.0,0.05351741579343608,0.43313398337830183

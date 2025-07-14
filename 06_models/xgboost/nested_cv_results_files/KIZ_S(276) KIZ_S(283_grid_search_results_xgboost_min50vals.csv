@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIZ_S(276) KIZ_S(283) KIZ_S(326) KIZ_S(329) KIZ_S(4) KIZ_S(436),0.6,0.5,3,1,8,1.0,0.016043336438571185,0.2927791609586665

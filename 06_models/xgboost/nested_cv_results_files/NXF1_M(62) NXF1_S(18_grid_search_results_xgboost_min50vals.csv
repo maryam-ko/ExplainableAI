@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NXF1_M(62) NXF1_S(188) NXF1_S(299) NXF1_S(6) NXF1_S(62) NXF1_S(9),0.6,0.5,2,1,8,0.8,0.013727096352002881,0.1374367931682907

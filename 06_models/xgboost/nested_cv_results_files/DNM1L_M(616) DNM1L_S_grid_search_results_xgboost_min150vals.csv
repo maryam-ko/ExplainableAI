@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNM1L_M(616) DNM1L_S(522) DNM1L_S(529) DNM1L_S(592) DNM1L_S(616) DNM1L_S(629) DNM1L_S(7),1.0,0.5,4,1,8,1.0,0.03194105483659453,0.8140447525466797

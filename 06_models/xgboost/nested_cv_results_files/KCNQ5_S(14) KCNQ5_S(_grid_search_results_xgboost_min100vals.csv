@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KCNQ5_S(14) KCNQ5_S(672) KCNQ5_S(681) KCNQ5_S(831),1.0,0.5,4,1,8,1.0,0.014826729601448709,0.3872590236783694

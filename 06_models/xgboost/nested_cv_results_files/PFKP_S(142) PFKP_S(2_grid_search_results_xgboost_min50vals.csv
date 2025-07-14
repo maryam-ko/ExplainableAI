@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PFKP_S(142) PFKP_S(21) PFKP_S(475) PFKP_S(723),1.0,0.5,2,1,4,0.8,0.00981098135706371,-0.0027443789120917828

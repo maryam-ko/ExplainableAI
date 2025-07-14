@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MLF1_S(172) MLF1_S(18) MLF1_S(34) MLF1_S(45) MLF1_S(8),0.8,0.5,4,5,8,1.0,0.021119812564461927,0.5826828785259077

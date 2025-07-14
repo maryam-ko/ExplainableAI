@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC14A_S(483) CDC14A_S(484),0.8,0.5,1,1,8,1.0,0.0093800878570031,0.312434116442148

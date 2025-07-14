@@ -34,12 +34,12 @@ def parse_arguments():
     """Parse command line arguments for the script."""
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, default=50, help='Threshold to compute')
     parser.add_argument('--matrix_col_index', type=int_or_str, help='Column in clustered matrix to perform XGBoost on.')
 
     return parser.parse_args()
 
-def perform_nested_cross_validation(X, y, model, param_grid, cropped_fscores):
+def perform_nested_cross_validation(X, y, model, param_grid):
     """Performs nested cross-validation for XGBoost model.
     
     For each of the 5 outer folds:
@@ -57,6 +57,10 @@ def perform_nested_cross_validation(X, y, model, param_grid, cropped_fscores):
 
     for outer_fold_idx, (train_idx, test_idx) in enumerate(outer_cv.split(X)):
         X_train, X_test = X.iloc[train_idx], X.iloc[test_idx]
+        X_train = X_train.apply(pd.to_numeric, errors='coerce')
+        X_test = X_test.apply(pd.to_numeric, errors='coerce')
+        X_train = X_train.astype(float)
+        X_test = X_test.astype(float)
         y_train, y_test = y[train_idx], y[test_idx]
 
         grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=inner_cv, scoring='neg_mean_squared_error')
@@ -87,14 +91,20 @@ def perform_nested_cross_validation(X, y, model, param_grid, cropped_fscores):
             shapley_arrays.append(shap_values)
         
         concatenated_array = np.concatenate(shapley_arrays, axis=0)
-        shaps_df = pd.DataFrame(concatenated_array, columns=cropped_fscores['Feature'].tolist())
-        local_global_values_df = shaps_df.abs().median().to_frame().T
-        local_global_values_df.columns = cropped_fscores['Feature'].tolist()
-
+        # print(f"concatenated_array: {concatenated_array}")
+        shaps_df = pd.DataFrame(concatenated_array, columns=X.columns.tolist())
+        # print(f"shaps_df: {shaps_df}")
+        local_global_values_df = shaps_df.median().to_frame().T
+        # local_global_values_df.columns = cropped_fscores['PredictiveFeature'].tolist()
+        local_global_values_df.columns = X.columns.tolist()
+        # print(f"local_global_values_df: {local_global_values_df}")
         global_shap_df.append(local_global_values_df)
+        # print(f"global_shap_df: {global_shap_df}")
 
     global_shap_df = pd.concat(global_shap_df, ignore_index=True)
-    global_shap_df = global_shap_df.abs().median().to_frame().T
+    # print(f"global_shap_df before median: {global_shap_df}")
+    global_shap_df = global_shap_df.median().to_frame().T
+    # print(f"global_shap_df after median: {global_shap_df}")
 
     return grid_search_result, best_params, mean_mse, global_shap_df, r2_scores
     
@@ -110,9 +120,11 @@ if __name__ == '__main__':
         base_dir=args.base_dir,
         threshold=args.threshold
     )
+    # clust_matrix.to_csv("/data/home/bt24990/ExplainableAI/clust_matrix.csv", index=False) # contains the FBP1_T(13) FBP1_T(18) column
 
     print("Removing columns not in both clustered matrix and fisher scores...")
     clust_matrix, fisher_score_dfs = mlfuncs.remove_cols_not_in_both(clust_matrix, fisher_score_dfs)
+    # clust_matrix.to_csv("/data/home/bt24990/ExplainableAI/clust_matrix_filtered.csv", index=False) # doesn't contain FBP1_T(13) FBP1_T(18) column
 
     print("Selecting cluster to be target feature for prediction...")
     current_cluster = mlfuncs.choose_all_or_one_cluster(
@@ -121,7 +133,7 @@ if __name__ == '__main__':
     )
 
     print("Formatting dataframes of predictive and target features...")
-    new_df, target_feature, truncated_target_feature, cropped_fscores = mlfuncs.format_predictive_feats_dfs(
+    new_df, target_feature, truncated_target_feature = mlfuncs.format_predictive_feats_dfs(
         targetfeature_df=current_cluster, 
         matrix=clust_matrix
     )
@@ -145,11 +157,10 @@ if __name__ == '__main__':
     print("Performing nested cross-validation...")
     model = XGBRegressor()
     grid_search_result, best_params, mean_score, global_shap_df, r2_scores = perform_nested_cross_validation(
-        X, y, model, param_grid, cropped_fscores
+        X, y, model, param_grid
     )
     shap_file = f"{truncated_target_feature}_global_shaps_min{args.threshold}vals.csv"
     global_shap_df.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_global_shaps/{shap_file}", index=False)
-    print(global_shap_df)
     print("R² scores for each outer fold:", r2_scores)
     print("Mean R2 score across outer folds:", np.mean(r2_scores))
 

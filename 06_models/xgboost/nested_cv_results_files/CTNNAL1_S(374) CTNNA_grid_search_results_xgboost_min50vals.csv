@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTNNAL1_S(374) CTNNAL1_S(467) CTNNAL1_S(538) CTNNAL1_Y(534) CTNNAL1_Y(536),1.0,0.5,4,1,4,1.0,0.03072627154811973,0.18082728838310286

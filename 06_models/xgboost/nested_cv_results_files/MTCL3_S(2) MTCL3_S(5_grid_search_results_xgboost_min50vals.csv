@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTCL3_S(2) MTCL3_S(503) MTCL3_S(59) MTCL3_S(641) MTCL3_S(749) MTCL3_S(760) MTCL3_S(781) MTCL3_S(783) MTCL3_T(13) MTCL3_T(674) MTCL3_Y(680) MTCL3_Y(682),0.6,0.5,2,1,8,0.8,0.014043440496521694,0.20568799279333047

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAMLD1_S(190) MAMLD1_S(248) MAMLD1_S(273) MAMLD1_S(465) MAMLD1_S(651) MAMLD1_S(676) MAMLD1_Y(163),1.0,0.5,3,1,8,0.8,0.011949960215732738,-0.017012872381843857

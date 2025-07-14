@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBP2_T(300) FBP2_Y(216) FBP2_Y(219) FBP2_Y(8),0.6,0.5,4,1,8,1.0,0.027480329764872247,0.7516269578066439

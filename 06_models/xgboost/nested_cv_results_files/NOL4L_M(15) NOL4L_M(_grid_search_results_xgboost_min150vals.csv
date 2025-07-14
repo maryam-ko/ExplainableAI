@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOL4L_M(15) NOL4L_M(18) NOL4L_S(130) NOL4L_S(140) NOL4L_S(146) NOL4L_S(15) NOL4L_S(179) NOL4L_S(18) NOL4L_S(294) NOL4L_S(295) NOL4L_S(400) NOL4L_T(380) NOL4L_T(402) NOL4L_Y(133),1.0,0.5,4,1,6,1.0,0.032090409742291354,0.7546583390987767

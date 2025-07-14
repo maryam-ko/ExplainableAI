@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOTCH2_S(1778) NOTCH2_S(2085) NOTCH2_T(2085) NOTCH2_T(2114) NOTCH2_T(2385),1.0,0.5,4,1,8,1.0,0.03376697408358177,0.3776310734692202

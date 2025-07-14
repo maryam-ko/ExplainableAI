@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DPYD_S(452) DPYD_T(617),0.6,0.5,2,1,8,1.0,0.00881770649445974,0.208580561349953

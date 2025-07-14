@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAG1_S(150) PAG1_S(171) PAG1_S(201) PAG1_S(296) PAG1_S(351) PAG1_S(353) PAG1_S(61) PAG1_T(287) PAG1_Y(163) PAG1_Y(359) PAG1_Y(417),0.8,0.5,4,1,6,0.8,0.020135881031042205,0.19425689762719817

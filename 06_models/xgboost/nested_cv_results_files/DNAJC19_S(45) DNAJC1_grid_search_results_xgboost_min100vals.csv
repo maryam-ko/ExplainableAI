@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC19_S(45) DNAJC19_S(70),0.8,0.5,4,1,8,1.0,0.02388559992383784,0.4971742025502711

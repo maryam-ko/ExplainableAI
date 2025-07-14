@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EYA4_S(139) EYA4_S(313) EYA4_S(367),0.6,0.5,1,1,6,0.8,0.021751515032112666,-0.004988796957608166

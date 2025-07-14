@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MON2_S(1177) MON2_S(298) MON2_S(6) MON2_T(1187),0.6,0.5,2,10,4,1.0,0.010405560149274582,0.12904345775990392

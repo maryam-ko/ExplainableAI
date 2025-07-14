@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRTFB_M(66) MRTFB_S(381) MRTFB_S(395) MRTFB_S(608) MRTFB_S(808) MRTFB_S(874) MRTFB_S(909) MRTFB_T(378) MRTFB_Y(340),1.0,0.5,2,1,8,1.0,0.006568707619167716,0.18676334927650376

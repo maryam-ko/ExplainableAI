@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OSMR_S(800) OSMR_S(826) OSMR_S(877) OSMR_T(828) OSMR_T(843) OSMR_Y(837) OSMR_Y(839),1.0,0.5,4,1,8,1.0,0.03779163702434468,0.1663722935481819

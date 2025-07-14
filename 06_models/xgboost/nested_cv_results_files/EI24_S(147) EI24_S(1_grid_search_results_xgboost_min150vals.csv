@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EI24_S(147) EI24_S(153) EI24_S(3) EI24_S(312) EI24_S(316) EI24_S(32) EI24_S(320) EI24_S(323) EI24_S(326) EI24_S(33) EI24_S(330) EI24_S(339) EI24_S(345) EI24_S(349) EI24_S(4) EI24_S(43) EI24_S(46) EI24_S(56) EI24_S(65),1.0,0.5,4,5,8,1.0,0.041648446622505754,0.5799059306422987

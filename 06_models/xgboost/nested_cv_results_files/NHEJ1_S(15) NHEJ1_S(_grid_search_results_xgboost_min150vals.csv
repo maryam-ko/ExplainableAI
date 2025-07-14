@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NHEJ1_S(15) NHEJ1_S(188) NHEJ1_S(212) NHEJ1_S(287),0.8,0.5,4,1,8,1.0,0.03006992037112705,0.17688827894201467

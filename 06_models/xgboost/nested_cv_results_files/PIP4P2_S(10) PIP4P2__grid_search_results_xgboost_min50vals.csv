@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIP4P2_S(10) PIP4P2_S(14) PIP4P2_S(18) PIP4P2_T(85),0.6,0.5,2,10,8,0.8,0.013443922277397878,0.18776849772799006

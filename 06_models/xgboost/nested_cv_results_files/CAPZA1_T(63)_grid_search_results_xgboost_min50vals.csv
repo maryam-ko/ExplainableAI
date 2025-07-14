@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAPZA1_T(63),0.6,0.5,1,10,8,0.6,0.01780778666532482,-0.012110708296444183

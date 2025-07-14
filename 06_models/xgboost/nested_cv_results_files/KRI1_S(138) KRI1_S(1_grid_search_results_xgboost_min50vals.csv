@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRI1_S(138) KRI1_S(149) KRI1_S(280) KRI1_S(307) KRI1_S(309) KRI1_S(367) KRI1_S(486) KRI1_S(634) KRI1_S(645) KRI1_S(8) KRI1_S(97) KRI1_S(99) KRI1_Y(136),0.8,0.5,3,1,8,0.8,0.03365440174509423,0.24476566986971227

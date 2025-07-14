@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LEO1_M(197) LEO1_S(10) LEO1_S(14) LEO1_S(246) LEO1_S(254) LEO1_S(271) LEO1_S(273) LEO1_S(4) LEO1_S(551) LEO1_S(566) LEO1_S(607) LEO1_S(608) LEO1_S(610) LEO1_S(614) LEO1_S(66),0.8,0.5,2,1,8,1.0,0.01320314067292212,0.23759231964942867

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRIG1_S(1023) LRIG1_S(1046) LRIG1_S(1069) LRIG1_S(878),0.6,0.5,4,1,8,1.0,0.029022468823547514,0.4573465842483209

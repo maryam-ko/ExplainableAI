@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MMACHC_S(218) MMACHC_S(268) MMACHC_S(273) MMACHC_S(275) MMACHC_S(279),1.0,0.5,4,1,8,1.0,0.01937581143177932,0.6745584146130368

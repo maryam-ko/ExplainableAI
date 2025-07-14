@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ISL2_S(154) ISL2_S(157) ISL2_S(264) ISL2_S(279),1.0,0.5,4,10,6,1.0,0.03878538344364573,0.31848012650611507

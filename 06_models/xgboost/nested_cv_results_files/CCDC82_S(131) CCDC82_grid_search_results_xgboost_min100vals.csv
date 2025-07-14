@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC82_S(131) CCDC82_S(154) CCDC82_S(192) CCDC82_S(219) CCDC82_S(220) CCDC82_S(7) CCDC82_S(81) CCDC82_T(227),1.0,0.5,4,1,8,1.0,0.026660639019327963,0.7252616353092023

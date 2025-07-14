@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DTD1_S(12) DTD1_S(179) DTD1_S(182) DTD1_S(194) DTD1_S(196) DTD1_S(197) DTD1_S(204) DTD1_S(205) DTD1_S(4),1.0,0.5,4,1,8,1.0,0.043166862519573385,0.6179078126264917

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDHD1_S(11) DDHD1_S(139) DDHD1_S(223) DDHD1_S(224) DDHD1_S(225) DDHD1_S(334) DDHD1_S(341) DDHD1_S(594) DDHD1_S(723) DDHD1_S(727) DDHD1_S(731) DDHD1_S(752) DDHD1_S(790) DDHD1_S(8) DDHD1_S(819),1.0,0.5,3,10,8,0.8,0.031998511350859925,0.057389301950093216

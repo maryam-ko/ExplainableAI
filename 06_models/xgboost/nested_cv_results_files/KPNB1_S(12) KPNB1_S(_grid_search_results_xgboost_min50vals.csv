@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KPNB1_S(12) KPNB1_S(190) KPNB1_T(10) KPNB1_T(195),0.6,0.5,1,1,6,0.6,0.02737963163862702,-0.0015380972211529009

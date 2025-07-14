@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAB2_S(231) DAB2_S(393) DAB2_S(471) DAB2_T(229) DAB2_Y(170) DAB2_Y(342) DAB2_Y(761),0.8,0.5,2,1,6,0.8,0.016778266577464646,0.33921639239126916

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX59_S(149) DDX59_S(156) DDX59_S(160) DDX59_S(64) DDX59_S(76),0.8,0.5,4,1,8,1.0,0.02671607189219749,0.3665493621906234

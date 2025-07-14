@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DBNL_S(141) DBNL_S(169) DBNL_S(223) DBNL_S(272) DBNL_S(273) DBNL_S(3) DBNL_S(9) DBNL_Y(140),0.6,0.5,2,1,8,0.8,0.011734736888069754,0.1437902263700074

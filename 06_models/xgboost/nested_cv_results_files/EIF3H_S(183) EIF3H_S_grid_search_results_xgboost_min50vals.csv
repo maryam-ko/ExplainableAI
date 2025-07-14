@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF3H_S(183) EIF3H_S(197) EIF3H_S(236) EIF3H_S(3),0.6,0.5,4,10,8,1.0,0.04784826465491021,0.15772137529859306

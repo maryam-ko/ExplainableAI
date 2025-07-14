@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NMT2_S(220) NMT2_S(38) NMT2_S(66) NMT2_S(68) NMT2_S(70),1.0,0.5,4,1,8,1.0,0.05979614517540181,0.33050928326840906

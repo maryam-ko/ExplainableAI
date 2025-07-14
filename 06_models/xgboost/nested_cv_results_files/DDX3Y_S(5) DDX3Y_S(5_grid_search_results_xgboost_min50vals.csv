@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX3Y_S(5) DDX3Y_S(588) DDX3Y_S(589) DDX3Y_S(592) DDX3Y_S(70) DDX3Y_S(71) DDX3Y_S(74),0.8,0.5,1,1,8,0.8,0.014491430068375437,0.11159046769236673

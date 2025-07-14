@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAT2B_S(110) MAT2B_S(210) MAT2B_S(277) MAT2B_S(282),0.8,0.5,3,10,8,0.8,0.024134157313072634,0.2056074674901276

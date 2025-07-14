@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DLC1_C(945) DLC1_S(517) DLC1_S(532) DLC1_S(566) DLC1_S(577),1.0,0.5,4,1,8,1.0,0.016355044657101622,0.3386083796328725

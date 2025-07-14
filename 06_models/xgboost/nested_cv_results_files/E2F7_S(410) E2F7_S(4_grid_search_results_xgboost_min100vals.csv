@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+E2F7_S(410) E2F7_S(426) E2F7_S(638) E2F7_S(825) E2F7_S(856) E2F7_S(95) E2F7_T(61) E2F7_T(68) E2F7_T(82),0.6,0.5,4,1,8,1.0,0.016737402871019068,0.6716820003465969

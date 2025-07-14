@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGM2_C(163) PGM2_C(165) PGM2_S(155) PGM2_S(165) PGM2_S(173) PGM2_S(5) PGM2_T(163) PGM2_Y(174),1.0,0.5,4,5,8,1.0,0.028188757076681514,0.7765251261290449

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM8_S(1) MCM8_S(3) MCM8_S(630),1.0,0.5,3,1,8,0.6,0.014820062282061801,0.008022183311381803

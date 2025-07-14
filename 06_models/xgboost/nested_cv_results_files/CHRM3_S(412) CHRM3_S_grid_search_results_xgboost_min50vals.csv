@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHRM3_S(412) CHRM3_S(413) CHRM3_S(578) CHRM3_Y(573),0.6,0.5,2,1,8,0.8,0.015936233435094673,0.06508242670106287

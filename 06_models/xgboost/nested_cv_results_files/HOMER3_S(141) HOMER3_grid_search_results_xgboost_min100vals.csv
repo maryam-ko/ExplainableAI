@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HOMER3_S(141) HOMER3_S(157) HOMER3_S(159) HOMER3_S(240) HOMER3_S(3) HOMER3_T(243) HOMER3_T(245),1.0,0.5,4,1,8,1.0,0.02114920211654954,0.7030508237465523

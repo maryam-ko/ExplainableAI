@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLIS2_S(13) GLIS2_S(51) GLIS2_S(54),0.8,0.5,4,5,2,1.0,0.01923149301092408,0.041189164324518225

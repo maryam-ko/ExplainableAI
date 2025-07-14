@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP93_S(364) NUP93_S(430) NUP93_S(438) NUP93_S(6) NUP93_S(66) NUP93_S(72) NUP93_S(75) NUP93_S(772) NUP93_S(82) NUP93_T(159) NUP93_T(51) NUP93_T(766),1.0,0.5,4,1,8,1.0,0.03667503475797679,0.30402673817643694

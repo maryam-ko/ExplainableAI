@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGM5_S(149) PGM5_S(221) PGM5_S(4) PGM5_S(5) PGM5_T(120) PGM5_T(8) PGM5_Y(286),1.0,0.5,1,1,8,1.0,0.017374646209442818,0.0131615742384529

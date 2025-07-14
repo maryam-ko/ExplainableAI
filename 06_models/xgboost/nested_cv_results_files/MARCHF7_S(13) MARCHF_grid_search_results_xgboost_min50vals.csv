@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MARCHF7_S(13) MARCHF7_S(244) MARCHF7_S(297) MARCHF7_S(299) MARCHF7_S(300) MARCHF7_S(32) MARCHF7_S(5) MARCHF7_S(506) MARCHF7_S(544),0.8,0.5,2,1,8,1.0,0.018868854908588865,0.06370446779573946

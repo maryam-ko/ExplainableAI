@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GAPDH_S(125) GAPDH_S(192) GAPDH_S(200) GAPDH_S(241) GAPDH_S(247) GAPDH_S(6) GAPDH_T(111) GAPDH_T(142) GAPDH_T(187) GAPDH_T(229) GAPDH_T(246) GAPDH_T(247) GAPDH_T(4) GAPDH_Y(1),0.6,0.5,2,1,8,1.0,0.02183343737589959,0.11966585768236579

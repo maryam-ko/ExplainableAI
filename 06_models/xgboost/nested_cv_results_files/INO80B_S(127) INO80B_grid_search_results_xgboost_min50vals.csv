@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INO80B_S(127) INO80B_S(138) INO80B_S(336) INO80B_S(351) INO80B_S(63) INO80B_S(99),1.0,0.5,4,1,6,1.0,0.04167966239611093,0.26769921377082273

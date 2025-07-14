@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYPOP_S(177) MYPOP_S(178) MYPOP_S(198) MYPOP_S(202) MYPOP_S(206) MYPOP_S(378),1.0,0.5,4,1,6,0.8,0.030896623837752702,0.2085279602678575

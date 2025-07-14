@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBFA2T2_C(264) CBFA2T2_C(577) CBFA2T2_S(264) CBFA2T2_S(33) CBFA2T2_S(380) CBFA2T2_S(412) CBFA2T2_S(44) CBFA2T2_S(551) CBFA2T2_T(47),0.8,0.5,4,10,8,1.0,0.022683517722191272,0.5254853437064402

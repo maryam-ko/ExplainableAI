@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM219A_S(101) FAM219A_S(114) FAM219A_S(115) FAM219A_S(131) FAM219A_S(27) FAM219A_S(32) FAM219A_S(71) FAM219A_T(112),0.8,0.5,3,1,8,1.0,0.022759063761488226,0.3678051968207649

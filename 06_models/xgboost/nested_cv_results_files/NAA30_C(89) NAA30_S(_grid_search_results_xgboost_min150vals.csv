@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAA30_C(89) NAA30_S(1) NAA30_S(134) NAA30_S(147) NAA30_S(152) NAA30_S(188) NAA30_S(190) NAA30_S(195) NAA30_S(196) NAA30_S(199) NAA30_S(39) NAA30_S(5) NAA30_S(55) NAA30_S(89) NAA30_T(117),0.8,0.5,4,1,8,1.0,0.03892931251135972,0.6209559224700671

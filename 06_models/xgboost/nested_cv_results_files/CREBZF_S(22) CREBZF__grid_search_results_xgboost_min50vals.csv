@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CREBZF_S(22) CREBZF_S(29) CREBZF_S(37) CREBZF_T(207),0.8,0.5,2,1,8,0.8,0.014644918171374486,0.17313534298451977

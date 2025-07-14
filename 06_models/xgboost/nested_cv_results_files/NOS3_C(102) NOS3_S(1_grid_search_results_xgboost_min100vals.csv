@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOS3_C(102) NOS3_S(1177) NOS3_S(1179) NOS3_S(1202) NOS3_S(3) NOS3_S(427) NOS3_S(483) NOS3_S(57) NOS3_S(625) NOS3_S(633) NOS3_S(634) NOS3_S(638) NOS3_S(94) NOS3_T(1175) NOS3_T(60) NOS3_T(636) NOS3_T(94) NOS3_Y(94),1.0,0.5,4,1,8,1.0,0.024993811973794588,0.22751770029489787

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FANCI_S(1121) FANCI_S(1284) FANCI_S(1312) FANCI_S(234) FANCI_S(249) FANCI_S(407) FANCI_S(409) FANCI_S(726) FANCI_S(730) FANCI_T(1124) FANCI_T(406) FANCI_T(892) FANCI_T(952),1.0,0.5,4,1,8,0.8,0.03196006488233602,0.19802773963928888

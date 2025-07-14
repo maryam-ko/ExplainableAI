@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAPRIN1_S(10) CAPRIN1_S(115) CAPRIN1_S(307) CAPRIN1_S(335) CAPRIN1_S(97),0.8,0.5,2,10,8,0.8,0.014680647644444798,0.25161742378127055

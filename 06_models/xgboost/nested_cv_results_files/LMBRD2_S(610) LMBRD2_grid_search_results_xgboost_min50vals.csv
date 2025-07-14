@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMBRD2_S(610) LMBRD2_S(633) LMBRD2_S(685) LMBRD2_S(689) LMBRD2_Y(290),1.0,0.5,1,1,8,0.6,0.015316339482208218,0.07820333597388529

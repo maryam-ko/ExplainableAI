@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MFHAS1_S(1) MFHAS1_S(1038) MFHAS1_S(1040) MFHAS1_S(766),0.6,0.5,2,1,8,0.8,0.008641224145686455,0.339583105059239

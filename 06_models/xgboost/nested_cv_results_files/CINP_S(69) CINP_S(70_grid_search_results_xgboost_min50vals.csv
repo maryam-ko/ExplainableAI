@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CINP_S(69) CINP_S(70) CINP_T(39) CINP_T(46) CINP_T(47),0.8,0.5,3,1,8,0.8,0.013301471214999855,0.2256929682677103

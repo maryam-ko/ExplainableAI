@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BSDC1_S(166) BSDC1_S(292) BSDC1_S(3) BSDC1_S(313) BSDC1_S(329) BSDC1_S(384) BSDC1_S(387) BSDC1_S(92) BSDC1_T(103) BSDC1_T(107) BSDC1_T(338) BSDC1_T(343),0.6,0.5,4,1,8,1.0,0.02256800541036281,0.37904097053836794

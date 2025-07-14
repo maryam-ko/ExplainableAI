@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC25C_S(122) CDC25C_S(130) CDC25C_S(14) CDC25C_S(143) CDC25C_S(217) CDC25C_S(42) CDC25C_S(57) CDC25C_S(61) CDC25C_S(64) CDC25C_T(67),1.0,0.5,2,1,8,0.8,0.00787016678843472,0.24015929416014054

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL14_S(54) METTL14_T(72),1.0,0.5,1,1,6,0.8,0.00961126080622869,0.12677746236734516

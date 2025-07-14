@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LCP1_S(257) LCP1_S(290) LCP1_S(3) LCP1_S(323) LCP1_S(406) LCP1_T(114) LCP1_T(291) LCP1_Y(28),1.0,0.5,3,1,8,0.8,0.039316616160320145,0.1457345630317634

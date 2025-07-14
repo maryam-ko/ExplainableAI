@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOLGA1_M(41) GOLGA1_S(160) GOLGA1_S(194) GOLGA1_S(30) GOLGA1_S(36) GOLGA1_S(41) GOLGA1_S(707) GOLGA1_S(75) GOLGA1_S(754) GOLGA1_S(758) GOLGA1_S(760) GOLGA1_T(606),0.6,0.5,4,1,6,1.0,0.02256198913632118,0.24912527925390343

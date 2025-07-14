@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LAMTOR1_S(110) LAMTOR1_S(121) LAMTOR1_S(141) LAMTOR1_S(144) LAMTOR1_S(96) LAMTOR1_S(97) LAMTOR1_T(112),1.0,0.5,2,1,8,0.8,0.013241614953257376,0.41573408252971894

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH9_S(1122) MYH9_S(1290) MYH9_S(1580) MYH9_S(1628) MYH9_S(1892) MYH9_S(196) MYH9_S(304) MYH9_S(39) MYH9_S(7) MYH9_S(876) MYH9_T(907) MYH9_Y(754),0.6,0.5,2,1,6,0.8,0.012601558876690715,0.0989086193974054

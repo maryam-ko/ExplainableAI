@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFTUD2_S(11) EFTUD2_S(19) EFTUD2_S(909) EFTUD2_S(913) EFTUD2_S(944) EFTUD2_S(948) EFTUD2_T(3) EFTUD2_T(85) EFTUD2_T(86),1.0,0.5,4,5,8,0.8,0.026353648273959734,0.09666450478759192

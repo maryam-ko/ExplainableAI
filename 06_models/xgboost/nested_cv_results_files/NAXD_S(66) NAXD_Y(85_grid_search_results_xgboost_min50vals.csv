@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAXD_S(66) NAXD_Y(85),1.0,0.5,3,1,8,1.0,0.01566793381613941,0.15988650996460468

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDE4A_S(13) PDE4A_S(145) PDE4A_S(209) PDE4A_S(285) PDE4A_S(346),0.8,0.5,2,1,4,1.0,0.017628933181948914,0.07569560497845314

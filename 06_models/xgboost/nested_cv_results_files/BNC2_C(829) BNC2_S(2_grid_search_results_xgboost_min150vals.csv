@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BNC2_C(829) BNC2_S(229) BNC2_S(403) BNC2_S(904),1.0,0.5,4,1,8,1.0,0.01408536564894228,0.6567138474459666

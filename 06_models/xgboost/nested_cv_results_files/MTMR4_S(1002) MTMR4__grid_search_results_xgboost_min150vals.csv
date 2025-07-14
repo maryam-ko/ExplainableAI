@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTMR4_S(1002) MTMR4_S(572) MTMR4_S(601) MTMR4_S(610) MTMR4_S(618) MTMR4_S(629) MTMR4_S(637) MTMR4_S(8) MTMR4_S(961) MTMR4_T(608),1.0,0.5,4,1,8,1.0,0.025847229841664956,0.6097690909268685

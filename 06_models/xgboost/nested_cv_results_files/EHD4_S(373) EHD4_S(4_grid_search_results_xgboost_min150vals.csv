@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EHD4_S(373) EHD4_S(459) EHD4_S(479) EHD4_S(482) EHD4_Y(456),0.8,0.5,4,5,6,1.0,0.03301087672056261,0.5798594062764926

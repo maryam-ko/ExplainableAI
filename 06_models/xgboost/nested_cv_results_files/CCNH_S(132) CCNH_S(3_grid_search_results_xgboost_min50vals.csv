@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCNH_S(132) CCNH_S(322),1.0,0.5,3,10,8,0.8,0.013030359283727325,0.19547193978983574

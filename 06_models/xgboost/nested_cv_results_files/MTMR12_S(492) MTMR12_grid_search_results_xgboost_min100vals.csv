@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTMR12_S(492) MTMR12_S(564) MTMR12_Y(23),0.8,0.5,4,5,8,1.0,0.0447322155632137,0.5630645672678728

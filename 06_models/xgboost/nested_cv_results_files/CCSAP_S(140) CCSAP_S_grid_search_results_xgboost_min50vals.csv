@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCSAP_S(140) CCSAP_S(80),0.6,0.5,1,1,6,0.8,0.01568664748967285,-0.0015941142548996368

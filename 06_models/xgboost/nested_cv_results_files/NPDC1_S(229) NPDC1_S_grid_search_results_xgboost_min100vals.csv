@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPDC1_S(229) NPDC1_S(320) NPDC1_Y(249) NPDC1_Y(251),0.6,0.5,4,10,8,1.0,0.04088002254682565,0.3416608651134557

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GATA2_S(182) GATA2_S(186) GATA2_S(192) GATA2_S(220),0.8,0.5,2,1,8,1.0,0.010039173948569008,0.2429480303808332

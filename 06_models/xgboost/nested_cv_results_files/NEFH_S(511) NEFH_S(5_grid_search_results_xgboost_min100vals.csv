@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEFH_S(511) NEFH_S(532) NEFH_S(540) NEFH_S(546) NEFH_S(560) NEFH_S(566) NEFH_S(61) NEFH_S(614) NEFH_S(620) NEFH_S(654) NEFH_S(682) NEFH_S(710) NEFH_S(769) NEFH_S(782) NEFH_S(801) NEFH_T(738),0.6,0.5,1,1,6,0.6,0.0223886521019166,-0.016631391760731605

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRF1_C(432) BRF1_C(436) BRF1_S(315) BRF1_S(450) BRF1_T(606) BRF1_T(66),0.6,0.5,1,1,6,0.6,0.012490749401801454,-0.008582694470831287

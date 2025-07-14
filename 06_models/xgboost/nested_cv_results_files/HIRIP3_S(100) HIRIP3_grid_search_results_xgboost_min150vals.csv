@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HIRIP3_S(100) HIRIP3_S(27) HIRIP3_S(333) HIRIP3_S(358) HIRIP3_S(363) HIRIP3_S(367) HIRIP3_S(406) HIRIP3_S(526) HIRIP3_S(550) HIRIP3_S(84) HIRIP3_T(661) HIRIP3_T(87),0.8,0.5,4,1,8,1.0,0.02794896460876824,0.5478938730098966

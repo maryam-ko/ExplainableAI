@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAT4_S(4655) FAT4_S(4781) FAT4_S(4782) FAT4_S(4876) FAT4_T(4646) FAT4_Y(3104),0.8,0.5,1,1,8,1.0,0.026623184241502795,0.14734528990474785

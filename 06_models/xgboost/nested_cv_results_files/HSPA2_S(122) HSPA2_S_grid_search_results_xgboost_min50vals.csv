@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA2_S(122) HSPA2_S(242) HSPA2_S(622) HSPA2_S(630),0.6,0.5,1,1,8,0.8,0.012842102284773942,0.01100613718542609

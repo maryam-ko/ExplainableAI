@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLF3_S(108) KLF3_S(111) KLF3_S(222) KLF3_S(249) KLF3_S(7) KLF3_S(74) KLF3_S(78) KLF3_S(90) KLF3_S(96) KLF3_S(97) KLF3_T(49) KLF3_Y(211),1.0,0.5,4,1,8,0.8,0.021228429481266946,0.5477562398845397

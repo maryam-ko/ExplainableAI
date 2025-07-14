@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEX3A_S(308) MEX3A_S(338) MEX3A_S(462),0.6,0.5,4,1,8,0.8,0.018853308176815426,0.5150519103165434

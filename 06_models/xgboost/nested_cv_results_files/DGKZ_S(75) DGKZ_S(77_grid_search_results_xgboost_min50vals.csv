@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DGKZ_S(75) DGKZ_S(775) DGKZ_S(818) DGKZ_S(894) DGKZ_S(901) DGKZ_S(970) DGKZ_T(76),0.8,0.5,2,1,8,0.8,0.012207914856897975,0.2673709110824599

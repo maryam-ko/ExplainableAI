@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IARS1_S(1038) IARS1_S(1047) IARS1_S(1049) IARS1_S(1051) IARS1_S(1063) IARS1_S(346),1.0,0.5,4,1,8,1.0,0.04795379341417126,0.5258442218047886

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPRIN1_S(100) GPRIN1_S(104) GPRIN1_S(286) GPRIN1_S(341) GPRIN1_S(389) GPRIN1_S(744) GPRIN1_S(75) GPRIN1_S(914) GPRIN1_T(60) GPRIN1_T(869),0.6,0.5,1,1,2,1.0,0.01351246800684924,-0.00017957288626606615

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDIA6_S(126) PDIA6_S(129) PDIA6_S(3) PDIA6_S(428),0.8,0.5,3,1,8,0.8,0.027431988087170803,0.10596680863129186

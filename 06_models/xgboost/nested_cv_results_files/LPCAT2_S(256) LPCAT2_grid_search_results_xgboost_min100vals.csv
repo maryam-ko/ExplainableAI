@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LPCAT2_S(256) LPCAT2_S(260) LPCAT2_S(34) LPCAT2_S(516) LPCAT2_S(523) LPCAT2_T(251),0.8,0.5,2,1,8,1.0,0.027544427109007518,0.12773534431744288

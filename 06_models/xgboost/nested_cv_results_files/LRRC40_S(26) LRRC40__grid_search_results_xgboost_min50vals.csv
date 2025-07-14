@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRRC40_S(26) LRRC40_S(38) LRRC40_S(44) LRRC40_S(71) LRRC40_T(25),1.0,0.5,3,5,8,0.6,0.016625868390058893,0.20832280833021227

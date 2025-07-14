@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSMCE3_S(304) NSMCE3_S(57) NSMCE3_S(60) NSMCE3_S(64),1.0,0.5,4,1,8,0.8,0.04468544664737437,0.34820403604024663

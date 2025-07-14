@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EVI2B_S(253) EVI2B_S(268) EVI2B_S(271) EVI2B_S(278) EVI2B_S(290) EVI2B_S(294) EVI2B_S(295) EVI2B_S(301) EVI2B_T(249) EVI2B_T(253) EVI2B_T(267),0.8,0.5,4,1,8,1.0,0.020958304056919903,0.5854559993720349

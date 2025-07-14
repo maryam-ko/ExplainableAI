@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NONO_M(410) NONO_M(418) NONO_M(424) NONO_M(428) NONO_M(450) NONO_S(196) NONO_T(410) NONO_T(424) NONO_T(428) NONO_T(450) NONO_T(6),1.0,0.5,4,1,8,1.0,0.05697380022545888,0.5344066804720969

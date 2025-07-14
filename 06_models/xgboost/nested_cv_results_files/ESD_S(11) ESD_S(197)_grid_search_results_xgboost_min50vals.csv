@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ESD_S(11) ESD_S(197) ESD_S(210) ESD_T(194),0.6,0.5,1,1,8,0.8,0.01646462303245065,-0.015162824299829625

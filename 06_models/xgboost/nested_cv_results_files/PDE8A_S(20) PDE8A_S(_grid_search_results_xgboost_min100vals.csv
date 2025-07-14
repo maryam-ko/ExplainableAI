@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDE8A_S(20) PDE8A_S(3) PDE8A_S(411) PDE8A_S(454) PDE8A_S(457),1.0,0.5,4,1,8,1.0,0.029629668527113028,0.6113793576653397

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOL9_S(107) NOL9_S(249) NOL9_S(395) NOL9_S(4) NOL9_S(485) NOL9_S(487) NOL9_S(84) NOL9_S(88) NOL9_S(93) NOL9_S(97) NOL9_T(492) NOL9_T(90) NOL9_Y(397),0.8,0.5,4,1,8,1.0,0.043129921751748686,0.4584214964575063

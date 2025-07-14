@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCOLN1_S(547) MCOLN1_S(557) MCOLN1_T(17) MCOLN1_T(232),1.0,0.5,4,10,8,0.8,0.029978434966272102,0.025502614408655977

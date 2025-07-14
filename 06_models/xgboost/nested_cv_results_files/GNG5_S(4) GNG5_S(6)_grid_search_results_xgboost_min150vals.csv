@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GNG5_S(4) GNG5_S(6),0.8,0.5,4,1,6,0.8,0.03360777195034827,0.20334687782884336

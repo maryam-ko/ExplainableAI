@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDH11_S(561) CDH11_S(771) CDH11_S(788),1.0,0.5,1,1,8,0.8,0.024043492945573234,0.046162650395949266

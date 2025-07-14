@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CKMT2_S(162) CKMT2_S(163) CKMT2_S(18) CKMT2_S(233) CKMT2_S(8) CKMT2_T(10) CKMT2_T(151) CKMT2_T(361) CKMT2_Y(159),1.0,0.5,2,1,6,0.8,0.018256931537186435,0.18898112506387588

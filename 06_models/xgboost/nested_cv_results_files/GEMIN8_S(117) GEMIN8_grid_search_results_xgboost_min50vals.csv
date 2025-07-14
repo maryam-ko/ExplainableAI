@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GEMIN8_S(117) GEMIN8_S(185),0.6,0.5,1,1,2,1.0,0.019488426589489436,-0.01825128504691569

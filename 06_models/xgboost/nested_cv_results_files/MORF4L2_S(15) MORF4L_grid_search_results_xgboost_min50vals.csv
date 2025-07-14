@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MORF4L2_S(15) MORF4L2_S(62) MORF4L2_S(7) MORF4L2_T(82),0.6,0.5,1,1,6,0.6,0.012607678357887378,-0.007758625525644857

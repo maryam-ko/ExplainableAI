@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO10_S(1163) MYO10_S(1240) MYO10_S(1253) MYO10_S(1894) MYO10_S(520) MYO10_T(1158) MYO10_T(1893) MYO10_Y(1248) MYO10_Y(767) MYO10_Y(776),1.0,0.5,3,1,4,0.8,0.017406524066021358,0.034705731852481936

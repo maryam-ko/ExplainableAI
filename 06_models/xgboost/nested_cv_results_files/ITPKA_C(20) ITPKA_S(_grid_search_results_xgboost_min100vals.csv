@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITPKA_C(20) ITPKA_S(137) ITPKA_S(143) ITPKA_S(20) ITPKA_S(95),1.0,0.5,4,10,8,1.0,0.03691155285134221,0.13828961643071452

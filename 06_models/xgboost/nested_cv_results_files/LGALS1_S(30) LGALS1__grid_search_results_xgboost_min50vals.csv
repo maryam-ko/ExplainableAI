@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LGALS1_S(30) LGALS1_T(71),1.0,0.5,4,5,8,1.0,0.05256116999107796,0.4444457720481873

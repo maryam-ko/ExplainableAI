@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOT2_S(143) GOT2_S(317) GOT2_S(416) GOT2_T(166),0.8,0.5,3,1,8,1.0,0.021953709774235743,0.16557361556731368

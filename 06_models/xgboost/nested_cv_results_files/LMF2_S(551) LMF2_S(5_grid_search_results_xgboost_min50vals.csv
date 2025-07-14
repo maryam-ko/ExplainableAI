@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMF2_S(551) LMF2_S(557) LMF2_S(662) LMF2_S(670) LMF2_S(677) LMF2_S(678) LMF2_S(686),0.6,0.5,1,1,2,1.0,0.013932041934793556,-0.004479037354917725

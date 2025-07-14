@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BICC1_S(26) BICC1_S(612) BICC1_S(633) BICC1_S(637) BICC1_S(679) BICC1_S(766) BICC1_S(833) BICC1_S(836),0.8,0.5,3,1,8,0.8,0.015740031099146824,0.35393958036965306

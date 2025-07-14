@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNBP_S(1) CNBP_S(134) CNBP_S(151) CNBP_S(47) CNBP_S(49) CNBP_S(54) CNBP_T(3) CNBP_Y(120),0.6,0.5,4,1,8,1.0,0.018781919629422328,0.3678064661293578

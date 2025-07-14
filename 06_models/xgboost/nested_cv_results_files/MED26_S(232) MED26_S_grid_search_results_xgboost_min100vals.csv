@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED26_S(232) MED26_S(299) MED26_S(301) MED26_S(314) MED26_S(337) MED26_S(361) MED26_S(369) MED26_S(373) MED26_S(381) MED26_S(444) MED26_S(447) MED26_S(470) MED26_S(535) MED26_S(7) MED26_T(323),0.8,0.5,4,1,8,1.0,0.028941834330794343,0.7691604987301401

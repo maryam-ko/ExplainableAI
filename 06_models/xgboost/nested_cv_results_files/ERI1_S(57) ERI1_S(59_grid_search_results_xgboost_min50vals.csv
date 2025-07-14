@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERI1_S(57) ERI1_S(59) ERI1_S(62) ERI1_Y(66),1.0,0.5,1,1,6,0.6,0.010207769581786175,0.30333923680996183

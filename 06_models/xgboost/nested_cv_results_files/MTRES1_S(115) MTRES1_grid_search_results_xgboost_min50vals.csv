@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTRES1_S(115) MTRES1_S(121),1.0,0.5,2,10,6,0.8,0.01905553735912438,0.004574260166064636

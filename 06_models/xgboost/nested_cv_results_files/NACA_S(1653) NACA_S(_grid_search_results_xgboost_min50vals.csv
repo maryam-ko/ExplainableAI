@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NACA_S(1653) NACA_S(1819) NACA_S(1827) NACA_S(2138) NACA_S(3) NACA_S(36) NACA_S(972) NACA_T(1403),1.0,0.5,3,1,8,0.8,0.0334872649451104,0.03589546677285323

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EBNA1BP2_S(258) EBNA1BP2_S(262) EBNA1BP2_S(264) EBNA1BP2_S(270) EBNA1BP2_S(319) EBNA1BP2_S(325) EBNA1BP2_S(83) EBNA1BP2_T(261) EBNA1BP2_T(3),1.0,0.5,1,1,8,0.6,0.01323596519216491,0.06823831770779795

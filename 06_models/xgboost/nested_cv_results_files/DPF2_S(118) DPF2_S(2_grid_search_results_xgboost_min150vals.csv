@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DPF2_S(118) DPF2_S(200) DPF2_S(241) DPF2_S(92) DPF2_T(241) DPF2_T(310) DPF2_T(358) DPF2_T(764) DPF2_Y(172),0.6,0.5,4,1,8,1.0,0.022309049915062974,0.6618843542991244

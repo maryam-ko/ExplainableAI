@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ECE1_S(34) ECE1_S(36) ECE1_S(398) ECE1_S(51) ECE1_T(25),1.0,0.5,4,1,8,0.8,0.014356602985478622,0.4135528483442991

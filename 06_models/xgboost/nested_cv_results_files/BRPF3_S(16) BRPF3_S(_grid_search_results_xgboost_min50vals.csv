@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRPF3_S(16) BRPF3_S(17) BRPF3_S(19) BRPF3_S(928) BRPF3_S(932) BRPF3_S(943) BRPF3_S(959) BRPF3_S(962) BRPF3_S(965),1.0,0.5,3,1,8,0.8,0.03177633495731345,0.09992823863768714

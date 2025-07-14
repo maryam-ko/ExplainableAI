@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRD8_S(1158) BRD8_S(381) BRD8_S(387) BRD8_S(460) BRD8_S(573) BRD8_S(579) BRD8_S(585) BRD8_S(631) BRD8_S(635) BRD8_S(637) BRD8_S(641) BRD8_S(652) BRD8_S(658) BRD8_S(694) BRD8_T(565) BRD8_T(572),1.0,0.5,4,1,8,1.0,0.0518416156119375,0.3806263423784621

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPHP4_S(142) NPHP4_S(145) NPHP4_S(478) NPHP4_S(480) NPHP4_S(481) NPHP4_S(496) NPHP4_S(510) NPHP4_S(518) NPHP4_T(158) NPHP4_Y(1352),0.6,0.5,2,1,8,0.6,0.02144729237330041,0.08196610540570386

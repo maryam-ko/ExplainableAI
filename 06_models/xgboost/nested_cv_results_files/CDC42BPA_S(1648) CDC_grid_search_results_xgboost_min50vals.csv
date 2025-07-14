@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC42BPA_S(1648) CDC42BPA_S(1676) CDC42BPA_S(674) CDC42BPA_T(992) CDC42BPA_T(994) CDC42BPA_Y(1341),1.0,0.5,4,1,8,0.8,0.023892283233040216,0.05650901333998739

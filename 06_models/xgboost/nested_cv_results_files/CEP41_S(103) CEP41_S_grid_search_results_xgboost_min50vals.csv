@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP41_S(103) CEP41_S(105) CEP41_S(119) CEP41_S(121) CEP41_S(141) CEP41_S(1830) CEP41_S(363) CEP41_S(83) CEP41_S(96) CEP41_S(99),0.8,0.5,4,1,8,1.0,0.014226859897879775,0.28057202809052373

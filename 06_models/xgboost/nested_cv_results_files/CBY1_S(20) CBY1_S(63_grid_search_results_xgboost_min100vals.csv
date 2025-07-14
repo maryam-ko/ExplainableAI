@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBY1_S(20) CBY1_S(63) CBY1_S(9),0.6,0.5,4,1,8,1.0,0.039506669959828024,0.3861207017188165

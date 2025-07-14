@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDZD8_S(1071) PDZD8_S(496) PDZD8_S(519) PDZD8_S(521) PDZD8_S(761) PDZD8_S(952) PDZD8_S(955) PDZD8_S(975) PDZD8_S(980) PDZD8_S(989) PDZD8_T(852) PDZD8_T(971),1.0,0.5,4,1,6,1.0,0.042565314207255324,0.2871873291251795

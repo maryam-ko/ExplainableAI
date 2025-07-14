@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IQGAP1_S(1097) IQGAP1_S(19) IQGAP1_S(3) IQGAP1_S(86) IQGAP1_T(1117) IQGAP1_T(1471),0.6,0.5,2,1,2,1.0,0.013642753517109958,0.09292484773945031

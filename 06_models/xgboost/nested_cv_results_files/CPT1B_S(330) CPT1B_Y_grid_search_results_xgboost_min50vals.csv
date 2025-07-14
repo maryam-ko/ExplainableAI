@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPT1B_S(330) CPT1B_Y(415),1.0,0.5,4,1,6,0.8,0.009390108619391638,0.2515663963445557

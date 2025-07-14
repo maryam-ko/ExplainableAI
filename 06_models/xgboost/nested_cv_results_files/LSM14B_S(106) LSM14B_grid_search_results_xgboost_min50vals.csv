@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LSM14B_S(106) LSM14B_S(110) LSM14B_S(115) LSM14B_S(154) LSM14B_S(232) LSM14B_S(233) LSM14B_S(317) LSM14B_S(349) LSM14B_S(74) LSM14B_S(85) LSM14B_T(240),0.8,0.5,3,5,8,1.0,0.019047953939917244,0.37131697112243744

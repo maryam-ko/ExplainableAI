@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BUB1_S(17) BUB1_S(176) BUB1_S(314) BUB1_S(375) BUB1_S(444) BUB1_S(445) BUB1_S(525) BUB1_T(440) BUB1_T(609) BUB1_Y(18),1.0,0.5,3,10,8,0.8,0.013414587726720927,0.16622139710983924

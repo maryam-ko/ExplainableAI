@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDE8B_S(304) PDE8B_S(350) PDE8B_S(351) PDE8B_S(446) PDE8B_S(470) PDE8B_S(517) PDE8B_S(754) PDE8B_S(883),1.0,0.5,1,10,8,0.8,0.01553430916948074,0.11915854372229331

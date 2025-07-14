@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MGRN1_S(153) MGRN1_S(402) MGRN1_S(438) MGRN1_S(457) MGRN1_S(501) MGRN1_S(502) MGRN1_S(506) MGRN1_S(515) MGRN1_S(523) MGRN1_S(524),1.0,0.5,1,1,4,0.6,0.01653363093348775,0.003273535378900494

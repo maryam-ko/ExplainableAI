@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHC2_S(119) PHC2_S(166) PHC2_S(227) PHC2_S(6) PHC2_S(621) PHC2_S(733) PHC2_S(86) PHC2_T(225) PHC2_T(618) PHC2_T(619) PHC2_T(84),1.0,0.5,4,1,8,1.0,0.020425903080130654,0.4707580559174538

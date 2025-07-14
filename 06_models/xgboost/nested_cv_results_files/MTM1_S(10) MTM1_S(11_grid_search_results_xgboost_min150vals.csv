@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTM1_S(10) MTM1_S(111) MTM1_S(13) MTM1_S(18) MTM1_S(579) MTM1_S(588) MTM1_S(591) MTM1_S(593) MTM1_S(7) MTM1_Y(9),1.0,0.5,4,5,8,1.0,0.02898210164050446,0.6857487171052398

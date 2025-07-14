@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MOV10_S(432) MOV10_S(815) MOV10_S(97),0.8,0.5,3,5,8,0.8,0.010516250128571616,0.3894132586467373

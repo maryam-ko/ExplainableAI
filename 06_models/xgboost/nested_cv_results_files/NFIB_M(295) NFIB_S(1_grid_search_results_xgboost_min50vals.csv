@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFIB_M(295) NFIB_S(13) NFIB_S(211) NFIB_S(261) NFIB_S(264) NFIB_S(265) NFIB_S(268) NFIB_S(295) NFIB_S(3) NFIB_S(311) NFIB_S(312) NFIB_S(328) NFIB_S(332) NFIB_S(333) NFIB_S(364) NFIB_T(286) NFIB_T(359) NFIB_Y(290),1.0,0.5,4,1,8,1.0,0.03742095470383751,0.6536263111185008

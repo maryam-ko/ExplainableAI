@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNPY3_S(247) CNPY3_S(257) CNPY3_S(273),0.8,0.5,3,1,8,0.8,0.015949093940817758,0.19224459546711375

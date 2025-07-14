@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PKP3_C(130) PKP3_S(118) PKP3_S(194) PKP3_S(256) PKP3_S(326) PKP3_S(556) PKP3_T(178) PKP3_T(556) PKP3_T(82) PKP3_Y(195),0.6,0.5,2,1,6,0.8,0.008600274812234122,0.2208976224579086

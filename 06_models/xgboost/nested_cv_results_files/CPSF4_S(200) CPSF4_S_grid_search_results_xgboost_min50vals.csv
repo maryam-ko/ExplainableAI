@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPSF4_S(200) CPSF4_S(202) CPSF4_S(206) CPSF4_S(208) CPSF4_S(212) CPSF4_S(231) CPSF4_S(267) CPSF4_S(84) CPSF4_S(94),0.6,0.5,4,1,8,1.0,0.03766970063312235,0.43098875616760113

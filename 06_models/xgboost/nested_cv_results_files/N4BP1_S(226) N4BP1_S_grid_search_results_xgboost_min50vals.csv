@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+N4BP1_S(226) N4BP1_S(258) N4BP1_S(285) N4BP1_S(288) N4BP1_S(290) N4BP1_S(300) N4BP1_S(335) N4BP1_S(398) N4BP1_T(239) N4BP1_T(242) N4BP1_T(315) N4BP1_Y(415),1.0,0.5,4,1,6,1.0,0.0552989537143083,0.31444084218150137

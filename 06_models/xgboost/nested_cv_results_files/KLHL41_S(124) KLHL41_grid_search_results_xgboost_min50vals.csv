@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLHL41_S(124) KLHL41_S(3) KLHL41_S(589),0.8,0.5,2,1,2,1.0,0.011688954086578884,0.12090408287651286

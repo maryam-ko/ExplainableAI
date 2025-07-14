@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DHX9_S(1033) DHX9_S(109) DHX9_S(120) DHX9_S(125) DHX9_S(279) DHX9_S(305) DHX9_S(321) DHX9_S(446) DHX9_S(449) DHX9_S(452) DHX9_S(625) DHX9_S(688) DHX9_S(87) DHX9_T(109) DHX9_T(787) DHX9_T(790) DHX9_T(92) DHX9_Y(132),0.8,0.5,4,1,8,1.0,0.05389629504258325,0.38656756953391647

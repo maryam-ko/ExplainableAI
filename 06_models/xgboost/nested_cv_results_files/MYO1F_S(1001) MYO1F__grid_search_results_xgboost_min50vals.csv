@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO1F_S(1001) MYO1F_S(1023) MYO1F_S(734) MYO1F_S(992) MYO1F_T(641),1.0,0.5,4,1,8,1.0,0.03230452225746433,0.24406381836907315

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAAM2_S(1) DAAM2_S(1025) DAAM2_S(1050) DAAM2_S(1061) DAAM2_S(656) DAAM2_T(255) DAAM2_Y(267),1.0,0.5,3,1,2,1.0,0.026099474401795827,0.08714765461697602

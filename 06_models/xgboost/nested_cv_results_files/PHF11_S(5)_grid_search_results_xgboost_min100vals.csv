@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHF11_S(5),0.6,0.5,1,1,6,0.6,0.015241611814004328,-0.004179043838468499

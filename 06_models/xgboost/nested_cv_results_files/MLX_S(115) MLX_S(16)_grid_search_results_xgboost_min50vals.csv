@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MLX_S(115) MLX_S(16) MLX_S(42) MLX_S(48) MLX_S(7) MLX_S(94),1.0,0.5,1,1,8,1.0,0.026944377221311995,0.05095545340927425

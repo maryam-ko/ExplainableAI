@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPG_C(66) MPG_C(67) MPG_S(61) MPG_S(78) MPG_T(50) MPG_T(67) MPG_Y(58),0.8,0.5,4,1,8,1.0,0.019112490170370214,0.26307517048386597

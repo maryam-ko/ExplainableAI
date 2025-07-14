@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPN_S(192) CENPN_S(248) CENPN_S(276) CENPN_S(282),0.8,0.5,4,5,8,1.0,0.01879482401604513,0.6510119449528194

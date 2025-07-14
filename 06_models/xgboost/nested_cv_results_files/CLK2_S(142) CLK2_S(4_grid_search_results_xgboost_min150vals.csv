@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLK2_S(142) CLK2_S(46) CLK2_S(47) CLK2_S(498) CLK2_S(50) CLK2_S(83) CLK2_S(96) CLK2_S(98),1.0,0.5,4,1,8,1.0,0.015852461259315505,0.7122561756076227

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPT_S(2) MAPT_S(318) MAPT_S(341) MAPT_S(46) MAPT_S(518) MAPT_S(6) MAPT_S(602) MAPT_S(720) MAPT_T(1) MAPT_T(11) MAPT_T(3) MAPT_T(492) MAPT_T(520) MAPT_T(525) MAPT_T(7),0.8,0.5,2,1,8,1.0,0.005706557948329285,0.1978312753965939

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DIP2A_S(151) DIP2A_S(94) DIP2A_T(98),1.0,0.5,4,1,4,1.0,0.02934698297230364,0.17590220635290316

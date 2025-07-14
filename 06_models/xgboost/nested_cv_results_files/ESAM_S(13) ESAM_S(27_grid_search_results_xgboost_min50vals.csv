@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ESAM_S(13) ESAM_S(276) ESAM_S(312) ESAM_S(315) ESAM_S(336) ESAM_S(338) ESAM_S(388) ESAM_T(309) ESAM_T(314) ESAM_T(332) ESAM_T(334),0.6,0.5,2,1,4,1.0,0.023804073320553485,0.13058623201545033

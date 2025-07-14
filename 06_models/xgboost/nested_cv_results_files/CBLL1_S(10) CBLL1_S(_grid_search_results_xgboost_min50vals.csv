@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBLL1_S(10) CBLL1_S(200) CBLL1_S(201) CBLL1_S(290),0.8,0.5,2,1,8,0.6,0.014698067612976581,0.23054185081619413

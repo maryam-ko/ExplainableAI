@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EEA1_S(1265) EEA1_S(139) EEA1_S(15) EEA1_S(2) EEA1_S(354) EEA1_S(356) EEA1_S(52) EEA1_Y(1021),1.0,0.5,4,1,4,1.0,0.042868523919017326,0.07324087118667581

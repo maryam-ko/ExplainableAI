@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+H3_S(11) H3_S(28) H3_S(29) H3_S(32) H3_S(58) H3_T(175) H3_T(2) H3_T(59) H3_T(8) H3_T(81) H3_Y(100),0.8,0.5,4,10,6,1.0,0.047955261202685506,0.26183831631370524

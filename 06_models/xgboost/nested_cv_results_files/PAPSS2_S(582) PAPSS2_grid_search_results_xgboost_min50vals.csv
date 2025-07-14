@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAPSS2_S(582) PAPSS2_S(610) PAPSS2_T(187) PAPSS2_T(605),0.8,0.5,3,1,8,1.0,0.009719468917503912,0.48605500138888286

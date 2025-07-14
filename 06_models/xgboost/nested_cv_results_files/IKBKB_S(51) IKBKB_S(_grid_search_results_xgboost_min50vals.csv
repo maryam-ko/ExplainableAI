@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IKBKB_S(51) IKBKB_S(550) IKBKB_S(600) IKBKB_S(608) IKBKB_S(613) IKBKB_S(670) IKBKB_S(672) IKBKB_S(675) IKBKB_S(676) IKBKB_S(679),1.0,0.5,4,1,8,1.0,0.03641762810061875,0.5135460980142502

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELF2_S(107) ELF2_S(113) ELF2_S(119) ELF2_S(191) ELF2_S(252) ELF2_S(291) ELF2_S(300) ELF2_S(314) ELF2_S(351) ELF2_S(352) ELF2_S(358) ELF2_S(422) ELF2_S(424) ELF2_S(47) ELF2_T(182) ELF2_T(449) ELF2_T(497),0.8,0.5,4,10,8,1.0,0.02447238275915771,0.46991258400815605

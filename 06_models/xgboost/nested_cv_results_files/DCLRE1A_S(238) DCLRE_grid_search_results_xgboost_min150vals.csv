@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCLRE1A_S(238) DCLRE1A_S(333) DCLRE1A_S(340) DCLRE1A_S(490) DCLRE1A_S(590) DCLRE1A_S(641) DCLRE1A_T(529),0.8,0.5,4,10,8,0.8,0.026190340429243415,0.39805107169656273

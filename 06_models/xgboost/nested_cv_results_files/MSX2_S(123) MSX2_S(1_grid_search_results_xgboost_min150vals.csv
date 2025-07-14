@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSX2_S(123) MSX2_S(130) MSX2_S(3) MSX2_S(91),0.8,0.5,4,5,8,0.8,0.02811859689117136,0.3264978245735331

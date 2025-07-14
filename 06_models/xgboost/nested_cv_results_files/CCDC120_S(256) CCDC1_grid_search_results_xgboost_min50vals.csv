@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC120_S(256) CCDC120_S(268) CCDC120_S(283) CCDC120_S(286) CCDC120_S(364) CCDC120_S(498) CCDC120_Y(259),0.8,0.5,2,1,8,0.8,0.014027587582847107,0.04323164997043909

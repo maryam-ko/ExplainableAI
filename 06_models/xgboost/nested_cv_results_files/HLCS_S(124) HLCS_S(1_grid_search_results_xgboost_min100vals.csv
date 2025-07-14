@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HLCS_S(124) HLCS_S(147) HLCS_S(299) HLCS_S(3) HLCS_S(79) HLCS_Y(133) HLCS_Y(135),0.6,0.5,4,1,6,1.0,0.03940535800212939,0.4618798099702042

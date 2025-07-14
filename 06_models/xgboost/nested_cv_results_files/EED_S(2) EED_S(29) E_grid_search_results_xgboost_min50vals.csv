@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EED_S(2) EED_S(29) EED_S(34),0.6,0.5,2,1,8,0.8,0.007558905783362869,0.43115289042738264

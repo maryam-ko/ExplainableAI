@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITGB1_T(777) ITGB1_Y(783),0.8,0.5,4,5,8,1.0,0.0435058809237408,0.30800413182132813

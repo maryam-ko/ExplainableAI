@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEF2C_S(106) MEF2C_S(110) MEF2C_S(222) MEF2C_S(226) MEF2C_S(240) MEF2C_S(258) MEF2C_S(451) MEF2C_S(469) MEF2C_S(96),0.8,0.5,4,1,8,1.0,0.02254413786850541,0.7037328739035908

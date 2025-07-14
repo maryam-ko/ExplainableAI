@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED8_S(82) MED8_T(111) MED8_T(256),1.0,0.5,2,1,4,0.8,0.0202782510361319,0.1606604904319599

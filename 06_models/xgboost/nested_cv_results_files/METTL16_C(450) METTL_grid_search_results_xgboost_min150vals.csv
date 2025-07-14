@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL16_C(450) METTL16_C(453) METTL16_C(455) METTL16_S(25) METTL16_S(329) METTL16_S(419) METTL16_S(453) METTL16_S(455) METTL16_S(498) METTL16_T(335) METTL16_T(430),1.0,0.5,4,1,8,1.0,0.04171663232737453,0.5520964371496371

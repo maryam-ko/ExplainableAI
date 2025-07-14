@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEMP1_S(295) NEMP1_S(368),0.6,0.5,2,1,2,0.8,0.017867626783732327,0.016295516248980003

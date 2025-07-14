@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDK14_S(120) CDK14_S(123) CDK14_S(134) CDK14_S(95) CDK14_T(22),1.0,0.5,4,1,8,1.0,0.031031868716324715,0.7394172931098805

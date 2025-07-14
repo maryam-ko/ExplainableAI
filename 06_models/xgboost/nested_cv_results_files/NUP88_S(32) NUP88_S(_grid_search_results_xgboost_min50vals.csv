@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP88_S(32) NUP88_S(44) NUP88_S(46) NUP88_S(49) NUP88_T(169),0.6,0.5,1,1,2,0.8,0.019050956392672985,-0.006088291579317229

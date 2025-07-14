@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NDC80_S(15) NDC80_S(44) NDC80_S(50) NDC80_S(55) NDC80_S(595) NDC80_S(639) NDC80_S(640) NDC80_S(76) NDC80_S(77) NDC80_T(344) NDC80_T(350) NDC80_T(49) NDC80_Y(30),0.6,0.5,3,1,6,1.0,0.02368393414865901,0.17745924861607956

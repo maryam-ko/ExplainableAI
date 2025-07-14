@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ENSA_S(43) ENSA_T(112) ENSA_T(115) ENSA_T(21) ENSA_T(99),1.0,0.5,3,1,8,0.6,0.014534379121674103,0.07621570673849143

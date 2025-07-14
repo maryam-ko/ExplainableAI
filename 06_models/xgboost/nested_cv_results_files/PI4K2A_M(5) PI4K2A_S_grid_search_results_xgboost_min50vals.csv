@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PI4K2A_M(5) PI4K2A_S(10) PI4K2A_S(460) PI4K2A_S(464) PI4K2A_S(468) PI4K2A_S(5) PI4K2A_S(7) PI4K2A_S(9) PI4K2A_T(4) PI4K2A_T(466),0.6,0.5,2,10,4,1.0,0.02824711320701533,0.09852860787035922

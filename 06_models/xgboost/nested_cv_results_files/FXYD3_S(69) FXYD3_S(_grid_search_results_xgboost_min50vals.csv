@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FXYD3_S(69) FXYD3_S(84) FXYD3_S(87) FXYD3_T(76),0.6,0.5,1,1,6,0.6,0.012590836639348329,-0.004422551708930067

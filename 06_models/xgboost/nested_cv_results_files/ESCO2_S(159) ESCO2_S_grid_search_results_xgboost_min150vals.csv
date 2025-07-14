@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ESCO2_S(159) ESCO2_S(244) ESCO2_S(29) ESCO2_S(312) ESCO2_S(512) ESCO2_S(518) ESCO2_S(67) ESCO2_S(75),1.0,0.5,4,1,8,1.0,0.037600023711792316,0.6852866910206764

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DICER1_S(1154) DICER1_S(1160) DICER1_S(1280) DICER1_S(1470),0.8,0.5,2,1,8,1.0,0.022520728095064578,0.3570987363461512

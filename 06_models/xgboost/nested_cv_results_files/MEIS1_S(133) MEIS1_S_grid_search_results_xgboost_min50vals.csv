@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEIS1_S(133) MEIS1_S(196),0.8,0.5,4,1,8,1.0,0.024419946425615863,0.5664506798793442

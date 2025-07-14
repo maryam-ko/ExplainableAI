@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIMK1_C(210) LIMK1_S(268) LIMK1_S(276) LIMK1_S(296) LIMK1_S(301) LIMK1_S(302) LIMK1_S(340) LIMK1_T(229),0.8,0.5,4,1,8,1.0,0.021776803808467186,0.20286317271046633

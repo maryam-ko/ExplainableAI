@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PI4KA_S(1419) PI4KA_S(1479) PI4KA_S(262) PI4KA_Y(633),0.6,0.5,1,1,2,0.6,0.008038780847059963,-0.0037915762639235684

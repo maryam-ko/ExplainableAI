@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMGXB4_M(512) HMGXB4_S(155) HMGXB4_S(197) HMGXB4_S(480) HMGXB4_S(501) HMGXB4_S(505) HMGXB4_S(507) HMGXB4_S(79) HMGXB4_Y(83),1.0,0.5,3,1,8,1.0,0.01606109514471485,0.30293884416012523

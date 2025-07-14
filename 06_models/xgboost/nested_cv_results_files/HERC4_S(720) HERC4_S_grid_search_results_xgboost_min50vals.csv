@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HERC4_S(720) HERC4_S(830),1.0,0.5,2,1,8,0.6,0.011393707028876146,0.011987475548032167

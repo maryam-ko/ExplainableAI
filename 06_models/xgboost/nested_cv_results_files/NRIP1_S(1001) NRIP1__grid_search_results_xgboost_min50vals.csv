@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NRIP1_S(1001) NRIP1_S(1011) NRIP1_S(102) NRIP1_S(218) NRIP1_S(252) NRIP1_S(518) NRIP1_S(552) NRIP1_S(564) NRIP1_S(626) NRIP1_S(668) NRIP1_S(671) NRIP1_S(807) NRIP1_T(553),0.6,0.5,3,1,6,0.8,0.030428329804731383,0.0302915414177791

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP54_S(285) NUP54_S(289),1.0,0.5,2,1,8,0.8,0.009958813912380972,0.37192299645043425

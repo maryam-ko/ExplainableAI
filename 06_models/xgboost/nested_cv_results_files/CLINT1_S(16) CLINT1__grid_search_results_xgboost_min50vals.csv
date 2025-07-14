@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLINT1_S(16) CLINT1_S(166) CLINT1_S(173) CLINT1_S(198) CLINT1_S(217) CLINT1_S(305) CLINT1_T(11) CLINT1_T(215) CLINT1_T(290),0.6,0.5,1,1,8,0.6,0.010738382632980898,-0.004174180307539998

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FRMD6_S(184) FRMD6_S(349) FRMD6_S(44) FRMD6_S(445) FRMD6_S(448) FRMD6_S(465) FRMD6_S(467) FRMD6_S(489) FRMD6_S(497) FRMD6_S(522) FRMD6_S(525) FRMD6_S(540) FRMD6_S(7) FRMD6_S(81) FRMD6_T(515),0.6,0.5,3,1,8,1.0,0.024683857939847318,0.27682866388757904

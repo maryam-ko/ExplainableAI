@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PA2G4_S(2) PA2G4_S(335) PA2G4_S(355) PA2G4_S(360) PA2G4_S(361) PA2G4_S(363) PA2G4_S(375) PA2G4_S(383) PA2G4_S(90) PA2G4_T(11) PA2G4_T(366) PA2G4_T(377) PA2G4_T(382) PA2G4_T(386),1.0,0.5,4,1,8,1.0,0.041312954187296615,0.6106210685585512

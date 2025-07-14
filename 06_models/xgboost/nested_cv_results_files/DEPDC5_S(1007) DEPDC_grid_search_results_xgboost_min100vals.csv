@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DEPDC5_S(1007) DEPDC5_S(1085) DEPDC5_S(1530) DEPDC5_S(445) DEPDC5_S(494) DEPDC5_S(498) DEPDC5_S(579) DEPDC5_S(833),0.6,0.5,3,1,8,1.0,0.014670402805267898,0.2860625480206947

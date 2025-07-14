@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHD1L_S(355) CHD1L_S(506) CHD1L_S(507) CHD1L_S(562) CHD1L_S(607) CHD1L_S(628) CHD1L_S(636) CHD1L_S(8),1.0,0.5,4,1,8,0.8,0.028693828447516945,0.6269227769415154

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PALS1_S(14) PALS1_S(241) PALS1_S(25) PALS1_S(372) PALS1_S(53) PALS1_S(84) PALS1_S(9) PALS1_T(241) PALS1_Y(241) PALS1_Y(243) PALS1_Y(363),1.0,0.5,4,1,8,0.8,0.03847958985453502,0.30680186928805386

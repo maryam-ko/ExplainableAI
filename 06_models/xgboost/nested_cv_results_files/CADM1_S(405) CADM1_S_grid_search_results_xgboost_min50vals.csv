@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CADM1_S(405) CADM1_S(434) CADM1_S(448) CADM1_T(393) CADM1_T(422) CADM1_T(436) CADM1_Y(440),1.0,0.5,3,1,8,0.8,0.023515272058468796,0.09623401819107986

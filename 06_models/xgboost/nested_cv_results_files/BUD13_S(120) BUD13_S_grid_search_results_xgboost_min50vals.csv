@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BUD13_S(120) BUD13_S(126) BUD13_S(132) BUD13_S(210) BUD13_S(236) BUD13_S(243) BUD13_S(385) BUD13_T(3) BUD13_Y(612),0.6,0.5,1,1,8,0.6,0.003425776420495602,-0.00555840835133341

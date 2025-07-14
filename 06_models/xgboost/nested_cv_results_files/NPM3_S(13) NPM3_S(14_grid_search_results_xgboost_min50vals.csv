@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPM3_S(13) NPM3_S(147) NPM3_S(151) NPM3_S(158),1.0,0.5,4,1,8,1.0,0.03216811730812244,0.34790500974145766

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSTM2_S(173) GSTM2_S(2) GSTM2_S(90) GSTM2_T(3) GSTM2_T(34) GSTM2_T(67) GSTM2_Y(23) GSTM2_Y(41),0.6,0.5,3,1,8,1.0,0.019985502107134647,0.08669790712514831

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYOZ2_S(116) MYOZ2_T(107) MYOZ2_T(111),0.8,0.5,4,1,8,1.0,0.04310942630432287,0.5712347101442833

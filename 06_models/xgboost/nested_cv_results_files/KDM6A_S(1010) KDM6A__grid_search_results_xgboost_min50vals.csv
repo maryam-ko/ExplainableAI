@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KDM6A_S(1010) KDM6A_S(710) KDM6A_S(718) KDM6A_S(767) KDM6A_S(769) KDM6A_S(778) KDM6A_S(829) KDM6A_T(827),1.0,0.5,2,1,4,0.8,0.02735698670577813,-0.012007347214150999

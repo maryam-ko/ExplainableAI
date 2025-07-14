@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MLH1_S(205) MLH1_S(236) MLH1_S(406) MLH1_S(446) MLH1_S(477),0.8,0.5,3,10,8,1.0,0.020279576209004703,0.6839489183146961

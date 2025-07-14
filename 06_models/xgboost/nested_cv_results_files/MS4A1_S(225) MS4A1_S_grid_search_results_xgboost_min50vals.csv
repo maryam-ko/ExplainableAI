@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MS4A1_S(225) MS4A1_S(254) MS4A1_S(35) MS4A1_S(36) MS4A1_S(5) MS4A1_T(239),0.6,0.5,1,1,6,0.8,0.016034073250584827,-0.008022293151505

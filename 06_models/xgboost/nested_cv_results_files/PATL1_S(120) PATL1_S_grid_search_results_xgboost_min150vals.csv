@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PATL1_S(120) PATL1_S(233) PATL1_S(248) PATL1_S(41) PATL1_T(6) PATL1_Y(443),1.0,0.5,3,1,8,0.8,0.018631892726266835,0.47506301117511374

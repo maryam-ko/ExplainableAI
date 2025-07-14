@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIAA0319L_S(1043) KIAA0319L_S(420) KIAA0319L_S(969) KIAA0319L_S(978) KIAA0319L_T(1037) KIAA0319L_T(804) KIAA0319L_T(974),1.0,0.5,4,1,6,1.0,0.02316698243987798,0.5242242164052959

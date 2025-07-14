@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CFDP1_S(116) CFDP1_S(216) CFDP1_S(221) CFDP1_S(246) CFDP1_S(250),0.8,0.5,2,1,8,1.0,0.015222578220312312,0.19025356706747115

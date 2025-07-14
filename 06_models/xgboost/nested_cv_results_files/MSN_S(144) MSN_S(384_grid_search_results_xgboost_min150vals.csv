@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSN_S(144) MSN_S(384) MSN_S(429) MSN_S(440) MSN_S(576) MSN_S(74) MSN_T(459) MSN_T(526),0.8,0.5,4,1,8,1.0,0.036121069081204625,0.5085046410383876

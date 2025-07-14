@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IL1RAP_S(535) IL1RAP_S(536) IL1RAP_S(537) IL1RAP_S(545) IL1RAP_S(554) IL1RAP_S(555) IL1RAP_S(556) IL1RAP_S(557) IL1RAP_S(563) IL1RAP_S(565) IL1RAP_S(566),1.0,0.5,4,1,8,1.0,0.059481714534255464,0.3818748652490808

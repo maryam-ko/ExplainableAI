@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C4orf54_S(1035) C4orf54_S(1187) C4orf54_S(1345) C4orf54_S(1420) C4orf54_S(1423) C4orf54_S(3) C4orf54_S(446) C4orf54_S(6) C4orf54_S(611) C4orf54_S(867) C4orf54_S(880) C4orf54_S(882) C4orf54_S(889) C4orf54_S(895) C4orf54_S(9) C4orf54_T(444),1.0,0.5,4,5,8,1.0,0.03026051578909995,0.7199826620031798

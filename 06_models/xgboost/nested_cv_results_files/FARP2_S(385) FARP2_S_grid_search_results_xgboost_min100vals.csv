@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FARP2_S(385) FARP2_S(476) FARP2_S(480) FARP2_S(80) FARP2_S(875) FARP2_S(881) FARP2_S(886) FARP2_T(22),1.0,0.5,3,1,8,1.0,0.024097561297658967,0.309904458867934

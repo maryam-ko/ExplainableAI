@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KAT14_S(220) KAT14_S(222) KAT14_S(285) KAT14_S(415) KAT14_S(416) KAT14_T(161) KAT14_T(223) KAT14_T(289) KAT14_T(485),1.0,0.5,4,1,4,1.0,0.024464463538400063,0.24523358373415247

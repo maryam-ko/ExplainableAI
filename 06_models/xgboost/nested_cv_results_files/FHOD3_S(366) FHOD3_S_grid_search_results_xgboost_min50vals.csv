@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FHOD3_S(366) FHOD3_S(375) FHOD3_S(541) FHOD3_S(955),1.0,0.5,3,1,4,0.8,0.018811890048957388,-0.0013176516431757878

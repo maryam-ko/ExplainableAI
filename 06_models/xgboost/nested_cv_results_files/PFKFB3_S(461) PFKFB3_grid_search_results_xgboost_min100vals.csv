@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PFKFB3_S(461) PFKFB3_S(467) PFKFB3_S(475) PFKFB3_S(478) PFKFB3_S(481) PFKFB3_T(463) PFKFB3_T(471),0.8,0.5,4,1,8,1.0,0.021026703234362558,0.5034473322694366

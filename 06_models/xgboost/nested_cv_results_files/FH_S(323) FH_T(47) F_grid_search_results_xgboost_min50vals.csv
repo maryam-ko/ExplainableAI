@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FH_S(323) FH_T(47) FH_T(90),0.6,0.5,2,1,8,1.0,0.017381948318750267,0.2596888680171735

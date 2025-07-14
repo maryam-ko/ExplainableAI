@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBXW5_S(100) FBXW5_S(284),0.6,0.5,4,1,8,1.0,0.01698866661152851,0.3411072826908482

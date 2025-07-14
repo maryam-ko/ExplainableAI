@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FGF13_S(1) FGF13_S(155) FGF13_S(189) FGF13_S(208) FGF13_S(209),0.8,0.5,2,1,8,1.0,0.018747427943858096,0.1705463444748847

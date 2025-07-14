@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEAF6_S(118) MEAF6_S(136) MEAF6_T(120),0.8,0.5,2,1,6,0.8,0.006789682498601465,0.36437823770698063

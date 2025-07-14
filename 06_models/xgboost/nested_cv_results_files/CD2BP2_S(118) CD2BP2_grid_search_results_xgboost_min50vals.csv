@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CD2BP2_S(118) CD2BP2_S(187) CD2BP2_S(188) CD2BP2_S(194) CD2BP2_S(195) CD2BP2_S(34) CD2BP2_S(46) CD2BP2_S(49) CD2BP2_S(7) CD2BP2_S(8) CD2BP2_T(243),0.8,0.5,4,5,8,1.0,0.05929559158338737,0.3133410162292723

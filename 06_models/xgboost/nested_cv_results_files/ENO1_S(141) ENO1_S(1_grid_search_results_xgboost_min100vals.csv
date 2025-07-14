@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ENO1_S(141) ENO1_S(157) ENO1_S(2) ENO1_S(282) ENO1_S(310) ENO1_T(26) ENO1_T(41) ENO1_T(72) ENO1_Y(257),1.0,0.5,4,1,6,1.0,0.014089897419206012,0.5058882479090823

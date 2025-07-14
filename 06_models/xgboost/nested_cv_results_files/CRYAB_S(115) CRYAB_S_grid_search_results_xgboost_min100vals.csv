@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRYAB_S(115) CRYAB_S(136) CRYAB_S(138) CRYAB_S(139) CRYAB_S(153) CRYAB_S(19) CRYAB_S(21) CRYAB_S(3) CRYAB_S(329) CRYAB_S(4) CRYAB_S(45) CRYAB_S(59) CRYAB_S(66) CRYAB_S(76) CRYAB_S(8) CRYAB_T(5) CRYAB_T(63),0.8,0.5,4,1,6,1.0,0.0379209387935893,0.40777720720681493

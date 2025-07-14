@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIA3_M(1740) MIA3_M(408) MIA3_S(1067) MIA3_S(1553) MIA3_S(1647) MIA3_S(1662) MIA3_S(1702) MIA3_S(1740) MIA3_S(984),1.0,0.5,1,1,8,0.6,0.009437660212931635,0.14020391734866672

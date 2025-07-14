@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LTB4R_S(280) LTB4R_S(310) LTB4R_S(314) LTB4R_S(320),0.6,0.5,2,1,8,0.6,0.012478789647789739,-0.0008845317618795256

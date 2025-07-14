@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LYL1_M(276) LYL1_S(134) LYL1_S(36) LYL1_T(13) LYL1_T(15),0.8,0.5,3,10,4,1.0,0.013944514720164222,0.21653130916261257

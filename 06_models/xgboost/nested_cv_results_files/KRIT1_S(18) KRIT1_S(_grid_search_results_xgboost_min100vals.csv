@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRIT1_S(18) KRIT1_S(22) KRIT1_S(391) KRIT1_Y(230),1.0,0.5,3,10,8,0.8,0.018028799130085572,0.31016259282389286

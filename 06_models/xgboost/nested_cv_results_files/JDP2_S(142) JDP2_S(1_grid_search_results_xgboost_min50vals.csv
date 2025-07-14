@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JDP2_S(142) JDP2_S(145) JDP2_S(151) JDP2_T(147) JDP2_T(148),0.6,0.5,1,1,8,0.8,0.022310621175673773,-0.00704049475484374

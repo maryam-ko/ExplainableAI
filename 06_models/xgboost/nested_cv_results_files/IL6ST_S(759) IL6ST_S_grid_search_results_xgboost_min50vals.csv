@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IL6ST_S(759) IL6ST_S(778) IL6ST_T(670) IL6ST_Y(257) IL6ST_Y(261) IL6ST_Y(844) IL6ST_Y(905),1.0,0.5,2,1,8,1.0,0.024413787320904195,0.1620592024810921

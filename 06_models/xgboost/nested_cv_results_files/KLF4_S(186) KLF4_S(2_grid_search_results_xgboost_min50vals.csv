@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLF4_S(186) KLF4_S(204) KLF4_S(232) KLF4_S(234) KLF4_S(236) KLF4_S(244) KLF4_S(252) KLF4_S(254) KLF4_T(266) KLF4_T(314),1.0,0.5,1,10,6,0.8,0.01687544358555115,0.11454578664436108

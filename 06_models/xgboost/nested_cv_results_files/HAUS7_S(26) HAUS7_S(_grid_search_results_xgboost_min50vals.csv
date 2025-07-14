@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HAUS7_S(26) HAUS7_S(32) HAUS7_Y(57),0.8,0.5,1,1,8,0.6,0.010543619010160005,0.3094538317961118

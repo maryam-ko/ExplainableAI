@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BTBD7_S(1119) BTBD7_S(722) BTBD7_S(998) BTBD7_T(997),1.0,0.5,2,10,8,1.0,0.01360806358531668,0.4442398565054548

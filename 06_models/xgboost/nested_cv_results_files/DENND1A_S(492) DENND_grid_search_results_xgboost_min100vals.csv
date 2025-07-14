@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DENND1A_S(492) DENND1A_S(518) DENND1A_S(536) DENND1A_S(546) DENND1A_S(593) DENND1A_S(603) DENND1A_S(619) DENND1A_S(997) DENND1A_T(923),0.6,0.5,3,1,8,1.0,0.018398578869416884,0.2438127536253054

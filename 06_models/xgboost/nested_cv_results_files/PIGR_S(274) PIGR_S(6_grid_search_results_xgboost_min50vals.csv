@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIGR_S(274) PIGR_S(673) PIGR_S(676) PIGR_S(678) PIGR_S(682) PIGR_S(702) PIGR_S(732) PIGR_S(733) PIGR_S(735) PIGR_T(679),0.6,0.5,1,1,8,0.6,0.026648987724174285,0.0015082533692574395

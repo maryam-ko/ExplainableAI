@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHETA1_S(179) PHETA1_S(213),1.0,0.5,3,1,8,1.0,0.016415950619676187,0.4010211109011593

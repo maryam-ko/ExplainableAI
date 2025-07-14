@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IQSEC2_S(1137) IQSEC2_S(1143) IQSEC2_S(292) IQSEC2_S(617),0.6,0.5,1,1,2,1.0,0.017923061434201908,-0.002597250136892093

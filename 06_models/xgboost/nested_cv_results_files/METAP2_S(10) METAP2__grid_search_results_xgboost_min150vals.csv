@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METAP2_S(10) METAP2_S(29) METAP2_S(45) METAP2_S(49) METAP2_S(60) METAP2_S(63) METAP2_S(73) METAP2_S(74) METAP2_T(30) METAP2_T(353),0.6,0.5,4,1,8,1.0,0.0276066396346153,0.6623726724299973

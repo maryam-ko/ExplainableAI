@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCYT2_S(354) PCYT2_T(159) PCYT2_T(160) PCYT2_T(342) PCYT2_T(360),0.6,0.5,4,1,8,0.8,0.01713087505725424,0.13953896468599267

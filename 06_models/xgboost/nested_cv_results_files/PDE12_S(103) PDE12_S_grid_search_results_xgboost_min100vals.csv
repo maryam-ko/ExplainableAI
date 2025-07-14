@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDE12_S(103) PDE12_S(217) PDE12_S(219) PDE12_S(98),0.8,0.5,4,1,8,1.0,0.020044965260640025,0.3441099240397512

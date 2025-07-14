@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAGEC1_S(1063) MAGEC1_S(205) MAGEC1_S(208) MAGEC1_S(217) MAGEC1_S(58) MAGEC1_S(78),1.0,0.5,4,1,8,1.0,0.031455370376850866,0.14949262378320433

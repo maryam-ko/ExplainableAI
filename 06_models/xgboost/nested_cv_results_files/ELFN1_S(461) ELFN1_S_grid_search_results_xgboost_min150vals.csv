@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELFN1_S(461) ELFN1_S(514) ELFN1_S(629) ELFN1_S(674) ELFN1_S(735) ELFN1_T(517),0.6,0.5,3,1,8,1.0,0.018109626071186727,0.41653089106842855

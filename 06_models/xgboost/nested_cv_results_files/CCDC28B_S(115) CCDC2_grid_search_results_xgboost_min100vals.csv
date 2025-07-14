@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC28B_S(115) CCDC28B_S(20) CCDC28B_S(21) CCDC28B_S(3) CCDC28B_S(46),0.8,0.5,4,1,8,1.0,0.019637342758866853,0.5293925001707038

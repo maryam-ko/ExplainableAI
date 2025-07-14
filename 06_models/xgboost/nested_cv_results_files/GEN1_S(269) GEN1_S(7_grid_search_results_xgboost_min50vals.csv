@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GEN1_S(269) GEN1_S(735) GEN1_S(893) GEN1_T(516) GEN1_Y(815),1.0,0.5,2,1,8,0.6,0.020503319471094628,0.005390938452143534

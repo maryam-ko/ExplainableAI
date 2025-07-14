@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEBPZ_S(149) CEBPZ_S(226) CEBPZ_S(34) CEBPZ_S(620) CEBPZ_S(621) CEBPZ_S(629) CEBPZ_S(644) CEBPZ_S(835) CEBPZ_S(959) CEBPZ_S(973) CEBPZ_T(156) CEBPZ_T(33) CEBPZ_T(669),0.6,0.5,4,1,8,1.0,0.056374536452534874,0.5387576812664809

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HEATR5A_S(1647) HEATR5A_S(1996) HEATR5A_T(1533),0.6,0.5,2,1,8,1.0,0.012656035083220408,0.1682816093813176

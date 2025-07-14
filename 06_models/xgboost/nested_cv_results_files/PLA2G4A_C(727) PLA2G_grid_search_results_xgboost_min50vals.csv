@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLA2G4A_C(727) PLA2G4A_C(729) PLA2G4A_S(314) PLA2G4A_S(427) PLA2G4A_S(437) PLA2G4A_S(725) PLA2G4A_S(727) PLA2G4A_T(268) PLA2G4A_Y(7),0.6,0.5,4,10,6,1.0,0.045269122685292054,0.2896286690921837

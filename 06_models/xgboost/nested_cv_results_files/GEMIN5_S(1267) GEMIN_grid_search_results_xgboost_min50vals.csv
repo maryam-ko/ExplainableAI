@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GEMIN5_S(1267) GEMIN5_S(1322) GEMIN5_S(48) GEMIN5_S(657) GEMIN5_S(767) GEMIN5_S(854) GEMIN5_T(1195) GEMIN5_T(1270) GEMIN5_T(1326) GEMIN5_T(748) GEMIN5_T(751),1.0,0.5,3,1,4,1.0,0.012587454596484146,0.2466450799109401

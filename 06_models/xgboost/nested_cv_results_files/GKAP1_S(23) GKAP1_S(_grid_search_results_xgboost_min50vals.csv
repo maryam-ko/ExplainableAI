@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GKAP1_S(23) GKAP1_S(25) GKAP1_S(27),0.6,0.5,1,1,8,0.8,0.013021771785375114,-0.0036749531082642672

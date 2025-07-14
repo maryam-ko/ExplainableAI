@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LBR_S(128) LBR_S(130) LBR_S(156) LBR_S(182) LBR_S(59) LBR_S(63) LBR_S(67) LBR_S(70) LBR_S(71) LBR_S(84) LBR_S(86) LBR_S(93) LBR_T(118) LBR_T(68),0.8,0.5,4,1,8,1.0,0.0407459165253905,0.42468583283108946

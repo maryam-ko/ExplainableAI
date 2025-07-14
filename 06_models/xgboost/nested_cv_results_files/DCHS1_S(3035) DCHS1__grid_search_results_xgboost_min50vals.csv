@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCHS1_S(3035) DCHS1_S(3055) DCHS1_S(3058) DCHS1_S(3059) DCHS1_S(448) DCHS1_Y(435),0.6,0.5,2,1,8,0.8,0.013324595745976577,0.09534806646465599

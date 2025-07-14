@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCB4_S(843) PLCB4_S(889) PLCB4_S(890) PLCB4_T(886),1.0,0.5,2,1,8,1.0,0.016185678389034897,0.29661663145816386

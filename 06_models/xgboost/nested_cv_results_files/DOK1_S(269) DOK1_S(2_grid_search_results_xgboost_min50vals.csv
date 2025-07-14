@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DOK1_S(269) DOK1_S(281) DOK1_S(291) DOK1_S(302) DOK1_S(310) DOK1_S(439) DOK1_S(460) DOK1_T(481) DOK1_Y(296),0.8,0.5,3,1,6,1.0,0.03025687062919397,0.3364152096206727

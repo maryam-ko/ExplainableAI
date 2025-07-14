@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MET_S(1004) MET_S(3) MET_S(985) MET_S(987) MET_S(988) MET_S(990) MET_T(3) MET_T(977),1.0,0.5,4,1,8,1.0,0.022513328417641334,0.3768406290436575

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FGD5_S(3) FGD5_S(549) FGD5_S(552) FGD5_S(632) FGD5_S(698) FGD5_S(699) FGD5_S(7) FGD5_S(703) FGD5_S(718) FGD5_S(742) FGD5_S(744) FGD5_S(787),1.0,0.5,3,1,6,0.8,0.04814394979243269,0.013347002494309068

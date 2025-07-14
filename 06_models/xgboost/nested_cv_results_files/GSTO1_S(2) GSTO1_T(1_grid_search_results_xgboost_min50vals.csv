@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSTO1_S(2) GSTO1_T(130),1.0,0.5,4,1,8,1.0,0.01615541225671281,0.28027989069874437

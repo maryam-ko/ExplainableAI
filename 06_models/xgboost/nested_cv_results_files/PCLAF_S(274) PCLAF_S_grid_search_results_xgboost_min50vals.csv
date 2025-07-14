@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCLAF_S(274) PCLAF_S(28) PCLAF_S(76) PCLAF_S(8) PCLAF_S(88) PCLAF_T(106) PCLAF_Y(13),0.8,0.5,2,1,8,1.0,0.02225093704515975,0.20175313004755296

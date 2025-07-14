@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAT_S(515),1.0,0.5,4,10,4,1.0,0.03657853344171383,0.12749291685915237

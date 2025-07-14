@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCTPP1_C(168) DCTPP1_S(150) DCTPP1_S(2) DCTPP1_S(85),1.0,0.5,4,1,8,1.0,0.028459257522285238,0.17399128415097814

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCDHGC3_S(780) PCDHGC3_S(784),1.0,0.5,3,1,8,0.6,0.022144619382837565,0.147025080890346

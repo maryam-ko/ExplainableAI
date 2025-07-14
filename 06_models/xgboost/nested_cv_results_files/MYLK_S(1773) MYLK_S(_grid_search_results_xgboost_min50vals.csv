@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYLK_S(1773) MYLK_S(1788) MYLK_S(3) MYLK_S(8) MYLK_S(850) MYLK_S(857) MYLK_T(856),0.6,0.5,1,1,2,1.0,0.020918861527462702,-0.003364614633090612

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSR_S(178) GSR_S(7) GSR_T(383),0.8,0.5,4,1,8,1.0,0.02866357949320129,0.1775655508618516

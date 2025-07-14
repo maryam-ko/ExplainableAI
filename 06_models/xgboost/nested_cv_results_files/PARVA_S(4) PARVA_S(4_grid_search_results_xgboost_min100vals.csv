@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARVA_S(4) PARVA_S(48) PARVA_S(50) PARVA_S(54) PARVA_S(59) PARVA_S(62) PARVA_S(8) PARVA_T(3) PARVA_T(36),0.6,0.5,4,5,8,1.0,0.04811417870087418,0.5121918928086774

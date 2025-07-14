@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSK3A_S(14) GSK3A_S(2) GSK3A_S(39) GSK3A_S(41) GSK3A_S(72) GSK3A_S(77),0.8,0.5,4,1,8,0.8,0.030249008178706287,0.2091880999187751

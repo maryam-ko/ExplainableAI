@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHD2_S(1386) CHD2_S(1545) CHD2_S(156) CHD2_S(1590) CHD2_S(1799) CHD2_S(1806) CHD2_S(75) CHD2_S(988) CHD2_T(164),0.8,0.5,4,1,8,0.8,0.012630016373450893,0.3053810203299701

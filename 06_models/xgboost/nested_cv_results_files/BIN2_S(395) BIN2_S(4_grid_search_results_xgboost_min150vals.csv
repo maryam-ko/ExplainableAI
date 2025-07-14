@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BIN2_S(395) BIN2_S(414) BIN2_S(417) BIN2_S(422) BIN2_S(430) BIN2_S(436) BIN2_S(444) BIN2_S(458) BIN2_S(466) BIN2_T(409) BIN2_T(438) BIN2_T(461),1.0,0.5,4,1,6,1.0,0.029004437907271374,0.5766522660885218

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPHB2_S(572) EPHB2_S(575) EPHB2_S(776) EPHB2_Y(584),1.0,0.5,4,5,6,1.0,0.026272733476778783,0.36943752991075446

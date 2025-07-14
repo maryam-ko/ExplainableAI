@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCPG1_S(183) CCPG1_S(186) CCPG1_S(190) CCPG1_S(42) CCPG1_S(44) CCPG1_S(46) CCPG1_S(551) CCPG1_T(305) CCPG1_T(40),1.0,0.5,4,5,8,1.0,0.024751164349900528,0.18462673270419133

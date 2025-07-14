@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GATAD2A_M(49) GATAD2A_S(315) GATAD2A_S(512) GATAD2A_S(547) GATAD2A_S(549) GATAD2A_S(598) GATAD2A_S(599) GATAD2A_T(544) GATAD2A_T(587),0.6,0.5,1,1,8,0.8,0.009075940624555424,-0.004927306316204661

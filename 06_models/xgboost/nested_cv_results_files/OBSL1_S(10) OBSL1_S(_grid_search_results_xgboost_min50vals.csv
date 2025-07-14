@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OBSL1_S(10) OBSL1_S(13) OBSL1_S(508),1.0,0.5,3,1,8,1.0,0.01796765668940636,0.5459975552927693

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GJB1_S(225) GJB1_S(233) GJB1_S(258) GJB1_S(265) GJB1_S(266),1.0,0.5,2,1,8,1.0,0.021369946298033408,0.015567644225145293

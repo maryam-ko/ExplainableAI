@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CALCOCO1_S(562) CALCOCO1_S(563),1.0,0.5,2,1,8,0.8,0.010069749070135872,0.4124507169585274

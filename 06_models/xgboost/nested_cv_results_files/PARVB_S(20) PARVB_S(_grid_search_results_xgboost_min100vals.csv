@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARVB_S(20) PARVB_S(39) PARVB_S(7) PARVB_T(28),0.8,0.5,4,1,8,0.8,0.04252394749119425,0.37622076461923315

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHTOP_S(49) CHTOP_S(64) CHTOP_S(74) CHTOP_T(217) CHTOP_T(33),1.0,0.5,3,5,8,1.0,0.026332520896405736,0.4039748996988344

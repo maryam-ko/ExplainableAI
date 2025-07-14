@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HBS1L_S(117) HBS1L_S(127) HBS1L_S(131) HBS1L_S(154) HBS1L_S(215) HBS1L_S(225) HBS1L_S(229) HBS1L_S(49) HBS1L_S(65) HBS1L_S(67) HBS1L_S(69) HBS1L_T(192) HBS1L_T(231) HBS1L_Y(58),1.0,0.5,4,10,8,1.0,0.019748952306157055,0.8055428929416386

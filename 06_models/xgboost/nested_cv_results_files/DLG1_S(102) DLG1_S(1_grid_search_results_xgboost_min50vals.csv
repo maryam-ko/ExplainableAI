@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DLG1_S(102) DLG1_S(104) DLG1_S(122) DLG1_S(143) DLG1_S(158) DLG1_S(392) DLG1_S(446) DLG1_S(448) DLG1_S(575) DLG1_T(126),0.6,0.5,4,1,8,1.0,0.054027741136141914,0.2055203839856019

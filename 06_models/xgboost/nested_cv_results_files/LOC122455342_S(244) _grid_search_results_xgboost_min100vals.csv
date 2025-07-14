@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LOC122455342_S(244) LOC122455342_S(248) LOC122455342_Y(242) LOC122455342_Y(243),0.6,0.5,1,1,8,1.0,0.010271684738432292,0.07195468608336168

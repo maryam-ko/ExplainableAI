@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FCHO1_S(372) FCHO1_S(523) FCHO1_S(585) FCHO1_S(616),0.6,0.5,2,1,8,1.0,0.009075037616505112,0.4112656922274539

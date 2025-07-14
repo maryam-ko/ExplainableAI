@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJA1_S(112) DNAJA1_S(83),0.6,0.5,1,1,8,0.6,0.005215702968489382,-0.0034319199145707467

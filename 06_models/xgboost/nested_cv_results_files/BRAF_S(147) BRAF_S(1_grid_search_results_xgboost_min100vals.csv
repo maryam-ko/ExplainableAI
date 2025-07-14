@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRAF_S(147) BRAF_S(1626) BRAF_S(399) BRAF_S(409) BRAF_S(429) BRAF_S(432) BRAF_S(732) BRAF_S(942) BRAF_T(389),0.6,0.5,3,1,6,0.6,0.01660630638725743,0.016998436654395266

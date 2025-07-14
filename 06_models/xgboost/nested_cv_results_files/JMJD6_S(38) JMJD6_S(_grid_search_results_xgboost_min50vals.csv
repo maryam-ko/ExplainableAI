@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JMJD6_S(38) JMJD6_S(381) JMJD6_S(390),0.6,0.5,1,1,8,1.0,0.011733366504847298,0.02919306016927543

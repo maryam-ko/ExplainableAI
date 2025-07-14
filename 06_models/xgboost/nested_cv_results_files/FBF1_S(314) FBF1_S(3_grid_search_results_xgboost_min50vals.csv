@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBF1_S(314) FBF1_S(328) FBF1_S(359) FBF1_T(361),1.0,0.5,4,1,8,1.0,0.012357479244324223,0.12171287850230225

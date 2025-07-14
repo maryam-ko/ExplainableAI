@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPRS1_S(713) EPRS1_S(729) EPRS1_S(739) EPRS1_S(845) EPRS1_S(944) EPRS1_S(990) EPRS1_S(999) EPRS1_Y(224) EPRS1_Y(872) EPRS1_Y(950),1.0,0.5,3,1,8,0.8,0.0070418669903108185,0.2011682336304065

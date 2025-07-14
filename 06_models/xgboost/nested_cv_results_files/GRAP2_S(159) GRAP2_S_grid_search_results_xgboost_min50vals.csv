@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRAP2_S(159) GRAP2_S(236) GRAP2_T(262),0.8,0.5,1,1,8,0.8,0.010612920687159503,0.010539206878767238

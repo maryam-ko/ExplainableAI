@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JUP_M(182) JUP_S(5) JUP_S(663) JUP_S(671) JUP_Y(20) JUP_Y(660),0.6,0.5,2,1,4,1.0,0.021917499282997566,0.07885275968300631

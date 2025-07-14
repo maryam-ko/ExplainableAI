@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GFPT1_S(261) GFPT1_S(264) GFPT1_T(258) GFPT1_T(262),0.8,0.5,4,5,8,1.0,0.07152751556928287,0.5036410970913291

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MUC5AC_S(1801) MUC5AC_S(2239) MUC5AC_S(3280) MUC5AC_S(5628) MUC5AC_S(5636) MUC5AC_S(5641) MUC5AC_S(5643) MUC5AC_S(988) MUC5AC_Y(36),0.6,0.5,1,1,8,0.6,0.012582291324210928,-0.012694426530646253

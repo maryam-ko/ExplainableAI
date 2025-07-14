@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CKAP2_S(227) CKAP2_S(276) CKAP2_S(279) CKAP2_S(485) CKAP2_S(534) CKAP2_S(553) CKAP2_S(565) CKAP2_S(614) CKAP2_T(446) CKAP2_T(530) CKAP2_T(533) CKAP2_T(548) CKAP2_T(596),0.8,0.5,4,1,8,1.0,0.018100282751593616,0.4726194658917848

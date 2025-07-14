@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLI3_S(1459) GLI3_S(386) GLI3_S(445) GLI3_S(45) GLI3_S(605) GLI3_S(664) GLI3_S(980) GLI3_Y(933),1.0,0.5,3,10,8,1.0,0.030293732745972426,0.3639237838544265

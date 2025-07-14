@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOL12_S(116) NOL12_S(119) NOL12_S(127) NOL12_S(133) NOL12_S(134) NOL12_S(139) NOL12_S(140) NOL12_T(124) NOL12_T(141),0.8,0.5,4,5,8,1.0,0.04780483427215129,0.47320644073692486

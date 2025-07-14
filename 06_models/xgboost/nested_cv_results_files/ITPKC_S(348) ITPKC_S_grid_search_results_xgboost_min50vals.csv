@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITPKC_S(348) ITPKC_S(9) ITPKC_T(333) ITPKC_T(336),0.8,0.5,2,1,8,1.0,0.01622675375573482,0.2596989556962249

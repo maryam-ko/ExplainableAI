@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCBP3_M(415) NCBP3_S(209) NCBP3_S(210) NCBP3_S(220) NCBP3_S(25) NCBP3_S(298) NCBP3_S(409) NCBP3_S(412) NCBP3_S(415) NCBP3_S(441) NCBP3_S(500) NCBP3_S(530) NCBP3_T(413) NCBP3_T(76),1.0,0.5,4,1,8,1.0,0.05277101555266985,0.5971030064487768

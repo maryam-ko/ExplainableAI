@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DBF4_S(103) DBF4_S(352) DBF4_S(357) DBF4_S(362) DBF4_S(435) DBF4_S(612) DBF4_S(613) DBF4_S(79) DBF4_T(281) DBF4_T(535) DBF4_Y(112),1.0,0.5,2,1,8,0.8,0.00898489754120408,0.24379073250157476

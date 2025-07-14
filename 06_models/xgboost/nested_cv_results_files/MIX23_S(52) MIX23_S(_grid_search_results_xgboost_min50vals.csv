@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIX23_S(52) MIX23_S(65),0.6,0.5,1,1,2,1.0,0.007081136019268682,-0.0006513922531411253

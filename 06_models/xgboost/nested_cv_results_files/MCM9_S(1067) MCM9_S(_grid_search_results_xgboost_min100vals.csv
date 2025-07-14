@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM9_S(1067) MCM9_S(1088) MCM9_S(1109) MCM9_S(381) MCM9_S(502) MCM9_S(534) MCM9_S(561) MCM9_S(707) MCM9_S(762) MCM9_S(883) MCM9_S(890) MCM9_S(897) MCM9_S(898) MCM9_S(915) MCM9_S(934) MCM9_S(942) MCM9_T(1064),1.0,0.5,4,1,8,1.0,0.01703030950995511,0.7529584990592422

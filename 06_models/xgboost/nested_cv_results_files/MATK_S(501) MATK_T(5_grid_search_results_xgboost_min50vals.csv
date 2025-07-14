@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MATK_S(501) MATK_T(500),0.6,0.5,3,1,8,1.0,0.014117808889818652,0.35639406743922636

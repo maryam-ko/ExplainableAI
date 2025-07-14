@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MELK_S(162) MELK_S(351) MELK_S(363) MELK_S(400) MELK_S(407) MELK_S(478) MELK_S(90) MELK_T(345) MELK_T(409) MELK_T(415) MELK_T(428) MELK_T(460) MELK_T(478),1.0,0.5,3,1,6,0.6,0.014116733267246693,0.06341660913536437

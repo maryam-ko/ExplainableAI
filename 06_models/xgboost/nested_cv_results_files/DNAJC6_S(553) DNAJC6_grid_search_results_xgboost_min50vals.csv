@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC6_S(553) DNAJC6_S(557) DNAJC6_S(566) DNAJC6_S(568) DNAJC6_S(570) DNAJC6_S(623) DNAJC6_S(627) DNAJC6_S(654) DNAJC6_S(658) DNAJC6_S(714) DNAJC6_S(745) DNAJC6_S(763),1.0,0.5,2,10,6,0.8,0.018347952538982748,0.11027778737557455

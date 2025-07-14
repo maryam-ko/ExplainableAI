@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP85_S(102) CEP85_S(141) CEP85_S(17) CEP85_S(20) CEP85_S(417) CEP85_T(109) CEP85_T(35),1.0,0.5,4,10,8,1.0,0.014146031135647117,0.4955935143540534

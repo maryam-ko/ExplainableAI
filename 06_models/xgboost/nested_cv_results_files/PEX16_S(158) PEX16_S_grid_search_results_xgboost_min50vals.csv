@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PEX16_S(158) PEX16_S(165) PEX16_S(7) PEX16_S(88),0.6,0.5,2,1,8,0.8,0.01921691517844182,0.1989735939317367

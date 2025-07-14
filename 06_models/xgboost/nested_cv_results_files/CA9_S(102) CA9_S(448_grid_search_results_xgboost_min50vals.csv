@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CA9_S(102) CA9_S(448),0.6,0.5,1,1,2,0.6,0.01307700230653158,-0.010758644278940643

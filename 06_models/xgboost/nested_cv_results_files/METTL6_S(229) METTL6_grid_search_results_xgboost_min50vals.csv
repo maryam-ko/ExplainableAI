@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL6_S(229) METTL6_S(274),0.8,0.5,3,1,8,0.8,0.010234781051522767,0.34663645640253077

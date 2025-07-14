@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NIN_S(1245) NIN_S(1538) NIN_S(1550),0.6,0.5,2,10,8,1.0,0.012761052414170537,0.24948885448517774

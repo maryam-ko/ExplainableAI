@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM13B_S(501) FAM13B_S(6) FAM13B_S(636) FAM13B_S(760),0.8,0.5,3,10,6,1.0,0.010897000967621539,0.40522760392957535

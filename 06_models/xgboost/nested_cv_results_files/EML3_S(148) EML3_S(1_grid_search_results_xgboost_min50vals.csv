@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EML3_S(148) EML3_S(149) EML3_S(153) EML3_S(156) EML3_S(161) EML3_S(887) EML3_T(882),0.6,0.5,2,1,8,0.8,0.010725776320700164,0.03569855626767704

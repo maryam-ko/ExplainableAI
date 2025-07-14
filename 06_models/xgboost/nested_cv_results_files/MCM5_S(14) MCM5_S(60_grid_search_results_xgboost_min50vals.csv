@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM5_S(14) MCM5_S(605) MCM5_Y(11),1.0,0.5,3,1,4,1.0,0.012431984486512455,0.29279582290064576

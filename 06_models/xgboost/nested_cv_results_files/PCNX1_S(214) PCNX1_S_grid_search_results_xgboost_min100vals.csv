@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCNX1_S(214) PCNX1_S(2152) PCNX1_S(308) PCNX1_S(325) PCNX1_S(524) PCNX1_S(700) PCNX1_S(801),0.8,0.5,4,1,8,1.0,0.016095303770056395,0.36503509163920217

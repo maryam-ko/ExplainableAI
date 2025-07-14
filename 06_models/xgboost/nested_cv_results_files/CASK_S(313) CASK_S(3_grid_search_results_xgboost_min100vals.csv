@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CASK_S(313) CASK_S(314) CASK_S(572) CASK_S(582) CASK_T(182),1.0,0.5,4,1,8,1.0,0.019053594904910466,0.42457077640338187

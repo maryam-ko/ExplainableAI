@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FRMD3_S(235) FRMD3_S(429) FRMD3_S(482) FRMD3_S(86) FRMD3_T(480),1.0,0.5,4,5,8,0.8,0.021710792668562486,0.18045047885258755

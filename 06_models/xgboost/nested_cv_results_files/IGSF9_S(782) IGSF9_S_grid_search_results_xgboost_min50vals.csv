@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IGSF9_S(782) IGSF9_S(797) IGSF9_S(800) IGSF9_S(809) IGSF9_S(813) IGSF9_T(972),1.0,0.5,2,1,8,0.8,0.014638305845212085,0.05169941885364608

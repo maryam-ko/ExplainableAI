@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITGA5_S(126) ITGA5_S(127) ITGA5_S(128),1.0,0.5,4,1,8,1.0,0.062416933180922396,0.3408817839611985

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC9B_S(133) CCDC9B_S(212) CCDC9B_S(289) CCDC9B_S(3) CCDC9B_S(364) CCDC9B_S(437),1.0,0.5,3,1,6,0.8,0.014740613287523106,0.17581718470843105

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARP10_S(1022) PARP10_S(1023) PARP10_S(199) PARP10_S(431) PARP10_S(434) PARP10_S(49) PARP10_T(1025),1.0,0.5,4,1,8,0.8,0.03349200822082185,0.657909794441983

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCC_C(702) MCC_S(11) MCC_S(115) MCC_S(199) MCC_S(294) MCC_S(485) MCC_S(702) MCC_S(828) MCC_T(259) MCC_T(827),0.8,0.5,4,1,8,1.0,0.02658442039297432,0.4531378749665468

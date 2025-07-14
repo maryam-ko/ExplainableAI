@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCK2_S(187) NCK2_S(189) NCK2_S(270) NCK2_S(316) NCK2_S(61) NCK2_S(87) NCK2_S(90) NCK2_S(94) NCK2_T(84) NCK2_T(92) NCK2_T(95) NCK2_Y(110),1.0,0.5,4,10,8,1.0,0.042562975731979424,0.2987052019983354

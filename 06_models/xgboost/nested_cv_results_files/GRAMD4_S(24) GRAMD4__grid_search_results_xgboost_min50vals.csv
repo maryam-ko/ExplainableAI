@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRAMD4_S(24) GRAMD4_S(28) GRAMD4_S(578) GRAMD4_T(30) GRAMD4_Y(390),1.0,0.5,3,5,8,0.6,0.027828013976993814,0.007873195071729011

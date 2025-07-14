@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GABPA_S(26) GABPA_S(303) GABPA_S(62),0.8,0.5,4,5,8,1.0,0.02784339895276055,0.2735625972838086

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NELFE_S(135) NELFE_S(138) NELFE_S(139) NELFE_S(173) NELFE_S(174) NELFE_S(178) NELFE_S(179) NELFE_S(185) NELFE_S(187) NELFE_S(192) NELFE_S(256) NELFE_S(360) NELFE_S(56) NELFE_S(71) NELFE_S(75) NELFE_T(58),1.0,0.5,4,1,4,1.0,0.01728843434898286,0.29661322313442773

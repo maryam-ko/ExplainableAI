@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LDLRAP1_S(14) LDLRAP1_S(16) LDLRAP1_S(186) LDLRAP1_S(93),0.8,0.5,4,1,6,1.0,0.030318399485010753,0.4800257604706279

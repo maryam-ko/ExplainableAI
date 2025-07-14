@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX18_S(103) DDX18_S(105) DDX18_S(136) DDX18_S(2) DDX18_S(44) DDX18_S(554) DDX18_S(563) DDX18_S(627) DDX18_S(669) DDX18_S(674) DDX18_S(74) DDX18_S(86) DDX18_T(133) DDX18_T(308) DDX18_Y(643),0.6,0.5,4,1,8,1.0,0.033795717532512586,0.15513151225769614

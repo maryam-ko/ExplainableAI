@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTNNA2_S(6) CTNNA2_S(654) CTNNA2_S(655) CTNNA2_T(653) CTNNA2_T(657),0.6,0.5,1,1,8,0.8,0.02297270605044878,-0.008977877799308009

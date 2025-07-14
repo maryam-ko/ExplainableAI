@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPBP1_C(351) HSPBP1_C(356) HSPBP1_C(357) HSPBP1_S(251) HSPBP1_S(256) HSPBP1_S(351) HSPBP1_S(354) HSPBP1_S(359) HSPBP1_S(86),0.8,0.5,4,1,8,1.0,0.0220775249254992,0.6745921040635059

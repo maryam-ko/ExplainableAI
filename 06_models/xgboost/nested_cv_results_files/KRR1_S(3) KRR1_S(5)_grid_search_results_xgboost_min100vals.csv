@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRR1_S(3) KRR1_S(5),0.8,0.5,4,5,8,1.0,0.04243020977253084,0.6442378421109309

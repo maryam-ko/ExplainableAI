@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CIR1_S(202) CIR1_S(305) CIR1_S(390) CIR1_S(392),1.0,0.5,4,1,6,1.0,0.0638794010621647,0.30645744050346335

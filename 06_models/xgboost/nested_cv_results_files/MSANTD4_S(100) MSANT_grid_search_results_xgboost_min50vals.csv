@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSANTD4_S(100) MSANTD4_S(101) MSANTD4_S(106) MSANTD4_S(152),1.0,0.5,2,1,8,0.8,0.013752777659347947,0.039825648853772266

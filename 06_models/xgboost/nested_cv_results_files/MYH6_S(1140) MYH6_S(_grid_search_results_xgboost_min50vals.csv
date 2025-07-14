@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH6_S(1140) MYH6_S(1435) MYH6_S(158) MYH6_S(1630) MYH6_S(1710) MYH6_S(7) MYH6_T(1127) MYH6_T(1182) MYH6_T(1188) MYH6_T(1232) MYH6_T(14) MYH6_T(167) MYH6_T(1695) MYH6_T(1709) MYH6_T(2) MYH6_T(216) MYH6_T(979),0.6,0.5,4,1,4,1.0,0.023261850997993685,0.28395863567544916

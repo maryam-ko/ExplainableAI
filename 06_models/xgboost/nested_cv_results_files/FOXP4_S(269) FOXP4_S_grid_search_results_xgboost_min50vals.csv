@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FOXP4_S(269) FOXP4_S(435) FOXP4_S(448) FOXP4_S(52) FOXP4_S(541),0.8,0.5,1,10,8,0.8,0.015583934023905946,0.14067173678707923

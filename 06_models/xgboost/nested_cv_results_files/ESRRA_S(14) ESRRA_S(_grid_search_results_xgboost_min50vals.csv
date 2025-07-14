@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ESRRA_S(14) ESRRA_S(19) ESRRA_S(22),0.6,0.5,1,1,8,0.6,0.01011187436133607,-0.010007356191355976

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPAS2_S(17) NPAS2_S(18) NPAS2_S(202),0.6,0.5,1,1,6,0.6,0.012250696396664576,-0.01618242512642678

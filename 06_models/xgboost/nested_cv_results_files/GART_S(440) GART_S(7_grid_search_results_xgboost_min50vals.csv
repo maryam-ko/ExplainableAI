@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GART_S(440) GART_S(796) GART_S(802) GART_T(498) GART_T(682) GART_T(798) GART_Y(348),1.0,0.5,3,1,8,0.8,0.025011156166248615,0.08794455853119669

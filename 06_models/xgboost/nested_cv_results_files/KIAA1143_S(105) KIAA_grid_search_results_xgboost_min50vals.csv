@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIAA1143_S(105) KIAA1143_S(130) KIAA1143_S(142) KIAA1143_S(143) KIAA1143_S(146) KIAA1143_S(50) KIAA1143_Y(109),0.8,0.5,4,1,8,1.0,0.06102538390468151,0.34364354167372513

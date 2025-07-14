@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INTS9_S(548) INTS9_S(551) INTS9_S(564) INTS9_S(572),1.0,0.5,3,5,8,0.8,0.02061008768836087,0.19893606177467732

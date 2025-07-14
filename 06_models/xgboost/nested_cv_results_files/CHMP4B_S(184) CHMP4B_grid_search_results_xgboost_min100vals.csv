@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHMP4B_S(184) CHMP4B_S(196) CHMP4B_S(223),1.0,0.5,4,10,8,1.0,0.03470236473205578,0.45771672968108723

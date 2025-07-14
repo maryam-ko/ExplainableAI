@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PFN1_S(28) PFN1_S(30) PFN1_S(57) PFN1_S(58) PFN1_S(92) PFN1_T(2) PFN1_T(4) PFN1_T(65) PFN1_T(93) PFN1_Y(60),1.0,0.5,4,5,6,0.8,0.024968454122432288,0.16648105783228867

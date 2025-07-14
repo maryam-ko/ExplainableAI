@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCTP2_S(11) MCTP2_S(134) MCTP2_S(145) MCTP2_S(33) MCTP2_S(345) MCTP2_S(49) MCTP2_S(51) MCTP2_S(814) MCTP2_S(869) MCTP2_T(327) MCTP2_T(739),0.6,0.5,2,1,6,0.8,0.022069513885221284,0.020382836832336482

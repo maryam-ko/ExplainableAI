@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DUSP28_S(13) DUSP28_S(5),0.8,0.5,4,1,4,1.0,0.027022566545438165,0.2271879215312751

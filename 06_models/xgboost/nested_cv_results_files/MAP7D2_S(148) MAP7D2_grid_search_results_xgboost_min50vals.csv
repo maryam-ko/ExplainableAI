@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAP7D2_S(148) MAP7D2_S(186) MAP7D2_S(188) MAP7D2_S(195) MAP7D2_S(273) MAP7D2_S(286) MAP7D2_S(287) MAP7D2_S(306) MAP7D2_S(315) MAP7D2_S(702) MAP7D2_S(721) MAP7D2_S(744),0.6,0.5,1,1,2,0.6,0.014159048383516434,-0.007292664374514368

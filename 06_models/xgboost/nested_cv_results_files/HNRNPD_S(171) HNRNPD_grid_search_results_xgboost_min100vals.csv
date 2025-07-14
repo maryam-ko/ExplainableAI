@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HNRNPD_S(171) HNRNPD_S(190) HNRNPD_S(210) HNRNPD_S(72) HNRNPD_S(80) HNRNPD_S(82) HNRNPD_S(83) HNRNPD_T(174) HNRNPD_T(193),1.0,0.5,4,1,8,1.0,0.027656291592143098,0.8128133719203324

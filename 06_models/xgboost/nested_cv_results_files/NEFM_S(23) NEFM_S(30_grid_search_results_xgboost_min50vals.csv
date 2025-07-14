@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEFM_S(23) NEFM_S(30) NEFM_S(44) NEFM_S(558) NEFM_S(559) NEFM_S(615) NEFM_S(620) NEFM_S(628) NEFM_S(633) NEFM_S(667) NEFM_S(672) NEFM_S(680) NEFM_S(685) NEFM_S(736) NEFM_S(783) NEFM_S(837) NEFM_S(99),1.0,0.5,4,1,6,0.8,0.0321400315775064,0.06697316087059453

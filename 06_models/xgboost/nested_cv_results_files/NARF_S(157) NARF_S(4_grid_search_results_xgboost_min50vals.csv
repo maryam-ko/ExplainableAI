@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NARF_S(157) NARF_S(451) NARF_T(387),0.6,0.5,1,1,2,1.0,0.010422055833668167,0.002736473334826761

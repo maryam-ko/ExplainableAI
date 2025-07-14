@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+H4C1_S(3) H4C1_S(46) H4C1_S(48) H4C1_T(31) H4C1_T(4) H4C1_T(46) H4C1_T(81) H4C1_Y(52) H4C1_Y(73) H4C1_Y(9),1.0,0.5,4,1,8,1.0,0.03288639507649642,0.5819615726742364

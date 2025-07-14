@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC16_S(560) CDC16_T(581) CDC16_T(585),0.8,0.5,4,1,8,0.8,0.0170268886358642,0.50988617271734

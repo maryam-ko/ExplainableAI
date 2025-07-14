@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRKL_C(48) CRKL_Y(127) CRKL_Y(251),0.6,0.5,2,1,8,1.0,0.009388114552635314,0.15597896335682732

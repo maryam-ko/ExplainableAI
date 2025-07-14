@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CMTM4_S(194) CMTM4_S(221) CMTM4_S(3),0.6,0.5,1,1,6,0.6,0.015616148712354469,-0.008006145106829976

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPA_S(16) CENPA_S(17) CENPA_S(19) CENPA_S(27) CENPA_T(21),0.6,0.5,4,1,8,1.0,0.03802170712257162,0.5425347545313322

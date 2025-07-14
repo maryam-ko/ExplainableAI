@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHKB_S(2) PHKB_S(231) PHKB_S(27) PHKB_S(693) PHKB_S(7) PHKB_S(700) PHKB_S(701) PHKB_S(704) PHKB_T(695) PHKB_T(702) PHKB_Y(22),0.6,0.5,4,1,8,1.0,0.04667283506035184,0.4818523334945029

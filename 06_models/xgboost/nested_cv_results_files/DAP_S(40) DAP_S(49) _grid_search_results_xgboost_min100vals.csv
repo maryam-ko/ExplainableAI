@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAP_S(40) DAP_S(49) DAP_S(91) DAP_T(11),1.0,0.5,4,1,8,0.8,0.024037865960679094,0.20279604294484166

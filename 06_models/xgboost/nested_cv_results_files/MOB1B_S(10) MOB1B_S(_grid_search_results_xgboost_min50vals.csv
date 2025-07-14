@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MOB1B_S(10) MOB1B_S(9) MOB1B_T(40),0.8,0.5,3,1,8,0.6,0.015913379928021092,0.09198769875106327

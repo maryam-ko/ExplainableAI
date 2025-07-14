@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPI_S(22) CENPI_S(284),0.6,0.5,2,1,8,1.0,0.027401088628257686,0.09933479337410507

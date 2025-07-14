@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NMNAT1_C(117) NMNAT1_C(119) NMNAT1_S(105) NMNAT1_S(117) NMNAT1_S(12) NMNAT1_S(135) NMNAT1_S(16),0.6,0.5,4,5,8,1.0,0.05381904454728043,0.2840643592730606

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EEFSEC_S(28) EEFSEC_S(348) EEFSEC_T(545),1.0,0.5,2,1,8,1.0,0.005687137505532611,0.3114197154194392

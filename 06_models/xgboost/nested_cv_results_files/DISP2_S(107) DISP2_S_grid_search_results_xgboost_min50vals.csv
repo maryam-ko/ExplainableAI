@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DISP2_S(107) DISP2_S(1151) DISP2_S(1252),0.8,0.5,2,1,6,0.8,0.020740962042479247,0.15882964266568278

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CACNB3_S(111) CACNB3_S(152) CACNB3_S(352),0.8,0.5,4,1,8,1.0,0.020624033773722062,0.17689061106803539

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+L3MBTL3_M(608) L3MBTL3_S(192) L3MBTL3_S(608) L3MBTL3_S(610) L3MBTL3_S(645) L3MBTL3_S(653),1.0,0.5,4,1,8,1.0,0.03942840269993942,0.32520681768558

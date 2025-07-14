@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUDC_S(100) NUDC_S(11) NUDC_S(133) NUDC_S(136) NUDC_S(139) NUDC_S(259) NUDC_S(260) NUDC_S(277) NUDC_S(281) NUDC_S(298) NUDC_S(304) NUDC_T(108) NUDC_T(133) NUDC_T(145) NUDC_T(99),0.8,0.5,4,1,8,1.0,0.0279075720145276,0.7131364163861078

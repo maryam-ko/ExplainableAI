@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC7_S(224) CDC7_S(27) CDC7_S(277) CDC7_S(281) CDC7_S(302) CDC7_S(509) CDC7_T(503),1.0,0.5,2,1,8,0.8,0.011950145919584395,-0.013105196548778907

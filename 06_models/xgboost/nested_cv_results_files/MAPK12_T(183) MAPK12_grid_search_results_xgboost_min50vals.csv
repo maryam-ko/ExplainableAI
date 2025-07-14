@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPK12_T(183) MAPK12_Y(175) MAPK12_Y(185) MAPK12_Y(95),1.0,0.5,3,1,8,1.0,0.016365773946291937,0.2026062602034228

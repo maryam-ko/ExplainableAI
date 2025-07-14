@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERF_S(131) ERF_S(154) ERF_S(160) ERF_S(185) ERF_S(187) ERF_S(190) ERF_S(20) ERF_S(21) ERF_S(327) ERF_S(431) ERF_S(489) ERF_S(531) ERF_S(542) ERF_S(548) ERF_T(3) ERF_T(441) ERF_T(516) ERF_T(7),0.8,0.5,4,1,8,1.0,0.03049122653958535,0.6798248520646156

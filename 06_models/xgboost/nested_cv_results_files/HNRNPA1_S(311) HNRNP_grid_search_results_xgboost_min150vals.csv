@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HNRNPA1_S(311) HNRNPA1_S(6),1.0,0.5,4,10,8,1.0,0.06310526804074601,0.7155229720507621

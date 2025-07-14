@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+F11R_S(235) F11R_S(257) F11R_S(264) F11R_S(276) F11R_S(281) F11R_S(284) F11R_S(287) F11R_S(288) F11R_S(291) F11R_S(296) F11R_Y(231) F11R_Y(280),0.8,0.5,4,1,8,1.0,0.03830789677011461,0.5462774706315072

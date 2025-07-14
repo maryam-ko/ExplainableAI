@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NECTIN3_S(469) NECTIN3_S(535) NECTIN3_Y(510) NECTIN3_Y(511),1.0,0.5,4,1,4,1.0,0.02505316308942711,0.19814149276531728

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CORO7_S(21) CORO7_S(24) CORO7_S(462) CORO7_S(465) CORO7_S(775) CORO7_S(806) CORO7_S(807) CORO7_S(879) CORO7_S(880) CORO7_S(915) CORO7_T(585),0.6,0.5,4,1,8,1.0,0.03462444178087474,0.39143434710274483

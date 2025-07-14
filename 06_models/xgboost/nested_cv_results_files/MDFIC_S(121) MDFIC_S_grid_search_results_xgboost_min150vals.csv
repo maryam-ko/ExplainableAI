@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MDFIC_S(121) MDFIC_S(124) MDFIC_S(140) MDFIC_S(143) MDFIC_S(146) MDFIC_S(233) MDFIC_S(237) MDFIC_S(255) MDFIC_S(85),0.8,0.5,4,10,8,1.0,0.017649012058114543,0.3599560109037775

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAD2L1BP_S(102) MAD2L1BP_S(134),0.6,0.5,4,1,8,1.0,0.018567003285588617,0.5996352163224786

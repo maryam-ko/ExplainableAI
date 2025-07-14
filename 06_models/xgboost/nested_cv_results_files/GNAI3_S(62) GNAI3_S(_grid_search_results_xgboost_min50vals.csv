@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GNAI3_S(62) GNAI3_S(66),1.0,0.5,1,1,8,1.0,0.006817220996775976,0.39386410965371726

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRWD1_S(212) LRWD1_S(241) LRWD1_S(245) LRWD1_S(247) LRWD1_S(251) LRWD1_S(253) LRWD1_S(259) LRWD1_S(288) LRWD1_S(333) LRWD1_S(335) LRWD1_S(351) LRWD1_S(60) LRWD1_S(91) LRWD1_S(99),1.0,0.5,4,1,6,1.0,0.053287336809994895,0.37427281145484076

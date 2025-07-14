@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KNTC1_S(1034) KNTC1_S(1045) KNTC1_T(1035),1.0,0.5,4,5,8,0.8,0.024512004754995823,0.3170871100034302

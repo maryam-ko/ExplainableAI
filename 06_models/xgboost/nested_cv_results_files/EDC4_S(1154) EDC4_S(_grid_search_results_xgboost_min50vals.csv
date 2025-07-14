@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EDC4_S(1154) EDC4_S(3) EDC4_S(342) EDC4_S(348) EDC4_S(486) EDC4_S(565) EDC4_S(583) EDC4_S(676) EDC4_S(708) EDC4_S(733) EDC4_S(734) EDC4_S(839) EDC4_S(892) EDC4_T(588) EDC4_T(816) EDC4_T(821) EDC4_T(917),0.6,0.5,2,1,8,0.8,0.015021771699523779,0.09518365031465645

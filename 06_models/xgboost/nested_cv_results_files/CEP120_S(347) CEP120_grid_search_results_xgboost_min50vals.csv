@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP120_S(347) CEP120_S(380) CEP120_S(392) CEP120_S(396) CEP120_T(400),1.0,0.5,2,1,8,0.8,0.006883790766002174,0.2996901791620142

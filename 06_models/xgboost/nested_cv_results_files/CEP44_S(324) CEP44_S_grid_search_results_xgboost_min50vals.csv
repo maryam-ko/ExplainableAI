@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP44_S(324) CEP44_S(331) CEP44_S(342),0.6,0.5,3,1,8,1.0,0.008249313953446502,0.33395072709201384

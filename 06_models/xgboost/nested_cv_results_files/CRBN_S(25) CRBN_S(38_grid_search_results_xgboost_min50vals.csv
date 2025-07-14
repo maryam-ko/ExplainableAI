@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRBN_S(25) CRBN_S(38),0.6,0.5,1,1,6,0.8,0.01628688519178807,-0.0012384531765056827

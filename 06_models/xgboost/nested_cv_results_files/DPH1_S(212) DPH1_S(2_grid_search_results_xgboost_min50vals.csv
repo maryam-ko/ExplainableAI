@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DPH1_S(212) DPH1_S(219) DPH1_S(221) DPH1_S(409) DPH1_S(424),1.0,0.5,1,1,8,0.8,0.007739698338453388,0.4187734251207231

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIOS_S(756) MIOS_S(766) MIOS_T(768) MIOS_T(90),0.8,0.5,4,5,8,1.0,0.053008906212837825,0.364254105939498

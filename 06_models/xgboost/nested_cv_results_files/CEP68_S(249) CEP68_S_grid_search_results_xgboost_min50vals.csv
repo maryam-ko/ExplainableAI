@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP68_S(249) CEP68_S(348) CEP68_S(435) CEP68_S(471) CEP68_S(6) CEP68_S(90),1.0,0.5,2,1,8,0.8,0.008683214365000124,0.2736547209534382

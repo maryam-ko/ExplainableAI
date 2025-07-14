@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KATNA1_S(167) KATNA1_S(170) KATNA1_T(167) KATNA1_T(77) KATNA1_T(81),0.8,0.5,4,5,8,0.8,0.04432037501917768,0.29719867446253034

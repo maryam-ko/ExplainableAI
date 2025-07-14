@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GTPBP1_S(17) GTPBP1_S(658) GTPBP1_S(7) GTPBP1_T(600) GTPBP1_T(664),0.6,0.5,1,1,8,0.8,0.010146172481104228,-0.004617091948866258

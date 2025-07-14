@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPSF1_S(1244) CPSF1_S(168) CPSF1_S(671) CPSF1_S(678) CPSF1_S(734) CPSF1_S(753) CPSF1_S(756) CPSF1_S(758) CPSF1_S(765) CPSF1_S(766) CPSF1_T(1042) CPSF1_T(1242) CPSF1_T(736) CPSF1_Y(748),1.0,0.5,4,1,8,1.0,0.03213465462698839,0.2700100911609719

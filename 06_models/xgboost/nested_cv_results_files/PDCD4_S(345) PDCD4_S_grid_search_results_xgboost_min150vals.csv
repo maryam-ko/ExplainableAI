@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDCD4_S(345) PDCD4_S(46) PDCD4_S(468) PDCD4_S(49) PDCD4_S(60) PDCD4_S(62) PDCD4_S(65) PDCD4_S(67) PDCD4_S(71) PDCD4_S(8) PDCD4_S(83) PDCD4_T(126) PDCD4_T(82) PDCD4_T(90) PDCD4_Y(152),1.0,0.5,4,10,8,1.0,0.018569374054295373,0.45809386449832135

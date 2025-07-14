@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOB1_S(184) NOB1_S(194) NOB1_S(197) NOB1_S(198) NOB1_S(201) NOB1_S(325) NOB1_S(328) NOB1_S(352) NOB1_T(121) NOB1_T(210) NOB1_T(325) NOB1_Y(324),0.8,0.5,4,1,8,1.0,0.03879767677332793,0.5669989096482528

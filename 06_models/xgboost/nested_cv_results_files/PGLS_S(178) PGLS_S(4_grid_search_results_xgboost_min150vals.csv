@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGLS_S(178) PGLS_S(46) PGLS_S(49) PGLS_T(257),0.6,0.5,4,10,8,1.0,0.023762786826894144,0.2086793848981711

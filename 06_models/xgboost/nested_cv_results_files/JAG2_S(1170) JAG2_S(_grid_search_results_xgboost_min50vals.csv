@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JAG2_S(1170) JAG2_S(1208) JAG2_T(1117) JAG2_T(1155),1.0,0.5,1,1,4,0.8,0.008781873155071231,0.2958919525025169

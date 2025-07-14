@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDAN1_S(203) CDAN1_S(277) CDAN1_S(285) CDAN1_T(288) CDAN1_T(71) CDAN1_Y(414),1.0,0.5,2,1,8,1.0,0.017331498337238783,0.24502258079734163

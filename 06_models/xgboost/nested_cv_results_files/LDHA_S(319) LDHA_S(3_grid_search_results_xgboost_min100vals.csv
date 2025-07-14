@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LDHA_S(319) LDHA_S(339) LDHA_T(1) LDHA_T(338) LDHA_T(351) LDHA_T(5) LDHA_Y(10) LDHA_Y(268),0.8,0.5,3,1,8,0.8,0.019376931777022793,0.3582824940948245

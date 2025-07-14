@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GATA6_S(120) GATA6_S(262) GATA6_S(266) GATA6_S(268) GATA6_S(37) GATA6_S(531) GATA6_T(34) GATA6_T(530) GATA6_T(62),0.8,0.5,2,1,8,1.0,0.021930590126332295,0.1477637854028246

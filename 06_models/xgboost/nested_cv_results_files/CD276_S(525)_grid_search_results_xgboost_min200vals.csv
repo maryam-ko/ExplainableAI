@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CD276_S(525),0.6,0.5,4,1,6,1.0,0.052809645372425724,0.1309136109459007

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFHD2_S(11) EFHD2_S(183) EFHD2_S(192) EFHD2_S(204) EFHD2_S(205) EFHD2_S(237) EFHD2_S(62) EFHD2_S(74),1.0,0.5,4,1,8,1.0,0.03635448154560595,0.6755790861582764

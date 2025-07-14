@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPAT_S(1151) NPAT_S(1173) NPAT_S(1273) NPAT_S(1293) NPAT_S(1296) NPAT_S(207) NPAT_S(377) NPAT_S(539) NPAT_S(554) NPAT_T(1350) NPAT_T(770),0.8,0.5,4,5,8,1.0,0.03108814758457896,0.6721524879030197

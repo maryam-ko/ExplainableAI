@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEMF_S(1049) NEMF_S(375) NEMF_S(417) NEMF_S(705) NEMF_S(706) NEMF_S(747) NEMF_S(748) NEMF_S(789) NEMF_S(792) NEMF_S(831) NEMF_T(974) NEMF_Y(735),1.0,0.5,4,5,8,1.0,0.020116021212618837,0.8313204184304954

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDK1_S(233) CDK1_S(39) CDK1_T(141) CDK1_T(158) CDK1_T(161) CDK1_T(166) CDK1_T(222) CDK1_T(240) CDK1_Y(166) CDK1_Y(19),1.0,0.5,4,1,8,0.8,0.04412862438356442,0.31491746016707467

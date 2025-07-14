@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC9_S(1) CCDC9_S(202) CCDC9_S(349) CCDC9_S(359) CCDC9_S(368) CCDC9_S(376) CCDC9_S(385) CCDC9_S(386) CCDC9_S(390) CCDC9_S(79) CCDC9_S(80) CCDC9_T(381) CCDC9_T(389),0.8,0.5,4,1,8,1.0,0.04620680534074362,0.6209654837197536

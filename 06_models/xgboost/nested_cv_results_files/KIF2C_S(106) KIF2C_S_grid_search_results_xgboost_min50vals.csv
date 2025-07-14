@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF2C_S(106) KIF2C_S(111) KIF2C_S(153) KIF2C_S(6) KIF2C_S(97),0.6,0.5,1,1,6,0.6,0.006747223562484608,-0.004376659885879564

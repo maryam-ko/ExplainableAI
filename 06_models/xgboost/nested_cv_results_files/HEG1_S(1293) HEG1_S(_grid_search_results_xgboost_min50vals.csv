@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HEG1_S(1293) HEG1_S(1319) HEG1_S(1332) HEG1_T(1327) HEG1_Y(1295) HEG1_Y(1330) HEG1_Y(1331) HEG1_Y(1347) HEG1_Y(1350),0.6,0.5,3,1,8,1.0,0.03126107325546034,0.12639271403749125

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRATD2_S(12) LRATD2_S(283) LRATD2_S(299) LRATD2_S(300) LRATD2_T(288) LRATD2_T(289),1.0,0.5,1,1,8,1.0,0.020519111967937584,0.0004246982536759036

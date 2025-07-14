@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITPKB_S(166) ITPKB_S(174) ITPKB_S(176) ITPKB_S(178) ITPKB_S(184) ITPKB_S(39) ITPKB_S(84) ITPKB_S(96) ITPKB_T(21),1.0,0.5,4,1,8,1.0,0.016766807903853594,0.47388702198962857

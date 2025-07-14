@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDLIM5_S(1) PDLIM5_S(10) PDLIM5_S(154) PDLIM5_S(214) PDLIM5_S(282) PDLIM5_S(32) PDLIM5_S(377) PDLIM5_S(514) PDLIM5_S(76) PDLIM5_T(152) PDLIM5_T(290) PDLIM5_T(80),0.6,0.5,1,1,8,0.6,0.018384056041119465,0.005287715146176075

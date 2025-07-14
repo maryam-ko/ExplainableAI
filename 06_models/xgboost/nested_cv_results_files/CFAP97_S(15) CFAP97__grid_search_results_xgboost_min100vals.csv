@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CFAP97_S(15) CFAP97_S(209) CFAP97_S(218) CFAP97_S(288) CFAP97_S(330) CFAP97_S(473) CFAP97_S(474) CFAP97_S(488),0.6,0.5,4,1,8,1.0,0.016945933988420907,0.5096837594055564

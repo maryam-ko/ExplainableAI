@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CALR_S(126) CALR_S(189) CALR_S(193) CALR_S(195) CALR_S(214) CALR_S(3) CALR_S(44) CALR_S(52) CALR_S(7) CALR_S(78) CALR_Y(7),0.6,0.5,1,1,8,0.8,0.010301361107985355,-0.0037768023344030956

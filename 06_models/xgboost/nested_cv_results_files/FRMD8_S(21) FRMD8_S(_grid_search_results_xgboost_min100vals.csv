@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FRMD8_S(21) FRMD8_S(24) FRMD8_S(3) FRMD8_S(352) FRMD8_S(383) FRMD8_S(390) FRMD8_S(405) FRMD8_S(408) FRMD8_S(436) FRMD8_S(439) FRMD8_S(446) FRMD8_S(542) FRMD8_T(438),0.8,0.5,4,10,8,1.0,0.020022897593684454,0.7576991905331859

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM10_S(150) MCM10_S(155) MCM10_S(434) MCM10_S(643) MCM10_S(823) MCM10_S(93),0.6,0.5,1,1,2,0.8,0.014317994962553014,-0.010734737207515943

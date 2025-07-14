@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MUC13_S(224) MUC13_S(502) MUC13_T(222) MUC13_T(475) MUC13_Y(501),1.0,0.5,2,1,8,0.8,0.016990389977338195,0.02060385754770997

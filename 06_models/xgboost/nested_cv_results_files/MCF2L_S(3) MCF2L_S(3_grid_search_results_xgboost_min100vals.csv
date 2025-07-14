@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCF2L_S(3) MCF2L_S(386) MCF2L_S(582) MCF2L_S(589) MCF2L_S(620) MCF2L_S(965) MCF2L_S(975),0.8,0.5,4,1,8,1.0,0.02515629546310081,0.10669001523747886

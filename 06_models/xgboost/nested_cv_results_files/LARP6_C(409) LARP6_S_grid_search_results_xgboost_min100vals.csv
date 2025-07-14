@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LARP6_C(409) LARP6_S(10) LARP6_S(348) LARP6_S(396) LARP6_S(407) LARP6_S(409) LARP6_S(447) LARP6_S(451) LARP6_S(518) LARP6_S(56) LARP6_S(58) LARP6_T(443) LARP6_T(450) LARP6_Y(8),0.6,0.5,4,1,8,1.0,0.04524003658006058,0.36409821583993124

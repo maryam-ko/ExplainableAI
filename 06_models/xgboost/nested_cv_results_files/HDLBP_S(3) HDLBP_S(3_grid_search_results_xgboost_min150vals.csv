@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HDLBP_S(3) HDLBP_S(31) HDLBP_S(667) HDLBP_T(180) HDLBP_T(182),1.0,0.5,4,10,8,1.0,0.03328587064715511,0.8421953877380431

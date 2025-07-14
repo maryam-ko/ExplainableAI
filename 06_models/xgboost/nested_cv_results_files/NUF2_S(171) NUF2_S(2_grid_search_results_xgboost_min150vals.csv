@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUF2_S(171) NUF2_S(247),1.0,0.5,4,1,8,0.8,0.04506112670509281,0.56061821085819

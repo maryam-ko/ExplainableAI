@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTFR1_S(106) MTFR1_S(115) MTFR1_S(116) MTFR1_S(119) MTFR1_S(124) MTFR1_S(247) MTFR1_S(257) MTFR1_S(285) MTFR1_S(290) MTFR1_S(331) MTFR1_S(76) MTFR1_S(86),1.0,0.5,4,1,8,1.0,0.016233860666097742,0.8616186150724271

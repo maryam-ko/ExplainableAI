@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C1QBP_C(201) C1QBP_S(150) C1QBP_S(201) C1QBP_S(210) C1QBP_S(213) C1QBP_S(26) C1QBP_S(87),1.0,0.5,4,1,6,1.0,0.03129297483196813,0.37629095754472697

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIPSL_S(256) PIPSL_S(329) PIPSL_S(330) PIPSL_S(418) PIPSL_S(458) PIPSL_S(72) PIPSL_T(253) PIPSL_Y(205) PIPSL_Y(334) PIPSL_Y(348) PIPSL_Y(7),0.8,0.5,4,10,8,1.0,0.022800228263139558,0.5042688071019117

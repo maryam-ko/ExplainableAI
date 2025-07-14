@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INTS12_S(379) INTS12_S(389) INTS12_S(427) INTS12_S(429) INTS12_S(437),0.8,0.5,2,1,8,1.0,0.011290929532633595,0.23652730796110202

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIEZO1_S(1158) PIEZO1_S(1381) PIEZO1_S(1484) PIEZO1_S(1636) PIEZO1_S(165) PIEZO1_S(177) PIEZO1_S(3) PIEZO1_T(1618) PIEZO1_T(167) PIEZO1_T(727),1.0,0.5,2,1,8,0.6,0.017224150651201992,0.11044736976979663

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAN3_S(154) PAN3_S(192) PAN3_S(208) PAN3_S(300) PAN3_S(354) PAN3_S(6) PAN3_T(153) PAN3_T(296) PAN3_T(299) PAN3_T(350) PAN3_T(353),1.0,0.5,2,1,4,0.8,0.02494076677755292,0.15776242814907981

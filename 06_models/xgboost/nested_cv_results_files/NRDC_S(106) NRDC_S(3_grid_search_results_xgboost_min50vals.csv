@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NRDC_S(106) NRDC_S(381) NRDC_S(58) NRDC_S(61) NRDC_S(86) NRDC_S(92) NRDC_S(96),0.6,0.5,3,1,8,1.0,0.03732721141715155,0.2508754013543297

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GORAB_S(106) GORAB_S(118) GORAB_S(153) GORAB_T(115) GORAB_T(207),0.6,0.5,1,1,8,0.6,0.011873248881001563,-0.005317808887854714

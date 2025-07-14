@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRRC8D_S(246) LRRC8D_S(262) LRRC8D_T(233),0.6,0.5,2,1,8,1.0,0.014913461545742994,0.2081784613933228

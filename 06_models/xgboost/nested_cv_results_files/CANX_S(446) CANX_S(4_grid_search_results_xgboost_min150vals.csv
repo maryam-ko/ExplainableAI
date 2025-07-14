@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CANX_S(446) CANX_S(456) CANX_S(475) CANX_S(551) CANX_S(553) CANX_S(554) CANX_S(564) CANX_S(583) CANX_S(589) CANX_S(599) CANX_S(618) CANX_T(551) CANX_T(562) CANX_T(597) CANX_T(93) CANX_Y(514) CANX_Y(70),1.0,0.5,4,10,8,1.0,0.0558759967675274,0.5013637581482747

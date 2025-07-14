@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBLB_S(502) CBLB_S(504) CBLB_S(506) CBLB_S(508) CBLB_S(512) CBLB_S(521) CBLB_S(525) CBLB_S(529) CBLB_S(614) CBLB_S(634) CBLB_S(955) CBLB_T(471),0.6,0.5,3,1,8,1.0,0.016591096379376148,0.5244168522872449

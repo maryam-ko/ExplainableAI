@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAIP1_S(394) PAIP1_S(77) PAIP1_S(78) PAIP1_T(72) PAIP1_Y(311),1.0,0.5,3,1,8,0.6,0.02433524438534645,0.06667688522361628

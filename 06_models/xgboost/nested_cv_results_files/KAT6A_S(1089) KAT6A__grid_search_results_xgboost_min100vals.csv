@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KAT6A_S(1089) KAT6A_S(1090) KAT6A_S(448) KAT6A_S(473) KAT6A_S(812) KAT6A_S(826) KAT6A_S(828) KAT6A_S(842) KAT6A_S(941) KAT6A_S(974) KAT6A_T(469),1.0,0.5,4,1,8,1.0,0.022571916014673874,0.704496087994791

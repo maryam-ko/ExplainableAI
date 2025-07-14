@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDR2_S(189) CDR2_S(309) CDR2_S(311) CDR2_S(414) CDR2_T(16) CDR2_T(445) CDR2_Y(14) CDR2_Y(173) CDR2_Y(84),0.8,0.5,4,5,8,1.0,0.02638122614445566,0.4893103664739636

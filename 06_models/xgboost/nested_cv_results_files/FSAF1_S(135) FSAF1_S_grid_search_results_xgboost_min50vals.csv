@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FSAF1_S(135) FSAF1_S(268) FSAF1_S(278) FSAF1_S(279) FSAF1_S(280) FSAF1_S(73) FSAF1_S(78) FSAF1_S(86) FSAF1_T(105),0.8,0.5,3,1,8,1.0,0.019663133524111295,0.24304377991914858

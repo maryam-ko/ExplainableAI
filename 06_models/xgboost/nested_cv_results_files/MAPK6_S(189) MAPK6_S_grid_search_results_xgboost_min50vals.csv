@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPK6_S(189) MAPK6_S(363) MAPK6_S(386) MAPK6_S(511) MAPK6_S(558) MAPK6_S(665) MAPK6_S(676) MAPK6_S(684) MAPK6_S(688) MAPK6_T(389) MAPK6_T(698) MAPK6_Y(467),0.8,0.5,4,1,4,1.0,0.0396545225871114,0.2085940735744063

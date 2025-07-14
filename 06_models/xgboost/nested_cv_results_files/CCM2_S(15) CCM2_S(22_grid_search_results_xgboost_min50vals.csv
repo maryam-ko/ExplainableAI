@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCM2_S(15) CCM2_S(220) CCM2_S(245) CCM2_S(393) CCM2_T(239) CCM2_T(394),0.8,0.5,2,1,8,1.0,0.009690477214715427,0.15620413291553756

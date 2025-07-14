@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MLIP_S(108) MLIP_S(163) MLIP_S(188) MLIP_S(347) MLIP_S(456) MLIP_S(459) MLIP_S(464) MLIP_S(498) MLIP_S(517) MLIP_S(584) MLIP_S(6) MLIP_S(67) MLIP_S(7) MLIP_T(4) MLIP_T(447) MLIP_T(450) MLIP_T(519) MLIP_T(688) MLIP_T(70),0.6,0.5,3,1,4,1.0,0.032621968497191546,0.11118309071952437

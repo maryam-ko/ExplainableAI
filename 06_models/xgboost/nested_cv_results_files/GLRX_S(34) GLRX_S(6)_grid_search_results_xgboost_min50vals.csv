@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLRX_S(34) GLRX_S(6),0.8,0.5,4,1,2,1.0,0.022820677696357844,0.08526578754043808

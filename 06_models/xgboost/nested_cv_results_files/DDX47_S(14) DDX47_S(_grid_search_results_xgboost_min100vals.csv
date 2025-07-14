@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX47_S(14) DDX47_S(9) DDX47_T(11) DDX47_T(23) DDX47_T(434),0.8,0.5,4,1,8,1.0,0.04397706529420242,0.5143956807980009

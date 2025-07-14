@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEMO1_S(13) MEMO1_S(135) MEMO1_S(139) MEMO1_S(141) MEMO1_S(177) MEMO1_S(89) MEMO1_T(129) MEMO1_Y(142),0.8,0.5,2,1,8,0.6,0.012899055501168275,0.07337899252952598

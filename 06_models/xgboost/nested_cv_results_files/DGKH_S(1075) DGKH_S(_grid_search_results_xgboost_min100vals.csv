@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DGKH_S(1075) DGKH_S(38) DGKH_S(471) DGKH_S(56) DGKH_S(599) DGKH_S(600) DGKH_S(608) DGKH_S(685) DGKH_S(691),0.6,0.5,3,10,4,1.0,0.026435395527289074,0.17450506710838098

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPO_S(35) CENPO_T(85),1.0,0.5,1,1,8,0.8,0.011499584222032894,0.07042576967022922

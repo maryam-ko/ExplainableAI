@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HACD3_S(132) HACD3_S(135) HACD3_S(138) HACD3_S(89),0.6,0.5,4,1,8,1.0,0.02038789845652171,0.22954846349157648

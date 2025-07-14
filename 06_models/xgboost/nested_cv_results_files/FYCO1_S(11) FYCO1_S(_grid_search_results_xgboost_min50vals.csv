@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FYCO1_S(11) FYCO1_S(15) FYCO1_S(196) FYCO1_S(342) FYCO1_S(609),1.0,0.5,4,1,8,0.8,0.016576815614554007,0.33358833846741937

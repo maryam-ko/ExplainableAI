@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GP1BA_S(629) GP1BA_S(632),1.0,0.5,4,1,8,0.8,0.009331091012604598,0.07424609152448405

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CACNA1S_S(3) CACNA1S_S(393) CACNA1S_S(397) CACNA1S_S(6) CACNA1S_T(1596),0.6,0.5,1,1,8,0.8,0.016630928545181695,-0.011029967796187501

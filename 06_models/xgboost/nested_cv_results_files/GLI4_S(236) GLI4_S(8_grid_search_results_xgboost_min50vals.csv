@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLI4_S(236) GLI4_S(85) GLI4_S(86) GLI4_T(405),0.6,0.5,1,1,8,0.6,0.024613668810366782,-0.004473437830305604

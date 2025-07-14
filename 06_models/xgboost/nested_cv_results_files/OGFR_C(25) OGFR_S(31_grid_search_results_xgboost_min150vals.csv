@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OGFR_C(25) OGFR_S(315) OGFR_S(324) OGFR_S(326) OGFR_S(349) OGFR_S(361) OGFR_S(378) OGFR_S(484) OGFR_S(519) OGFR_S(537) OGFR_S(581) OGFR_S(597) OGFR_T(478) OGFR_T(521) OGFR_T(899),0.6,0.5,4,5,8,1.0,0.035539416487453616,0.7718307761747475

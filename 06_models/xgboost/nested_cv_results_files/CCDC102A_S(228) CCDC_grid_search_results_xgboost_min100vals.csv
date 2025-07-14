@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC102A_S(228) CCDC102A_S(26),0.6,0.5,4,1,8,1.0,0.02249832308149239,0.31025268452205873

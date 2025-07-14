@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED19_S(194) MED19_S(196) MED19_S(234) MED19_S(243) MED19_T(192),0.8,0.5,2,1,8,1.0,0.027046054527376313,0.17103583836987488

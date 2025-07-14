@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFR3B_S(212) EFR3B_S(214) EFR3B_S(93) EFR3B_S(95),0.8,0.5,3,1,4,0.8,0.008652728744724706,0.3682507612549218

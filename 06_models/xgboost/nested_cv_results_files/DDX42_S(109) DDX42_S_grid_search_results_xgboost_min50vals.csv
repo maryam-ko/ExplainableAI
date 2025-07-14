@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX42_S(109) DDX42_S(111) DDX42_S(24) DDX42_S(596) DDX42_S(598) DDX42_S(66) DDX42_S(705) DDX42_S(715) DDX42_S(717) DDX42_S(751) DDX42_S(754) DDX42_S(816) DDX42_S(96) DDX42_T(228) DDX42_T(742),1.0,0.5,4,1,8,1.0,0.03498111860652652,0.3813451056647624

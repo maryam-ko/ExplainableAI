@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MON1B_S(52) MON1B_S(54) MON1B_S(61) MON1B_S(66) MON1B_T(506) MON1B_T(529),1.0,0.5,4,5,6,1.0,0.04370830069351244,0.35802247818282973

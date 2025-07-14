@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CORO1A_S(426) CORO1A_T(424),0.8,0.5,4,1,8,1.0,0.0157063243824354,0.17504126255142763

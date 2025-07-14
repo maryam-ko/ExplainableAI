@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRME1_S(364) BRME1_S(367) BRME1_S(370) BRME1_S(77),0.6,0.5,4,1,8,0.8,0.021370643714123498,0.22814211800876852

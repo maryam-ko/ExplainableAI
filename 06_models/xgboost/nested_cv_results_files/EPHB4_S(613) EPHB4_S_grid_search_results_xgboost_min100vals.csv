@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPHB4_S(613) EPHB4_S(769) EPHB4_S(770) EPHB4_S(777) EPHB4_T(969) EPHB4_T(976) EPHB4_T(980) EPHB4_Y(58) EPHB4_Y(581) EPHB4_Y(608) EPHB4_Y(614) EPHB4_Y(763) EPHB4_Y(774) EPHB4_Y(987),1.0,0.5,4,1,8,1.0,0.03635628974727828,0.4254257111780543

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DHX57_S(1230) DHX57_S(127) DHX57_S(132) DHX57_S(25) DHX57_S(480) DHX57_S(74),1.0,0.5,4,1,8,1.0,0.027454842444200624,0.7180342741877739

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FILIP1_S(138) FILIP1_S(3) FILIP1_S(31) FILIP1_S(5) FILIP1_S(967) FILIP1_T(622),0.6,0.5,2,1,6,0.6,0.019883134173354106,0.07568394537381758

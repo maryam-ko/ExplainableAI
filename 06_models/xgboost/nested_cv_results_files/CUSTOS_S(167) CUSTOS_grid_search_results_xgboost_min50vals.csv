@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CUSTOS_S(167) CUSTOS_S(17) CUSTOS_S(202) CUSTOS_S(232) CUSTOS_S(246) CUSTOS_S(249) CUSTOS_S(5) CUSTOS_S(58) CUSTOS_T(211),0.8,0.5,2,1,4,1.0,0.008848999525577985,0.27434235012869657

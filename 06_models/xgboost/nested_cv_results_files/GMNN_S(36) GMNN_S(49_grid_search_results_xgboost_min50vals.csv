@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GMNN_S(36) GMNN_S(49) GMNN_S(60) GMNN_S(63) GMNN_S(64) GMNN_S(85) GMNN_T(59),0.6,0.5,2,1,8,1.0,0.013008587175934916,0.2985047393948991

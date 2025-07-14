@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CALM1_S(102) CALM1_S(18) CALM1_S(82) CALM1_T(27) CALM1_T(6) CALM1_T(80) CALM1_Y(100) CALM1_Y(138) CALM1_Y(177),0.8,0.5,2,1,8,0.8,0.027892919040589565,0.024501911546337983

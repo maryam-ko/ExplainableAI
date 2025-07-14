@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPBP1_S(267) GPBP1_S(335) GPBP1_S(342) GPBP1_S(348) GPBP1_S(373) GPBP1_S(380) GPBP1_S(381) GPBP1_S(388) GPBP1_S(404) GPBP1_S(56),0.8,0.5,4,1,8,1.0,0.01988916207051257,0.6180537568732736

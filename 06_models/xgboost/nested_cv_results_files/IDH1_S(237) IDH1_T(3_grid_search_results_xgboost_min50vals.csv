@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IDH1_S(237) IDH1_T(313),0.6,0.5,1,1,8,0.6,0.008513796679738886,-0.004782463156568895

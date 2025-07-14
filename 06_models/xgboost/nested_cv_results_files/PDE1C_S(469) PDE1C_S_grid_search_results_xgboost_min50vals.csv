@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDE1C_S(469) PDE1C_S(472) PDE1C_S(639) PDE1C_T(463) PDE1C_Y(667),0.6,0.5,1,1,2,0.6,0.00818890875755069,-0.0019319734011898238

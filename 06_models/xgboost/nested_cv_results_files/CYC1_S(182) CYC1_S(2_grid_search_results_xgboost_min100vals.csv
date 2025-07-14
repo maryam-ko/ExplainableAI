@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYC1_S(182) CYC1_S(226) CYC1_T(108),0.8,0.5,4,1,6,1.0,0.0348709092137446,0.505875821123712

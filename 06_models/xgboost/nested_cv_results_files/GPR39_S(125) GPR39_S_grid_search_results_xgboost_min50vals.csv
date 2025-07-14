@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPR39_S(125) GPR39_S(256) GPR39_S(380) GPR39_S(384) GPR39_S(411) GPR39_S(415) GPR39_S(422) GPR39_T(382),0.6,0.5,1,1,8,0.6,0.012439793728323304,-0.010905606793163524

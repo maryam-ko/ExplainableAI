@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAGEA11_S(13) MAGEA11_S(76),1.0,0.5,2,1,8,0.8,0.01811218008858479,0.01610924601410211

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C5orf22_S(176) C5orf22_S(197) C5orf22_S(198) C5orf22_T(190),1.0,0.5,1,1,6,0.8,0.012490966113044387,0.0221777159170647

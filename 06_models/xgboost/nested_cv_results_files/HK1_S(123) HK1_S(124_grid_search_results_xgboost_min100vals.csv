@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HK1_S(123) HK1_S(124) HK1_S(155) HK1_S(166) HK1_S(178) HK1_S(273) HK1_S(325) HK1_S(4) HK1_S(403) HK1_S(412) HK1_S(435) HK1_S(6) HK1_S(76) HK1_S(860) HK1_S(877) HK1_T(324) HK1_T(5) HK1_T(524),0.8,0.5,2,1,2,1.0,0.024174797403358237,0.04779090340761538

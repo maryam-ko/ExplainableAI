@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MUC1_S(1217) MUC1_S(1227) MUC1_S(1232) MUC1_S(1236) MUC1_S(131) MUC1_T(1233) MUC1_Y(107) MUC1_Y(116) MUC1_Y(1191) MUC1_Y(1203) MUC1_Y(1212) MUC1_Y(122) MUC1_Y(1229) MUC1_Y(133) MUC1_Y(95),0.6,0.5,1,1,4,0.6,0.024336731190518227,-0.008335611587241675

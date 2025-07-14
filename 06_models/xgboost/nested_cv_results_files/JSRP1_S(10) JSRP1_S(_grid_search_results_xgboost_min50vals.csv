@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JSRP1_S(10) JSRP1_S(17) JSRP1_S(173) JSRP1_S(174) JSRP1_S(204) JSRP1_S(3) JSRP1_S(4) JSRP1_S(46) JSRP1_S(51) JSRP1_S(58) JSRP1_S(88),0.6,0.5,3,1,6,1.0,0.02629192731393972,0.24715394597420012

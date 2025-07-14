@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAN1_S(116) FAN1_S(126) FAN1_S(180) FAN1_S(197) FAN1_S(210) FAN1_S(3) FAN1_S(4) FAN1_S(692) FAN1_T(110) FAN1_T(300),0.8,0.5,3,10,8,0.8,0.01423451215019668,0.19681265523532587

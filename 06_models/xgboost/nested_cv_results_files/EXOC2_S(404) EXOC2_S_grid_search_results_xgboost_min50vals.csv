@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXOC2_S(404) EXOC2_S(426) EXOC2_S(432) EXOC2_S(435) EXOC2_T(440),0.6,0.5,4,5,8,1.0,0.05887310892822535,0.3032073674206501

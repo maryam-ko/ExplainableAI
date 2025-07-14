@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLASRP_S(1232) CLASRP_S(282) CLASRP_S(285) CLASRP_S(288) CLASRP_S(291) CLASRP_S(294) CLASRP_S(540) CLASRP_S(547) CLASRP_T(319) CLASRP_T(98),0.8,0.5,4,5,8,1.0,0.04225848479129468,0.680085880873914

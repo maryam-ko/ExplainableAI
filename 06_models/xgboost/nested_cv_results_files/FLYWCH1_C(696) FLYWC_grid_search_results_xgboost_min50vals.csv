@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FLYWCH1_C(696) FLYWCH1_S(13) FLYWCH1_S(15) FLYWCH1_S(21) FLYWCH1_S(502) FLYWCH1_S(503) FLYWCH1_S(695) FLYWCH1_S(696) FLYWCH1_S(7) FLYWCH1_S(715),0.6,0.5,4,1,8,1.0,0.021900219744579962,0.3055462032321136

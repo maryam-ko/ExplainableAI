@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LCOR_S(24) LCOR_S(243) LCOR_S(249) LCOR_S(35) LCOR_S(37) LCOR_S(380) LCOR_S(42) LCOR_S(426) LCOR_S(72) LCOR_S(86) LCOR_T(40) LCOR_T(41) LCOR_T(44),1.0,0.5,4,1,8,1.0,0.018055745964141248,0.7596958498474877

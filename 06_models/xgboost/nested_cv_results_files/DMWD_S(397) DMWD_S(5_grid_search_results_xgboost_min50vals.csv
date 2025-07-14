@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DMWD_S(397) DMWD_S(545) DMWD_T(525) DMWD_T(527),0.8,0.5,2,1,8,1.0,0.023849045162100523,0.11761115559511429

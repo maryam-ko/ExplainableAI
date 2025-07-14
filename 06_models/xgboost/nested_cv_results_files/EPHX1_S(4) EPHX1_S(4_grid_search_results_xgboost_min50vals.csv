@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPHX1_S(4) EPHX1_S(450) EPHX1_Y(1),0.6,0.5,2,1,8,0.8,0.013565885473728438,0.07993665611876062

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED24_S(374) MED24_S(377) MED24_S(567) MED24_S(772) MED24_S(783) MED24_S(849) MED24_S(860) MED24_S(862) MED24_S(863) MED24_S(872) MED24_S(873) MED24_S(881) MED24_S(892),1.0,0.5,4,5,8,1.0,0.025945705783988714,0.793714072505372

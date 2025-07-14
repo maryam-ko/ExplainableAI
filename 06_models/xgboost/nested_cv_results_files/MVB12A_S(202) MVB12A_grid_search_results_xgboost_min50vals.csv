@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MVB12A_S(202) MVB12A_S(40) MVB12A_S(6),0.6,0.5,1,1,2,0.6,0.006767645633126625,-0.0034140546651469706

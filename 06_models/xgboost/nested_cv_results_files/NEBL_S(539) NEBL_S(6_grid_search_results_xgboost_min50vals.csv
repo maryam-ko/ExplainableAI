@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEBL_S(539) NEBL_S(608) NEBL_S(949) NEBL_S(953),0.6,0.5,1,1,2,0.8,0.00895160084993128,0.006610793650553348

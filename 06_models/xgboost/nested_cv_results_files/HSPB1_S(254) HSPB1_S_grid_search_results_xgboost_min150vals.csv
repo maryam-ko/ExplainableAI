@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPB1_S(254) HSPB1_S(3) HSPB1_S(4) HSPB1_S(5) HSPB1_S(78) HSPB1_S(79) HSPB1_S(82) HSPB1_Y(10) HSPB1_Y(6),1.0,0.5,4,5,8,1.0,0.04820029361439932,0.7494607518997783

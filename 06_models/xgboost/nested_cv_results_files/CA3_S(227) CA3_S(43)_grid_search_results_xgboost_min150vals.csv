@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CA3_S(227) CA3_S(43) CA3_S(48) CA3_S(50) CA3_T(1) CA3_T(216) CA3_T(35) CA3_Y(7) CA3_Y(8) CA3_Y(88),0.8,0.5,4,1,8,1.0,0.02753849668783509,0.13660085885989318

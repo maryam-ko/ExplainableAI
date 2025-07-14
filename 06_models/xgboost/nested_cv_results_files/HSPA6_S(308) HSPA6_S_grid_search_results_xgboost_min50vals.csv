@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA6_S(308) HSPA6_S(362) HSPA6_T(11),1.0,0.5,3,1,8,0.6,0.022769902738438194,0.06821359674273735

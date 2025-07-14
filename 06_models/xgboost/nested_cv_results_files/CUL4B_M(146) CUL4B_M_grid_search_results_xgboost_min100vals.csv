@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CUL4B_M(146) CUL4B_M(148) CUL4B_S(146) CUL4B_S(175) CUL4B_S(40) CUL4B_T(67) CUL4B_Y(413),0.8,0.5,4,1,8,0.8,0.017337672425544164,0.15155538822105005

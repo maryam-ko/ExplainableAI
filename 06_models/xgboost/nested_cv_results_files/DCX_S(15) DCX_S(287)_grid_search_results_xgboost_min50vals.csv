@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCX_S(15) DCX_S(287) DCX_S(306) DCX_S(332) DCX_S(335) DCX_S(339) DCX_S(368) DCX_S(408) DCX_S(415) DCX_S(420) DCX_T(123),0.6,0.5,1,1,8,0.8,0.017405836440791873,0.04939125912418398

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PERM1_S(1) PERM1_S(14) PERM1_S(15) PERM1_S(159) PERM1_S(16) PERM1_S(172) PERM1_S(22) PERM1_S(633) PERM1_S(65) PERM1_S(67) PERM1_S(92) PERM1_S(99),0.6,0.5,2,1,2,1.0,0.017135356123467622,0.04318551456119628

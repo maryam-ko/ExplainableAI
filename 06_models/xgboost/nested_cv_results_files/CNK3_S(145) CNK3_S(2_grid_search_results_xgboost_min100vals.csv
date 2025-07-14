@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNK3_S(145) CNK3_S(246) CNK3_S(324) CNK3_S(383) CNK3_S(411) CNK3_S(429) CNK3_S(430) CNK3_S(432) CNK3_S(436),0.8,0.5,4,1,8,1.0,0.02829022643557007,0.4305115609871981

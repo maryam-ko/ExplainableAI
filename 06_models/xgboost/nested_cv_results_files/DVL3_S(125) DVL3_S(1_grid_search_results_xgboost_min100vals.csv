@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DVL3_S(125) DVL3_S(192) DVL3_S(20) DVL3_S(48) DVL3_S(581) DVL3_S(584) DVL3_S(680) DVL3_T(133) DVL3_T(15),0.8,0.5,4,1,8,1.0,0.024130525287003442,0.5744991031762791

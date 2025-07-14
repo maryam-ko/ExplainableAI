@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCTN2_S(127) DCTN2_S(274) DCTN2_S(391) DCTN2_S(70) DCTN2_S(88) DCTN2_T(79) DCTN2_Y(207) DCTN2_Y(6),0.6,0.5,2,1,6,1.0,0.014161842157563713,0.16752999107954258

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ORC3_S(207) ORC3_S(23) ORC3_S(516) ORC3_S(88) ORC3_Y(47) ORC3_Y(527),0.6,0.5,1,1,6,0.6,0.015215469708360123,-0.0020021271954913543

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA9_M(390) HSPA9_S(162) HSPA9_S(164) HSPA9_S(200) HSPA9_S(378) HSPA9_S(408) HSPA9_S(613) HSPA9_S(627) HSPA9_T(111) HSPA9_T(3) HSPA9_T(87),0.8,0.5,3,1,8,1.0,0.03262976526818685,0.16201121125638768

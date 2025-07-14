@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMMR_C(20) HMMR_C(24) HMMR_S(2) HMMR_S(20) HMMR_S(41) HMMR_S(65) HMMR_T(688),1.0,0.5,3,1,6,1.0,0.015763550848238706,0.518553521972128

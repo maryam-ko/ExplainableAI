@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAGK_S(7) NAGK_S(70) NAGK_S(76) NAGK_S(96) NAGK_S(98),0.8,0.5,4,1,8,1.0,0.03560497001969459,0.666259911782567

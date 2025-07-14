@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLMP_S(314) CLMP_S(319) CLMP_T(317) CLMP_T(359),0.6,0.5,3,5,8,0.8,0.010903954909532826,0.6124528077808675

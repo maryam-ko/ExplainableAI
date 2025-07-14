@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LSMEM1_S(10) LSMEM1_S(24) LSMEM1_S(38),0.8,0.5,2,1,6,0.8,0.021650428191953695,0.10780344291687978

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ISCU_S(14) ISCU_S(20) ISCU_S(3) ISCU_Y(43),0.6,0.5,4,1,8,1.0,0.028395047925492634,0.6447007545659335

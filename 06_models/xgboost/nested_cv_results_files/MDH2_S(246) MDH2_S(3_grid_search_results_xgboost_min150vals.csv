@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MDH2_S(246) MDH2_S(3) MDH2_S(307) MDH2_S(310) MDH2_S(317) MDH2_S(5) MDH2_S(6) MDH2_S(69) MDH2_T(171) MDH2_T(19) MDH2_T(224) MDH2_T(235) MDH2_T(248) MDH2_T(6),1.0,0.5,4,1,8,1.0,0.030098829492656617,0.23335447072193655

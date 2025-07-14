@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FEN1_S(255) FEN1_S(293) FEN1_S(317) FEN1_S(331) FEN1_S(352) FEN1_T(336),0.8,0.5,2,1,4,1.0,0.011678240714659165,0.3237227092095552

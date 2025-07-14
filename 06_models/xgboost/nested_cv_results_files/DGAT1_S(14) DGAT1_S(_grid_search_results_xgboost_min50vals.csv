@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DGAT1_S(14) DGAT1_S(18),0.6,0.5,2,1,6,0.8,0.016416006256199607,0.0980244873424209

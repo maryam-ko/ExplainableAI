@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF5B_S(154) KIF5B_S(933) KIF5B_S(938),0.6,0.5,4,10,8,1.0,0.028714628813477756,0.2967233792050775

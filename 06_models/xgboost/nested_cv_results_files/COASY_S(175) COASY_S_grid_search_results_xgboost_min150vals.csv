@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COASY_S(175) COASY_S(178) COASY_S(183) COASY_S(207) COASY_S(212),1.0,0.5,4,5,6,1.0,0.02907789078914295,0.531526834046581

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC174_S(197) CCDC174_S(432),0.6,0.5,3,1,4,1.0,0.017322171000427624,0.1955751427530969

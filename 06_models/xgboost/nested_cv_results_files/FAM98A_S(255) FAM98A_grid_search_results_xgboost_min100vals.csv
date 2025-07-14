@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM98A_S(255) FAM98A_S(258) FAM98A_S(259) FAM98A_S(284) FAM98A_S(286) FAM98A_Y(250),0.8,0.5,3,1,8,1.0,0.025344793078225614,0.3023854829116468

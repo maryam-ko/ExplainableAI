@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYOT_S(10) MYOT_S(153) MYOT_S(215) MYOT_S(225) MYOT_S(229) MYOT_S(231) MYOT_S(233) MYOT_S(3) MYOT_S(461) MYOT_S(5) MYOT_S(92) MYOT_T(12) MYOT_T(145) MYOT_T(232) MYOT_T(289) MYOT_T(5) MYOT_Y(120) MYOT_Y(4) MYOT_Y(463),0.8,0.5,2,1,8,1.0,0.02702915680920365,0.26647785902025045

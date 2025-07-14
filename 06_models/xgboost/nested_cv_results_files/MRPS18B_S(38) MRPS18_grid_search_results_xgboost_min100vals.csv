@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRPS18B_S(38) MRPS18B_S(49),1.0,0.5,4,1,8,1.0,0.02675412625412288,0.21419004649562945

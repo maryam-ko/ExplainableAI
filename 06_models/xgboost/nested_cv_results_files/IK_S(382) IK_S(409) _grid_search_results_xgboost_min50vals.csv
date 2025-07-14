@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IK_S(382) IK_S(409) IK_S(417) IK_S(460) IK_S(536) IK_S(6) IK_T(117) IK_Y(114) IK_Y(506),0.6,0.5,1,1,8,0.8,0.017255765416220346,-0.013656995632896463

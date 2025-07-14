@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAA38_S(22) NAA38_S(25) NAA38_S(29),1.0,0.5,3,10,4,1.0,0.01127115410267168,0.2510327222447367

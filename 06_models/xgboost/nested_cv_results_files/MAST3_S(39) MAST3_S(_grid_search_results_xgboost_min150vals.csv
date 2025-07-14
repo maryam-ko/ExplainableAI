@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAST3_S(39) MAST3_S(57) MAST3_S(66) MAST3_S(747) MAST3_S(776) MAST3_S(792) MAST3_S(881) MAST3_S(935),1.0,0.5,4,1,8,0.8,0.020470713445720132,0.15149434449312021

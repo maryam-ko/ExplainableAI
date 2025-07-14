@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MBOAT2_S(497) MBOAT2_T(474),1.0,0.5,4,1,8,1.0,0.023580417257318027,0.5141807366218234

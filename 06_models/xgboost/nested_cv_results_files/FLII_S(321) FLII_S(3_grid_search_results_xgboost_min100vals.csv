@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FLII_S(321) FLII_S(332) FLII_S(406) FLII_S(418) FLII_S(8) FLII_S(801) FLII_S(860) FLII_T(968) FLII_Y(1175),0.8,0.5,3,1,8,1.0,0.0276738116286365,0.15485764924144543

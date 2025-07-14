@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NRBP2_S(209) NRBP2_S(22) NRBP2_S(26) NRBP2_S(34) NRBP2_S(361) NRBP2_T(388) NRBP2_T(409) NRBP2_T(411) NRBP2_Y(125) NRBP2_Y(360) NRBP2_Y(380),0.6,0.5,2,1,8,1.0,0.04452195025477467,0.11634174681151928

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPP7_S(407) MPP7_S(408) MPP7_S(409) MPP7_S(490) MPP7_S(572) MPP7_S(64) MPP7_T(224) MPP7_Y(408),0.8,0.5,4,1,4,1.0,0.02499377492905361,0.31964082880962064

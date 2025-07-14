@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHF6_S(104) PHF6_S(111) PHF6_S(120) PHF6_S(121) PHF6_S(138) PHF6_S(145) PHF6_S(154) PHF6_S(155) PHF6_S(156) PHF6_S(158) PHF6_S(165) PHF6_S(200) PHF6_S(202) PHF6_S(205),0.8,0.5,4,1,8,1.0,0.03885876502540089,0.7206988184569793

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO19_S(685),0.8,0.5,2,1,8,0.8,0.013886137157329576,-0.006046139219907131

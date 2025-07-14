@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUDT9_S(109) NUDT9_S(121) NUDT9_S(18) NUDT9_S(2) NUDT9_S(68) NUDT9_S(71) NUDT9_T(67),0.6,0.5,3,1,8,1.0,0.020749804483127417,0.4120478138061969

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLUD2_S(128) GLUD2_S(450) GLUD2_T(361) GLUD2_T(410),1.0,0.5,2,1,8,1.0,0.012970430905651604,0.20796683403298727

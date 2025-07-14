@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CKM_S(128) CKM_S(24) CKM_S(332) CKM_S(372) CKM_S(94) CKM_T(103) CKM_T(166) CKM_T(313) CKM_Y(125) CKM_Y(20),1.0,0.5,4,1,8,1.0,0.0526315929217214,0.43068443516335336

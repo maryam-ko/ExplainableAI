@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IPO5_S(827),0.6,0.5,1,1,4,0.6,0.013738145462083105,-0.010210019822157967

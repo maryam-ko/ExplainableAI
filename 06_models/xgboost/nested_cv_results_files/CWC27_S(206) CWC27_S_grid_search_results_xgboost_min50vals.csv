@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CWC27_S(206) CWC27_S(222) CWC27_S(231) CWC27_S(266) CWC27_S(346),0.8,0.5,1,1,8,1.0,0.013450413093361417,0.3233845800777571

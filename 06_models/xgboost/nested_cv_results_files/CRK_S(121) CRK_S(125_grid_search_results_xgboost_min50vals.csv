@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRK_S(121) CRK_S(125) CRK_S(74) CRK_S(83),0.6,0.5,3,1,8,0.8,0.014327629081029802,0.1971890855514703

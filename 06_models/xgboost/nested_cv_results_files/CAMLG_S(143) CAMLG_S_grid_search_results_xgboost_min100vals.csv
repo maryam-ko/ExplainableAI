@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAMLG_S(143) CAMLG_S(148) CAMLG_S(55) CAMLG_S(8),1.0,0.5,4,10,2,1.0,0.031818440718257894,0.1378669250292657

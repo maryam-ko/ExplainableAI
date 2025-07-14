@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HEMGN_S(123),0.6,1,1,1,6,0.8,0.011946881717209007,-0.004545748688655982

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRGBP_S(147) MRGBP_S(149) MRGBP_S(191) MRGBP_S(194) MRGBP_S(195) MRGBP_S(23) MRGBP_T(188),0.8,0.5,4,1,6,1.0,0.04789747659658418,0.34511123190464815

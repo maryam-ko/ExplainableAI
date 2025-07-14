@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GAPDHS_S(130) GAPDHS_T(290) GAPDHS_T(301),0.8,0.5,4,1,8,0.8,0.011828040520642714,0.08784208823025252

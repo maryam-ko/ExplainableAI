@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP160_S(1157) NUP160_T(920) NUP160_T(957) NUP160_Y(1151),1.0,0.5,3,5,8,1.0,0.0654259312596817,0.2528316736029528

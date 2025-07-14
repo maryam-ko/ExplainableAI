@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PABPC1_S(315) PABPC1_T(319),1.0,0.5,3,1,8,1.0,0.010530829606274267,0.6750244687265603

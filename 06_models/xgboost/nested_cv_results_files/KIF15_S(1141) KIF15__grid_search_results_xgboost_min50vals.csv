@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF15_S(1141) KIF15_S(1169) KIF15_S(1172) KIF15_S(340) KIF15_S(568) KIF15_T(1144) KIF15_T(399),1.0,0.5,4,1,8,1.0,0.033961189196356746,0.47689117410879545

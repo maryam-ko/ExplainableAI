@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRIM1_S(1002) CRIM1_S(1016) CRIM1_S(991) CRIM1_T(1035) CRIM1_Y(1019) CRIM1_Y(1033) CRIM1_Y(630),0.8,0.5,4,1,8,0.8,0.032411463295590005,0.24688068172227817

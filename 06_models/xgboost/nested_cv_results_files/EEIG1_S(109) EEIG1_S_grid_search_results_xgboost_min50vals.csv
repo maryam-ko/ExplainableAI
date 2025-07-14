@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EEIG1_S(109) EEIG1_S(176) EEIG1_S(249) EEIG1_S(251) EEIG1_Y(234),1.0,0.5,4,1,8,0.8,0.01646265477964646,0.0675930457281847

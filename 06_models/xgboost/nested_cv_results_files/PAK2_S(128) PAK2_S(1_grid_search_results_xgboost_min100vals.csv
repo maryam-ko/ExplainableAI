@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAK2_S(128) PAK2_S(141) PAK2_S(19) PAK2_S(197) PAK2_S(2) PAK2_S(209) PAK2_S(36) PAK2_T(154) PAK2_T(169) PAK2_Y(139),1.0,0.5,4,5,8,1.0,0.05153664219274023,0.4796179550719842

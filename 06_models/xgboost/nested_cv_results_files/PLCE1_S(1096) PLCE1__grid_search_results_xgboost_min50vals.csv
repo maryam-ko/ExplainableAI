@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCE1_S(1096) PLCE1_S(1401) PLCE1_S(1709) PLCE1_S(182) PLCE1_S(490) PLCE1_S(752) PLCE1_S(788) PLCE1_T(1100) PLCE1_T(178),0.8,0.5,3,1,8,1.0,0.011719987904123083,0.24775374720378673

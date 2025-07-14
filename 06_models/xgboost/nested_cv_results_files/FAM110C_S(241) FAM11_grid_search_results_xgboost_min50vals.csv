@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM110C_S(241) FAM110C_S(264) FAM110C_S(99) FAM110C_T(245),1.0,0.5,4,1,2,1.0,0.02977149872468911,0.1137340463056183

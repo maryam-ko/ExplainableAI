@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IFNGR1_C(327) IFNGR1_S(289) IFNGR1_S(315) IFNGR1_S(327) IFNGR1_T(295) IFNGR1_Y(304) IFNGR1_Y(311) IFNGR1_Y(457),1.0,0.5,2,1,8,1.0,0.03177486166852272,0.11259613644413105

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRSF1_S(118) GRSF1_S(2) GRSF1_S(211) GRSF1_S(242) GRSF1_S(243) GRSF1_S(244) GRSF1_S(260) GRSF1_S(272) GRSF1_S(279) GRSF1_S(3) GRSF1_S(5) GRSF1_S(62),0.8,0.5,4,5,8,1.0,0.02239157791427365,0.5088735540804905

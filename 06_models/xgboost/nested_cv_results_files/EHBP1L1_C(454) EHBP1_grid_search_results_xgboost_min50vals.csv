@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EHBP1L1_C(454) EHBP1L1_S(1218) EHBP1L1_S(3) EHBP1L1_S(6) EHBP1L1_S(661) EHBP1L1_S(734) EHBP1L1_S(914) EHBP1L1_T(4) EHBP1L1_T(9),1.0,0.5,1,1,8,0.8,0.009648313400807046,0.2712987636295666

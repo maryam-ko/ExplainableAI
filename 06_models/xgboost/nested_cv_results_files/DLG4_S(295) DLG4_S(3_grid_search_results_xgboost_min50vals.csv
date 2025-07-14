@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DLG4_S(295) DLG4_S(3),0.6,0.5,2,1,8,0.8,0.006709698774443219,0.23355491785764143

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOS1_S(10) NOS1_S(1416) NOS1_S(2) NOS1_S(219) NOS1_S(5) NOS1_S(6) NOS1_S(851) NOS1_S(852) NOS1_S(854) NOS1_S(861) NOS1_T(110) NOS1_T(116) NOS1_T(18),0.6,0.5,2,1,2,1.0,0.015296921327690933,0.1172347894449141

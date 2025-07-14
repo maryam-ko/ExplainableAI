@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MOSPD2_S(220) MOSPD2_S(273) MOSPD2_T(218) MOSPD2_T(281),1.0,0.5,1,1,6,0.6,0.01308203126222125,0.009413355216327513

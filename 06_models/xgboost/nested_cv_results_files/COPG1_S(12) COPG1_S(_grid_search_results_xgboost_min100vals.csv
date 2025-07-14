@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COPG1_S(12) COPG1_S(593) COPG1_S(642) COPG1_T(594) COPG1_T(742),1.0,0.5,4,5,4,1.0,0.023091005465131518,0.2999646980174244

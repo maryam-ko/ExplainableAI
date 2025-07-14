@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NDUFB4_S(26) NDUFB4_Y(23),0.6,0.5,3,1,8,0.8,0.022612473262860058,0.2242317411145775

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DSC2_S(864) DSC2_S(868) DSC2_S(873),0.6,0.5,1,1,6,0.8,0.02237756662090418,0.004648099016076279

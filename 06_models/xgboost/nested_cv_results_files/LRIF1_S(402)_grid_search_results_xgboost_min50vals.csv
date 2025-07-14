@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRIF1_S(402),0.6,0.5,3,1,2,0.8,0.01418832586319713,-0.02147598194747542

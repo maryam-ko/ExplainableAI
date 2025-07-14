@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HIP1_S(320) HIP1_S(323) HIP1_S(579) HIP1_S(857),1.0,0.5,1,1,8,1.0,0.01933193256755486,0.10158267501219864

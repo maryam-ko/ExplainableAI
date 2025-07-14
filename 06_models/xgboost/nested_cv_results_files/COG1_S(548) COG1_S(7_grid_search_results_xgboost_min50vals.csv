@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COG1_S(548) COG1_S(7) COG1_T(657),1.0,0.5,2,5,8,0.6,0.026809392729034376,0.26551231919535245

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAAT_S(173) PAAT_S(177) PAAT_S(255) PAAT_S(436),0.6,0.5,2,1,2,1.0,0.015895394167268935,0.06059384029946833

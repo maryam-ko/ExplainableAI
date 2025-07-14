@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHP1_S(7) CHP1_T(7),1.0,0.5,3,1,2,1.0,0.024546683920870643,0.10974267186548167

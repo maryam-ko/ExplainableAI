@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KSR2_S(284) KSR2_S(357) KSR2_S(400) KSR2_S(474),1.0,0.5,2,1,6,0.8,0.009798555296247213,0.2668609251638482

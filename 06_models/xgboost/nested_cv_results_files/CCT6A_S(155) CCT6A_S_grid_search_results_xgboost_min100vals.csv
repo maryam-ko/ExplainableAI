@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCT6A_S(155) CCT6A_S(203) CCT6A_S(205) CCT6A_S(455) CCT6A_T(6) CCT6A_Y(229),1.0,0.5,4,1,6,1.0,0.015085477342594947,0.5580216640731892

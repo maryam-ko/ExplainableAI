@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DUT_S(101) DUT_S(13) DUT_S(160) DUT_S(174) DUT_S(243) DUT_S(248) DUT_S(84) DUT_S(88) DUT_S(99) DUT_T(239) DUT_T(249) DUT_T(7) DUT_T(95),1.0,0.5,4,5,8,1.0,0.036485377939108735,0.5766543937087769

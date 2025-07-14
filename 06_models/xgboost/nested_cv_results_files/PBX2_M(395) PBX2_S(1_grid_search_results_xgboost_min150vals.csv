@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PBX2_M(395) PBX2_S(105) PBX2_S(11) PBX2_S(151) PBX2_S(330) PBX2_S(395) PBX2_Y(316) PBX2_Y(394),1.0,0.5,4,10,8,1.0,0.035932737687518715,0.645294437164914

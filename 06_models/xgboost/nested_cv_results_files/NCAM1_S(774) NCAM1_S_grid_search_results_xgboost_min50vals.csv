@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCAM1_S(774) NCAM1_S(780) NCAM1_S(784) NCAM1_T(788),0.6,0.5,2,1,6,0.8,0.019910173264563583,-0.0006352369404390324

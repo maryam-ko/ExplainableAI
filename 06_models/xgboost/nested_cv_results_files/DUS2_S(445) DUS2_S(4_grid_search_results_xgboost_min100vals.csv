@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DUS2_S(445) DUS2_S(447) DUS2_S(488),1.0,0.5,4,1,6,1.0,0.020310230078117456,0.6007312780725856

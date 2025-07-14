@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C17orf75_S(18) C17orf75_S(19) C17orf75_S(59) C17orf75_S(8),1.0,0.5,4,1,8,1.0,0.03149058434078393,0.5817245474247067

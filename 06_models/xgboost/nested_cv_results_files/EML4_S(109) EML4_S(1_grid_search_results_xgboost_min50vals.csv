@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EML4_S(109) EML4_S(129) EML4_S(132) EML4_S(151) EML4_S(16) EML4_S(163) EML4_S(184) EML4_S(191) EML4_S(201) EML4_S(7) EML4_S(87) EML4_S(903) EML4_S(93) EML4_S(980) EML4_T(167) EML4_T(200) EML4_T(237) EML4_T(875),1.0,0.5,2,1,8,0.8,0.012625593797755947,0.13089801683750907

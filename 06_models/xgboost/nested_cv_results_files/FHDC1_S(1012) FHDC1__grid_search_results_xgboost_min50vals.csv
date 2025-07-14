@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FHDC1_S(1012) FHDC1_S(1024) FHDC1_S(1101) FHDC1_S(498) FHDC1_S(500) FHDC1_S(525) FHDC1_S(570) FHDC1_S(650) FHDC1_S(660) FHDC1_S(664) FHDC1_S(736) FHDC1_S(949),1.0,0.5,1,1,8,1.0,0.025979422514577813,0.01261552739879641

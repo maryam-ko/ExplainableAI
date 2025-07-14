@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PKD2_S(76) PKD2_S(829),0.8,0.5,4,1,4,1.0,0.01831734947001387,0.40094156949662896

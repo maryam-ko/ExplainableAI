@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EHD1_S(355) EHD1_S(456) EHD1_S(470) EHD1_T(479) EHD1_Y(453),0.6,0.5,4,1,8,1.0,0.05296770506796691,0.17315188052797265

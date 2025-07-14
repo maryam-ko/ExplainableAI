@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFE2L2_S(192) NFE2L2_S(215) NFE2L2_S(410) NFE2L2_S(433),1.0,0.5,4,1,8,0.8,0.01670167334898425,0.3102884349924274

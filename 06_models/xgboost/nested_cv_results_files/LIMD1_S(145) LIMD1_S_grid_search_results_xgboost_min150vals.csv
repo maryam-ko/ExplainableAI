@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIMD1_S(145) LIMD1_S(230) LIMD1_S(298) LIMD1_S(3) LIMD1_S(327) LIMD1_S(384) LIMD1_S(401) LIMD1_S(421) LIMD1_S(423) LIMD1_T(294) LIMD1_T(401) LIMD1_Y(21),1.0,0.5,4,10,6,0.8,0.04152045274618229,0.26357303682253763

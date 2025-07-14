@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FMNL2_S(1016) FMNL2_S(171) FMNL2_S(183) FMNL2_S(188) FMNL2_S(190) FMNL2_S(394) FMNL2_S(403) FMNL2_S(406) FMNL2_T(202) FMNL2_T(467) FMNL2_T(480) FMNL2_Y(200),1.0,0.5,4,1,6,1.0,0.038236608838855816,0.49914652452980474

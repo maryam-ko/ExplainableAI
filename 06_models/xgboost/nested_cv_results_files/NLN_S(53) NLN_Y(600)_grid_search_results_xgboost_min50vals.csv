@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NLN_S(53) NLN_Y(600),0.6,0.5,1,1,2,1.0,0.005341599432141133,-0.004149066538842172

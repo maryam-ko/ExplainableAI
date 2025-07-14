@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRT19_S(10) KRT19_S(13) KRT19_S(14) KRT19_S(149) KRT19_S(22) KRT19_S(32) KRT19_S(35) KRT19_S(381) KRT19_S(395) KRT19_S(43) KRT19_S(46) KRT19_S(48) KRT19_T(12) KRT19_T(302) KRT19_T(317) KRT19_Y(381) KRT19_Y(391),0.6,0.5,1,1,8,0.6,0.01577880564084911,-0.011425325674703312

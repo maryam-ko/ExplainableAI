@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CD33_S(291) CD33_T(286) CD33_T(299) CD33_T(363),1.0,0.5,4,5,4,1.0,0.013984326832680014,0.5652053871023384

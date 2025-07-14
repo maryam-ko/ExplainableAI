@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FLOT1_S(19) FLOT1_S(385) FLOT1_T(387) FLOT1_Y(121) FLOT1_Y(203),0.8,0.5,1,1,8,0.8,0.02774899966989396,0.12800915490359294

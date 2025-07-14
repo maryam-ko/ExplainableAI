@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUDT5_S(10) NUDT5_S(3) NUDT5_T(45),1.0,0.5,4,1,8,0.8,0.024907827743406788,0.13281490683111002

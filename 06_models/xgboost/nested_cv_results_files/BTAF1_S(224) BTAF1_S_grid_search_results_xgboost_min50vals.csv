@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BTAF1_S(224) BTAF1_S(95) BTAF1_T(426),1.0,0.5,4,1,6,0.8,0.021769417873457615,0.30937198708918257

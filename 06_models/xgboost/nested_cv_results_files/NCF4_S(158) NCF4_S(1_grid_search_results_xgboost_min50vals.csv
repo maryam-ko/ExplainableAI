@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCF4_S(158) NCF4_S(159) NCF4_S(161),0.6,0.5,1,1,4,0.6,0.014840840629717566,-0.002561900443582399

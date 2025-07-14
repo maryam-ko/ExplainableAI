@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MICAL2_S(268) MICAL2_S(347) MICAL2_S(426) MICAL2_S(507) MICAL2_S(515) MICAL2_S(631) MICAL2_T(453),1.0,0.5,2,1,8,0.8,0.0210568804667346,0.010410022241736882

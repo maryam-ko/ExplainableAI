@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FUBP3_S(296) FUBP3_S(35) FUBP3_S(42) FUBP3_S(439) FUBP3_S(538) FUBP3_S(539) FUBP3_S(552) FUBP3_S(569) FUBP3_T(130) FUBP3_T(43) FUBP3_T(75) FUBP3_T(76),1.0,0.5,4,1,8,1.0,0.046437480079040805,0.4146162258728118

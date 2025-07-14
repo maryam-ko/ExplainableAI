@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTX1_S(247) MTX1_S(43) MTX1_T(242),0.8,0.5,2,1,8,1.0,0.008763923175432318,0.43277006945302865

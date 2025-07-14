@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LYSMD3_S(116) LYSMD3_S(53) LYSMD3_S(55) LYSMD3_T(54),1.0,0.5,2,1,8,0.6,0.020688712750936467,0.21696774649279

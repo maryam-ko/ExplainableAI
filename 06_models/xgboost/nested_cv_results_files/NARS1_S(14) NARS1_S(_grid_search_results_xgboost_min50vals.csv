@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NARS1_S(14) NARS1_S(61) NARS1_S(88),1.0,0.5,1,1,6,0.8,0.01101716538019477,0.08149529083872094

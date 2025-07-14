@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INPP4A_S(482) INPP4A_S(487) INPP4A_S(955),0.6,0.5,1,1,2,1.0,0.013012956818529606,-0.010994397418438861

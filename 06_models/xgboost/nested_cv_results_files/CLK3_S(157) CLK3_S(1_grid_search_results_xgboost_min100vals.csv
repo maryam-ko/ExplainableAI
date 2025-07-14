@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLK3_S(157) CLK3_S(165) CLK3_S(180) CLK3_S(226) CLK3_S(25) CLK3_S(27) CLK3_S(280) CLK3_S(281) CLK3_S(283) CLK3_S(294) CLK3_S(67) CLK3_S(78) CLK3_Y(155),0.6,0.5,2,1,6,1.0,0.02232849566241451,0.18372418669832224

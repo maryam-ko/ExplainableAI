@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KAT8_S(37) KAT8_S(40) KAT8_T(40),1.0,0.5,3,10,8,1.0,0.02493495383858997,0.34078129936618573

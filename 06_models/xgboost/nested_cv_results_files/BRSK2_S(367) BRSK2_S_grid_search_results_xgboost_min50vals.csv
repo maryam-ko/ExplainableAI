@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRSK2_S(367) BRSK2_S(383) BRSK2_S(393) BRSK2_S(394) BRSK2_S(428) BRSK2_S(435) BRSK2_S(449) BRSK2_S(458) BRSK2_S(462) BRSK2_T(431) BRSK2_T(532),0.8,0.5,1,1,8,0.8,0.00941209086228709,0.20568998366946598

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRP6_S(1490) LRP6_S(1508) LRP6_S(1590) LRP6_T(1493) LRP6_T(1572),1.0,0.5,4,1,8,1.0,0.03190570662245313,0.23920601820314946

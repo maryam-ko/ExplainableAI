@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLEC16A_S(3) CLEC16A_S(845) CLEC16A_S(980) CLEC16A_S(982),1.0,0.5,4,1,8,1.0,0.02412801943662197,0.31626729511275065

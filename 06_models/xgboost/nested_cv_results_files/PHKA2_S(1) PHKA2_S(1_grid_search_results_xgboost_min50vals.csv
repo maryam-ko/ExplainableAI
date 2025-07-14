@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHKA2_S(1) PHKA2_S(1015) PHKA2_S(1044) PHKA2_S(4) PHKA2_S(50) PHKA2_S(671) PHKA2_S(729) PHKA2_S(735) PHKA2_S(969) PHKA2_S(975) PHKA2_S(978) PHKA2_S(979) PHKA2_S(983) PHKA2_T(1041) PHKA2_Y(61),0.8,0.5,4,1,8,1.0,0.06583161925555686,0.25481230280133493

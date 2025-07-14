@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO18B_S(2) MYO18B_S(2232) MYO18B_S(2236) MYO18B_S(2245) MYO18B_S(2247) MYO18B_S(24) MYO18B_S(428),0.8,0.5,4,1,8,1.0,0.033555011696955524,0.17156899978960918

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BLTP3B_S(1081) BLTP3B_S(1241) BLTP3B_S(4) BLTP3B_S(774) BLTP3B_S(891) BLTP3B_S(953) BLTP3B_S(976) BLTP3B_T(441) BLTP3B_T(677),0.6,0.5,4,10,6,1.0,0.048680695688885604,0.41180555485268117

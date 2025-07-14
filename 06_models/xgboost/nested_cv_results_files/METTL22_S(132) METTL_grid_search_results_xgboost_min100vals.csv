@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL22_S(132) METTL22_S(3),0.8,0.5,4,5,8,1.0,0.023041525765028808,0.41021434746329233

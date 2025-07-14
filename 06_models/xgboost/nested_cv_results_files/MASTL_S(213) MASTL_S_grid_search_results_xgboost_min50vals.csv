@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MASTL_S(213) MASTL_S(217) MASTL_S(330) MASTL_S(375) MASTL_S(376) MASTL_S(512) MASTL_S(555) MASTL_S(556) MASTL_S(660) MASTL_S(665) MASTL_T(718) MASTL_T(722),0.8,0.5,1,1,8,1.0,0.007891469161980996,0.2719326328075786

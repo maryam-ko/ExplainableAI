@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NKAP_S(15) NKAP_S(157) NKAP_S(33) NKAP_S(7) NKAP_S(9) NKAP_T(161),1.0,0.5,4,5,8,1.0,0.03608054736980127,0.5542309248418993

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DMD_S(1300) DMD_S(1308) DMD_S(1758) DMD_S(2993) DMD_S(307) DMD_S(333) DMD_S(3537) DMD_S(3541) DMD_S(3606) DMD_S(3623) DMD_S(3624) DMD_S(454) DMD_T(3361),0.6,0.5,2,1,8,1.0,0.017181094846681694,0.14631707911416092

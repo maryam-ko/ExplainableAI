@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C11orf68_M(53) C11orf68_S(12) C11orf68_S(235) C11orf68_S(239) C11orf68_S(276),0.8,0.5,3,10,8,1.0,0.01531089818985529,0.5820136722869692

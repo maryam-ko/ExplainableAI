@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DGCR8_M(12) DGCR8_S(109) DGCR8_S(123) DGCR8_S(35) DGCR8_S(385) DGCR8_S(434) DGCR8_S(714) DGCR8_S(8) DGCR8_S(92),0.8,0.5,4,1,8,1.0,0.012369026537544079,0.6222517814797632

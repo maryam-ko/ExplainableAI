@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLHL9_S(588) KLHL9_S(603),1.0,0.5,1,1,6,0.6,0.011412381419318534,0.040199635846727144

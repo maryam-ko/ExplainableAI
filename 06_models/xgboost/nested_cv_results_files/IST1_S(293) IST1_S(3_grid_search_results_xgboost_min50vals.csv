@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IST1_S(293) IST1_S(307) IST1_T(143) IST1_Y(43),0.6,0.5,1,1,8,1.0,0.008340270637120416,0.30165847098925724

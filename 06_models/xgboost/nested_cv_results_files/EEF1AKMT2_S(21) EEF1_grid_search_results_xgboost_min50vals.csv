@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EEF1AKMT2_S(21) EEF1AKMT2_S(5),1.0,0.5,4,1,8,1.0,0.02599267259640987,0.415393322182403

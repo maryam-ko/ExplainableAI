@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSD3_S(107) NSD3_S(1415) NSD3_S(415) NSD3_S(424) NSD3_S(457) NSD3_S(478) NSD3_S(498) NSD3_S(560) NSD3_S(571) NSD3_S(585) NSD3_T(456) NSD3_T(547),1.0,0.5,4,5,8,0.8,0.0176491024313883,0.3506691298688569

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PINX1_S(109) PINX1_S(161) PINX1_T(164),0.6,0.5,3,5,8,0.8,0.025640752502609592,0.28283710544001467

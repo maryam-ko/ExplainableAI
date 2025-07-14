@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KHNYN_S(291) KHNYN_S(342) KHNYN_S(353) KHNYN_S(359),0.8,0.5,4,1,8,1.0,0.03772025790226045,0.3075566366667736

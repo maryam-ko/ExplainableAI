@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IRX2_S(186) IRX2_S(286) IRX2_S(297) IRX2_S(317) IRX2_S(445),0.6,0.5,1,1,4,0.6,0.01132329705588678,-0.018689829141225543

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCDH7_S(1000) PCDH7_S(1011) PCDH7_S(918) PCDH7_S(964) PCDH7_S(972) PCDH7_S(974) PCDH7_S(989) PCDH7_T(924) PCDH7_Y(1064) PCDH7_Y(948),0.8,0.5,4,1,8,1.0,0.026658152286385236,0.6325448438344867

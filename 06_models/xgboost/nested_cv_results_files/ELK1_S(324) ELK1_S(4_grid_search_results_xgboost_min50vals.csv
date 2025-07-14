@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELK1_S(324) ELK1_S(405) ELK1_T(222),0.6,0.5,2,1,8,1.0,0.02018514823524161,0.16421790192232208

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NIBAN1_S(3) NIBAN1_S(596) NIBAN1_S(615) NIBAN1_S(926) NIBAN1_T(652),0.8,0.5,3,5,8,1.0,0.031140477090999232,0.1579771257129271

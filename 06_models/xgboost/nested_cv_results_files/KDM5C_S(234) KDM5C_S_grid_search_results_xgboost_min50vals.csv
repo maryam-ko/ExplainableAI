@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KDM5C_S(234) KDM5C_S(327) KDM5C_S(897) KDM5C_S(903),1.0,0.5,3,1,4,1.0,0.013819735121320877,0.21813662705890485

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NDEL1_S(194) NDEL1_S(197) NDEL1_S(198) NDEL1_S(203) NDEL1_S(215) NDEL1_S(231) NDEL1_S(44) NDEL1_T(219) NDEL1_T(245),1.0,0.5,4,1,8,1.0,0.02118049390395605,0.5733371299054091

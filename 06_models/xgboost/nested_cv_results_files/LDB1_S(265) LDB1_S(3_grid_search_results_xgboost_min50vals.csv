@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LDB1_S(265) LDB1_S(302) LDB1_S(305) LDB1_S(323) LDB1_T(25) LDB1_T(306) LDB1_T(61),0.8,0.5,4,5,8,1.0,0.030409009085443292,0.4821468444824525

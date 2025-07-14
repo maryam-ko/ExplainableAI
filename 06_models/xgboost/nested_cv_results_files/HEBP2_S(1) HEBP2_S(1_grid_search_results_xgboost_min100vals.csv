@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HEBP2_S(1) HEBP2_S(11) HEBP2_S(141) HEBP2_S(160) HEBP2_S(172) HEBP2_S(181) HEBP2_T(22),0.8,0.5,3,5,8,1.0,0.03823038682754811,0.4062708158724114

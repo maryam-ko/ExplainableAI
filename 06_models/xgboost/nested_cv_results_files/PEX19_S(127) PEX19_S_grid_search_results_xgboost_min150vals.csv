@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PEX19_S(127) PEX19_S(147) PEX19_S(148) PEX19_S(149) PEX19_S(35) PEX19_S(54) PEX19_S(66) PEX19_S(9) PEX19_T(43),0.6,0.5,4,5,8,1.0,0.022822637703715527,0.8003761460126778

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF22_S(344) KIF22_S(412) KIF22_S(427) KIF22_S(445) KIF22_S(543) KIF22_S(72) KIF22_T(395),1.0,0.5,4,10,2,1.0,0.022776703185215283,0.04528550567329557

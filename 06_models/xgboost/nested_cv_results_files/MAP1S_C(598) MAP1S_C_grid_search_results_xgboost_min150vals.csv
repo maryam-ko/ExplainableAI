@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAP1S_C(598) MAP1S_C(603) MAP1S_C(608) MAP1S_M(759) MAP1S_M(762) MAP1S_M(763) MAP1S_S(3) MAP1S_S(452) MAP1S_S(6) MAP1S_S(743) MAP1S_S(759) MAP1S_S(786) MAP1S_S(790) MAP1S_S(809),0.8,0.5,4,1,8,1.0,0.03973199303207971,0.8024666813889745

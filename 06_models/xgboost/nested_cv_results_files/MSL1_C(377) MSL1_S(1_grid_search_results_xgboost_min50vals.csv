@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSL1_C(377) MSL1_S(156) MSL1_S(213) MSL1_S(221) MSL1_S(333) MSL1_S(371) MSL1_S(70) MSL1_T(391),1.0,0.5,2,1,6,0.8,0.007652647491272025,0.2522460559856885

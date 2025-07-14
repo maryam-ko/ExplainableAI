@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBXL19_S(191) FBXL19_S(193) FBXL19_S(408) FBXL19_S(96) FBXL19_T(225) FBXL19_T(99),1.0,0.5,4,10,8,1.0,0.024173969253452283,0.5009631317684748

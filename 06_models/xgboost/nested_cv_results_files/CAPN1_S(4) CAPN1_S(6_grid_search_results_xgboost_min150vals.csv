@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAPN1_S(4) CAPN1_S(622) CAPN1_S(93) CAPN1_T(404) CAPN1_T(568),0.6,0.5,4,1,4,1.0,0.02396604659929247,0.23101738067812275

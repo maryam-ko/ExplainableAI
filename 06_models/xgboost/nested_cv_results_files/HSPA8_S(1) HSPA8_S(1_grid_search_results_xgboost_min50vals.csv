@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA8_S(1) HSPA8_S(19) HSPA8_S(2) HSPA8_S(254) HSPA8_S(329) HSPA8_S(4) HSPA8_S(541) HSPA8_S(544) HSPA8_S(6) HSPA8_S(633) HSPA8_S(638) HSPA8_S(85) HSPA8_S(9) HSPA8_T(158) HSPA8_T(64) HSPA8_T(641) HSPA8_Y(15),0.8,0.5,4,5,8,1.0,0.045838916008531926,0.3764391191007744

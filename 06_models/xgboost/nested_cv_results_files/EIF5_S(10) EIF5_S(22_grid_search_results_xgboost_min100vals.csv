@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF5_S(10) EIF5_S(229) EIF5_S(389) EIF5_S(390) EIF5_S(410) EIF5_S(419) EIF5_S(8) EIF5_T(153) EIF5_T(227) EIF5_T(235) EIF5_Y(405),0.6,0.5,4,1,8,0.8,0.052792718319063896,0.46912677139875214

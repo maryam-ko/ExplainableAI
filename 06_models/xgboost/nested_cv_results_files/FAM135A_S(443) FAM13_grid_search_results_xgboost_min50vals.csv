@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM135A_S(443) FAM135A_S(444) FAM135A_S(514) FAM135A_S(569) FAM135A_S(707) FAM135A_S(953),1.0,0.5,2,1,8,0.6,0.013862098121535915,0.045139400926799224

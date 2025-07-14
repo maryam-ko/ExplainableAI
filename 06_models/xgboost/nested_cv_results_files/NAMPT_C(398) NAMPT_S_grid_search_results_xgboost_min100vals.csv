@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAMPT_C(398) NAMPT_S(338) NAMPT_S(398) NAMPT_S(431) NAMPT_S(472),1.0,0.5,4,1,8,1.0,0.026222481918674188,0.3396592083685669

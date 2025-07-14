@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCOA3_S(1033) NCOA3_S(217) NCOA3_S(561) NCOA3_S(568) NCOA3_S(585) NCOA3_S(836) NCOA3_S(854) NCOA3_Y(585),1.0,0.5,2,1,4,0.8,0.007053168665568295,0.3122109044317366

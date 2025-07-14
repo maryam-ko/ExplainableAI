@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NADK_S(44) NADK_S(46) NADK_S(48) NADK_S(50) NADK_S(55) NADK_S(64) NADK_S(69) NADK_T(62),1.0,0.5,4,1,8,0.8,0.025003748404917214,0.6845417359521151

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GTF2IRD1_S(113) GTF2IRD1_S(118) GTF2IRD1_S(443) GTF2IRD1_S(448),0.6,0.5,4,1,6,1.0,0.018007926090299057,0.37798433372936796

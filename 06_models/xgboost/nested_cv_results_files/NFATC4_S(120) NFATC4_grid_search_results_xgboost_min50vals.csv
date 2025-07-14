@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFATC4_S(120) NFATC4_S(147) NFATC4_S(202) NFATC4_S(241) NFATC4_S(264) NFATC4_S(289) NFATC4_S(295) NFATC4_S(311) NFATC4_S(532) NFATC4_T(263) NFATC4_Y(271),1.0,0.5,3,1,8,1.0,0.0338389395006869,0.22387021089211365

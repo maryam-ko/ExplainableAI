@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH7_S(1542) MYH7_S(3) MYH7_S(810) MYH7_T(24) MYH7_T(424) MYH7_T(619) MYH7_Y(15) MYH7_Y(624) MYH7_Y(7),1.0,0.5,4,1,8,1.0,0.02199284881695179,0.306190823254057

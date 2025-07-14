@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LSG1_S(252) LSG1_T(124) LSG1_T(421),0.8,0.5,4,1,6,0.6,0.019942011303867684,0.013976912282205812

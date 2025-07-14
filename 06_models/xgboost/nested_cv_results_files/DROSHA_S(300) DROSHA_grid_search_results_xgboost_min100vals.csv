@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DROSHA_S(300) DROSHA_S(302) DROSHA_S(373) DROSHA_T(921),1.0,0.5,3,1,8,1.0,0.01736277705589385,0.5292503659893351

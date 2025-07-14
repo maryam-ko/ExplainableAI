@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CARHSP1_S(2) CARHSP1_S(27) CARHSP1_S(290) CARHSP1_S(30) CARHSP1_S(32) CARHSP1_S(35) CARHSP1_S(41) CARHSP1_S(49) CARHSP1_S(52) CARHSP1_S(53) CARHSP1_T(45),1.0,0.5,4,1,8,1.0,0.0664395898330781,0.5408439883408217

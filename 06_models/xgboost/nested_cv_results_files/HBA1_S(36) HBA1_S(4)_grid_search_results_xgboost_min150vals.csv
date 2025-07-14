@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HBA1_S(36) HBA1_S(4) HBA1_S(50) HBA1_S(53) HBA1_S(82) HBA1_T(138) HBA1_T(39),1.0,0.5,4,1,8,1.0,0.04628283509654748,0.5234768237242771

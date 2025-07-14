@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NTHL1_S(22) NTHL1_S(51) NTHL1_S(53) NTHL1_S(56) NTHL1_S(57) NTHL1_S(6) NTHL1_S(71),0.8,0.5,4,5,8,1.0,0.021196696506725954,0.4568405074574583

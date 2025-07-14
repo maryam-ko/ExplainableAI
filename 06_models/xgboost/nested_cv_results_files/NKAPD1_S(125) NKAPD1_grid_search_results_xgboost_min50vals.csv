@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NKAPD1_S(125) NKAPD1_S(134) NKAPD1_S(137) NKAPD1_S(183) NKAPD1_S(184) NKAPD1_S(185) NKAPD1_S(188) NKAPD1_T(123),0.6,0.5,1,1,6,0.6,0.016151556631391548,-0.019135838122438686

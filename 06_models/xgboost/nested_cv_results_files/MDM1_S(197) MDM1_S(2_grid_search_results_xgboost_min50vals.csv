@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MDM1_S(197) MDM1_S(218) MDM1_S(314) MDM1_S(543) MDM1_S(545) MDM1_S(560) MDM1_S(580) MDM1_S(648) MDM1_T(144),1.0,0.5,4,1,8,0.8,0.0162616519524611,0.14460300988193658

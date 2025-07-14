@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DES_S(28) DES_S(3) DES_S(301) DES_S(31) DES_S(32) DES_S(344) DES_S(358) DES_S(361) DES_S(45) DES_S(46) DES_S(48) DES_S(5) DES_S(57) DES_S(60) DES_S(68) DES_S(8) DES_T(1) DES_T(17) DES_T(4) DES_T(59),0.8,0.5,4,1,8,1.0,0.06216242452059312,0.28701704955124485

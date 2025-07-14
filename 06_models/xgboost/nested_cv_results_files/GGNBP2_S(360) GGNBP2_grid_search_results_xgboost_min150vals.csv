@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GGNBP2_S(360) GGNBP2_S(450),1.0,0.5,4,1,4,1.0,0.02277525450664213,0.3585083150816528

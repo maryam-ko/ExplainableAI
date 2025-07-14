@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEK9_C(25) NEK9_C(28) NEK9_C(29) NEK9_C(978) NEK9_S(13) NEK9_S(29) NEK9_S(331) NEK9_S(332) NEK9_S(801) NEK9_S(808) NEK9_S(855) NEK9_S(868) NEK9_S(869) NEK9_S(978) NEK9_T(254) NEK9_T(3) NEK9_T(333) NEK9_T(808),0.6,0.5,4,1,8,1.0,0.06423011922368438,0.3503465516325223

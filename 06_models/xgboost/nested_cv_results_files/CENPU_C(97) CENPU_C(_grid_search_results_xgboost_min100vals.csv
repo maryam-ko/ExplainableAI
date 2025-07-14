@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPU_C(97) CENPU_C(98) CENPU_S(112) CENPU_S(131) CENPU_S(141) CENPU_S(153) CENPU_S(158) CENPU_S(171) CENPU_S(190) CENPU_S(194) CENPU_S(554) CENPU_S(78) CENPU_S(79) CENPU_S(82) CENPU_T(110) CENPU_T(81),1.0,0.5,4,5,8,1.0,0.02553919851071368,0.7388364409768987

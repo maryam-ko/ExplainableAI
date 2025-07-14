@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CADPS2_S(187) CADPS2_S(221) CADPS2_S(55) CADPS2_S(58) CADPS2_S(65),0.6,1,1,1,4,0.6,0.01860513513793961,0.013743091492980742

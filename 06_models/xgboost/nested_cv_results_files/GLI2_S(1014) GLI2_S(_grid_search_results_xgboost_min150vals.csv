@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLI2_S(1014) GLI2_S(1101) GLI2_S(132) GLI2_S(136) GLI2_S(149) GLI2_S(234) GLI2_S(236) GLI2_S(242) GLI2_S(808) GLI2_S(823) GLI2_S(824) GLI2_S(827) GLI2_S(831) GLI2_S(92) GLI2_S(941),0.8,0.5,4,1,8,1.0,0.015708783832574468,0.6511744388368564

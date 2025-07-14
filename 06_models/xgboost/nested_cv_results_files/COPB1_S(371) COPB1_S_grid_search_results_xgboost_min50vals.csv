@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COPB1_S(371) COPB1_S(638) COPB1_S(644) COPB1_S(653) COPB1_S(773) COPB1_S(933) COPB1_Y(163) COPB1_Y(521),0.6,0.5,1,1,8,0.8,0.01246747499986776,-5.742075432517702e-05

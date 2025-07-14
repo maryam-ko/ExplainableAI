@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GREM1_S(13) GREM1_S(77),1.0,0.5,3,1,6,0.8,0.021206149203931247,0.2692094158852131

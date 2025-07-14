@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FER_S(411) FER_Y(402) FER_Y(509) FER_Y(714),0.6,0.5,2,1,8,0.6,0.01931538072353383,-0.0037970753216643783

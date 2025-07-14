@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGRMC1_S(47) PGRMC1_S(9) PGRMC1_T(178) PGRMC1_T(74) PGRMC1_Y(113),0.6,0.5,1,10,8,0.6,0.01737562002620749,-0.0016680334469939772

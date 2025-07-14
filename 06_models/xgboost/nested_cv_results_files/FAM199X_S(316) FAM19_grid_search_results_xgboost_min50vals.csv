@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM199X_S(316) FAM199X_S(321) FAM199X_S(323),1.0,0.5,2,1,8,0.6,0.019506978651938425,0.12594342565533462

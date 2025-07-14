@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CKAP2L_S(334) CKAP2L_S(338) CKAP2L_S(745) CKAP2L_T(331) CKAP2L_T(648) CKAP2L_T(737),0.6,0.5,1,1,2,1.0,0.0041693532347351564,-0.01471987004558919

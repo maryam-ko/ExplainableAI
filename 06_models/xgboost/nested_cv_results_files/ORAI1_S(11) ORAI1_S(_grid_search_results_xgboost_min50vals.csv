@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ORAI1_S(11) ORAI1_S(13) ORAI1_S(177) ORAI1_S(298) ORAI1_T(225) ORAI1_T(295) ORAI1_T(297) ORAI1_Y(230) ORAI1_Y(300),1.0,0.5,3,1,8,1.0,0.020791119109359088,0.23050534688066512

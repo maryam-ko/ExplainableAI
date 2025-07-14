@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ENTR1_S(170) ENTR1_S(174) ENTR1_S(18) ENTR1_S(240) ENTR1_S(243) ENTR1_S(247) ENTR1_S(279),0.6,0.5,4,1,8,1.0,0.03749090186921127,0.29123185138604035

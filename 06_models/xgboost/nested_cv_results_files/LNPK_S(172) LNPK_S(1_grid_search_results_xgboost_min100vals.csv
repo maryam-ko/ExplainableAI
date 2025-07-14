@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LNPK_S(172) LNPK_S(177) LNPK_S(182) LNPK_S(189) LNPK_S(194) LNPK_S(198) LNPK_S(217) LNPK_S(222) LNPK_S(227) LNPK_S(3) LNPK_S(321) LNPK_S(379) LNPK_S(382) LNPK_S(384) LNPK_S(386) LNPK_S(71) LNPK_T(174) LNPK_T(179) LNPK_T(213) LNPK_T(90),0.8,0.5,4,1,8,1.0,0.028454898666747372,0.5689363935189449

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRPS16_T(125) MRPS16_T(130) MRPS16_T(132),0.8,0.5,4,1,8,1.0,0.029415114838886654,0.5133670928879683

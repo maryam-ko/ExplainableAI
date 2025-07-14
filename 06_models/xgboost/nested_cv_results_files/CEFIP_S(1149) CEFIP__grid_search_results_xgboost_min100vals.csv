@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEFIP_S(1149) CEFIP_S(1246) CEFIP_S(332) CEFIP_S(5) CEFIP_S(6) CEFIP_S(729) CEFIP_S(731) CEFIP_S(765) CEFIP_S(9) CEFIP_T(293) CEFIP_T(691) CEFIP_T(7) CEFIP_T(878) CEFIP_T(9),1.0,0.5,4,1,8,1.0,0.021086016119033428,0.3110144263070236

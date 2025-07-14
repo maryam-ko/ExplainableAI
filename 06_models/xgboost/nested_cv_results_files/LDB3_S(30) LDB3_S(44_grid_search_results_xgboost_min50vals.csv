@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LDB3_S(30) LDB3_S(44) LDB3_S(505) LDB3_S(510) LDB3_S(73) LDB3_S(77) LDB3_S(90) LDB3_T(350) LDB3_T(512) LDB3_T(57) LDB3_Y(74),1.0,0.5,1,1,8,0.8,0.01304208999096027,-0.01280356620383083

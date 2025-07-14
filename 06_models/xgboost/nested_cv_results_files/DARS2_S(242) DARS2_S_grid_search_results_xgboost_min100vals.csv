@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DARS2_S(242) DARS2_S(249),0.6,0.5,4,1,8,1.0,0.0386680346752077,0.4195230126317001

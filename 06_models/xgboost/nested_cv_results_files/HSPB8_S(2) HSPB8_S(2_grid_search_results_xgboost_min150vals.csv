@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPB8_S(2) HSPB8_S(24) HSPB8_S(57) HSPB8_T(87),1.0,0.5,4,5,8,1.0,0.036957952779703145,0.453590697103247

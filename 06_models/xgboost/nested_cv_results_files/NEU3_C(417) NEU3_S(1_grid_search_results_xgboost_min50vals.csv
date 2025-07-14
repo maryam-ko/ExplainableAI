@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEU3_C(417) NEU3_S(12) NEU3_S(310) NEU3_S(313) NEU3_S(417),1.0,0.5,4,1,8,1.0,0.022555308325008336,0.24193402038988898

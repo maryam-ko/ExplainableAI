@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FSIP1_S(102) FSIP1_S(341) FSIP1_S(87),0.6,0.5,2,1,8,1.0,0.013085219744667162,0.2633057108815113

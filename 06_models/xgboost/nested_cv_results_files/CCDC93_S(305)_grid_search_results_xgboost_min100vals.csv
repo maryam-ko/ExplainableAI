@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC93_S(305),1.0,0.5,4,10,8,1.0,0.03777004704842331,0.42928513291599246

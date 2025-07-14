@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAZ_S(302) MAZ_S(312) MAZ_S(361),1.0,0.5,2,1,8,0.8,0.008739951590900534,0.23310650830431304

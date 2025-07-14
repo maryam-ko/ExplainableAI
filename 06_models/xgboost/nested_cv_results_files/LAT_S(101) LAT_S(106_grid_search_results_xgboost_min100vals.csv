@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LAT_S(101) LAT_S(106) LAT_S(109) LAT_S(212) LAT_S(224) LAT_S(4) LAT_S(40) LAT_S(43) LAT_S(84) LAT_S(91) LAT_T(39),1.0,0.5,2,1,2,1.0,0.019836193206085623,0.0786910075964673

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DYNC1I1_S(111) DYNC1I1_S(179) DYNC1I1_S(598) DYNC1I1_S(635) DYNC1I1_S(86) DYNC1I1_S(91) DYNC1I1_T(89),0.6,0.5,1,1,8,0.8,0.015365696818160175,-0.0033501616665973176

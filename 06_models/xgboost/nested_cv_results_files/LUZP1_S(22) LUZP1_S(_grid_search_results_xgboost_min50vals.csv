@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LUZP1_S(22) LUZP1_S(384) LUZP1_S(425) LUZP1_S(6) LUZP1_S(740) LUZP1_T(1004),0.6,0.5,1,1,8,0.8,0.006193520662068804,-0.0035445896742575035

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSI1_S(15) MSI1_S(191),0.8,0.5,2,1,2,0.6,0.015260298884507938,0.042025176844297185

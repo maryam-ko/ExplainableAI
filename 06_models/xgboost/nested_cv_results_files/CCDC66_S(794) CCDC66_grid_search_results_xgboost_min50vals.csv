@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC66_S(794) CCDC66_S(797) CCDC66_S(947),0.8,0.5,3,1,8,0.8,0.008802719496219122,0.26701897608427877

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYBA_T(147),1.0,0.5,1,5,8,0.6,0.031561699741518554,0.008483960757466024

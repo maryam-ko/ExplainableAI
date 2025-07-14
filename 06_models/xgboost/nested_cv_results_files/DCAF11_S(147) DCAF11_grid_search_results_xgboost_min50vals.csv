@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCAF11_S(147) DCAF11_S(7) DCAF11_S(75),1.0,0.5,2,5,6,0.6,0.01418076748193073,0.01934519205872425

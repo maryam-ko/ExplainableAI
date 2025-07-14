@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NVL_S(101) NVL_S(105) NVL_S(134) NVL_S(159) NVL_S(180) NVL_S(185) NVL_S(191) NVL_S(211) NVL_S(215) NVL_S(28) NVL_S(44) NVL_S(85) NVL_T(178) NVL_T(32) NVL_T(58) NVL_T(72),0.8,0.5,1,1,8,1.0,0.015345362078534392,0.27246215325550116

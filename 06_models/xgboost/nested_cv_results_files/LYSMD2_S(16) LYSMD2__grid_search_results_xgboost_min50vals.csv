@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LYSMD2_S(16) LYSMD2_S(206) LYSMD2_S(21) LYSMD2_S(215) LYSMD2_S(24) LYSMD2_S(29) LYSMD2_S(31) LYSMD2_S(33) LYSMD2_S(35) LYSMD2_S(4) LYSMD2_S(5) LYSMD2_S(54) LYSMD2_S(8) LYSMD2_Y(208),1.0,0.5,4,1,8,1.0,0.059299032649812275,0.2853455427364907

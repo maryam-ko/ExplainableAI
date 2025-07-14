@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GGCT_S(173) GGCT_S(37) GGCT_S(79),0.8,0.5,3,1,8,1.0,0.014199277288011947,0.1720714363317702

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HOMEZ_S(317) HOMEZ_S(351) HOMEZ_S(444) HOMEZ_T(437) HOMEZ_T(451),0.6,0.5,2,1,8,1.0,0.024603360461685,0.14265750252981604

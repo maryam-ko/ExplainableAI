@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+L1CAM_S(1163) L1CAM_S(1184) L1CAM_S(1191) L1CAM_S(1194) L1CAM_S(1239) L1CAM_S(1240) L1CAM_S(1243) L1CAM_S(1244) L1CAM_S(1248) L1CAM_T(1159) L1CAM_T(1243),1.0,0.5,4,1,8,1.0,0.018335340606911898,0.16740878664417386

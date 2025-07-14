@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EMSY_C(1213) EMSY_S(1039) EMSY_S(176) EMSY_S(385) EMSY_S(818) EMSY_S(821),0.8,0.5,4,10,8,1.0,0.021488962964581935,0.43652663964089433

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KCNB1_S(11) KCNB1_S(457) KCNB1_S(541) KCNB1_S(656) KCNB1_S(7) KCNB1_S(737) KCNB1_S(783) KCNB1_S(805) KCNB1_T(733),0.6,0.5,2,1,8,0.8,0.020140930411210047,0.022192999311449933

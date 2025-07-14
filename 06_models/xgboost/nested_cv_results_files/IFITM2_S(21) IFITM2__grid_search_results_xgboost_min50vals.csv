@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IFITM2_S(21) IFITM2_S(9) IFITM2_Y(19),0.8,0.5,2,1,8,0.8,0.010375434706802293,0.35089862429246355

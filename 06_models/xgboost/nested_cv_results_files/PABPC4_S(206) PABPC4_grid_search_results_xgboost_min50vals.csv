@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PABPC4_S(206) PABPC4_S(240) PABPC4_S(315) PABPC4_S(319) PABPC4_S(342) PABPC4_S(51) PABPC4_S(531) PABPC4_S(547) PABPC4_S(635) PABPC4_S(644) PABPC4_S(96) PABPC4_T(304),0.6,0.5,1,1,8,1.0,0.017671354618903196,0.049986061336964746

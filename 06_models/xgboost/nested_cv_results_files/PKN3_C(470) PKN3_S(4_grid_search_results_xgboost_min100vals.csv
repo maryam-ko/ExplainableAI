@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PKN3_C(470) PKN3_S(488) PKN3_S(527) PKN3_T(550) PKN3_T(860),0.6,0.5,2,1,8,1.0,0.015466780562162203,0.1525817109815848

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRRC41_S(155) LRRC41_S(276) LRRC41_S(326) LRRC41_S(330) LRRC41_S(335) LRRC41_S(357) LRRC41_S(359) LRRC41_T(327),1.0,0.5,4,1,8,0.8,0.021351887255477445,0.44096859730199806

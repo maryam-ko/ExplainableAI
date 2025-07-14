@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIK3C2B_S(13) PIK3C2B_S(155) PIK3C2B_S(308) PIK3C2B_Y(228),0.6,0.5,4,1,8,1.0,0.0282317968416772,0.11508619461823581

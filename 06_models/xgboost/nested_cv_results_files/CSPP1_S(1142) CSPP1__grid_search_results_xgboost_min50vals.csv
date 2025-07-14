@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSPP1_S(1142) CSPP1_S(586) CSPP1_S(866) CSPP1_S(901) CSPP1_S(904),0.6,0.5,2,1,8,0.6,0.013910509456733493,0.0013741601663364244

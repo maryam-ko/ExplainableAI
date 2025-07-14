@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBLN1_S(105) FBLN1_S(146) FBLN1_S(147) FBLN1_S(42),0.6,0.5,1,1,8,0.8,0.015091074144698971,0.0008784376867112753

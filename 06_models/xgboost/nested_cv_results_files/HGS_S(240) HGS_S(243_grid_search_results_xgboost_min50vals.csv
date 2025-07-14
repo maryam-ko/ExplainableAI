@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HGS_S(240) HGS_S(243) HGS_Y(237) HGS_Y(308) HGS_Y(334),1.0,0.5,3,1,8,0.8,0.013390487229867295,0.3261825565956572

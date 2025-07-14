@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOP14_M(96) NOP14_S(146) NOP14_S(148) NOP14_S(239) NOP14_S(349) NOP14_S(87) NOP14_S(96) NOP14_T(703),1.0,0.5,4,5,8,1.0,0.044784067567135294,0.28641269328071084

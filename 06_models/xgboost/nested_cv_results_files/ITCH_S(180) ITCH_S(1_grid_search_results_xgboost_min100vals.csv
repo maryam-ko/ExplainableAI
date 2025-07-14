@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITCH_S(180) ITCH_S(199) ITCH_S(221) ITCH_S(236) ITCH_S(240) ITCH_S(62) ITCH_S(66) ITCH_S(70) ITCH_S(85) ITCH_S(89) ITCH_T(88),0.8,0.5,4,5,6,1.0,0.024785937039576704,0.482548358089387

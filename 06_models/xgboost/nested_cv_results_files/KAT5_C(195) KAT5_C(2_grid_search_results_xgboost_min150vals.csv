@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KAT5_C(195) KAT5_C(202) KAT5_S(149) KAT5_S(155) KAT5_S(188) KAT5_S(192) KAT5_S(86) KAT5_S(90) KAT5_T(191),0.6,0.5,4,1,8,1.0,0.013136297534325384,0.4005499092057584

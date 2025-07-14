@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAPK3_S(311) DAPK3_S(312) DAPK3_S(407),1.0,0.5,4,1,8,1.0,0.024003157661918437,0.6042612484558753

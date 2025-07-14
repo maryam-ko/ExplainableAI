@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OPHN1_S(143) OPHN1_S(352) OPHN1_S(372) OPHN1_S(651) OPHN1_S(652) OPHN1_S(654) OPHN1_S(703) OPHN1_T(347) OPHN1_T(685) OPHN1_Y(370),1.0,0.5,4,5,8,1.0,0.03579995143556574,0.23496529724147655

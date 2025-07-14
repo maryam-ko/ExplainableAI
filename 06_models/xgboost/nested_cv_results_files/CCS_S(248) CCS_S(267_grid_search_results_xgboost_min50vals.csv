@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCS_S(248) CCS_S(267),0.8,0.5,4,10,8,1.0,0.025349643157538748,0.5657807432405252

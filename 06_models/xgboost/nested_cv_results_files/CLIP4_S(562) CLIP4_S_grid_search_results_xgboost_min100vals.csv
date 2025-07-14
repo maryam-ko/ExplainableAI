@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLIP4_S(562) CLIP4_S(579) CLIP4_S(581) CLIP4_S(609),1.0,0.5,3,1,8,1.0,0.020367069658281712,0.36789664411205236

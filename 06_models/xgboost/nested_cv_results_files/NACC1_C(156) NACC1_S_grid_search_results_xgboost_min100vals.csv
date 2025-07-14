@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NACC1_C(156) NACC1_S(141) NACC1_S(145) NACC1_S(188) NACC1_S(274) NACC1_S(330) NACC1_S(514) NACC1_Y(270) NACC1_Y(278) NACC1_Y(489),1.0,0.5,2,1,8,0.8,0.01790711760723548,0.16673057474786152

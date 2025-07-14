@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PES1_S(13) PES1_S(280) PES1_S(282) PES1_S(307) PES1_S(55) PES1_T(302) PES1_Y(434),0.8,0.5,4,1,8,0.8,0.01593013488418154,0.23410756416085632

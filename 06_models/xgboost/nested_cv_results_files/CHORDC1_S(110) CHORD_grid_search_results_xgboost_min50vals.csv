@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHORDC1_S(110) CHORDC1_S(137) CHORDC1_S(20) CHORDC1_T(199),1.0,0.5,3,10,8,0.8,0.010142370771935385,0.22425374745727158

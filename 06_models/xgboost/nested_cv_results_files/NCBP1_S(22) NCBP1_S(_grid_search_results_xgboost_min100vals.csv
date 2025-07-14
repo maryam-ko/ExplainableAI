@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCBP1_S(22) NCBP1_S(36) NCBP1_S(674) NCBP1_S(7) NCBP1_T(19) NCBP1_T(21) NCBP1_T(36) NCBP1_Y(228),0.8,0.5,4,1,8,0.8,0.04204324793104644,0.5374201111685115

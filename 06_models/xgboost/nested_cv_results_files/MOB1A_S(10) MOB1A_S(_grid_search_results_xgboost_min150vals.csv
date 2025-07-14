@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MOB1A_S(10) MOB1A_S(2) MOB1A_S(38) MOB1A_S(9) MOB1A_T(35) MOB1A_T(40) MOB1A_T(5) MOB1A_Y(26),1.0,0.5,4,1,8,1.0,0.022717684938013072,0.5314453276644571

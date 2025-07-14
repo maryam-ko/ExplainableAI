@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOSIP_S(107) NOSIP_S(138) NOSIP_S(152) NOSIP_S(166) NOSIP_S(180) NOSIP_S(26) NOSIP_S(286) NOSIP_S(36) NOSIP_S(502) NOSIP_T(137) NOSIP_T(168) NOSIP_T(182) NOSIP_T(184) NOSIP_T(30) NOSIP_Y(14),1.0,0.5,4,1,8,1.0,0.028232614857120465,0.74037843263987

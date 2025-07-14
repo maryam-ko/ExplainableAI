@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IBTK_S(1054) IBTK_S(1083) IBTK_S(1111) IBTK_S(1113) IBTK_S(1195) IBTK_S(1198) IBTK_S(1203) IBTK_S(803) IBTK_S(993) IBTK_Y(660),1.0,0.5,2,1,6,0.8,0.009497018197829126,0.17622587842392473

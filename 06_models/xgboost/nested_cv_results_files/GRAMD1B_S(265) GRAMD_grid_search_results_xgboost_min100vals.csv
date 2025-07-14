@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRAMD1B_S(265) GRAMD1B_S(274) GRAMD1B_S(28) GRAMD1B_S(30) GRAMD1B_S(53) GRAMD1B_S(55) GRAMD1B_S(581) GRAMD1B_S(80) GRAMD1B_T(32) GRAMD1B_T(585) GRAMD1B_T(587),1.0,0.5,4,1,8,1.0,0.012677652656454895,0.18526978689388884

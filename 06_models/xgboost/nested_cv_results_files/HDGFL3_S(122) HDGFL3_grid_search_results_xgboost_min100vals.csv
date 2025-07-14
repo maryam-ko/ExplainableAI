@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HDGFL3_S(122) HDGFL3_S(162) HDGFL3_S(177) HDGFL3_S(178) HDGFL3_S(179) HDGFL3_S(180),0.8,0.5,2,1,8,0.8,0.02667369050542731,0.043539093559545064

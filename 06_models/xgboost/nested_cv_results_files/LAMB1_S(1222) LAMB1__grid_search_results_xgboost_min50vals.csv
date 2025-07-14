@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LAMB1_S(1222) LAMB1_S(1246) LAMB1_S(1666) LAMB1_S(1682) LAMB1_S(250) LAMB1_S(5),0.8,0.5,4,1,8,0.8,0.016603368012970257,0.2874598539745314

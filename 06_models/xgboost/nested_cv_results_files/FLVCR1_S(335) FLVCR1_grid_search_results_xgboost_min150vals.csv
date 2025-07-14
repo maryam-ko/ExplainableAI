@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FLVCR1_S(335) FLVCR1_S(530) FLVCR1_S(536) FLVCR1_S(54) FLVCR1_S(56) FLVCR1_T(69) FLVCR1_T(90) FLVCR1_Y(22),1.0,0.5,4,5,8,0.8,0.030044967545298423,0.4471508778231306

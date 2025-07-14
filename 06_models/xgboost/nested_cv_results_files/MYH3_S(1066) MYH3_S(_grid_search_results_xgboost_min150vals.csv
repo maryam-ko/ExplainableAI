@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH3_S(1066) MYH3_S(729) MYH3_S(739) MYH3_S(954) MYH3_T(1696) MYH3_T(3505),1.0,0.5,4,1,8,1.0,0.06110773030445493,0.3439199188122021

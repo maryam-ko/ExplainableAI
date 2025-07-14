@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYRF_S(261) MYRF_S(736) MYRF_T(419) MYRF_Y(416),0.6,0.5,3,10,4,1.0,0.016231737203503214,0.13354999486829838

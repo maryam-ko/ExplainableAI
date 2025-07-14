@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM234A_S(1) FAM234A_S(21) FAM234A_S(6),1.0,0.5,4,10,8,1.0,0.02189019179878774,0.7566784279790323

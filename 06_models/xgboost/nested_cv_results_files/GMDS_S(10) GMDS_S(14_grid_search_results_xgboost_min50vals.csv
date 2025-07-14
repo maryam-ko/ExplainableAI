@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GMDS_S(10) GMDS_S(14),0.6,0.5,4,10,4,1.0,0.03180635296414174,0.1028480045038492

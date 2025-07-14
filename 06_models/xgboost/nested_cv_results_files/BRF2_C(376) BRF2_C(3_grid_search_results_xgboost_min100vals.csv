@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRF2_C(376) BRF2_C(385) BRF2_S(353) BRF2_S(361) BRF2_S(385) BRF2_S(387),0.8,0.5,4,1,8,1.0,0.024401848817564378,0.5382492975072309

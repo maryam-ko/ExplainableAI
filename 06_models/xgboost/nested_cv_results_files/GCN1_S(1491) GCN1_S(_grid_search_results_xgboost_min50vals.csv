@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GCN1_S(1491) GCN1_S(22) GCN1_S(2276) GCN1_S(729) GCN1_S(786) GCN1_S(800) GCN1_T(1022) GCN1_T(956) GCN1_T(960),1.0,0.5,4,1,8,0.8,0.034909910473224726,0.12551444202248702

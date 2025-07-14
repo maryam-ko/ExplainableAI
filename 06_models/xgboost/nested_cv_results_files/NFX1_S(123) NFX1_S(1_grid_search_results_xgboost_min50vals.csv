@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFX1_S(123) NFX1_S(142) NFX1_S(150) NFX1_S(154) NFX1_S(326) NFX1_S(90) NFX1_S(95) NFX1_T(128) NFX1_Y(1115),1.0,0.5,4,1,8,0.8,0.035509480070228985,0.29963598360344984

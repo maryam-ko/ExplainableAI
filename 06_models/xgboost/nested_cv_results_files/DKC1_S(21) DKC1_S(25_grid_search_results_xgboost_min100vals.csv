@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DKC1_S(21) DKC1_S(251) DKC1_S(413) DKC1_S(480) DKC1_S(494) DKC1_S(513) DKC1_T(497),1.0,0.5,4,1,8,1.0,0.05403153628678932,0.5585981885295254

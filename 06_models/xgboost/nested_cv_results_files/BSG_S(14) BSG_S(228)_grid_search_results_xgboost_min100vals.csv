@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BSG_S(14) BSG_S(228) BSG_S(246) BSG_S(362),1.0,0.5,4,1,8,1.0,0.031921517682498894,0.3918958782096806

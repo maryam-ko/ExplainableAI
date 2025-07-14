@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOL6_S(283) NOL6_S(289) NOL6_S(807) NOL6_S(811) NOL6_T(27) NOL6_T(909),0.6,0.5,4,1,8,1.0,0.02249195931654119,0.09311469357243822

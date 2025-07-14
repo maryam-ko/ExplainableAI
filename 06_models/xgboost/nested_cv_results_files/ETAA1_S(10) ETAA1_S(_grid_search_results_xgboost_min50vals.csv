@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ETAA1_S(10) ETAA1_S(130) ETAA1_S(186) ETAA1_S(342) ETAA1_S(433) ETAA1_S(464) ETAA1_S(529) ETAA1_S(553) ETAA1_S(795) ETAA1_T(796),1.0,0.5,1,10,8,0.8,0.009946428052677961,0.16349916920989255

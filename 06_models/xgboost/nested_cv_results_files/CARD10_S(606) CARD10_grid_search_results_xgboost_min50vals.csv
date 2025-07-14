@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CARD10_S(606) CARD10_S(638) CARD10_S(642) CARD10_S(815),0.8,0.5,4,1,8,1.0,0.010718604414521733,0.355403628189936

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MVP_S(12) MVP_S(445) MVP_S(864) MVP_S(867) MVP_S(873) MVP_S(876) MVP_T(442) MVP_T(60) MVP_T(608),1.0,0.5,4,1,8,0.8,0.043954371093585125,0.5792529435788508

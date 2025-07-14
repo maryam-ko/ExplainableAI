@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PADI2_S(10) PADI2_S(182) PADI2_S(4) PADI2_S(438) PADI2_S(536) PADI2_S(82) PADI2_T(1) PADI2_T(8) PADI2_T(86) PADI2_Y(11) PADI2_Y(3),0.8,0.5,4,1,8,1.0,0.0363330524731916,0.17256635475710966

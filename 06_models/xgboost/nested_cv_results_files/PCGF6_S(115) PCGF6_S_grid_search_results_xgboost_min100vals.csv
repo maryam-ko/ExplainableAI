@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCGF6_S(115) PCGF6_S(117) PCGF6_S(233),0.8,0.5,4,5,8,1.0,0.02927018070916028,0.4213179954972704

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C2CD4C_S(164) C2CD4C_S(256) C2CD4C_S(262) C2CD4C_S(273) C2CD4C_S(89),0.8,0.5,4,1,8,1.0,0.019497749277851237,0.197951133968362

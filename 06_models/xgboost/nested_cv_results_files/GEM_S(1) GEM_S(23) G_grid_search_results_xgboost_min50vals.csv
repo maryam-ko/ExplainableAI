@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GEM_S(1) GEM_S(23) GEM_S(288),0.8,0.5,2,1,6,0.8,0.0175060698078468,0.18870408901657226

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NME2_S(120) NME2_S(235) NME2_S(237) NME2_S(44) NME2_S(6) NME2_S(8) NME2_T(119) NME2_T(94) NME2_Y(52),0.6,0.5,2,1,8,1.0,0.02802879275446966,0.03966150694151023

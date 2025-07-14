@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITPRIPL2_S(139) ITPRIPL2_S(78),0.6,0.5,2,1,4,0.8,0.009428949485195405,0.32348259073826335

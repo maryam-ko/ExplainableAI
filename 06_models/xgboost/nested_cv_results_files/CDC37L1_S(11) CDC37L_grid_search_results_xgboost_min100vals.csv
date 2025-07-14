@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC37L1_S(11) CDC37L1_S(139) CDC37L1_S(32) CDC37L1_S(88),0.8,0.5,4,1,8,1.0,0.01989337135019703,0.4587546829485644

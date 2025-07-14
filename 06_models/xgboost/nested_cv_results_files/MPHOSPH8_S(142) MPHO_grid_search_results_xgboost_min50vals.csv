@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPHOSPH8_S(142) MPHOSPH8_S(149) MPHOSPH8_S(316) MPHOSPH8_S(99) MPHOSPH8_T(240) MPHOSPH8_T(242) MPHOSPH8_T(396) MPHOSPH8_T(99) MPHOSPH8_Y(99),0.6,0.5,1,1,4,0.6,0.01810124162972693,-0.00033804943250719254

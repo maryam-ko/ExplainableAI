@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NKTR_C(394) NKTR_C(395) NKTR_S(1392) NKTR_S(1406) NKTR_S(384) NKTR_S(393) NKTR_S(394) NKTR_S(403) NKTR_S(410) NKTR_S(940) NKTR_S(958) NKTR_S(965) NKTR_T(265) NKTR_T(43) NKTR_T(855),1.0,0.5,1,1,8,0.8,0.0046528395329987725,0.13238001599834337

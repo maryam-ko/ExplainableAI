@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHFR_S(10),0.6,0.5,1,1,6,0.6,0.007004989000067547,-0.005362791431068903

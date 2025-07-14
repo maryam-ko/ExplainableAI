@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHB1_S(101) PHB1_S(151) PHB1_S(8) PHB1_T(108) PHB1_T(230) PHB1_Y(249),0.8,0.5,4,1,4,1.0,0.04854813833498385,0.33091627748585

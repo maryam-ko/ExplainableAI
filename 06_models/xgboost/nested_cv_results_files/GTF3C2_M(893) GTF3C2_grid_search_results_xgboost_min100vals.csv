@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GTF3C2_M(893) GTF3C2_S(132) GTF3C2_S(177) GTF3C2_S(25) GTF3C2_S(282) GTF3C2_S(5) GTF3C2_S(63) GTF3C2_S(871) GTF3C2_S(9) GTF3C2_T(179) GTF3C2_T(486),0.6,0.5,1,1,6,1.0,0.013176758022341403,0.29653991278615316

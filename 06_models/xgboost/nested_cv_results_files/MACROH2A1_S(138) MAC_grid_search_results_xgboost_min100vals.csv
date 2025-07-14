@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MACROH2A1_S(138) MACROH2A1_S(169) MACROH2A1_S(172) MACROH2A1_T(173) MACROH2A1_T(174) MACROH2A1_T(177),1.0,0.5,4,10,8,1.0,0.023435139426113447,0.5785876522743523

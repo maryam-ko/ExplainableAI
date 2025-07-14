@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNTLN_S(12) CNTLN_S(432) CNTLN_S(5) CNTLN_S(8) CNTLN_T(571) CNTLN_Y(573),0.6,0.5,2,1,8,0.6,0.014857112689898682,0.12608003088246772

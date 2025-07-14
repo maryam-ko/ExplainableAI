@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRTC2_S(11) CRTC2_S(164) CRTC2_S(17) CRTC2_S(436) CRTC2_S(447) CRTC2_S(504) CRTC2_S(7) CRTC2_S(86) CRTC2_T(620),0.6,0.5,2,1,4,1.0,0.014259741590982977,0.2022037209863182

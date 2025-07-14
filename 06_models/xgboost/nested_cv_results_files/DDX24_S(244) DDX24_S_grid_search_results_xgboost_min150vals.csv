@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX24_S(244) DDX24_S(287) DDX24_S(60) DDX24_S(802) DDX24_S(93) DDX24_S(94),0.8,0.5,4,5,8,1.0,0.01996234343109846,0.5024915156381345

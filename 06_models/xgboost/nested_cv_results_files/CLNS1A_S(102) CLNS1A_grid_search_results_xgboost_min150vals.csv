@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLNS1A_S(102) CLNS1A_S(157) CLNS1A_S(195) CLNS1A_T(110),0.8,0.5,4,5,8,1.0,0.055603237076922336,0.6601065037943152

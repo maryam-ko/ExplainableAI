@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HECA_S(244) HECA_S(250) HECA_S(264) HECA_S(268) HECA_S(272),1.0,0.5,3,1,8,0.8,0.014304100789892799,0.08763775031078869

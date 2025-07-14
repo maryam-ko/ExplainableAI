@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSTF2T_S(563) CSTF2T_T(320),1.0,0.5,4,1,8,1.0,0.05111201561792311,0.401206767648225

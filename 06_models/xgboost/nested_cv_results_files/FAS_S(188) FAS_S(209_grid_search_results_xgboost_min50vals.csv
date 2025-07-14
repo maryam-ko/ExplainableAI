@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAS_S(188) FAS_S(209) FAS_S(212) FAS_S(301) FAS_T(214) FAS_T(272) FAS_T(305),0.8,0.5,4,1,2,1.0,0.011731641426020087,0.061040910973389484

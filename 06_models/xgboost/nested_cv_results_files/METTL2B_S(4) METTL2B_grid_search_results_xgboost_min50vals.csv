@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL2B_S(4) METTL2B_T(154) METTL2B_T(89),0.6,0.5,3,5,8,0.8,0.02151386099648452,0.2168501006309591

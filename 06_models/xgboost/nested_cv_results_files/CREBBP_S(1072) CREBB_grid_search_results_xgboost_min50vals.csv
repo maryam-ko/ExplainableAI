@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CREBBP_S(1072) CREBBP_S(2351) CREBBP_S(976) CREBBP_T(974),1.0,0.5,3,1,6,0.8,0.014263936561110387,0.22447487747469425

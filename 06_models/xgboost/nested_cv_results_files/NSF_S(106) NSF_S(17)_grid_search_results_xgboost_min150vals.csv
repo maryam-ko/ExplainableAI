@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSF_S(106) NSF_S(17) NSF_S(207) NSF_S(293) NSF_S(298) NSF_S(432) NSF_S(437) NSF_S(472) NSF_S(739) NSF_T(166),1.0,0.5,4,5,6,1.0,0.0324546264205006,0.5167308323101966

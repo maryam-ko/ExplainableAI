@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BMS1_S(396) BMS1_S(403) BMS1_S(494) BMS1_S(504) BMS1_S(548) BMS1_S(552) BMS1_S(556) BMS1_S(558) BMS1_S(625) BMS1_S(639) BMS1_S(731) BMS1_S(820) BMS1_T(265) BMS1_T(638) BMS1_T(698) BMS1_T(708) BMS1_T(800),1.0,0.5,4,1,8,1.0,0.02765000703508955,0.714532028841509

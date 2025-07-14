@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM114A2_S(146) FAM114A2_S(24) FAM114A2_S(87) FAM114A2_T(24) FAM114A2_T(3),1.0,0.5,2,10,6,1.0,0.026253424476207435,0.1774219276453922

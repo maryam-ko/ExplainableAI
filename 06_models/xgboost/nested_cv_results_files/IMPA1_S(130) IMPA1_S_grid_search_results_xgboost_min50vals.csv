@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IMPA1_S(130) IMPA1_S(131) IMPA1_S(165) IMPA1_S(38) IMPA1_S(673),0.6,0.5,2,1,8,0.8,0.011091480131258115,0.2752748501300451

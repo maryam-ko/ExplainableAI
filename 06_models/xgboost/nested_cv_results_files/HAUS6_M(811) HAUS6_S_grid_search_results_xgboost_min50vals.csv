@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HAUS6_M(811) HAUS6_S(387) HAUS6_S(507) HAUS6_S(530) HAUS6_S(550) HAUS6_S(664) HAUS6_S(715) HAUS6_S(728) HAUS6_S(811) HAUS6_S(854) HAUS6_S(856) HAUS6_S(914) HAUS6_T(584) HAUS6_T(590) HAUS6_Y(418),1.0,0.5,3,1,8,1.0,0.026868131419418753,0.23251427372503547

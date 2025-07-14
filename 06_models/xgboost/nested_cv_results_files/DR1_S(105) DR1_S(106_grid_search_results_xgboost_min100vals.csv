@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DR1_S(105) DR1_S(106) DR1_S(3),1.0,0.5,4,10,6,1.0,0.025998702026996032,0.4096342202310973

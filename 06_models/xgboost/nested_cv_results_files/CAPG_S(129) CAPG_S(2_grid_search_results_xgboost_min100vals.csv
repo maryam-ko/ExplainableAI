@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAPG_S(129) CAPG_S(200) CAPG_S(322) CAPG_S(337) CAPG_S(8) CAPG_T(212),1.0,0.5,4,1,8,1.0,0.021763056990256685,0.42139922709360855

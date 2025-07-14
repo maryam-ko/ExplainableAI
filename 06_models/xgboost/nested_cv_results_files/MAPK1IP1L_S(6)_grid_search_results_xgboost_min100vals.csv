@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPK1IP1L_S(6),1.0,0.5,3,1,6,0.8,0.019816887782232683,0.038800955744317786

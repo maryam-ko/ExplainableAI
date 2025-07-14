@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXD2_S(282) EXD2_S(352) EXD2_S(407) EXD2_S(50),0.8,0.5,4,5,8,1.0,0.01239985123523895,0.3724399683674903

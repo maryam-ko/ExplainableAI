@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FOXK2_S(162) FOXK2_S(170) FOXK2_S(24) FOXK2_S(30) FOXK2_S(394) FOXK2_S(431) FOXK2_S(432),1.0,0.5,4,1,8,1.0,0.039953825888748774,0.7215882948944061

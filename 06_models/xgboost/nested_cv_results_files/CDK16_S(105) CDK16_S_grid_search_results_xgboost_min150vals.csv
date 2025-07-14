@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDK16_S(105) CDK16_S(1066) CDK16_S(107) CDK16_S(116) CDK16_S(119) CDK16_S(155) CDK16_S(159) CDK16_S(161) CDK16_S(3) CDK16_S(4) CDK16_S(62) CDK16_S(78) CDK16_T(111) CDK16_T(184),1.0,0.5,4,10,8,1.0,0.039502481391790446,0.7085179200622876

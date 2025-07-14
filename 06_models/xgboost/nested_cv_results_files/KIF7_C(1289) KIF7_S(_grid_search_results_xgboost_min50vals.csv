@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF7_C(1289) KIF7_S(1281) KIF7_S(1283) KIF7_S(1289) KIF7_S(1332) KIF7_S(617) KIF7_S(619) KIF7_S(620) KIF7_S(623) KIF7_S(657) KIF7_S(893) KIF7_S(895),0.8,0.5,1,1,6,0.6,0.013951318656100095,0.2433255313652472

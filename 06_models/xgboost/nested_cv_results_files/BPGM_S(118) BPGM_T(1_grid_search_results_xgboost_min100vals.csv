@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BPGM_S(118) BPGM_T(122),1.0,0.5,4,1,8,1.0,0.02906430320652523,0.21938118717610972

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXOC8_S(147) EXOC8_S(151) EXOC8_S(19) EXOC8_S(32) EXOC8_S(372) EXOC8_S(720) EXOC8_T(142),1.0,0.5,4,1,6,1.0,0.03409781787652805,0.510030552983196

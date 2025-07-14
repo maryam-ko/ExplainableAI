@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NRCAM_S(1133) NRCAM_S(1226) NRCAM_S(1251) NRCAM_S(1295) NRCAM_T(1221) NRCAM_Y(1225),0.6,0.5,1,1,8,1.0,0.015622170069649657,0.2187103882802889

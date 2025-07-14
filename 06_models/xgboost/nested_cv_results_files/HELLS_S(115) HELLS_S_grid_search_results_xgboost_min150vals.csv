@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HELLS_S(115) HELLS_S(119) HELLS_S(188) HELLS_S(373) HELLS_S(503) HELLS_S(520) HELLS_S(813) HELLS_S(829) HELLS_S(832) HELLS_S(833) HELLS_S(836) HELLS_T(499) HELLS_T(505),1.0,0.5,4,1,8,0.8,0.021443158276845283,0.5080049130356383

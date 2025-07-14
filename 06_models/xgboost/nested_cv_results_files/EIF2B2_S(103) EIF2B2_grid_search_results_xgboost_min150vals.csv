@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF2B2_S(103) EIF2B2_S(108) EIF2B2_S(94) EIF2B2_T(173),1.0,0.5,3,1,4,1.0,0.01927409095513718,0.24776811142183303

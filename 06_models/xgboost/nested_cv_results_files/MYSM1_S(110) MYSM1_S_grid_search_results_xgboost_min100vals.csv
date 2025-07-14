@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYSM1_S(110) MYSM1_S(118) MYSM1_S(218) MYSM1_S(267) MYSM1_S(340) MYSM1_S(344) MYSM1_T(226),1.0,0.5,4,1,8,1.0,0.04519786290513435,0.45463867627977095

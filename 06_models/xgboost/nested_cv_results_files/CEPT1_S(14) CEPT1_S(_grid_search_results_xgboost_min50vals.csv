@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEPT1_S(14) CEPT1_S(18) CEPT1_S(44) CEPT1_T(1) CEPT1_T(40),1.0,0.5,1,10,8,0.8,0.018027042866976744,0.09508032944219595

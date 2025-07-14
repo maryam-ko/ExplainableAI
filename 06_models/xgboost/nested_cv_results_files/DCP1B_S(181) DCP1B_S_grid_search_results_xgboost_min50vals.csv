@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCP1B_S(181) DCP1B_S(273) DCP1B_S(496) DCP1B_T(363) DCP1B_T(504),0.6,0.5,1,1,8,0.6,0.00592593825219971,-0.0005599304386629811

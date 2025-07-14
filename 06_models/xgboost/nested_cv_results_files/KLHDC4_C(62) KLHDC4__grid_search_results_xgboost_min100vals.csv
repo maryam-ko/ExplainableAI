@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLHDC4_C(62) KLHDC4_S(114) KLHDC4_S(222) KLHDC4_S(224) KLHDC4_S(356) KLHDC4_S(361) KLHDC4_S(413) KLHDC4_S(418) KLHDC4_S(62) KLHDC4_T(229) KLHDC4_T(403),1.0,0.5,4,10,8,1.0,0.027533326066296646,0.577483009472354

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MFF_S(105) MFF_S(129) MFF_S(131) MFF_S(172) MFF_S(177) MFF_S(178) MFF_S(179) MFF_S(182) MFF_S(202) MFF_S(207) MFF_S(212) MFF_S(222) MFF_S(233) MFF_S(258) MFF_S(79) MFF_T(115) MFF_T(200) MFF_T(89),0.8,0.5,4,1,8,1.0,0.017775926793601078,0.5326429696239156

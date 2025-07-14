@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCAM_S(606) MCAM_S(614) MCAM_S(627) MCAM_S(628),1.0,0.5,4,10,8,1.0,0.03894678470291622,0.17403269165785

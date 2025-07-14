@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PICALM_S(16) PICALM_S(2) PICALM_S(20) PICALM_S(277) PICALM_S(303) PICALM_S(315) PICALM_S(359) PICALM_S(474) PICALM_S(5) PICALM_T(379) PICALM_T(573),0.6,0.5,3,1,8,0.6,0.016495613061259243,0.11198921621987046

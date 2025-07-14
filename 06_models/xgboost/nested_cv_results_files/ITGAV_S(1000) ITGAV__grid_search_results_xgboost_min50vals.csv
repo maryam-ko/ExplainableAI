@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITGAV_S(1000) ITGAV_S(1010) ITGAV_S(1046) ITGAV_T(1002) ITGAV_T(1012),0.6,0.5,3,1,8,1.0,0.02425180659030073,0.17696993861610305

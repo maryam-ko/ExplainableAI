@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GAK_S(1096) GAK_S(826) GAK_S(829) GAK_S(834) GAK_Y(403),1.0,0.5,4,1,4,1.0,0.023637584051008378,0.2112875141239968

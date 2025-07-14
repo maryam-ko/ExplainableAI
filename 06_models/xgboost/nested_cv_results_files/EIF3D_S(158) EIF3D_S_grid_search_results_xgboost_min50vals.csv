@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF3D_S(158) EIF3D_S(161) EIF3D_S(284) EIF3D_S(305) EIF3D_S(308),1.0,0.5,2,1,8,0.8,0.018607607605038202,0.1494729933453066

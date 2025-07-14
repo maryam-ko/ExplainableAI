@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ESYT2_M(691) ESYT2_M(693) ESYT2_M(701) ESYT2_S(660) ESYT2_S(662) ESYT2_S(663) ESYT2_S(685) ESYT2_S(716) ESYT2_S(748) ESYT2_S(760) ESYT2_T(677) ESYT2_T(705) ESYT2_T(716),0.8,0.5,2,1,8,0.8,0.011090368647190511,0.22669163470736037

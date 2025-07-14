@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LDHB_S(303) LDHB_S(320) LDHB_T(302),0.8,0.5,2,1,8,1.0,0.00911875819870723,0.13841947531735468

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JPT1_M(54) JPT1_S(115) JPT1_S(12) JPT1_S(131) JPT1_S(14) JPT1_S(150) JPT1_S(28) JPT1_S(31) JPT1_S(69) JPT1_S(70) JPT1_S(71) JPT1_S(79) JPT1_S(85) JPT1_S(88) JPT1_S(91) JPT1_S(92) JPT1_T(54),1.0,0.5,4,5,8,1.0,0.023465605905078686,0.8216468739971923

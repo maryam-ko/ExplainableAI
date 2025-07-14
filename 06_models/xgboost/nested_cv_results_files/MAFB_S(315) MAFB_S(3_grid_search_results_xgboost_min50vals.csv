@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAFB_S(315) MAFB_S(318) MAFB_S(74),1.0,0.5,3,1,8,0.8,0.01104365390382855,0.20807573219843464

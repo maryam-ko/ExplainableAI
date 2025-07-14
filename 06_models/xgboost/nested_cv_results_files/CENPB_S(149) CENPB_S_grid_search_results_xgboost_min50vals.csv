@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPB_S(149) CENPB_S(156) CENPB_S(165) CENPB_S(307) CENPB_S(400) CENPB_T(150) CENPB_T(398),1.0,0.5,4,5,8,1.0,0.048376615935330325,0.29608890742259125

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM83F_S(4) FAM83F_S(473) FAM83F_S(484) FAM83F_S(56) FAM83F_S(61),0.8,0.5,4,1,8,1.0,0.03587887835826251,0.03689481719889456

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CWC25_M(218) CWC25_S(155) CWC25_S(170) CWC25_S(213) CWC25_S(217) CWC25_S(218) CWC25_S(222) CWC25_S(293) CWC25_S(295) CWC25_S(316) CWC25_S(318) CWC25_S(337),0.8,0.5,4,1,8,0.8,0.03706376282120571,0.5962829619310741

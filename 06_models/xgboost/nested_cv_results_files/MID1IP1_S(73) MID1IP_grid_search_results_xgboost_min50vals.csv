@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MID1IP1_S(73) MID1IP1_S(79) MID1IP1_T(66) MID1IP1_T(67) MID1IP1_T(75),1.0,0.5,2,1,8,0.8,0.01712745593240847,0.1752985768818859

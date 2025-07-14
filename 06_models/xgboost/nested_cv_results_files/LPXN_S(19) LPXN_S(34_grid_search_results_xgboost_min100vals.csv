@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LPXN_S(19) LPXN_S(342) LPXN_Y(22),1.0,0.5,4,1,8,0.8,0.017667668083686684,0.16528782072396073

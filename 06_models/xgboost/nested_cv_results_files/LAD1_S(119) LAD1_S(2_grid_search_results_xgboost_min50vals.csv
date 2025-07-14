@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LAD1_S(119) LAD1_S(201) LAD1_S(251) LAD1_S(265) LAD1_S(271) LAD1_S(344) LAD1_S(360) LAD1_S(391) LAD1_S(61) LAD1_T(200) LAD1_T(358),0.6,0.5,1,1,6,0.6,0.01789325507445993,-0.009267715559685285

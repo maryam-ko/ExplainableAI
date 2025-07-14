@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCNP_S(108) PCNP_S(119) PCNP_S(142) PCNP_S(147) PCNP_S(156) PCNP_S(168) PCNP_S(5) PCNP_S(53) PCNP_S(77) PCNP_S(87) PCNP_T(139) PCNP_T(141) PCNP_T(52) PCNP_T(66) PCNP_T(80),1.0,0.5,4,10,8,1.0,0.03425219499842982,0.6691991652048452

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CASKIN1_S(1034) CASKIN1_S(1067) CASKIN1_S(1242) CASKIN1_S(1257) CASKIN1_S(787) CASKIN1_S(987) CASKIN1_T(1065) CASKIN1_T(828),1.0,0.5,3,1,8,0.8,0.02319006980912908,0.013191814595031182

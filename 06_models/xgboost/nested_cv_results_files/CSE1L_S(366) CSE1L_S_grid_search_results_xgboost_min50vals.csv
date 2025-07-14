@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSE1L_S(366) CSE1L_S(377) CSE1L_S(931),1.0,0.5,1,1,8,0.6,0.008655402362142855,0.3204569397014865

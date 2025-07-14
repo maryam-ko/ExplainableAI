@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARP2_S(213) PARP2_S(225) PARP2_S(34) PARP2_S(360),0.8,0.5,4,1,6,1.0,0.028331375854455613,0.4178227608924974

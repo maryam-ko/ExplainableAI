@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PASK_S(104) PASK_S(106) PASK_S(109) PASK_S(115) PASK_S(119) PASK_S(120) PASK_S(1277) PASK_S(1280) PASK_S(1284) PASK_S(1287) PASK_S(524) PASK_S(533) PASK_S(582) PASK_S(939) PASK_T(859) PASK_T(874),0.8,0.5,3,1,8,0.8,0.015346648142552089,0.18074505851694334

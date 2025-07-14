@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HCFC1_S(1204) HCFC1_S(1221) HCFC1_S(1482) HCFC1_S(1838) HCFC1_S(1946) HCFC1_S(2019) HCFC1_S(3) HCFC1_S(419) HCFC1_S(601) HCFC1_S(665) HCFC1_S(669) HCFC1_S(757) HCFC1_T(498),0.8,0.5,2,1,8,1.0,0.019162691595452967,0.13704801292629484

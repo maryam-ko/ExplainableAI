@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IQCJ_S(113) IQCJ_S(117) IQCJ_S(270) IQCJ_S(5) IQCJ_S(87),0.6,0.5,1,1,6,0.6,0.0092768203279037,-0.005410334263059591

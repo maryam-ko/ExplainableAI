@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LTBP2_S(249),0.6,0.5,2,1,4,0.8,0.017618993457799572,-0.008763547852946285

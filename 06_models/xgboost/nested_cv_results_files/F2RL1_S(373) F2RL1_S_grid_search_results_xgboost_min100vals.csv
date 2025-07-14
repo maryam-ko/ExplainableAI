@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+F2RL1_S(373) F2RL1_S(376) F2RL1_S(383) F2RL1_S(384) F2RL1_S(387) F2RL1_T(375) F2RL1_Y(386),1.0,0.5,4,1,8,1.0,0.025188127161620066,0.1397532789359506

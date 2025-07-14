@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAGLB_S(579) DAGLB_S(790) DAGLB_Y(414) DAGLB_Y(416),1.0,0.5,1,1,8,0.8,0.007404837773201056,0.3571946441563655

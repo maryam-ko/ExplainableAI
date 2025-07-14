@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MGST3_S(156) MGST3_S(160),1.0,0.5,4,1,4,1.0,0.025495831093191302,0.19221484527606586

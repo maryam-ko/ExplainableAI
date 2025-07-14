@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLUL_S(343) GLUL_S(477),0.6,0.5,1,1,6,0.6,0.011584203088489136,-0.0013858508753592513

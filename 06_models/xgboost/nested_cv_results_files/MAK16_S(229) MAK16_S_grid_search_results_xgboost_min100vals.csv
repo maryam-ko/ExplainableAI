@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAK16_S(229) MAK16_S(232),0.8,0.5,2,1,8,1.0,0.028735782769503587,0.38659022213351374

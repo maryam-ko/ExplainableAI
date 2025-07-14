@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPHB3_S(589) EPHB3_Y(600) EPHB3_Y(781) EPHB3_Y(792),0.6,0.5,1,1,8,0.6,0.010901573384672193,-0.00492850549979984

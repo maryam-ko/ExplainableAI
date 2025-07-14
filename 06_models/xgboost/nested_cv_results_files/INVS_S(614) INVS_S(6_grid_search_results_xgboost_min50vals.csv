@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INVS_S(614) INVS_S(625) INVS_S(661),0.6,0.5,2,1,8,0.8,0.01263903586506332,0.34861848099624726

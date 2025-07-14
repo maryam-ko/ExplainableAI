@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCKAP5L_S(208) NCKAP5L_S(482) NCKAP5L_S(5) NCKAP5L_S(573) NCKAP5L_S(630) NCKAP5L_S(752) NCKAP5L_S(799),0.6,0.5,2,1,2,0.8,0.010649247537821937,0.08915994854467187

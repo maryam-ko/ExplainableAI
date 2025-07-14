@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUMB_S(132) NUMB_S(232) NUMB_S(295) NUMB_S(3) NUMB_S(4) NUMB_S(406) NUMB_S(434) NUMB_S(435) NUMB_S(448) NUMB_S(490) NUMB_S(575) NUMB_S(630) NUMB_T(304) NUMB_T(434) NUMB_T(436) NUMB_T(577) NUMB_T(630),0.8,0.5,4,1,4,1.0,0.03710294948891006,0.2643209359989437

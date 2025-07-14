@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYRIP_S(280) MYRIP_S(335) MYRIP_S(542) MYRIP_S(543) MYRIP_S(545) MYRIP_S(557) MYRIP_S(561) MYRIP_T(342),0.8,0.5,2,1,8,1.0,0.007180047739267237,0.3773931425454132

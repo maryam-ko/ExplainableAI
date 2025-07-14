@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTCF_S(122) CTCF_S(133) CTCF_S(450) CTCF_S(461) CTCF_S(609) CTCF_S(610) CTCF_S(612) CTCF_T(190) CTCF_T(717),0.6,0.5,1,1,8,0.8,0.016855977251350993,-0.003018415950040554

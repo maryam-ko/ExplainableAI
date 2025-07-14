@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GGT7_S(3) GGT7_S(6) GGT7_S(72) GGT7_S(83) GGT7_S(89) GGT7_S(90) GGT7_S(91) GGT7_T(56),0.6,0.5,4,1,8,0.8,0.03572326545758544,0.08860576054379879

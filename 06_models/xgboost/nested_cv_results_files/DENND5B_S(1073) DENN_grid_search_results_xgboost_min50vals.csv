@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DENND5B_S(1073) DENND5B_S(1076) DENND5B_S(1079) DENND5B_S(178) DENND5B_S(476) DENND5B_S(822) DENND5B_S(833) DENND5B_T(1078) DENND5B_Y(531),0.8,0.5,4,5,8,1.0,0.037176108126633696,0.42171736781515606

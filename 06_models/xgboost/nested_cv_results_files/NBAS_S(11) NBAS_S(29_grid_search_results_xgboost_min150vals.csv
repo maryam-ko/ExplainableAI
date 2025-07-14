@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NBAS_S(11) NBAS_S(29) NBAS_S(473) NBAS_S(475),0.8,0.5,4,1,8,1.0,0.03652107635316232,0.40510476033826304

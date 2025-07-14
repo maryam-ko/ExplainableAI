@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEK2_S(171) NEK2_S(296) NEK2_S(300),1.0,0.5,1,10,6,0.8,0.010960846738794017,0.179428718804105

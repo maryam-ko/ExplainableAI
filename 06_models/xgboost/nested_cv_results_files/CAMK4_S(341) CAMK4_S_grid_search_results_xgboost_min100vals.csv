@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAMK4_S(341) CAMK4_S(345) CAMK4_S(348) CAMK4_S(352) CAMK4_S(356) CAMK4_S(360) CAMK4_S(457),1.0,0.5,4,1,8,1.0,0.031908469002604245,0.46963767925606625

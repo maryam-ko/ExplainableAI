@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CETN2_S(14) CETN2_S(20) CETN2_S(3) CETN2_T(26),0.8,0.5,4,5,8,0.8,0.05401563884967318,0.29201484594666594

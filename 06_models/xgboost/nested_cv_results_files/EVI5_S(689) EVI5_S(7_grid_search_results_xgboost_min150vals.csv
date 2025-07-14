@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EVI5_S(689) EVI5_S(700) EVI5_S(776) EVI5_S(778) EVI5_S(805),1.0,0.5,4,1,8,1.0,0.016406619167609805,0.5471537990931173

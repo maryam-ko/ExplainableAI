@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NEO1_S(1183) NEO1_S(1194) NEO1_S(1214) NEO1_S(1296) NEO1_S(1401) NEO1_S(1434) NEO1_S(1435) NEO1_S(232) NEO1_S(3) NEO1_S(863) NEO1_S(883) NEO1_T(1198) NEO1_T(1404) NEO1_T(918) NEO1_Y(915),1.0,0.5,3,10,8,0.8,0.02702381123684026,0.06504718951819151

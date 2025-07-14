@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INTS5_S(279) INTS5_T(1013),1.0,0.5,3,1,8,1.0,0.017070290079025854,0.37213067651921283

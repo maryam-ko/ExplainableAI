@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHRAC1_S(1005) CHRAC1_S(124) CHRAC1_S(131),0.8,0.5,4,5,8,1.0,0.03679698451452401,0.4905503030886651

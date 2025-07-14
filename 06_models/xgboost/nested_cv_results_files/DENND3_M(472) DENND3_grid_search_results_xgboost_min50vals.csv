@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DENND3_M(472) DENND3_S(393) DENND3_S(445) DENND3_S(472) DENND3_S(489) DENND3_S(490) DENND3_S(502) DENND3_S(512) DENND3_T(457) DENND3_T(494),0.8,0.5,2,1,8,1.0,0.01662214922993901,0.44097213406120916

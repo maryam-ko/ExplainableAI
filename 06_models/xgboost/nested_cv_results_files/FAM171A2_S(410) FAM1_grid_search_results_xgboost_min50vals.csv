@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM171A2_S(410) FAM171A2_S(411) FAM171A2_S(446) FAM171A2_S(476) FAM171A2_S(780) FAM171A2_S(789) FAM171A2_S(792),0.6,0.5,2,1,8,0.8,0.014686434349481492,0.20461588517706328

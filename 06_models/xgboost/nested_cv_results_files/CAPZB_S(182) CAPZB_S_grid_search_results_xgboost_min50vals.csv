@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAPZB_S(182) CAPZB_S(192) CAPZB_S(2) CAPZB_S(73) CAPZB_T(186),0.6,0.5,4,1,8,1.0,0.024794967739659418,0.3982597257467444

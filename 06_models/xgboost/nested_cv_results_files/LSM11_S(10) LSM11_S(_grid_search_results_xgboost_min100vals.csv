@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LSM11_S(10) LSM11_S(15) LSM11_S(21) LSM11_S(241) LSM11_S(280) LSM11_S(324),1.0,0.5,4,1,8,1.0,0.035734290428071705,0.28941238079919995

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX39A_C(171) DDX39A_S(183) DDX39A_S(25) DDX39A_S(37) DDX39A_S(40) DDX39A_S(426) DDX39A_T(171),1.0,0.5,4,10,8,1.0,0.0277049781950038,0.6525591196069316

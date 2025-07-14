@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KANK1_S(1350) KANK1_S(167) KANK1_S(20) KANK1_S(330) KANK1_S(641) KANK1_S(723) KANK1_T(1334) KANK1_T(175) KANK1_T(6) KANK1_T(882),1.0,0.5,4,1,8,1.0,0.01255844906795701,0.28997420811650854

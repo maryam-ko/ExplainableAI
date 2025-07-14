@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFNB1_S(276) EFNB1_S(281) EFNB1_S(283) EFNB1_S(287) EFNB1_S(300) EFNB1_S(537) EFNB1_T(284) EFNB1_T(294) EFNB1_Y(307) EFNB1_Y(313) EFNB1_Y(317),0.8,0.5,3,1,8,1.0,0.035591560648112676,0.09144420694448756

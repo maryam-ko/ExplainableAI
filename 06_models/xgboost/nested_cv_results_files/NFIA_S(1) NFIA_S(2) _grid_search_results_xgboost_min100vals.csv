@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFIA_S(1) NFIA_S(2) NFIA_S(265) NFIA_S(268) NFIA_S(273) NFIA_S(274) NFIA_S(285) NFIA_S(287) NFIA_S(297) NFIA_S(3) NFIA_S(300) NFIA_S(303) NFIA_S(305) NFIA_S(319) NFIA_S(333) NFIA_S(335) NFIA_S(360) NFIA_S(366) NFIA_S(373),0.6,0.5,4,5,8,1.0,0.03229054902998914,0.5641097645196476

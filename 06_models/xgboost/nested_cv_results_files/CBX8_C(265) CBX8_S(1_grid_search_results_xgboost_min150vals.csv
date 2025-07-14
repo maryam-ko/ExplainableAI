@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBX8_C(265) CBX8_S(110) CBX8_S(130) CBX8_S(14) CBX8_S(166) CBX8_S(184) CBX8_S(190) CBX8_S(191) CBX8_S(195) CBX8_S(256) CBX8_S(261) CBX8_S(265) CBX8_S(267) CBX8_S(308) CBX8_S(311) CBX8_S(315) CBX8_S(332) CBX8_S(352) CBX8_T(234),0.6,0.5,4,10,8,1.0,0.03612541607277945,0.6903702325618923

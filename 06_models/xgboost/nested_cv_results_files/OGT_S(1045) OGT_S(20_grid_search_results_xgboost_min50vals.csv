@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OGT_S(1045) OGT_S(20),0.6,0.5,1,1,2,0.6,0.01300053422772673,-0.002588843388600948

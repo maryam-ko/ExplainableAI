@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LASP1_S(110) LASP1_S(146) LASP1_S(16) LASP1_S(198) LASP1_S(3) LASP1_T(104) LASP1_T(2) LASP1_T(617) LASP1_T(68) LASP1_Y(122) LASP1_Y(171),1.0,0.5,4,1,8,1.0,0.031486913648850694,0.7990207298286798

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCCRP1_S(28) NCCRP1_S(31) NCCRP1_S(33) NCCRP1_S(37),1.0,0.5,3,10,8,0.8,0.014040516587580557,0.19032730284935348

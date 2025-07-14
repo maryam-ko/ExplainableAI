@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPB41L2_S(1) EPB41L2_S(12) EPB41L2_S(13) EPB41L2_S(266) EPB41L2_S(383) EPB41L2_S(402) EPB41L2_S(9) EPB41L2_S(987) EPB41L2_T(530) EPB41L2_T(659),0.8,0.5,2,1,8,1.0,0.004763630385227895,0.34335375042300803

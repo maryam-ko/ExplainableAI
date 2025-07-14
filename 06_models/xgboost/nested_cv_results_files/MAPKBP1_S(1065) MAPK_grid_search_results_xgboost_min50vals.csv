@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPKBP1_S(1065) MAPKBP1_S(1188) MAPKBP1_S(1195) MAPKBP1_S(18) MAPKBP1_S(262) MAPKBP1_S(3) MAPKBP1_S(365) MAPKBP1_S(6),0.8,0.5,4,1,8,0.8,0.02520625029691684,0.11273487284989274

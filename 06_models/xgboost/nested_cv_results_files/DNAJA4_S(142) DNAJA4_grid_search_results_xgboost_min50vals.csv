@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJA4_S(142) DNAJA4_S(250) DNAJA4_S(47) DNAJA4_S(77) DNAJA4_S(81),0.8,0.5,3,1,8,1.0,0.009748320284144244,0.377117455976115

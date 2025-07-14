@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHEK1_S(288) CHEK1_S(291) CHEK1_S(302) CHEK1_S(333) CHEK1_S(467) CHEK1_T(170),0.8,0.5,3,1,8,1.0,0.011382541061853171,0.3813509761262816

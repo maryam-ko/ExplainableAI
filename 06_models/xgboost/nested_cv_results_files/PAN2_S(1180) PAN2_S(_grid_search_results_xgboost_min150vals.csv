@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAN2_S(1180) PAN2_S(1185) PAN2_S(1189) PAN2_S(787) PAN2_S(791) PAN2_T(1188),1.0,0.5,4,10,8,0.8,0.021015122638411383,0.5817115799798784

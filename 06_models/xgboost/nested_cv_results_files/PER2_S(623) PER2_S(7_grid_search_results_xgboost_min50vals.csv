@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PER2_S(623) PER2_S(766) PER2_S(977),1.0,0.5,2,1,8,0.8,0.02179536396317602,0.11009109843302338

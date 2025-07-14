@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FHOD1_S(1144) FHOD1_S(1157) FHOD1_S(14) FHOD1_S(387) FHOD1_S(4) FHOD1_S(547) FHOD1_S(573) FHOD1_S(7) FHOD1_S(700) FHOD1_S(915) FHOD1_T(690),0.6,0.5,3,1,8,1.0,0.022900339628305948,0.16352790636178935

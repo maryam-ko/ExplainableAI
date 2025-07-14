@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LZTS2_S(102) LZTS2_S(105) LZTS2_S(208) LZTS2_S(296) LZTS2_S(301) LZTS2_S(311) LZTS2_S(346) LZTS2_S(570),0.8,0.5,4,5,8,1.0,0.046298491201242055,0.36820787646920455

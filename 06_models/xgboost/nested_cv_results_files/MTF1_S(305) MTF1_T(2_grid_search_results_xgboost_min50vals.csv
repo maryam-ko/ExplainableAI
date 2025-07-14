@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTF1_S(305) MTF1_T(284),1.0,0.5,3,1,6,0.8,0.012565782624723056,-0.020309484175426197

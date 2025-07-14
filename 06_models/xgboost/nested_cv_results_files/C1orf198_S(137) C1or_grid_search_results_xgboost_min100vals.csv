@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C1orf198_S(137) C1orf198_S(17) C1orf198_S(175) C1orf198_S(213) C1orf198_S(289) C1orf198_S(3) C1orf198_S(37) C1orf198_T(211),0.8,0.5,4,1,8,1.0,0.030514053608379464,0.5916194946005461

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEBPD_S(191) CEBPD_S(256),0.8,0.5,4,1,4,1.0,0.0241753563784644,0.19882396786218529

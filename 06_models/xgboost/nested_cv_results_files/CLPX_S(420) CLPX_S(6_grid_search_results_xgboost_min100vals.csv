@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLPX_S(420) CLPX_S(617) CLPX_T(407) CLPX_T(412) CLPX_T(413) CLPX_T(443),0.8,0.5,2,10,2,1.0,0.025360882767964932,0.018459730279949717

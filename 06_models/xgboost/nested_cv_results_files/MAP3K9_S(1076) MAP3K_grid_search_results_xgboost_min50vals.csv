@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAP3K9_S(1076) MAP3K9_S(533) MAP3K9_S(549) MAP3K9_S(630) MAP3K9_S(632),1.0,0.5,3,1,2,1.0,0.010896950606534749,0.12529122931612696

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSDE1_S(116) CSDE1_S(129) CSDE1_S(162) CSDE1_S(19) CSDE1_S(276) CSDE1_S(445) CSDE1_S(449) CSDE1_S(482) CSDE1_S(514) CSDE1_T(776),0.6,0.5,4,1,8,1.0,0.021309675083050164,0.7763680831946829

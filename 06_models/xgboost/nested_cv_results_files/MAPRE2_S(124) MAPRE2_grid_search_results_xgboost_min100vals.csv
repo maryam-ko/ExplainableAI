@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPRE2_S(124) MAPRE2_S(16) MAPRE2_S(200) MAPRE2_S(209) MAPRE2_S(219) MAPRE2_S(223) MAPRE2_S(228) MAPRE2_S(229) MAPRE2_S(6) MAPRE2_S(9) MAPRE2_T(217) MAPRE2_Y(114),0.8,0.5,4,1,8,1.0,0.02471086576888208,0.7196168449144048

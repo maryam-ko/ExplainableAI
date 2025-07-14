@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LBX1_S(230) LBX1_S(234),0.6,0.5,3,1,8,1.0,0.01048944682686965,0.1206434607831478

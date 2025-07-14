@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CC2D1B_S(241) CC2D1B_S(309) CC2D1B_S(522) CC2D1B_S(7) CC2D1B_S(745) CC2D1B_S(791),0.6,0.5,2,1,6,1.0,0.008935565731819771,0.23137584565379737

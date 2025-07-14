@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAXIP1_S(201) PAXIP1_S(219) PAXIP1_S(221) PAXIP1_S(222) PAXIP1_S(229) PAXIP1_S(235) PAXIP1_S(332) PAXIP1_S(85) PAXIP1_T(20) PAXIP1_T(233),0.8,0.5,2,1,8,1.0,0.009608755242587131,0.413171414186759

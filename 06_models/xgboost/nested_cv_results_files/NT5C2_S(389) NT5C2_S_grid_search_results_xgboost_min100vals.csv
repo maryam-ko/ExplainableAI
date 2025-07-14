@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NT5C2_S(389) NT5C2_S(417) NT5C2_S(418) NT5C2_S(482) NT5C2_S(511) NT5C2_S(529) NT5C2_T(510),0.8,0.5,4,1,6,1.0,0.025067538837490383,0.408735638878413

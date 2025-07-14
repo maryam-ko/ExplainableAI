@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NKRF_S(325) NKRF_S(333) NKRF_S(37) NKRF_S(428) NKRF_S(618) NKRF_Y(76),0.8,0.5,2,1,8,1.0,0.010932062559017594,0.13346273892017793

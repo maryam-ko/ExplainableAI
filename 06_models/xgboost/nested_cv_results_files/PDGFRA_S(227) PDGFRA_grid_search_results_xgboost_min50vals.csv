@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDGFRA_S(227) PDGFRA_S(767) PDGFRA_Y(742),0.6,0.5,1,1,2,0.6,0.015536746072977625,-0.009167732444368281

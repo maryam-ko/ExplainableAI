@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MFSD6_S(644) MFSD6_S(733) MFSD6_T(726),1.0,0.5,2,1,6,0.6,0.01904308043283808,0.145807310876572

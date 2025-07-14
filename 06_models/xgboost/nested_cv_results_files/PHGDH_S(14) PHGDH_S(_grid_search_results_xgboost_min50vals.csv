@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHGDH_S(14) PHGDH_S(287) PHGDH_S(326) PHGDH_S(349) PHGDH_S(362) PHGDH_S(371) PHGDH_S(55) PHGDH_T(361) PHGDH_T(78),1.0,0.5,4,1,8,1.0,0.01622856312810763,0.1531352868422807

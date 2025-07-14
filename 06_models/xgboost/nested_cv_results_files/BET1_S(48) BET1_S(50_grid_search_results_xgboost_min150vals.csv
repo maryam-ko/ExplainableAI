@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BET1_S(48) BET1_S(50) BET1_S(65),1.0,0.5,4,5,8,1.0,0.03901176634222757,0.621812264448641

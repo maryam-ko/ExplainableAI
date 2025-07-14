@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IKBKE_S(1) IKBKE_S(579) IKBKE_S(659) IKBKE_S(664) IKBKE_Y(586),1.0,0.5,4,1,2,1.0,0.033565145323795946,0.09348311646496792

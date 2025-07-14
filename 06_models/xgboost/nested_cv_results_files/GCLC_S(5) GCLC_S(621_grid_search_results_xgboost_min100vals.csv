@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GCLC_S(5) GCLC_S(621) GCLC_S(629) GCLC_S(8),0.6,0.5,4,5,8,1.0,0.025266611732261166,0.6673146401046423

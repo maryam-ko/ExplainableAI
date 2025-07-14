@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLTB_S(157) CLTB_S(228) CLTB_T(169) CLTB_T(187),0.8,0.5,2,1,8,0.6,0.00891501053018175,0.35082140948686924

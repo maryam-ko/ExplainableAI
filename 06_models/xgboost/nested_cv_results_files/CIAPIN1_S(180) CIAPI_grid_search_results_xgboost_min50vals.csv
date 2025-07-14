@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CIAPIN1_S(180) CIAPIN1_S(182) CIAPIN1_S(183) CIAPIN1_S(185) CIAPIN1_S(259) CIAPIN1_S(294) CIAPIN1_S(4) CIAPIN1_T(123),1.0,0.5,4,1,8,1.0,0.04184327405236134,0.2549497972542083

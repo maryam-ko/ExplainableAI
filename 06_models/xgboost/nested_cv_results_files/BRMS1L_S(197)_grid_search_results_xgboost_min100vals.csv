@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRMS1L_S(197),0.8,0.5,3,5,8,0.8,0.022140639780923142,0.2502260311735375

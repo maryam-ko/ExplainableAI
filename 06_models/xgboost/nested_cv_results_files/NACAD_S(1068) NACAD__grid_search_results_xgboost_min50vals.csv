@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NACAD_S(1068) NACAD_S(1300) NACAD_S(1303) NACAD_S(1307) NACAD_S(406) NACAD_S(561),0.6,0.5,1,1,8,1.0,0.022555390724723852,0.010777247673677003

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COL17A1_S(148) COL17A1_S(150) COL17A1_S(169) COL17A1_S(85) COL17A1_S(93) COL17A1_T(177) COL17A1_T(369) COL17A1_T(89),0.8,0.5,1,1,8,0.6,0.016397631964131694,0.016436155185692258

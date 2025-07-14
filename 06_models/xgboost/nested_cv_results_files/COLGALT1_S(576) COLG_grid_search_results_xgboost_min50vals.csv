@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COLGALT1_S(576) COLGALT1_S(612) COLGALT1_S(616),0.8,0.5,2,1,6,0.6,0.009445634196255484,-0.00963747168855118

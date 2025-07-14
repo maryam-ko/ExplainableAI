@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRE11_S(602) MRE11_S(649) MRE11_S(676) MRE11_S(678) MRE11_S(688) MRE11_S(689) MRE11_S(691) MRE11_S(692),1.0,0.5,4,5,8,1.0,0.027954685463520677,0.7328064615920631

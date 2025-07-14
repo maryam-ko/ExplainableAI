@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+E2F4_S(218) E2F4_S(381) E2F4_T(14),1.0,0.5,2,10,8,0.6,0.017068091494510766,0.20210299753824837

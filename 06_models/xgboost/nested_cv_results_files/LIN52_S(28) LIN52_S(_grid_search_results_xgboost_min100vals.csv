@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIN52_S(28) LIN52_S(3) LIN52_S(62) LIN52_S(85),1.0,0.5,4,10,8,0.8,0.028208975017122103,0.3950620605478359

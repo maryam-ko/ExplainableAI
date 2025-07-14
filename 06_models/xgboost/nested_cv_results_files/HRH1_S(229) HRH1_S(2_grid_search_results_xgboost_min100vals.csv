@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HRH1_S(229) HRH1_S(230) HRH1_S(233) HRH1_S(255) HRH1_S(271) HRH1_S(275) HRH1_S(277) HRH1_S(284) HRH1_S(285) HRH1_S(363) HRH1_S(378) HRH1_S(380) HRH1_S(695) HRH1_T(279) HRH1_T(377) HRH1_T(382) HRH1_Y(321) HRH1_Y(386) HRH1_Y(401),0.8,0.5,4,5,8,1.0,0.046601181177632144,0.4857751150396368

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEPCE_S(2) MEPCE_S(240) MEPCE_S(291) MEPCE_S(325) MEPCE_S(57) MEPCE_S(67) MEPCE_S(69) MEPCE_T(291) MEPCE_T(492),1.0,0.5,4,1,8,1.0,0.023829247707135674,0.6925197371356908

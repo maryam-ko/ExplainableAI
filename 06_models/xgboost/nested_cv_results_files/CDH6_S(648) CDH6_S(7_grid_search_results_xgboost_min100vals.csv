@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDH6_S(648) CDH6_S(786) CDH6_S(790),0.8,0.5,3,1,8,0.6,0.024996053434011657,0.13018043682373287

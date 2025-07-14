@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA5_S(354) HSPA5_S(571) HSPA5_S(632) HSPA5_S(637) HSPA5_T(139) HSPA5_T(460) HSPA5_Y(160),0.8,0.5,4,1,8,1.0,0.019870499957304534,0.11708261802145947

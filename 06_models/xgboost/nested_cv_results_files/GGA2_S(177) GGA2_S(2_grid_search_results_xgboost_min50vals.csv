@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GGA2_S(177) GGA2_S(233) GGA2_S(284) GGA2_S(400),1.0,0.5,3,1,8,0.8,0.019796962422889173,0.18474505466920121

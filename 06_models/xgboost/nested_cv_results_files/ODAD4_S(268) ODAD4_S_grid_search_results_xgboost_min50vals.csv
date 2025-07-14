@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ODAD4_S(268) ODAD4_S(542) ODAD4_S(561) ODAD4_S(576) ODAD4_S(586) ODAD4_S(608) ODAD4_S(616) ODAD4_S(624) ODAD4_Y(671),1.0,0.5,4,1,6,0.8,0.00975275179658817,0.1027677638822565

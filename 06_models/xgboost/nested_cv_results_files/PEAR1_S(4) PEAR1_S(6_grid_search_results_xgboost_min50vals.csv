@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PEAR1_S(4) PEAR1_S(6) PEAR1_S(891) PEAR1_S(918) PEAR1_S(933) PEAR1_S(964) PEAR1_S(976) PEAR1_Y(979),1.0,0.5,2,1,8,0.8,0.010074038800146465,0.3450896206807269

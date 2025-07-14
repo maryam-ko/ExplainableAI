@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ESF1_S(179) ESF1_S(180) ESF1_T(176) ESF1_T(177) ESF1_T(475) ESF1_T(630),1.0,0.5,2,1,8,0.8,0.008441600997113106,0.08552310324711485

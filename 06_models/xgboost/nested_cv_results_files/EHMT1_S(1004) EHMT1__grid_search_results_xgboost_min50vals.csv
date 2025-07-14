@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EHMT1_S(1004) EHMT1_S(21) EHMT1_S(38) EHMT1_S(435) EHMT1_S(453) EHMT1_T(164) EHMT1_T(19) EHMT1_T(621) EHMT1_T(708) EHMT1_Y(20),0.8,0.5,2,1,8,1.0,0.01841494696579139,0.29132017060200627

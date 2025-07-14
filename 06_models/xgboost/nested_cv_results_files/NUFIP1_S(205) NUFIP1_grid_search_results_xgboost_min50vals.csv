@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUFIP1_S(205) NUFIP1_S(342) NUFIP1_Y(247),1.0,0.5,1,1,6,0.8,0.01930402352977988,-0.002290926003168714

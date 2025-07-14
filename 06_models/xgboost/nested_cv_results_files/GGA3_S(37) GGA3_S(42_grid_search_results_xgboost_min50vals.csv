@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GGA3_S(37) GGA3_S(425) GGA3_S(5),0.8,0.5,2,1,8,0.8,0.008099853763719873,0.35413691322730434

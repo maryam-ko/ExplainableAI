@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MFSD4B_S(432) MFSD4B_S(466),0.6,0.5,2,1,8,1.0,0.016659506794571517,0.11050714204770096

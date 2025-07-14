@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC17_S(112) DNAJC17_S(275) DNAJC17_T(304) DNAJC17_T(4) DNAJC17_Y(273),1.0,0.5,4,1,8,1.0,0.04270945824928691,0.6085737738328973

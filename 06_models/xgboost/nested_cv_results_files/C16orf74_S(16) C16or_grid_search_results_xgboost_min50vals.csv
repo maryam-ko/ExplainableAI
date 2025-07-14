@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C16orf74_S(16) C16orf74_T(32) C16orf74_T(44) C16orf74_T(46),0.8,0.5,4,1,8,1.0,0.038164452057395576,0.11760566398375574

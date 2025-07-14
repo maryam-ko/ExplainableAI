@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLASP2_M(1012) CLASP2_S(3) CLASP2_S(389) CLASP2_S(407) CLASP2_S(509) CLASP2_S(512) CLASP2_S(686) CLASP2_T(1010) CLASP2_T(540),0.6,0.5,1,1,4,0.6,0.0009636304295684669,-0.0010977840696732243

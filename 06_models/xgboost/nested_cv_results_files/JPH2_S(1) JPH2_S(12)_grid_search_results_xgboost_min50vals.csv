@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JPH2_S(1) JPH2_S(12) JPH2_S(168) JPH2_S(171) JPH2_S(192) JPH2_S(2) JPH2_S(446) JPH2_S(448) JPH2_S(5) JPH2_S(523) JPH2_S(527) JPH2_S(568) JPH2_S(590) JPH2_S(598) JPH2_T(174) JPH2_T(3) JPH2_T(5) JPH2_T(618) JPH2_T(8),0.8,0.5,4,1,8,1.0,0.011391727648271371,0.651640943724406

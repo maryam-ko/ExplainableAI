@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BICRAL_S(623) BICRAL_S(674) BICRAL_S(675) BICRAL_S(687) BICRAL_S(980),0.8,0.5,1,1,8,0.8,0.02126142316124543,0.054112630503716244

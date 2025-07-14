@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPP1_C(243) MPP1_S(11) MPP1_S(110) MPP1_S(242) MPP1_S(243) MPP1_S(52) MPP1_S(57) MPP1_S(6) MPP1_T(2) MPP1_Y(426) MPP1_Y(429),0.8,0.5,3,1,6,1.0,0.02365776571264409,0.322507737229267

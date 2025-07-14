@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DSTN_C(25) DSTN_S(155) DSTN_S(24) DSTN_S(3) DSTN_S(71) DSTN_S(88),1.0,0.5,4,1,8,1.0,0.044119248806475504,0.4341155255377812

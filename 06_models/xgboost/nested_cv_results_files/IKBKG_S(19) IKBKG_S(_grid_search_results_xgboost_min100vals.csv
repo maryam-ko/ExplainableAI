@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IKBKG_S(19) IKBKG_S(377) IKBKG_S(379) IKBKG_S(387) IKBKG_S(397),1.0,0.5,4,1,6,1.0,0.029292574674366315,0.33960582385300964

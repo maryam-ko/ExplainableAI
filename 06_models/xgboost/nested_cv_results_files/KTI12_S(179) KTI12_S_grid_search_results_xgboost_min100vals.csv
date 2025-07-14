@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KTI12_S(179) KTI12_S(184) KTI12_S(200) KTI12_T(189),0.8,0.5,3,1,6,1.0,0.020830425610311596,0.4097551004513448

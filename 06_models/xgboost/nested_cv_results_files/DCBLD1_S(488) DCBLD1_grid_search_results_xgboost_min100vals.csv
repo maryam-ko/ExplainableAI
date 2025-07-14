@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCBLD1_S(488) DCBLD1_S(492) DCBLD1_S(513) DCBLD1_S(556) DCBLD1_S(616) DCBLD1_S(619) DCBLD1_T(602) DCBLD1_T(614) DCBLD1_Y(578),1.0,0.5,4,10,8,1.0,0.020056209019133985,0.5663859998631076

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM2_S(133) MCM2_S(170) MCM2_S(229) MCM2_S(31) MCM2_S(32) MCM2_S(5) MCM2_S(6) MCM2_S(64) MCM2_S(8) MCM2_S(878) MCM2_S(9) MCM2_T(10) MCM2_T(527) MCM2_Y(137),0.6,0.5,4,1,8,1.0,0.01806916412070224,0.5115855028987888

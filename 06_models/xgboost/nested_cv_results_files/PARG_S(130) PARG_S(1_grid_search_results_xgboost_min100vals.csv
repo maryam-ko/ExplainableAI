@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARG_S(130) PARG_S(197) PARG_S(208) PARG_S(215) PARG_S(261) PARG_S(264) PARG_S(287) PARG_S(29) PARG_S(298) PARG_S(375) PARG_S(448) PARG_S(93) PARG_T(91),0.8,0.5,4,5,8,1.0,0.01628125162391176,0.6405138669610746

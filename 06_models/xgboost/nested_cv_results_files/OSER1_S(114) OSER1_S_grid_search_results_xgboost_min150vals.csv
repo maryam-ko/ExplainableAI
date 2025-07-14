@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OSER1_S(114) OSER1_S(125) OSER1_S(82) OSER1_S(84),1.0,0.5,4,1,8,1.0,0.0278049605575115,0.39368593058836654

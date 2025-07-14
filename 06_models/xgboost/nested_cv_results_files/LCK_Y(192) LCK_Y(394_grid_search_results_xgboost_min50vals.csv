@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LCK_Y(192) LCK_Y(394),0.8,0.5,4,1,8,0.8,0.024292278656957746,0.21169091282592042

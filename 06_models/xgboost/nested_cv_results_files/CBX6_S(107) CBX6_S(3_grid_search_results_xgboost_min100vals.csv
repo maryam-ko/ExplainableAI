@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBX6_S(107) CBX6_S(301),0.8,0.5,3,1,6,0.8,0.025038257548694376,0.17607009467556067

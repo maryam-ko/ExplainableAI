@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHACTR2_S(16) PHACTR2_S(235) PHACTR2_S(237) PHACTR2_S(4) PHACTR2_S(510) PHACTR2_S(548) PHACTR2_S(560) PHACTR2_S(59),1.0,0.5,4,10,8,1.0,0.019951118474625464,0.6885204051689668

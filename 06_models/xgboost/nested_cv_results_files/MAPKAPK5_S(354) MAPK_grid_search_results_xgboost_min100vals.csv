@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPKAPK5_S(354) MAPKAPK5_S(469) MAPKAPK5_S(472) MAPKAPK5_T(182) MAPKAPK5_T(368),1.0,0.5,4,1,6,1.0,0.013664749184451494,0.5830435738391995

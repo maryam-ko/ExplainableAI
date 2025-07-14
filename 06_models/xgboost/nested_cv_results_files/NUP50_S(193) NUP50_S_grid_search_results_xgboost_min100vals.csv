@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP50_S(193) NUP50_S(214) NUP50_S(221) NUP50_S(296) NUP50_S(315) NUP50_S(74) NUP50_T(231) NUP50_T(246) NUP50_T(259),1.0,0.5,4,1,8,1.0,0.035824683627115966,0.7055092139052161

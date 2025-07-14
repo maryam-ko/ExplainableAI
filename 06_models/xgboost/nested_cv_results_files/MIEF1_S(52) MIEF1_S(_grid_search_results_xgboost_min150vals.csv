@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIEF1_S(52) MIEF1_S(55) MIEF1_S(59) MIEF1_S(64),0.8,0.5,4,10,8,1.0,0.031284155550119326,0.7728314498607852

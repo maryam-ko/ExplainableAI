@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXO1_S(376) EXO1_S(38) EXO1_S(422) EXO1_S(510) EXO1_S(595) EXO1_S(598) EXO1_S(610) EXO1_S(623) EXO1_S(639) EXO1_S(697) EXO1_S(700) EXO1_S(702) EXO1_S(714) EXO1_S(746) EXO1_S(815) EXO1_T(621),1.0,0.5,4,1,8,1.0,0.020432314500762223,0.4335971904317388

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DHX16_S(100) DHX16_S(103) DHX16_S(106) DHX16_S(107) DHX16_S(117) DHX16_S(141) DHX16_S(160) DHX16_S(348) DHX16_S(43) DHX16_S(46) DHX16_S(47) DHX16_S(56) DHX16_T(155) DHX16_T(712),0.8,0.5,4,1,8,1.0,0.0360301629219294,0.742153955926536

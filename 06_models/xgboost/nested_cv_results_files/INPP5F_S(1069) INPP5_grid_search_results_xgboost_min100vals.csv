@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INPP5F_S(1069) INPP5F_S(123) INPP5F_S(827) INPP5F_S(829) INPP5F_S(878) INPP5F_S(909) INPP5F_S(935) INPP5F_S(940) INPP5F_S(942) INPP5F_T(950) INPP5F_Y(341),1.0,0.5,4,5,8,1.0,0.023342263157981998,0.7490616894806839

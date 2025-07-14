@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MISP_S(213) MISP_S(474) MISP_S(566) MISP_S(69) MISP_T(160) MISP_T(262),0.6,0.5,1,1,8,0.8,0.0035581311002246116,-0.019706144675127123

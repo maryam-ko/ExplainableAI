@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPP2_S(336) MPP2_S(42) MPP2_T(141) MPP2_T(327),1.0,0.5,4,1,8,1.0,0.023307762469203384,0.30592069170114095

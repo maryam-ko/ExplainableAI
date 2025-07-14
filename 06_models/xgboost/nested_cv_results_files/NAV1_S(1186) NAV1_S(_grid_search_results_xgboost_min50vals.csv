@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAV1_S(1186) NAV1_S(1248) NAV1_S(1267) NAV1_T(194) NAV1_T(453) NAV1_Y(179),0.6,0.5,1,1,8,0.6,0.01935236875876933,-0.0066744100589384734

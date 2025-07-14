@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NISCH_S(1281) NISCH_S(721) NISCH_T(1281) NISCH_T(1282),0.6,0.5,1,1,2,0.6,0.015322846687986471,-0.0012724002694182168

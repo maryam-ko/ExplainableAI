@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HOXC10_S(11) HOXC10_S(15) HOXC10_S(154) HOXC10_S(210) HOXC10_S(230) HOXC10_S(240) HOXC10_S(241) HOXC10_S(245) HOXC10_T(185),1.0,0.5,2,1,8,0.8,0.018969413968529487,0.039008388738455226

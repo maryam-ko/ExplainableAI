@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC5_S(12) DNAJC5_S(15) DNAJC5_S(3) DNAJC5_S(7) DNAJC5_S(8) DNAJC5_T(11) DNAJC5_Y(17),1.0,0.5,4,1,8,1.0,0.028947020294847126,0.5277923736011452

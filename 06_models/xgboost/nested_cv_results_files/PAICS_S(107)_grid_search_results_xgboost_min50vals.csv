@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAICS_S(107),0.6,0.5,2,1,6,1.0,0.039236688977168796,0.14982876958390373

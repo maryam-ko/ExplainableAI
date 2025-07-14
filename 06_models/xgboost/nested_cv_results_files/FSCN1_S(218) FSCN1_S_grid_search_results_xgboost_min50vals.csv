@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FSCN1_S(218) FSCN1_S(234) FSCN1_S(38) FSCN1_T(125) FSCN1_T(239) FSCN1_T(403),0.6,0.5,4,5,6,1.0,0.02138347012930949,0.17038993680979672

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LARP7_S(247) LARP7_S(254) LARP7_S(273) LARP7_S(306) LARP7_S(307) LARP7_S(325) LARP7_S(328) LARP7_S(332) LARP7_S(344) LARP7_S(350) LARP7_S(413) LARP7_S(8) LARP7_T(246) LARP7_T(345) LARP7_T(451),1.0,0.5,3,5,8,0.6,0.017672032223044407,0.16502920089473067

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPRC5A_S(291) GPRC5A_S(292) GPRC5A_S(301) GPRC5A_S(336) GPRC5A_S(345) GPRC5A_T(312) GPRC5A_Y(317) GPRC5A_Y(347) GPRC5A_Y(350),1.0,0.5,4,5,6,1.0,0.055864673960082746,0.27206672244742797

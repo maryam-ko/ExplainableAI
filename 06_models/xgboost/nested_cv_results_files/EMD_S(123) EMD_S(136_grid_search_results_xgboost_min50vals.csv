@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EMD_S(123) EMD_S(136) EMD_S(142) EMD_S(143) EMD_S(157) EMD_S(46) EMD_S(52) EMD_S(62) EMD_S(78) EMD_T(165) EMD_Y(105) EMD_Y(74) EMD_Y(85),1.0,0.5,3,1,8,1.0,0.04423318735306133,0.14126891836867142

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CFL2_S(1) CFL2_S(24),1.0,0.5,2,1,8,1.0,0.02639003989884672,0.013417381654700388

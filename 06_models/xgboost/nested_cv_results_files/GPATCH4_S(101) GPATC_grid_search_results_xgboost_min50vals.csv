@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPATCH4_S(101) GPATCH4_S(212) GPATCH4_S(286) GPATCH4_T(116) GPATCH4_T(4) GPATCH4_Y(106),1.0,0.5,1,1,6,0.8,0.006424097943909049,0.2495234766050288

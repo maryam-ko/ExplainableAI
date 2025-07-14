@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIK3CD_S(1039) PIK3CD_S(520),0.6,0.5,1,1,8,0.8,0.01319220574198799,-0.0016410177939186533

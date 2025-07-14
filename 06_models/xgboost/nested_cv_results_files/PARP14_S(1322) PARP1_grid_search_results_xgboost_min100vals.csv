@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARP14_S(1322) PARP14_S(1411) PARP14_S(1442) PARP14_S(1451) PARP14_S(33),1.0,0.5,3,1,8,1.0,0.014835564883705578,0.7228767064948258

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KANSL1_S(1038) KANSL1_S(1074) KANSL1_S(117) KANSL1_S(792) KANSL1_S(897) KANSL1_S(901) KANSL1_S(975) KANSL1_S(990) KANSL1_S(994) KANSL1_T(1003) KANSL1_Y(461),0.8,0.5,3,1,8,0.8,0.015761410752641442,0.13614581958878483

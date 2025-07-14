@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLHL24_S(19) KLHL24_S(8),0.6,0.5,1,1,6,0.8,0.004562238526236892,0.42649291496732983

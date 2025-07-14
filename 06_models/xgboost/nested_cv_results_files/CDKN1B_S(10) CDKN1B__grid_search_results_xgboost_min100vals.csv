@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDKN1B_S(10) CDKN1B_S(106) CDKN1B_S(140) CDKN1B_S(169) CDKN1B_S(178) CDKN1B_S(183) CDKN1B_S(2) CDKN1B_S(5) CDKN1B_S(6) CDKN1B_T(187),1.0,0.5,4,10,8,1.0,0.04181374161400196,0.456159980895629

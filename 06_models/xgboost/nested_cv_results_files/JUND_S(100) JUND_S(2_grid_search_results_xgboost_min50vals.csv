@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JUND_S(100) JUND_S(251) JUND_S(475),1.0,0.5,4,1,8,0.8,0.05567396083221049,0.3277752439574109

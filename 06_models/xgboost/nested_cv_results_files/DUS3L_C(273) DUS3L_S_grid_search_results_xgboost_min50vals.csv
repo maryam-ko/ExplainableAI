@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DUS3L_C(273) DUS3L_S(236) DUS3L_S(271) DUS3L_S(276) DUS3L_S(277) DUS3L_T(240) DUS3L_T(271) DUS3L_T(273) DUS3L_T(286) DUS3L_T(364),1.0,0.5,3,10,8,1.0,0.022124980957335536,0.2825251230956253

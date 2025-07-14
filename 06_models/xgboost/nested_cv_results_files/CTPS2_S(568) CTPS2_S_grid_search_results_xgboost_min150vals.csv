@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTPS2_S(568) CTPS2_S(571) CTPS2_S(574) CTPS2_S(576) CTPS2_S(578),0.8,0.5,4,5,8,0.8,0.047572909210593727,0.4748961061053336

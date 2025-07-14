@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPAP_S(256) CPAP_S(260) CPAP_S(3) CPAP_S(467) CPAP_S(469) CPAP_S(471) CPAP_S(787) CPAP_S(857) CPAP_S(859),0.8,0.5,4,1,8,1.0,0.015860029389246248,0.6592636841055018

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CROCC_S(12) CROCC_S(1660) CROCC_S(2005) CROCC_S(2009) CROCC_S(3) CROCC_S(763) CROCC_S(832) CROCC_T(1911),0.8,0.5,1,10,8,0.8,0.011307561461362263,0.06793545138666186

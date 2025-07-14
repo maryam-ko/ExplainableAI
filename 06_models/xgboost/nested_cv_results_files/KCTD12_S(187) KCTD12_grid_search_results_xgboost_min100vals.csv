@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KCTD12_S(187) KCTD12_S(189) KCTD12_S(198) KCTD12_T(198),0.8,0.5,4,1,8,1.0,0.033819524771955004,0.4339774020594575

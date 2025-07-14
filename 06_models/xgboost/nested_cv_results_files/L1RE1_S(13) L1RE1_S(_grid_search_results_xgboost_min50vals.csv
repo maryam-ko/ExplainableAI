@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+L1RE1_S(13) L1RE1_S(25) L1RE1_S(27) L1RE1_S(50),0.6,0.5,1,1,6,0.6,0.03684188562749804,-0.0013042128417420028

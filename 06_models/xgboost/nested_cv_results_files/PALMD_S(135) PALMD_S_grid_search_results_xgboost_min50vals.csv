@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PALMD_S(135) PALMD_S(253) PALMD_S(284) PALMD_S(388) PALMD_S(489) PALMD_S(512) PALMD_S(520) PALMD_S(6) PALMD_T(270) PALMD_T(526) PALMD_T(527) PALMD_T(531) PALMD_Y(174),1.0,0.5,4,1,8,0.8,0.036838563404800996,0.19701643415794215

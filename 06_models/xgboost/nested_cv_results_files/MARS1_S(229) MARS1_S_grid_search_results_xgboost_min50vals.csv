@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MARS1_S(229) MARS1_S(731) MARS1_S(825) MARS1_T(833),1.0,0.5,2,1,8,1.0,0.02422781428630297,0.1587771944330228

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAVS_S(157) MAVS_S(224) MAVS_S(232) MAVS_S(24) MAVS_S(258) MAVS_S(407) MAVS_S(430) MAVS_S(7) MAVS_S(81) MAVS_T(147),1.0,0.5,4,1,8,0.8,0.031076653928869016,0.30360831531570553

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HNRNPAB_S(242) HNRNPAB_S(243) HNRNPAB_S(256) HNRNPAB_S(81) HNRNPAB_T(178) HNRNPAB_T(99) HNRNPAB_Y(282),1.0,0.5,4,1,8,1.0,0.02155013604675802,0.6027963879673928

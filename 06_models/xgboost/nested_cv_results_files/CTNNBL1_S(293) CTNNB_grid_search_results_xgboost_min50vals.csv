@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTNNBL1_S(293) CTNNBL1_S(389) CTNNBL1_S(518) CTNNBL1_S(545),0.6,0.5,4,1,8,1.0,0.024964428308254082,0.7740053698834528

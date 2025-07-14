@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FSD2_S(3) FSD2_S(599),0.6,0.5,1,1,8,0.6,0.01248245017892839,-0.004165191198985241

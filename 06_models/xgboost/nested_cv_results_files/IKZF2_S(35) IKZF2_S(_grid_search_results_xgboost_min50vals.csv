@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IKZF2_S(35) IKZF2_S(430) IKZF2_S(56),0.6,0.5,1,1,8,0.6,0.022596570823758443,-0.008234127317340212

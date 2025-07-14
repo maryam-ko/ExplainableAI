@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL25_S(2090) METTL25_S(2093) METTL25_S(265) METTL25_S(357),1.0,0.5,2,1,8,0.6,0.011653165035400153,0.03497963865136704

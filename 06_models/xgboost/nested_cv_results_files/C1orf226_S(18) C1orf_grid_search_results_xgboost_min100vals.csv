@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C1orf226_S(18) C1orf226_S(223) C1orf226_S(240) C1orf226_S(249) C1orf226_S(292) C1orf226_S(47) C1orf226_S(73) C1orf226_S(76) C1orf226_S(78),1.0,0.5,4,5,6,1.0,0.03688623351717351,0.23287474939110914

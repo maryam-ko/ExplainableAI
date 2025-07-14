@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HCN2_S(362) HCN2_S(754) HCN2_S(868) HCN2_T(357) HCN2_T(87),1.0,0.5,2,1,8,0.6,0.00954756858653174,0.36844531830663635

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYB_S(532) MYB_S(599),0.8,0.5,3,5,8,1.0,0.019887045175511892,0.3353814464040415

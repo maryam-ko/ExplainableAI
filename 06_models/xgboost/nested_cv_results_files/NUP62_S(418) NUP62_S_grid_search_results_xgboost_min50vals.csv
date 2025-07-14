@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP62_S(418) NUP62_S(516),0.8,0.5,3,1,8,0.8,0.02459134920988186,0.05187271901634962

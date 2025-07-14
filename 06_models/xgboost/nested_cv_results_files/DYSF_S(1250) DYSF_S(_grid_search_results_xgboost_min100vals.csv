@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DYSF_S(1250) DYSF_S(1295) DYSF_S(1640) DYSF_S(1829) DYSF_S(2) DYSF_S(205) DYSF_S(3) DYSF_S(366) DYSF_S(554) DYSF_S(63) DYSF_S(9) DYSF_S(934) DYSF_S(979) DYSF_T(12) DYSF_T(1563) DYSF_T(1831) DYSF_Y(1636),0.8,0.5,4,1,8,1.0,0.022414153019712703,0.11371067613334385

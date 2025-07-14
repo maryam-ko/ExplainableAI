@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCAPG_C(984) NCAPG_S(1002) NCAPG_S(841) NCAPG_S(944) NCAPG_S(945) NCAPG_S(949) NCAPG_T(1351) NCAPG_T(926) NCAPG_T(942),0.8,0.5,3,1,4,1.0,0.013057343309661759,0.33679369770107415

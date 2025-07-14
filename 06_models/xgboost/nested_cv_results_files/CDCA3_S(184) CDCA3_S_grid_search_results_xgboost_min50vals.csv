@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDCA3_S(184) CDCA3_S(229) CDCA3_S(268) CDCA3_S(91) CDCA3_T(10) CDCA3_T(214) CDCA3_T(36) CDCA3_T(70),0.6,0.5,1,1,8,0.6,0.014558630173297454,-0.0036021934784921774

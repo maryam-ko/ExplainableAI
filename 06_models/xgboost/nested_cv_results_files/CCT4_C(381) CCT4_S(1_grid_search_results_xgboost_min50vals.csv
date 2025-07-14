@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCT4_C(381) CCT4_S(184) CCT4_S(202) CCT4_S(381) CCT4_S(8) CCT4_T(379),0.8,0.5,3,1,8,1.0,0.014563792178018056,0.20334498532565198

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC14_S(124) CCDC14_S(622) CCDC14_S(670) CCDC14_S(750) CCDC14_S(754) CCDC14_S(791) CCDC14_S(798) CCDC14_S(834) CCDC14_Y(724),0.8,0.5,4,1,8,1.0,0.02608099541014339,0.3604125178412347

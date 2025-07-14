@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FPGS_S(403) FPGS_S(489) FPGS_S(539),1.0,0.5,3,1,8,1.0,0.012488967631264144,0.2153279051615587

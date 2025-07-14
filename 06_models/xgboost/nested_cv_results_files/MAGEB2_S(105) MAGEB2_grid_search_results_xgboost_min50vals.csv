@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAGEB2_S(105) MAGEB2_S(191) MAGEB2_S(77) MAGEB2_T(67),0.8,0.5,4,1,8,0.8,0.018303267688394805,0.4042875080571967

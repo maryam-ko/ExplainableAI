@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA12A_S(23) HSPA12A_T(106),0.8,0.5,2,1,6,0.6,0.015401948593703307,0.007944143066259634

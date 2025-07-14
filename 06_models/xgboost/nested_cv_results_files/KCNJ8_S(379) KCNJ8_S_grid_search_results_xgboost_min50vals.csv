@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KCNJ8_S(379) KCNJ8_S(8) KCNJ8_T(62),1.0,0.5,2,1,6,0.6,0.010239718365800593,0.11264536814021853

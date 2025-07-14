@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNM1_S(774) DNM1_S(777) DNM1_S(795) DNM1_S(851) DNM1_T(780),1.0,0.5,4,1,4,1.0,0.029356191555584246,0.24823521179655178

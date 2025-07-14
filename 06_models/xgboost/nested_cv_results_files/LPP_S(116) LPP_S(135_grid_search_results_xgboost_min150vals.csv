@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LPP_S(116) LPP_S(135) LPP_S(151) LPP_S(155) LPP_S(313) LPP_S(609) LPP_T(149) LPP_T(156) LPP_T(170) LPP_T(333) LPP_T(526) LPP_Y(273) LPP_Y(297) LPP_Y(301) LPP_Y(332) LPP_Y(346),0.8,0.5,4,10,8,1.0,0.038075021285477316,0.34090103139142347

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EBAG9_S(33) EBAG9_S(34) EBAG9_S(86) EBAG9_T(41) EBAG9_T(99),0.6,0.5,1,1,4,0.8,0.015349633026618884,0.1650823659639214

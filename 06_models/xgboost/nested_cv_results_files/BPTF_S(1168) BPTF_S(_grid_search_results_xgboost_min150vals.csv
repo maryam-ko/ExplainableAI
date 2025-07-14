@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BPTF_S(1168) BPTF_S(1277) BPTF_S(1297) BPTF_S(1615) BPTF_S(1617) BPTF_S(1626) BPTF_S(196) BPTF_S(2095) BPTF_S(817) BPTF_S(980) BPTF_T(2684) BPTF_T(610),1.0,0.5,4,10,8,1.0,0.014025357637907835,0.44130673474906323

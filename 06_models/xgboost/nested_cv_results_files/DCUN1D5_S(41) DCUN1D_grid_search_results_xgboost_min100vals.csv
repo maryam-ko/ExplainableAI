@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCUN1D5_S(41) DCUN1D5_S(47) DCUN1D5_S(9),1.0,0.5,4,10,8,1.0,0.029650731497435693,0.5354049471696352

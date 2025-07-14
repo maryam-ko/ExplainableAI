@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPH1_S(3) HSPH1_S(384) HSPH1_S(509) HSPH1_S(733) HSPH1_S(852) HSPH1_T(503) HSPH1_T(817) HSPH1_Y(643),0.6,0.5,2,1,8,1.0,0.012652796928658634,0.20519804635764194

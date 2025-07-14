@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COPS7A_S(232) COPS7A_S(255) COPS7A_T(249),0.8,0.5,2,1,8,0.8,0.013689265696108389,0.21808639145417064

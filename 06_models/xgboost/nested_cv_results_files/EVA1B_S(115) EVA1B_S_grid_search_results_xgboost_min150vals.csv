@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EVA1B_S(115) EVA1B_S(152) EVA1B_T(148) EVA1B_T(85) EVA1B_T(94),0.8,0.5,4,10,6,1.0,0.025985817701275817,0.17591079963119471

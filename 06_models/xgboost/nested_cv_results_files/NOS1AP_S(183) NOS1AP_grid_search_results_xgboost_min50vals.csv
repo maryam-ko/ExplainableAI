@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOS1AP_S(183) NOS1AP_S(187) NOS1AP_S(190) NOS1AP_S(261) NOS1AP_S(266) NOS1AP_S(3) NOS1AP_S(371) NOS1AP_T(264),1.0,0.5,3,5,8,0.6,0.019821687174081233,0.2327434335735031

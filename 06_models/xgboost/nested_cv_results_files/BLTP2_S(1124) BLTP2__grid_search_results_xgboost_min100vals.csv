@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BLTP2_S(1124) BLTP2_S(2169) BLTP2_S(2199) BLTP2_S(2203) BLTP2_T(2167) BLTP2_T(2197),0.8,0.5,4,1,6,1.0,0.019372220424532658,0.4572981576313036

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGM3_M(64) PGM3_S(54) PGM3_S(64) PGM3_S(92) PGM3_T(62) PGM3_T(90),0.6,0.5,4,10,8,1.0,0.03772176842300273,0.7446458670651556

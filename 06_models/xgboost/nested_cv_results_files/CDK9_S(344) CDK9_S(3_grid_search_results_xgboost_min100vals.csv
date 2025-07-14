@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDK9_S(344) CDK9_S(347) CDK9_S(357) CDK9_T(186),0.6,0.5,3,1,8,1.0,0.024576326258394454,0.6028070397295462

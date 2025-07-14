@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC1_C(381) DNAJC1_S(430) DNAJC1_T(438),1.0,0.5,3,1,8,0.6,0.025583529749706898,0.21508925379885563

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX17_S(29) DDX17_S(35) DDX17_S(578) DDX17_S(584) DDX17_S(653) DDX17_S(655) DDX17_S(671) DDX17_S(675) DDX17_T(35),0.6,0.5,2,1,8,0.8,0.010636044307537253,0.1060410595446076

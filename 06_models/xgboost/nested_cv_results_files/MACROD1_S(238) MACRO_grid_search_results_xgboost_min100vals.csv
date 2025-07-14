@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MACROD1_S(238) MACROD1_Y(222),1.0,0.5,4,1,8,1.0,0.016461342116316863,0.21759180860786032

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FTO_C(256) FTO_S(179) FTO_S(249) FTO_S(256) FTO_S(260) FTO_T(4) FTO_Y(249),0.8,0.5,4,1,8,1.0,0.04535536541807524,0.18793619324830418

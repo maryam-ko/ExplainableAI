@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DSG3_S(717) DSG3_S(985) DSG3_T(987),0.8,0.5,4,1,6,1.0,0.015482682038400584,0.24589534078808545

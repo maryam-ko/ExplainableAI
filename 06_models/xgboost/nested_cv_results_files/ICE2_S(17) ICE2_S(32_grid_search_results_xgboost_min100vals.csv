@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ICE2_S(17) ICE2_S(326) ICE2_S(416) ICE2_S(519) ICE2_S(600) ICE2_S(605) ICE2_S(624) ICE2_S(629) ICE2_T(629),1.0,0.5,3,1,8,1.0,0.0241270501217479,0.4411933372960772

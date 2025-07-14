@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MBLAC1_S(252) MBLAC1_S(61) MBLAC1_S(9),0.6,0.5,1,1,2,0.6,0.018407791014805275,-0.008800030293654348

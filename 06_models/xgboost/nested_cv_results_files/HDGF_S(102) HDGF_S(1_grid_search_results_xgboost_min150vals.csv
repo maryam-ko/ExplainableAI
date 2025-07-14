@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HDGF_S(102) HDGF_S(108) HDGF_S(197) HDGF_S(199) HDGF_S(202) HDGF_S(206) HDGF_S(218) HDGF_S(222) HDGF_S(239) HDGF_S(5) HDGF_S(8) HDGF_S(9) HDGF_T(193) HDGF_T(200) HDGF_T(216) HDGF_T(225) HDGF_T(3),1.0,0.5,4,1,8,1.0,0.020606844609995782,0.8025416446329723

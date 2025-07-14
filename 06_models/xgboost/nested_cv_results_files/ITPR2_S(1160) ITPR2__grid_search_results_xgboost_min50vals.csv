@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITPR2_S(1160) ITPR2_S(1557) ITPR2_S(1846) ITPR2_S(1855) ITPR2_S(2633) ITPR2_S(2636) ITPR2_S(2641) ITPR2_S(994) ITPR2_T(1166) ITPR2_T(1845) ITPR2_T(2605) ITPR2_Y(996),0.8,0.5,2,1,6,1.0,0.04155815877347252,0.13194576962600138

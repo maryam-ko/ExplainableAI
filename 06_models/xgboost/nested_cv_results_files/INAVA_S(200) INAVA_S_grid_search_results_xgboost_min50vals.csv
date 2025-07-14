@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INAVA_S(200) INAVA_S(246) INAVA_S(570) INAVA_S(599) INAVA_S(643),0.8,0.5,1,1,8,0.8,0.01253879020662304,0.016152881995026114

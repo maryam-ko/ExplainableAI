@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NMT1_S(43) NMT1_S(46) NMT1_S(47) NMT1_T(117) NMT1_T(52),0.6,0.5,4,5,8,1.0,0.040459702740916925,0.7186020926960739

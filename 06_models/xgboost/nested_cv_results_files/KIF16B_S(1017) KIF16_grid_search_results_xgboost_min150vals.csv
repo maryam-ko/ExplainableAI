@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF16B_S(1017) KIF16B_S(1052) KIF16B_S(1172) KIF16B_S(566) KIF16B_S(575) KIF16B_S(582) KIF16B_S(587) KIF16B_S(662) KIF16B_S(881) KIF16B_Y(1079),0.6,0.5,4,1,8,1.0,0.019816361751827383,0.6893311498061025

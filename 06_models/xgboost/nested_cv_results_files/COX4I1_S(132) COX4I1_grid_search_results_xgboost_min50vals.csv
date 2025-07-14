@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COX4I1_S(132) COX4I1_S(158) COX4I1_S(26) COX4I1_S(30) COX4I1_S(34) COX4I1_S(74) COX4I1_Y(38),0.6,0.5,1,1,2,1.0,0.014738341106523242,-0.0030914714849529456

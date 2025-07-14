@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAPSS2_S(92) PAPSS2_Y(20),0.6,0.5,1,1,8,1.0,0.013473711235324039,0.2772651655677675

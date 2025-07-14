@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DONSON_S(139) DONSON_S(34) DONSON_S(9),0.6,0.5,3,1,8,1.0,0.01487624464555802,0.29620084240151

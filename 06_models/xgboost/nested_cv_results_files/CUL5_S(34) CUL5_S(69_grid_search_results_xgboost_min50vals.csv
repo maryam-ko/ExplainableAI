@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CUL5_S(34) CUL5_S(69) CUL5_T(36),1.0,0.5,2,1,8,0.8,0.01728893185141904,0.013108715300153251

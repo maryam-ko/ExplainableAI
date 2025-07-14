@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MID1_S(213) MID1_S(311) MID1_S(88) MID1_S(90) MID1_S(92) MID1_S(96) MID1_T(78),0.8,0.5,1,1,8,1.0,0.022242799032667213,0.1335742635337438

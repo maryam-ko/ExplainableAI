@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IGF2R_S(180) IGF2R_S(2346) IGF2R_S(2347) IGF2R_S(2350) IGF2R_S(2400) IGF2R_S(2401) IGF2R_S(2407) IGF2R_S(2409) IGF2R_S(2479) IGF2R_S(2484) IGF2R_T(2362) IGF2R_T(2415),1.0,0.5,4,1,8,1.0,0.051037096066928994,0.5080360210043511

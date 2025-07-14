@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MZT2A_S(103) MZT2A_S(152) MZT2A_S(3) MZT2A_T(158),0.6,0.5,1,1,6,0.8,0.02271705524604127,-0.009005585112050829

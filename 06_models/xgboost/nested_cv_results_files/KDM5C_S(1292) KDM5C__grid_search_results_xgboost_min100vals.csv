@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KDM5C_S(1292) KDM5C_S(1359) KDM5C_S(250) KDM5C_S(287) KDM5C_S(295) KDM5C_S(299) KDM5C_S(301) KDM5C_S(305) KDM5C_S(317) KDM5C_S(6) KDM5C_S(809) KDM5C_S(896) KDM5C_Y(239),0.6,0.5,4,1,8,1.0,0.031094037537480478,0.660584070028129

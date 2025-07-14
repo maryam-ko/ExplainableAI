@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRP4_S(1887) LRP4_S(1900) LRP4_S(1901),1.0,0.5,4,1,8,1.0,0.029246335067181124,0.21525098269391005

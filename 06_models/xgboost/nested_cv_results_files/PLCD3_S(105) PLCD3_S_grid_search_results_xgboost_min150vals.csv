@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCD3_S(105) PLCD3_S(34) PLCD3_S(39) PLCD3_S(489) PLCD3_S(496) PLCD3_S(573) PLCD3_S(7) PLCD3_T(37),0.6,0.5,4,10,8,1.0,0.04483010768310939,0.507053417564254

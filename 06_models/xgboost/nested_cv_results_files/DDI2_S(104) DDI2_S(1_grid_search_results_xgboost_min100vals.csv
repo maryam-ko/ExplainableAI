@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDI2_S(104) DDI2_S(105) DDI2_S(106) DDI2_S(118) DDI2_S(121) DDI2_S(128) DDI2_S(150) DDI2_S(194) DDI2_T(104) DDI2_T(126),0.6,0.5,4,5,6,1.0,0.03335605433548359,0.5305394020197418

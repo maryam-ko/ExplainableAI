@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FKBP4_S(217) FKBP4_S(251) FKBP4_S(263) FKBP4_S(350) FKBP4_T(438) FKBP4_T(457),0.8,0.5,2,10,8,0.8,0.012417813813031378,0.17418631560582293

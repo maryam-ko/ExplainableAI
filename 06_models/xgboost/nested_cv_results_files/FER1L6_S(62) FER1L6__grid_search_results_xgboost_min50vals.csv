@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FER1L6_S(62) FER1L6_T(1774),1.0,0.5,3,5,8,0.8,0.02008248218395197,0.17280856719931273

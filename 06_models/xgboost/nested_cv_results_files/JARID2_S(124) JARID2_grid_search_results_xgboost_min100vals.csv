@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JARID2_S(124) JARID2_S(126) JARID2_S(205) JARID2_S(326) JARID2_S(331) JARID2_S(78) JARID2_T(127) JARID2_T(209) JARID2_T(344),1.0,0.5,3,1,4,1.0,0.020204817896395038,0.18037886801165426

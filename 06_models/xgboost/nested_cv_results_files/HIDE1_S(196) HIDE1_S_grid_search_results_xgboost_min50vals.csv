@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HIDE1_S(196) HIDE1_S(213) HIDE1_S(216) HIDE1_S(217) HIDE1_T(191) HIDE1_T(212) HIDE1_T(220),0.6,0.5,1,1,6,0.6,0.01710737561658289,-0.012573382518758124

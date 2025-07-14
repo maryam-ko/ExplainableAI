@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC186_S(139) CCDC186_S(722) CCDC186_S(726) CCDC186_S(747),1.0,0.5,4,1,2,1.0,0.03068429232120106,0.1263196373061654

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRWD3_S(1386) BRWD3_S(1574) BRWD3_S(1577) BRWD3_S(1579) BRWD3_S(1763) BRWD3_S(885) BRWD3_S(886) BRWD3_T(1771) BRWD3_Y(1759),0.8,0.5,3,10,8,0.8,0.011820250988375953,0.34525266137236527

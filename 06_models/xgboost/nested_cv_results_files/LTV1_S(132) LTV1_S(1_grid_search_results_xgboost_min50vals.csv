@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LTV1_S(132) LTV1_S(17) LTV1_S(182) LTV1_S(188) LTV1_S(244) LTV1_S(408) LTV1_T(171) LTV1_T(246) LTV1_Y(301),0.8,0.5,2,10,8,1.0,0.03313169187181528,0.0886217299031832

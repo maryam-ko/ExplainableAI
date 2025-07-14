@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF18A_S(2) KIF18A_S(492) KIF18A_S(674) KIF18A_S(684) KIF18A_S(695) KIF18A_T(698) KIF18A_T(706) KIF18A_T(710),0.8,0.5,4,5,8,1.0,0.03189595736223462,0.19976146299007103

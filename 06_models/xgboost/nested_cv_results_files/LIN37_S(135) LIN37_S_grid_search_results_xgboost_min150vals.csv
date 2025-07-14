@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIN37_S(135) LIN37_S(137) LIN37_S(138) LIN37_S(178) LIN37_S(182) LIN37_S(202) LIN37_S(83) LIN37_T(167) LIN37_T(191) LIN37_T(47),0.8,0.5,4,10,8,1.0,0.030573951191334135,0.7292954093627855

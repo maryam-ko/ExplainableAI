@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OSBP2_S(114) OSBP2_S(414) OSBP2_S(430) OSBP2_S(608) OSBP2_S(762) OSBP2_S(763) OSBP2_T(282) OSBP2_T(72),0.6,0.5,2,1,8,1.0,0.012372210924911984,0.28227905710937046

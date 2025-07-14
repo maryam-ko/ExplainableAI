@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCP2_S(228) DCP2_S(231) DCP2_S(246) DCP2_S(249) DCP2_S(274) DCP2_S(276) DCP2_S(284) DCP2_S(308) DCP2_S(311) DCP2_S(329),0.8,0.5,3,1,8,1.0,0.021262477733537705,0.5017391291176351

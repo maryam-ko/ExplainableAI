@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DSN1_S(107) DSN1_S(11) DSN1_S(12) DSN1_S(14) DSN1_S(25) DSN1_S(28) DSN1_S(30) DSN1_S(315) DSN1_S(33) DSN1_S(331) DSN1_S(41) DSN1_S(42) DSN1_S(52) DSN1_S(57) DSN1_S(58) DSN1_S(61) DSN1_S(65) DSN1_S(81) DSN1_S(86) DSN1_S(93),1.0,0.5,4,1,8,1.0,0.02608198907388168,0.7869357167113012

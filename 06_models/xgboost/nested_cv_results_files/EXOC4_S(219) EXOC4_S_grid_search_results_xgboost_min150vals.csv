@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXOC4_S(219) EXOC4_S(226) EXOC4_S(245) EXOC4_S(32) EXOC4_S(468) EXOC4_S(738) EXOC4_S(863) EXOC4_T(237) EXOC4_T(937) EXOC4_Y(247) EXOC4_Y(51),1.0,0.5,4,1,8,1.0,0.025544226801209113,0.6606465285336809

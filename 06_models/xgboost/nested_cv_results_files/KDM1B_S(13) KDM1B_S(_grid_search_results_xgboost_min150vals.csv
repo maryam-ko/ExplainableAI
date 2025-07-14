@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KDM1B_S(13) KDM1B_S(17) KDM1B_S(20) KDM1B_S(239) KDM1B_S(247) KDM1B_T(502),1.0,0.5,4,1,8,1.0,0.027338816937126996,0.7926670194204576

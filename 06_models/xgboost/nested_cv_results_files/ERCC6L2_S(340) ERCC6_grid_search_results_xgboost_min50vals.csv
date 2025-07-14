@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERCC6L2_S(340) ERCC6L2_S(436) ERCC6L2_S(77) ERCC6L2_S(80) ERCC6L2_S(939) ERCC6L2_S(942) ERCC6L2_S(991) ERCC6L2_S(994),0.8,0.5,2,1,8,0.8,0.020916644584203004,0.02393302928508907

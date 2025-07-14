@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTTN_S(1021) CTTN_S(282) CTTN_S(3) CTTN_S(368) CTTN_S(381) CTTN_S(405) CTTN_S(414) CTTN_S(417) CTTN_S(418) CTTN_S(447) CTTN_S(81) CTTN_T(364) CTTN_T(401) CTTN_T(411) CTTN_Y(154) CTTN_Y(162) CTTN_Y(178) CTTN_Y(334) CTTN_Y(446),1.0,0.5,4,1,8,1.0,0.04045226654292384,0.7376692613018061

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ORC6_T(195) ORC6_T(229),0.8,0.5,3,5,8,1.0,0.031164315951489767,0.4658813580147182

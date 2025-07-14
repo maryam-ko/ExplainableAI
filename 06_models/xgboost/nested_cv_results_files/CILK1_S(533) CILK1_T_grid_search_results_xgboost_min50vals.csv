@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CILK1_S(533) CILK1_T(157) CILK1_T(475) CILK1_T(478) CILK1_Y(159),0.6,0.5,1,1,6,0.6,0.010851391246534491,-0.0011196380220177104

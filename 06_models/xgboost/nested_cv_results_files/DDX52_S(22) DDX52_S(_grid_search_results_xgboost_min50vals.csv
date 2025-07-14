@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX52_S(22) DDX52_S(565),0.6,0.5,3,1,8,1.0,0.022105847147887978,0.055636262922594534

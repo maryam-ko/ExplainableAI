@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBXO41_S(478) FBXO41_S(539),0.6,0.5,1,1,4,0.6,0.018357405132552174,-0.013832287970781598

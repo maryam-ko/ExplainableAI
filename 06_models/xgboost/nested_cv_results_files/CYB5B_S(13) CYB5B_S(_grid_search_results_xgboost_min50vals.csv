@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYB5B_S(13) CYB5B_S(2) CYB5B_S(33) CYB5B_S(4) CYB5B_T(18),1.0,0.5,2,1,8,1.0,0.01874091779841985,0.20590335496500023

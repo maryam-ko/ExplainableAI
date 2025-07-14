@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRRC1_S(37) LRRC1_S(456) LRRC1_S(523),1.0,0.5,4,1,4,1.0,0.026643012519808884,0.07138973966393306

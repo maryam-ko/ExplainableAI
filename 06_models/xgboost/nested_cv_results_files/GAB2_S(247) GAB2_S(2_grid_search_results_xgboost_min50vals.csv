@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GAB2_S(247) GAB2_S(264) GAB2_S(281) GAB2_S(404) GAB2_S(422) GAB2_S(505) GAB2_S(623) GAB2_S(631) GAB2_T(225) GAB2_T(353) GAB2_T(391) GAB2_T(636),0.6,0.5,2,1,4,1.0,0.015195212204961266,0.1330212914998375

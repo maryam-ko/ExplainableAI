@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BORA_S(325) BORA_S(41) BORA_T(52),0.8,0.5,4,10,8,1.0,0.020855739915038113,0.4552248059572128

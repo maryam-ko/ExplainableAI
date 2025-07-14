@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CD99_S(168) CD99_S(91) CD99_T(161) CD99_T(181),1.0,0.5,4,5,8,0.8,0.028368790232303192,0.43595859651562047

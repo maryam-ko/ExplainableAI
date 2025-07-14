@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C15orf39_C(479) C15orf39_S(208) C15orf39_S(299) C15orf39_S(322) C15orf39_S(397) C15orf39_S(455) C15orf39_S(467) C15orf39_S(579) C15orf39_T(397) C15orf39_T(472) C15orf39_T(55) C15orf39_T(582),0.8,0.5,4,1,8,1.0,0.022994490925931726,0.35819133612980963

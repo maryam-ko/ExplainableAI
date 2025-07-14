@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FHIP1B_S(467) FHIP1B_S(482) FHIP1B_S(510) FHIP1B_S(582) FHIP1B_S(586) FHIP1B_S(596) FHIP1B_S(849) FHIP1B_S(859) FHIP1B_S(894) FHIP1B_S(897) FHIP1B_S(901) FHIP1B_T(902),1.0,0.5,4,1,8,1.0,0.031853056587332576,0.20060348519120486

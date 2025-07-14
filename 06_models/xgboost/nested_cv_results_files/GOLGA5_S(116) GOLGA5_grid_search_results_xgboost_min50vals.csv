@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOLGA5_S(116) GOLGA5_S(130) GOLGA5_S(26) GOLGA5_S(583) GOLGA5_T(212) GOLGA5_T(214) GOLGA5_T(90) GOLGA5_Y(431) GOLGA5_Y(54),1.0,0.5,3,5,4,1.0,0.027304024475329536,0.19058711199828177

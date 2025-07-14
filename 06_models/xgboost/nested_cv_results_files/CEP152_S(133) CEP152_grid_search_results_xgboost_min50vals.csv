@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP152_S(133) CEP152_S(1552) CEP152_S(1618) CEP152_T(1185) CEP152_T(1241) CEP152_T(1347),0.8,0.5,3,10,8,0.8,0.01605273082948754,0.23748697713046812

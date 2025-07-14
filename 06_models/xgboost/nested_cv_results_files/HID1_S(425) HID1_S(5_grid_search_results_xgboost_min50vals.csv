@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HID1_S(425) HID1_S(589) HID1_S(593) HID1_S(639) HID1_S(640) HID1_S(652) HID1_S(653) HID1_S(670) HID1_T(584),0.6,0.5,1,1,4,0.6,0.028294131203482533,-0.002401261053532444

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCBD1_S(102) PCBD1_S(5) PCBD1_S(9) PCBD1_T(104),1.0,0.5,2,1,8,0.8,0.018754199759191043,0.025672971195164297

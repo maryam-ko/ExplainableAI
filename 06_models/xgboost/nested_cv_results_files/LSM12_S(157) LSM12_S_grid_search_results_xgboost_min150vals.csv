@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LSM12_S(157) LSM12_S(194) LSM12_T(72) LSM12_T(73) LSM12_T(75) LSM12_T(85),0.8,0.5,4,10,8,1.0,0.028470800927968977,0.6471528176500856

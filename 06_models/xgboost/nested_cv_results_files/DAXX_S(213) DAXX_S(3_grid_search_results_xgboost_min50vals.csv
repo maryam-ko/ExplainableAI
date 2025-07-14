@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAXX_S(213) DAXX_S(301) DAXX_S(33) DAXX_S(415) DAXX_S(497) DAXX_S(498) DAXX_S(5) DAXX_S(503) DAXX_S(593) DAXX_S(661) DAXX_S(662) DAXX_S(685) DAXX_S(709) DAXX_S(737) DAXX_S(739),0.8,0.5,2,10,8,1.0,0.017663053269623558,0.1881066959641929

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIP5K1A_C(486) PIP5K1A_S(456) PIP5K1A_S(460) PIP5K1A_S(486) PIP5K1A_S(58) PIP5K1A_S(6),0.6,0.5,2,1,8,0.8,0.013329126593985935,0.22856566376999937

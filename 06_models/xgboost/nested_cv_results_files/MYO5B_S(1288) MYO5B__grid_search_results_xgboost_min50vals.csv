@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO5B_S(1288) MYO5B_S(1446) MYO5B_S(1523) MYO5B_S(1644) MYO5B_S(212) MYO5B_S(214) MYO5B_T(1404) MYO5B_Y(529),0.6,0.5,1,1,4,0.6,0.01407055153006144,-0.0023905253390512637

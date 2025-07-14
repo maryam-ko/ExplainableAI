@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FKBP8_S(294) FKBP8_S(296) FKBP8_S(297) FKBP8_S(325) FKBP8_S(359) FKBP8_Y(364),0.8,0.5,3,1,8,0.8,0.01898043389710246,0.09939355306344547

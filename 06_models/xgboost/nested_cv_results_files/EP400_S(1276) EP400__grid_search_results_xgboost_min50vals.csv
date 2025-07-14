@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EP400_S(1276) EP400_S(1543) EP400_S(165) EP400_S(2656) EP400_S(722) EP400_T(1726) EP400_T(3158) EP400_T(742) EP400_Y(3011),0.6,0.5,1,1,8,0.6,0.005436072995401382,-0.003364080640739253

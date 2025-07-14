@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCNY_S(12) CCNY_S(21) CCNY_S(22) CCNY_S(25) CCNY_S(270) CCNY_S(272) CCNY_S(29) CCNY_S(299) CCNY_S(3) CCNY_S(323) CCNY_S(324) CCNY_S(4) CCNY_S(83) CCNY_S(99) CCNY_T(331) CCNY_T(37),0.8,0.5,4,10,8,1.0,0.040271515104684276,0.47374065289229483

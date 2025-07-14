@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMGCS1_S(293) HMGCS1_S(4) HMGCS1_S(484) HMGCS1_S(486) HMGCS1_S(490) HMGCS1_S(516) HMGCS1_T(476),0.8,0.5,4,1,8,0.8,0.04219992616295581,0.19050005781214235

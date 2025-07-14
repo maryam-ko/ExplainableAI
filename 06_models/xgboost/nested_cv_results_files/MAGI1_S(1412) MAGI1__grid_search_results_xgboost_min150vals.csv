@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAGI1_S(1412) MAGI1_S(1443) MAGI1_S(1486) MAGI1_S(1490) MAGI1_S(612) MAGI1_T(1365),0.8,0.5,4,1,8,1.0,0.023230275753353336,0.4959885676736519

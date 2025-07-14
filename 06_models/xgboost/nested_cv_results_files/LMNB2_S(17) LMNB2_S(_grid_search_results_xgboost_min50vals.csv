@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMNB2_S(17) LMNB2_S(226) LMNB2_S(3) LMNB2_S(318) LMNB2_S(37) LMNB2_S(391) LMNB2_S(402) LMNB2_S(405) LMNB2_S(407) LMNB2_S(409) LMNB2_S(557) LMNB2_T(14) LMNB2_T(28) LMNB2_T(505) LMNB2_T(518),1.0,0.5,4,1,8,1.0,0.05928426893753353,0.4864635994033069

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCNE2_S(21) CCNE2_S(67) CCNE2_T(392),1.0,0.5,4,10,8,1.0,0.022898581370324578,0.5900168004598327

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CASQ1_S(111) CASQ1_S(128) CASQ1_S(191) CASQ1_S(21) CASQ1_T(124) CASQ1_T(5) CASQ1_Y(130) CASQ1_Y(4),0.8,0.5,4,5,6,1.0,0.025142018052621513,0.7118537979549729

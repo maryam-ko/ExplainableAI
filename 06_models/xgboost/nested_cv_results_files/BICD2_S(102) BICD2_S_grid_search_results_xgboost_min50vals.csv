@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BICD2_S(102) BICD2_S(190) BICD2_S(2) BICD2_S(329) BICD2_S(395) BICD2_S(608) BICD2_S(823) BICD2_T(567) BICD2_T(821),0.8,0.5,4,1,6,1.0,0.0288864586801455,0.4585313693371155

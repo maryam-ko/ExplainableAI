@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDV3_M(107) CDV3_S(106) CDV3_S(107) CDV3_S(191) CDV3_S(197) CDV3_S(216) CDV3_S(252) CDV3_S(30) CDV3_S(37) CDV3_S(4) CDV3_S(5) CDV3_S(65) CDV3_S(8) CDV3_S(96) CDV3_T(159) CDV3_T(182) CDV3_T(193) CDV3_T(4) CDV3_Y(169) CDV3_Y(190) CDV3_Y(244) CDV3_Y(95),1.0,0.5,4,5,8,1.0,0.0334962566939571,0.6595600241994262

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HNRNPM_M(29) HNRNPM_M(528) HNRNPM_S(204) HNRNPM_S(326) HNRNPM_S(365) HNRNPM_S(431) HNRNPM_S(446) HNRNPM_S(467) HNRNPM_S(529) HNRNPM_S(574) HNRNPM_S(700) HNRNPM_Y(642),1.0,0.5,1,1,8,0.8,0.011042502330106233,0.1674295309065224

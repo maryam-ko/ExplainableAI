@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELMO2_S(248) ELMO2_S(505) ELMO2_S(554) ELMO2_Y(625) ELMO2_Y(629),1.0,0.5,3,1,8,0.8,0.011445964312261513,0.24912666527380428

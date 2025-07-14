@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HNRNPH3_S(216) HNRNPH3_S(287) HNRNPH3_S(298) HNRNPH3_T(17) HNRNPH3_T(270) HNRNPH3_T(314),1.0,0.5,4,5,8,0.8,0.024478473286359128,0.27640149019859117

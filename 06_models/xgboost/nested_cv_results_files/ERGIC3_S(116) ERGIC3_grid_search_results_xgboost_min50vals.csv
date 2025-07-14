@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERGIC3_S(116) ERGIC3_S(117),0.8,0.5,4,1,8,1.0,0.023572913102433993,0.47208335837382975

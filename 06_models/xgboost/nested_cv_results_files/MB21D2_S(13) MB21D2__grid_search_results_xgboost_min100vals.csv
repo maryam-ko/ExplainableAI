@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MB21D2_S(13) MB21D2_S(433) MB21D2_S(439) MB21D2_S(442),1.0,0.5,2,1,8,0.8,0.02433716382040746,-0.003854028748490701

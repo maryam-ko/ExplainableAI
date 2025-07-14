@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ENAH_S(125) ENAH_S(136) ENAH_S(414) ENAH_S(477) ENAH_S(485) ENAH_S(486) ENAH_S(508) ENAH_S(516) ENAH_S(528) ENAH_S(531) ENAH_S(537) ENAH_S(544) ENAH_S(718) ENAH_T(464) ENAH_T(483) ENAH_T(489) ENAH_T(502),0.8,0.5,4,10,8,1.0,0.02930855746310301,0.6832243359272882

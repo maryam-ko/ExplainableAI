@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KGD4_S(12) KGD4_S(4) KGD4_S(59) KGD4_S(61) KGD4_S(8) KGD4_Y(67),0.6,0.5,4,1,8,1.0,0.04140804355828391,0.6894786431654397

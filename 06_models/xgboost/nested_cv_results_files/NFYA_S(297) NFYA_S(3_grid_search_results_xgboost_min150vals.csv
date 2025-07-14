@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFYA_S(297) NFYA_S(325) NFYA_S(326),0.8,0.5,4,5,8,1.0,0.029417377044506265,0.4164402283567278

@@ -133,22 +133,44 @@ def format_predictive_feats_dfs(targetfeature_df, matrix):
     # divide total features 10 to identify how many can be used for prediction
     num_features = int(target_count/10) 
     # select computed number of features from current cluster to be used for prediction
-    cropped_fscores = targetfeature_df[0:num_features] # fisher scores are already ordered in descending order
+    # cropped_fscores = targetfeature_df[0:num_features] # fisher scores are already ordered in descending order
+
+    # '''Format dataframe.'''
+    
+    # # print(cropped_fscores)
+    # # create df with columns as predictive features
+    # new_df = pd.DataFrame(columns = cropped_fscores['Feature'])
+    # ## feat1 | feat2 | feat3 | feat4 | feat5 | ...
+    # new_df[f'TargetFeature: {target_feature}'] = matrix.loc[:, target_feature] # add target feature column
+            
+    # # add phosphoproteomics data from input matrix to new_df if column names match
+    # for col in new_df.columns: # loop over column names of new_df
+    #     if col in matrix.columns: # loop over column names of input matrix
+    #         new_df[col] = matrix[col] # add columns from input matrix to new dataframe
+    # new_df = new_df.fillna(0)
+
+    # # remove target feature from features if necessary
+    # if target_feature in new_df.columns:
+    #     new_df = new_df.drop(f'{target_feature}', axis=1)
+    #     print(f'{target_feature} was both the TargetFeature and in features columns. It has been removed from features columns.')
+    # else:
+    #     print(f'{target_feature} is only the TargetFeature column.')
+    
+    # return new_df, target_feature, truncated_target_feature, cropped_fscores
 
     '''Format dataframe.'''
-    
-    # print(cropped_fscores)
     # create df with columns as predictive features
-    new_df = pd.DataFrame(columns = cropped_fscores['Feature'])
-    ## feat1 | feat2 | feat3 | feat4 | feat5 | ...
-    new_df[f'TargetFeature: {target_feature}'] = matrix.loc[:, target_feature] # add target feature column
-            
+    new_df = pd.DataFrame(columns = targetfeature_df['Feature'])
     # add phosphoproteomics data from input matrix to new_df if column names match
     for col in new_df.columns: # loop over column names of new_df
         if col in matrix.columns: # loop over column names of input matrix
             new_df[col] = matrix[col] # add columns from input matrix to new dataframe
+    
+    new_df = new_df.loc[:, (new_df != 0).any(axis=0)]
+    new_df = new_df.iloc[:, :num_features]
+    new_df[f'TargetFeature: {target_feature}'] = matrix.loc[:, target_feature] # add target feature column
     new_df = new_df.fillna(0)
-
+ 
     # remove target feature from features if necessary
     if target_feature in new_df.columns:
         new_df = new_df.drop(f'{target_feature}', axis=1)
@@ -156,7 +178,7 @@ def format_predictive_feats_dfs(targetfeature_df, matrix):
     else:
         print(f'{target_feature} is only the TargetFeature column.')
     
-    return new_df, target_feature, truncated_target_feature, cropped_fscores
+    return new_df, target_feature, truncated_target_feature
 
 
 # ----------------- #
@@ -199,9 +221,9 @@ def concat_best_models_all_clusters(loss_function, min_vals, model_type):
                                'mean_mae', 'mean_r2', 'spearman_corr_mse', 'spearman_corr_mae',
                                'spearman_corr_r2'])
     
-    for filename in os.listdir(f"/data/Blizard-ZabetLab/CM/{model_type}/results_files"):
+    for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_results_files"):
         if f"Min{min_vals}Vals" in filename:
-            with open(f'/data/Blizard-ZabetLab/CM/{model_type}/results_files/{filename}', 'r') as FILE:
+            with open(f'/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_results_files/{filename}', 'r') as FILE:
                 current_file = pd.read_csv(FILE)
                 if loss_function == 'mse' or loss_function == 'mae':
                     idx = current_file[f'mean_{loss_function}'].idxmin() # get index of row with greatest value
@@ -232,10 +254,10 @@ def identify_models_for_retraining(base_dir, threshold, model_type):
     """
     
     # load required files
-    fscores = pd.read_csv(f'{base_dir}/05_feature_selection/interim_data/top_500_fisher_scores_min{threshold}vals.csv', header=0)
+    fscores = pd.read_csv(f'{base_dir}/05_feature_selection/top_500_fisher_scores_min{threshold}vals.csv', header=0)
     fisher_score_dfs = [group for _, group in fscores.groupby('TargetFeature', sort=False)]
 
-    matrix = pd.read_csv(f'{base_dir}/04_clustering/interim_data/clustered_matrix_min{threshold}vals.csv', header=0)
+    matrix = pd.read_csv(f'{base_dir}/04_clustering/clustered_matrix_min{threshold}vals.csv', header=0)
 
     optimised_models = pd.read_csv(f'{base_dir}/06_models/{model_type}/params/{model_type}_nested_cv_master_results_file_min{threshold}vals.csv', header=0) # mse, mae and r2 files have the same clusters
     
@@ -340,12 +362,12 @@ def concat_and_log_all_shap_files(threshold, model_type):
     """
     df = pd.DataFrame(columns=['Feature', 'TargetFeature', 'SHAPValue'])
     
-    for filename in os.listdir(f"/data/Blizard-ZabetLab/CM/{model_type}/nested_cv_global_shaps"):
+    for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_global_shaps"):
         # specify only certain files
         if f"min{threshold}vals" in filename and f"_global" in filename:
             truncated_feat = filename.split("_global")[0]
             
-            with open(f'/data/Blizard-ZabetLab/CM/{model_type}/nested_cv_global_shaps/{filename}', 'r') as FILE:
+            with open(f'/data/home/bt24990/ExplainableAI/06_models/{model_type}/nested_cv_global_shaps/{filename}', 'r') as FILE:
                 current_file = pd.read_csv(FILE)
                 transformed_file = current_file.T.reset_index()
                 transformed_file.columns = ['Feature', 'SHAPValue']
@@ -368,8 +390,7 @@ def concat_and_log_all_shap_files(threshold, model_type):
     # reduce clusters to protein level
     df['Feature'] = [i.split("_")[0] for i in df['Feature']]
     df['TargetFeature'] = [j.split("_")[0] for j in df['TargetFeature']]
-
-    df['Coeff*R2'] = df['LogSHAPValue'] * df['MeanR2']
+    print(f"Columns in SHAP DataFrame: {df.columns.tolist()}")
 
 
     df.to_csv(f"/data/home/bt24990/ExplainableAI/08_results/{model_type}/nested_cv_master_shaps/{model_type}_master_shap_file_protein_level_min{threshold}vals.csv", index=False)
@@ -397,7 +418,7 @@ def extract_specified_shap_values_and_return_log_shap_array(min_vals, model_type
             respect to each target feature (cols = 'PredictiveFeature', 
             'TargetFeature', 'SHAPvalue', 'LogSHAPValue')
     """
-    df = pd.read_csv(f"/data/Blizard-ZabetLab/CM/{model_type}/concatenated_shaps/{model_type}_concatenated_all_shap_values_cluster_level_min{min_vals}vals.csv", header=0)
+    df = pd.read_csv(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/concatenated_shaps/{model_type}_concatenated_all_shap_values_cluster_level_min{min_vals}vals.csv", header=0)
     print("Original df:")
     print(df.head())
     
@@ -405,7 +426,7 @@ def extract_specified_shap_values_and_return_log_shap_array(min_vals, model_type
     print("Subset df:")
     print(df_subset.head())
     
-    df_subset.to_csv(f"/data/Blizard-ZabetLab/CM/{model_type}/concatenated_shaps/{model_type}_concatenated_{network_name}_shap_values_cluster_level_min{min_vals}vals.csv", index=False)
+    df_subset.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/concatenated_shaps/{model_type}_concatenated_{network_name}_shap_values_cluster_level_min{min_vals}vals.csv", index=False)
     df_subset.to_csv(f"/data/home/bt24990/ExplainableAI/07_results/{model_type}/concatenated_shaps/{model_type}_concatenated_{network_name}_shap_values_cluster_level_min{min_vals}vals.csv", index=False)
     
     # reduce clusters to protein level
@@ -414,7 +435,7 @@ def extract_specified_shap_values_and_return_log_shap_array(min_vals, model_type
     print("Protein df:")
     print(df_subset.head())
 
-    df_subset.to_csv(f"/data/Blizard-ZabetLab/CM/{model_type}/concatenated_shaps/{model_type}_concatenated_{network_name}_shap_values_protein_level_min{min_vals}vals.csv", index=False)
+    df_subset.to_csv(f"/data/home/bt24990/ExplainableAI/06_models/{model_type}/concatenated_shaps/{model_type}_concatenated_{network_name}_shap_values_protein_level_min{min_vals}vals.csv", index=False)
     df_subset.to_csv(f"/data/home/bt24990/ExplainableAI/07_results/{model_type}/concatenated_shaps/{model_type}_concatenated_{network_name}_shap_values_protein_level_min{min_vals}vals.csv", index=False)
     
     log_shap_vals = df_subset['LogSHAPValue'].values

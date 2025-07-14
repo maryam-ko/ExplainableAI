@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDKL5_S(301) CDKL5_S(308) CDKL5_S(343) CDKL5_S(388) CDKL5_S(392) CDKL5_S(407) CDKL5_S(446) CDKL5_S(468) CDKL5_S(479) CDKL5_S(681) CDKL5_S(720) CDKL5_Y(171) CDKL5_Y(704),1.0,0.5,2,1,8,0.8,0.028213285016756743,0.03809170569141396

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPC1_S(119) EPC1_S(492) EPC1_S(535) EPC1_S(539) EPC1_T(105),1.0,0.5,3,1,4,1.0,0.013010551735034846,0.0782962408942989

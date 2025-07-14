@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMOD1_S(10) LMOD1_S(119) LMOD1_S(12) LMOD1_S(135) LMOD1_S(4) LMOD1_S(508) LMOD1_S(512) LMOD1_S(516) LMOD1_S(520) LMOD1_S(551) LMOD1_S(85),0.8,0.5,4,1,8,1.0,0.03927461310762719,0.10129885000722172

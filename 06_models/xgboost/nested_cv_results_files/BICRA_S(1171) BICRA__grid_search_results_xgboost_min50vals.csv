@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BICRA_S(1171) BICRA_S(1256) BICRA_S(1362) BICRA_S(1413) BICRA_S(513) BICRA_S(752) BICRA_S(755) BICRA_S(919) BICRA_T(921) BICRA_T(925),0.8,0.5,4,5,8,0.8,0.038395179084181906,0.39940899518835243

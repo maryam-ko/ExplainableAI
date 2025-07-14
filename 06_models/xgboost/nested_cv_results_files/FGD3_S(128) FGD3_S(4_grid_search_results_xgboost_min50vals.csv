@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FGD3_S(128) FGD3_S(422) FGD3_S(446) FGD3_S(547) FGD3_S(56),1.0,0.5,3,1,8,1.0,0.021332809722731102,0.2947535318738582

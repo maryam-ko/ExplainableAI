@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPHOSPH6_S(110) MPHOSPH6_S(61) MPHOSPH6_T(124) MPHOSPH6_T(147),1.0,0.5,4,1,6,1.0,0.030235490132514333,0.44686369994019337

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EYA3_S(136) EYA3_S(256) EYA3_S(266) EYA3_S(297) EYA3_T(253),1.0,0.5,1,1,6,0.8,0.011702559683636225,0.04336278307395258

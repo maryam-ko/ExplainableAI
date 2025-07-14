@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INTS10_M(387) INTS10_S(231) INTS10_S(233) INTS10_S(381) INTS10_S(382) INTS10_S(387),0.6,0.5,4,10,8,1.0,0.044240385623646045,0.25308938043948004

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FERMT1_S(179) FERMT1_S(361) FERMT1_T(663),1.0,0.5,2,1,4,0.8,0.009480591733123751,0.31450685165021436

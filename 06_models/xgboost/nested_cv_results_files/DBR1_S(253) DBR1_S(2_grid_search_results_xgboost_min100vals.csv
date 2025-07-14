@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DBR1_S(253) DBR1_S(282) DBR1_S(478) DBR1_S(479) DBR1_S(499) DBR1_S(514),1.0,0.5,4,1,8,0.8,0.027363155341702323,0.6470427100513524

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLIC6_S(199) CLIC6_S(229) CLIC6_S(293) CLIC6_S(377),0.6,0.5,1,1,2,0.6,0.01446006608883111,-0.02266848147206746

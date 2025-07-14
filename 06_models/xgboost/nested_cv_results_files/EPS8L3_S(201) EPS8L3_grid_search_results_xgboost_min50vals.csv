@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPS8L3_S(201) EPS8L3_S(228) EPS8L3_S(229) EPS8L3_S(231) EPS8L3_S(441) EPS8L3_S(520) EPS8L3_S(592) EPS8L3_T(511),0.6,0.5,1,1,4,0.6,0.010073060958947808,-0.0050147925281228915

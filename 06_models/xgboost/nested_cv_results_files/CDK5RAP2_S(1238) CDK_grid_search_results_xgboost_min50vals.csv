@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDK5RAP2_S(1238) CDK5RAP2_S(1368) CDK5RAP2_S(1887) CDK5RAP2_S(841) CDK5RAP2_T(1886) CDK5RAP2_T(839) CDK5RAP2_T(895),1.0,0.5,4,1,8,0.8,0.028372246610023143,0.25079102546564985

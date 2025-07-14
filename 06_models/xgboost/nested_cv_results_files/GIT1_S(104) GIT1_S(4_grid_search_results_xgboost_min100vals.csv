@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GIT1_S(104) GIT1_S(414) GIT1_S(570) GIT1_S(603) GIT1_S(674) GIT1_T(392) GIT1_Y(383),0.6,0.5,2,1,8,1.0,0.008968801951808028,0.0928657921064627

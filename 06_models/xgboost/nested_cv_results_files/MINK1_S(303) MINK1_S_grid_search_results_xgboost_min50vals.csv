@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MINK1_S(303) MINK1_S(563) MINK1_S(599) MINK1_S(732) MINK1_S(733) MINK1_S(754) MINK1_S(758) MINK1_S(768) MINK1_S(778) MINK1_T(3) MINK1_T(565) MINK1_T(681) MINK1_Y(592) MINK1_Y(987),1.0,0.5,4,5,8,1.0,0.06672114139093746,0.28553269611065457

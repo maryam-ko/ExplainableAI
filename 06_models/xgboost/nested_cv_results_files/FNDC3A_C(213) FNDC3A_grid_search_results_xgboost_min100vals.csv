@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FNDC3A_C(213) FNDC3A_S(151) FNDC3A_S(178) FNDC3A_S(200) FNDC3A_S(202) FNDC3A_S(203) FNDC3A_S(207) FNDC3A_S(213) FNDC3A_S(234),0.6,0.5,4,5,8,1.0,0.022343002016465188,0.7217189055127122

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ENDOD1_S(289) ENDOD1_S(303) ENDOD1_S(307) ENDOD1_S(321) ENDOD1_T(308),0.8,0.5,2,1,8,0.8,0.015530352641896353,0.05400381778945436

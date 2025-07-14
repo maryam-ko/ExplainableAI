@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEX3D_S(330) MEX3D_S(338) MEX3D_S(506) MEX3D_S(510) MEX3D_S(514) MEX3D_T(215) MEX3D_T(334) MEX3D_T(510),0.8,0.5,4,1,4,1.0,0.021730694936084774,0.43980056534382317

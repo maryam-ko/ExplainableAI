@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PEX1_S(1154) PEX1_S(1172) PEX1_S(1185) PEX1_S(1216) PEX1_S(1217) PEX1_T(1185) PEX1_Y(1207),1.0,0.5,3,1,8,1.0,0.006913929349213064,0.4587830967611632

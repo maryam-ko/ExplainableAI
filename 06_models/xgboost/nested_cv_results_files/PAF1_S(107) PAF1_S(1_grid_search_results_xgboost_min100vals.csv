@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAF1_S(107) PAF1_S(147) PAF1_S(174) PAF1_S(38) PAF1_S(394) PAF1_S(429) PAF1_S(434) PAF1_S(456) PAF1_S(460) PAF1_S(466),0.8,0.5,4,1,4,1.0,0.020111268398649528,0.22096612534703328

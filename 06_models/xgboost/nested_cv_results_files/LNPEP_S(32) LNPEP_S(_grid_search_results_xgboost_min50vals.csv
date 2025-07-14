@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LNPEP_S(32) LNPEP_S(7) LNPEP_S(72) LNPEP_S(84) LNPEP_S(85) LNPEP_S(86) LNPEP_S(91) LNPEP_Y(27) LNPEP_Y(46) LNPEP_Y(70),0.6,0.5,1,1,8,0.6,0.031810079150325694,-0.0014517051884650467

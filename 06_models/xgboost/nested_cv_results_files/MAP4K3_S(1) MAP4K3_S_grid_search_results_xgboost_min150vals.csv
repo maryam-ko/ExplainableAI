@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAP4K3_S(1) MAP4K3_S(134) MAP4K3_S(137) MAP4K3_S(314) MAP4K3_S(326) MAP4K3_S(329) MAP4K3_S(398) MAP4K3_S(467),1.0,0.5,4,1,8,1.0,0.019408769068608705,0.7047803663658854

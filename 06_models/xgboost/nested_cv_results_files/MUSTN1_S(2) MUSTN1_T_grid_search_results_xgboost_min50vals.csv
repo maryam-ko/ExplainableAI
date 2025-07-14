@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MUSTN1_S(2) MUSTN1_T(3) MUSTN1_T(5) MUSTN1_T(63),1.0,0.5,3,1,6,0.8,0.02084584161002782,0.13628092206549022

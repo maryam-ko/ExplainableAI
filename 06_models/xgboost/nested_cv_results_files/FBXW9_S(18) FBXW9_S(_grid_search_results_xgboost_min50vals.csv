@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBXW9_S(18) FBXW9_S(22) FBXW9_S(333) FBXW9_S(59) FBXW9_S(61) FBXW9_S(63) FBXW9_T(55),0.8,0.5,4,1,8,1.0,0.038277140279231285,0.17690481217115378

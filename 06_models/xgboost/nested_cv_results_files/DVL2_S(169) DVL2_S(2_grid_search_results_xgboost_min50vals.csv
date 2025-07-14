@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DVL2_S(169) DVL2_S(211) DVL2_S(228) DVL2_S(614) DVL2_S(616) DVL2_S(618) DVL2_S(626) DVL2_S(651),0.8,0.5,2,1,8,0.8,0.01579573773434435,0.020690271648948523

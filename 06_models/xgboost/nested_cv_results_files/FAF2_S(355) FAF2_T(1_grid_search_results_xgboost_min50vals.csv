@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAF2_S(355) FAF2_T(10) FAF2_Y(79),1.0,0.5,1,10,6,0.8,0.014121595008244054,0.10737345911407079

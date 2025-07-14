@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HCLS1_S(238) HCLS1_S(244) HCLS1_S(275) HCLS1_S(285) HCLS1_S(300) HCLS1_S(312) HCLS1_S(314) HCLS1_S(46) HCLS1_S(62) HCLS1_T(272) HCLS1_T(308) HCLS1_T(333) HCLS1_Y(198),0.6,0.5,4,5,8,1.0,0.03776427000585836,0.38781597406628976

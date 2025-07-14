@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FHL2_S(238) FHL2_S(255) FHL2_T(112) FHL2_Y(117),1.0,0.5,3,1,4,1.0,0.02342788023868765,0.177228388420483

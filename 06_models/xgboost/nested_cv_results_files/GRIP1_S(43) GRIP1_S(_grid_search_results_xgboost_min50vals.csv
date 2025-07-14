@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRIP1_S(43) GRIP1_S(69) GRIP1_S(761) GRIP1_S(762) GRIP1_S(847) GRIP1_S(953) GRIP1_T(972),1.0,0.5,2,1,4,1.0,0.03360856503475959,0.007177836952627215

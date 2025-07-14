@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HIC2_S(179) HIC2_S(195) HIC2_S(197) HIC2_S(348),1.0,0.5,2,1,8,0.6,0.024108625650236144,0.040482753565001264

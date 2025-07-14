@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAMK2B_S(1) CAMK2B_S(3) CAMK2B_S(367) CAMK2B_S(397) CAMK2B_S(418) CAMK2B_S(5) CAMK2B_S(6) CAMK2B_S(7) CAMK2B_T(12) CAMK2B_T(13) CAMK2B_T(3) CAMK2B_T(366) CAMK2B_T(401) CAMK2B_T(5) CAMK2B_T(9),1.0,0.5,4,1,8,0.8,0.039794033248977914,0.25696072211145077

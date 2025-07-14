@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FCHO2_S(12) FCHO2_S(3) FCHO2_S(312) FCHO2_S(354) FCHO2_S(380) FCHO2_S(476) FCHO2_S(511) FCHO2_S(517) FCHO2_S(533) FCHO2_T(289) FCHO2_T(385) FCHO2_T(452) FCHO2_T(462) FCHO2_T(492) FCHO2_T(542),1.0,0.5,4,1,8,0.8,0.028018419377321777,0.3547331246803867

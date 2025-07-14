@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+G3BP2_S(1) G3BP2_S(141) G3BP2_S(149) G3BP2_S(163) G3BP2_S(225) G3BP2_S(286) G3BP2_S(47) G3BP2_S(67) G3BP2_T(206) G3BP2_T(226) G3BP2_T(227) G3BP2_T(3),1.0,0.5,4,1,8,1.0,0.03085902101233232,0.5742949155765302

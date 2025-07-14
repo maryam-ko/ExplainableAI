@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LATS2_S(1027) LATS2_S(340) LATS2_S(342) LATS2_S(346) LATS2_S(380) LATS2_S(408) LATS2_S(5) LATS2_S(576) LATS2_S(598) LATS2_T(1026) LATS2_T(279) LATS2_T(349) LATS2_T(575) LATS2_T(67) LATS2_Y(286),1.0,0.5,4,1,8,1.0,0.04072030953965764,0.46209627162661243

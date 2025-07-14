@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CMTR1_S(120) CMTR1_S(49) CMTR1_S(63) CMTR1_S(64) CMTR1_S(75) CMTR1_S(89) CMTR1_T(30) CMTR1_T(57),0.8,0.5,2,1,8,1.0,0.013062616914896881,0.18015269670407924

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FZR1_S(137) FZR1_S(138) FZR1_S(146) FZR1_S(39) FZR1_S(70) FZR1_T(121),0.6,0.5,4,10,8,1.0,0.017289113770071904,0.3009618669101425

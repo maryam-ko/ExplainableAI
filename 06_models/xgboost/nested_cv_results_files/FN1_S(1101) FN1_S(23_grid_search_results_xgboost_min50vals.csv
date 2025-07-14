@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FN1_S(1101) FN1_S(2384),0.6,1,1,1,8,0.8,0.03468262051643434,-0.002952615974306272

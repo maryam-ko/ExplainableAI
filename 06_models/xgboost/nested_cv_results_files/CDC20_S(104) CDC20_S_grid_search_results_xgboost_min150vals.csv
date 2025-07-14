@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC20_S(104) CDC20_S(134) CDC20_S(160) CDC20_S(41) CDC20_S(43) CDC20_S(51) CDC20_S(84) CDC20_S(92) CDC20_T(106) CDC20_T(157) CDC20_T(55) CDC20_T(59) CDC20_T(69) CDC20_T(70) CDC20_T(97),1.0,0.5,4,1,8,1.0,0.03267626331093728,0.713161656203688

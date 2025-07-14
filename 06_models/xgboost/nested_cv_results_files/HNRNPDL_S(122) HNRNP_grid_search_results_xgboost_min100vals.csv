@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HNRNPDL_S(122) HNRNPDL_S(241) HNRNPDL_S(44) HNRNPDL_S(94) HNRNPDL_Y(7),1.0,0.5,4,1,8,1.0,0.035147581227943835,0.6925988086110022

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYOF_C(1393) MYOF_S(1007) MYOF_S(1036) MYOF_S(1037) MYOF_S(212) MYOF_S(340) MYOF_T(1103) MYOF_T(1768) MYOF_T(1769) MYOF_T(548) MYOF_T(876),1.0,0.5,2,10,8,1.0,0.008418560113866286,0.21181121258939345

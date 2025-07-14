@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPALPP1_S(104) GPALPP1_S(140) GPALPP1_S(141) GPALPP1_T(138) GPALPP1_T(1441),0.6,0.5,1,1,8,0.6,0.023042297065819343,-0.005842357225314831

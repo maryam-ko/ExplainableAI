@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFIC_S(187) NFIC_S(277) NFIC_S(284) NFIC_S(294) NFIC_S(310) NFIC_S(324) NFIC_S(359) NFIC_S(4) NFIC_S(427) NFIC_S(487) NFIC_S(6) NFIC_T(270) NFIC_T(328),1.0,0.5,3,1,8,1.0,0.013491040327844287,0.08848467908738482

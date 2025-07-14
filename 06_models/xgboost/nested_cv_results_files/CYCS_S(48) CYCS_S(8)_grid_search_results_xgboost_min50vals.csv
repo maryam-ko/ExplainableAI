@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYCS_S(48) CYCS_S(8) CYCS_S(9) CYCS_T(1) CYCS_T(29) CYCS_T(3) CYCS_Y(47) CYCS_Y(98),1.0,0.5,3,1,6,1.0,0.02955352084100501,0.09567774670971962

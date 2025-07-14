@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KHSRP_M(277) KHSRP_S(120) KHSRP_S(129) KHSRP_S(145) KHSRP_S(18) KHSRP_S(185) KHSRP_S(200) KHSRP_S(333) KHSRP_S(4) KHSRP_T(143),0.8,0.5,2,1,8,1.0,0.006789919940816986,0.4083261126178657

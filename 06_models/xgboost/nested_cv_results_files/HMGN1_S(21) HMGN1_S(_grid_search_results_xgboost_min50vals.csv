@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMGN1_S(21) HMGN1_S(25) HMGN1_S(4) HMGN1_S(7) HMGN1_S(79) HMGN1_S(8) HMGN1_S(82) HMGN1_S(86) HMGN1_S(89) HMGN1_S(99) HMGN1_T(81) HMGN1_T(83),1.0,0.5,4,5,8,1.0,0.05330830238000508,0.34701500500913574

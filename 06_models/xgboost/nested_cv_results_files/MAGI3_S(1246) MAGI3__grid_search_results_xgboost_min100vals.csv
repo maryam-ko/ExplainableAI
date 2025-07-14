@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAGI3_S(1246) MAGI3_S(1248) MAGI3_S(1255) MAGI3_S(1257) MAGI3_S(1280) MAGI3_S(1353) MAGI3_S(1443) MAGI3_S(1475) MAGI3_S(659) MAGI3_S(701) MAGI3_S(857),0.6,0.5,4,5,8,1.0,0.02943330975571359,0.2664751431772189

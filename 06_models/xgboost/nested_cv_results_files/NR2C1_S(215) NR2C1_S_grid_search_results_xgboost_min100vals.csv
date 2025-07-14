@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NR2C1_S(215) NR2C1_S(64) NR2C1_T(218) NR2C1_T(220) NR2C1_T(279),1.0,0.5,4,5,8,1.0,0.019589650371093233,0.4923141989688219

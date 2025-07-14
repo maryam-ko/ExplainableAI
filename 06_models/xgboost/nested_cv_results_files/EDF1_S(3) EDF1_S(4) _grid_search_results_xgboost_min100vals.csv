@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EDF1_S(3) EDF1_S(4) EDF1_T(10) EDF1_Y(109),0.6,0.5,4,5,8,1.0,0.02021524047874881,0.6291954063618466

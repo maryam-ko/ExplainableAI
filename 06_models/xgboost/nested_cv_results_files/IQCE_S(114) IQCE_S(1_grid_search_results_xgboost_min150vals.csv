@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IQCE_S(114) IQCE_S(130) IQCE_S(252) IQCE_S(26) IQCE_S(306) IQCE_S(322) IQCE_S(590) IQCE_T(661),1.0,0.5,4,1,8,1.0,0.01746368370203043,0.6777002452625334

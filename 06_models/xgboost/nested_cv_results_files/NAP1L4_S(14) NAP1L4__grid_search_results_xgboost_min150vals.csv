@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAP1L4_S(14) NAP1L4_S(304) NAP1L4_S(53) NAP1L4_S(54) NAP1L4_T(51) NAP1L4_Y(55),0.8,0.5,4,1,8,1.0,0.021979996309385984,0.7459673484299725

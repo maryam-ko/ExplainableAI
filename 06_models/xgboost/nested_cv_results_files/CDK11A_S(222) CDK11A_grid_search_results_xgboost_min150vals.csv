@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDK11A_S(222) CDK11A_S(232) CDK11A_S(258) CDK11A_S(271) CDK11A_S(47) CDK11A_S(688) CDK11A_S(8) CDK11A_T(583),1.0,0.5,4,1,8,1.0,0.020800850959787946,0.4302119931858863

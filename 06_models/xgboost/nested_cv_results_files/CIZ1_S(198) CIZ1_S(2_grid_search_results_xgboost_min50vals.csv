@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CIZ1_S(198) CIZ1_S(273) CIZ1_S(332) CIZ1_S(514) CIZ1_S(584) CIZ1_S(821) CIZ1_T(143) CIZ1_T(347) CIZ1_T(559) CIZ1_T(567) CIZ1_T(579) CIZ1_T(876) CIZ1_T(902),0.8,0.5,4,1,4,1.0,0.013417016053130244,0.19196040914629178

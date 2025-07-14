@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMGB2_S(100) HMGB2_S(170) HMGB2_S(181) HMGB2_S(35) HMGB2_T(179),1.0,0.5,3,1,8,1.0,0.015948789521919065,0.15765087658481325

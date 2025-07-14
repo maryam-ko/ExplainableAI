@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HYOU1_S(567) HYOU1_S(582),0.6,0.5,1,1,4,0.8,0.01821437317801873,-0.01242764104674352

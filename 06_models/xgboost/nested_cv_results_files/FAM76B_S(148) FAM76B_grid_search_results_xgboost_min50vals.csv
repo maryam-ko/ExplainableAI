@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM76B_S(148) FAM76B_S(152) FAM76B_S(160) FAM76B_S(193) FAM76B_S(227) FAM76B_T(206) FAM76B_T(215),1.0,0.5,4,1,8,1.0,0.039872278168669444,0.5669989273922722

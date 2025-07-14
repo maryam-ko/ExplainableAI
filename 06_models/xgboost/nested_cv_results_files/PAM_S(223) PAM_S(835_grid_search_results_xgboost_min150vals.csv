@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAM_S(223) PAM_S(835) PAM_S(839) PAM_S(892) PAM_S(918) PAM_S(929) PAM_S(940) PAM_S(942) PAM_S(946) PAM_S(955) PAM_S(957) PAM_S(962) PAM_T(943),0.8,0.5,4,5,6,1.0,0.023175109898782225,0.5540158758134731

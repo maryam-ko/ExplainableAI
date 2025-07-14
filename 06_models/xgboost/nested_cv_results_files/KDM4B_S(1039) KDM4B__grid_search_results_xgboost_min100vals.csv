@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KDM4B_S(1039) KDM4B_S(12) KDM4B_S(352) KDM4B_S(621) KDM4B_S(622) KDM4B_S(632) KDM4B_S(633) KDM4B_T(1065),0.8,0.5,4,5,8,1.0,0.02959927940099704,0.15233974582055582

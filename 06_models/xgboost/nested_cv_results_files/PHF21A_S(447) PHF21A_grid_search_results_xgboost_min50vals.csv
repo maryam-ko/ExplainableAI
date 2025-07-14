@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHF21A_S(447) PHF21A_S(455) PHF21A_T(176) PHF21A_T(347) PHF21A_T(350) PHF21A_T(351) PHF21A_T(444) PHF21A_T(445) PHF21A_T(446),1.0,0.5,4,1,8,1.0,0.022755121167028557,0.19296912477082512

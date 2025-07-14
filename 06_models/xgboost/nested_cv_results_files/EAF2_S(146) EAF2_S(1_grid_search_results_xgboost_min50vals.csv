@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EAF2_S(146) EAF2_S(154),1.0,0.5,3,1,8,1.0,0.013587804028977524,0.36912720200161026

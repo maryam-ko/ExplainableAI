@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGAM1_S(14) PGAM1_S(23) PGAM1_S(31) PGAM1_Y(26),1.0,0.5,4,1,6,1.0,0.05505306256614183,0.3319984702822681

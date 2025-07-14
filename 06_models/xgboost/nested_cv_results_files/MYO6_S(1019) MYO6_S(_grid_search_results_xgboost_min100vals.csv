@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO6_S(1019) MYO6_S(1155) MYO6_S(266) MYO6_S(267) MYO6_S(295) MYO6_S(639) MYO6_T(405) MYO6_T(558),0.6,0.5,2,1,8,1.0,0.022603377680984835,0.16699129394614037

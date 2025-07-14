@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAVIN3_S(165) CAVIN3_S(166) CAVIN3_S(188) CAVIN3_S(59) CAVIN3_T(237),1.0,0.5,2,1,8,1.0,0.015271121398494628,0.123313368522288

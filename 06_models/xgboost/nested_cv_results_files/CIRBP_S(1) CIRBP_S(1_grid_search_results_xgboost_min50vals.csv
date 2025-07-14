@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CIRBP_S(1) CIRBP_S(138) CIRBP_S(14) CIRBP_S(145) CIRBP_S(146) CIRBP_S(148) CIRBP_S(155) CIRBP_S(156) CIRBP_S(159) CIRBP_S(163) CIRBP_S(3),1.0,0.5,4,1,8,0.8,0.050301516735849636,0.19547703909755085

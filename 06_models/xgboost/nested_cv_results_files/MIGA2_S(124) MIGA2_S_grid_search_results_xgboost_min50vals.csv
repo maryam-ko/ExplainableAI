@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIGA2_S(124) MIGA2_S(125) MIGA2_S(203) MIGA2_S(228) MIGA2_T(119),0.6,0.5,2,1,8,1.0,0.007515719338790327,0.25578795563290185

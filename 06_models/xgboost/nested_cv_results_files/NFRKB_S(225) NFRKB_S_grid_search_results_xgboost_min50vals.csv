@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFRKB_S(225) NFRKB_S(226) NFRKB_S(251) NFRKB_S(253) NFRKB_S(301) NFRKB_T(1035),0.6,0.5,3,1,8,0.8,0.024355474686562805,0.10896913375484289

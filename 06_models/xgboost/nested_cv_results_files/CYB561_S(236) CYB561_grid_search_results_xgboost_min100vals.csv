@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYB561_S(236) CYB561_S(240) CYB561_S(247) CYB561_S(250) CYB561_T(166) CYB561_T(174) CYB561_Y(156),1.0,0.5,3,1,6,0.6,0.026720083464704576,-0.0034620073277668918

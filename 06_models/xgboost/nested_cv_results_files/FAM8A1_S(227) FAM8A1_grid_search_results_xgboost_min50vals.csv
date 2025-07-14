@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM8A1_S(227) FAM8A1_S(229) FAM8A1_S(231) FAM8A1_T(195),0.6,0.5,1,1,8,0.6,0.016508933898120977,-0.012670569461675463

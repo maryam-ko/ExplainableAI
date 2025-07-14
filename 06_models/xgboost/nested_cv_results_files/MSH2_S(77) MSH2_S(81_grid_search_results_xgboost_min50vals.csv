@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MSH2_S(77) MSH2_S(81) MSH2_S(860) MSH2_T(206),1.0,0.5,2,1,8,0.8,0.01162551826640626,0.09273577540729047

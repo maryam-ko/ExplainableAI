@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C14orf93_S(114) C14orf93_S(119) C14orf93_S(130) C14orf93_S(207) C14orf93_S(221) C14orf93_S(224) C14orf93_S(279) C14orf93_S(285) C14orf93_S(287) C14orf93_S(463) C14orf93_T(283) C14orf93_T(287),0.6,0.5,4,1,8,1.0,0.024025728358404597,0.436137572122819

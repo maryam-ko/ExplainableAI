@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF27_S(643) KIF27_S(646) KIF27_S(845) KIF27_S(911),0.8,0.5,3,1,4,1.0,0.012428878793805106,0.17779846356704496

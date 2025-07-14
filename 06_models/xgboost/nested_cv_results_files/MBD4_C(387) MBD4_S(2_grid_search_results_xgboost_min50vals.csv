@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MBD4_C(387) MBD4_S(253) MBD4_S(316) MBD4_S(318) MBD4_S(319) MBD4_S(321) MBD4_S(324) MBD4_S(378) MBD4_S(387) MBD4_S(415) MBD4_S(428) MBD4_Y(109),1.0,0.5,4,10,8,1.0,0.023961750119831017,0.4348393941962209

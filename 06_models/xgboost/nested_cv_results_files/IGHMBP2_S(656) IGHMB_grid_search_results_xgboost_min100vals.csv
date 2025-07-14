@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IGHMBP2_S(656) IGHMBP2_S(711) IGHMBP2_S(716),1.0,0.5,4,1,6,0.6,0.026793459303857358,0.1780736508577194

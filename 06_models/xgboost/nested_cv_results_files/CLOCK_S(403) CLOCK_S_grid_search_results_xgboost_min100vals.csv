@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLOCK_S(403) CLOCK_S(406) CLOCK_S(408) CLOCK_S(427) CLOCK_S(440) CLOCK_S(446) CLOCK_S(836) CLOCK_T(443) CLOCK_T(451) CLOCK_T(454) CLOCK_T(459) CLOCK_T(461),1.0,0.5,4,1,8,1.0,0.030825317876627706,0.4008621784153082

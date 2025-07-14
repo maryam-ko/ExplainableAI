@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRYBG2_S(224) CRYBG2_S(228) CRYBG2_S(363) CRYBG2_S(441) CRYBG2_S(474) CRYBG2_S(508) CRYBG2_S(610) CRYBG2_S(627) CRYBG2_S(688),0.8,0.5,4,1,4,1.0,0.02551648845866979,0.2986538923658116

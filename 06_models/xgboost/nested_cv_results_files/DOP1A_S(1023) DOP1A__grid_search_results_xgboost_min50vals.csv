@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DOP1A_S(1023) DOP1A_S(1266) DOP1A_S(2001),0.8,0.5,1,1,8,0.6,0.010700476700443594,-0.002234545955166012

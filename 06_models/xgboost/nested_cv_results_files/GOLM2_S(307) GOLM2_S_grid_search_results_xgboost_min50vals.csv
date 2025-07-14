@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOLM2_S(307) GOLM2_S(311) GOLM2_S(353) GOLM2_S(366) GOLM2_S(374),0.8,0.5,2,1,8,1.0,0.016725019764671608,0.12623526307837588

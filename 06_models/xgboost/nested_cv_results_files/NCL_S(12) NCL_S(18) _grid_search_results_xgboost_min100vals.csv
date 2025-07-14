@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCL_S(12) NCL_S(18) NCL_S(184) NCL_S(206) NCL_S(3) NCL_S(563) NCL_S(62) NCL_S(63) NCL_S(67) NCL_T(102) NCL_T(105) NCL_T(62) NCL_T(95),1.0,0.5,4,1,8,1.0,0.05839248511993456,0.7177476101686667

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCM3_S(270) MCM3_S(275) MCM3_S(602) MCM3_S(667) MCM3_S(668) MCM3_S(740) MCM3_T(255) MCM3_T(4) MCM3_T(667) MCM3_T(723) MCM3_T(731),1.0,0.5,4,10,8,1.0,0.022245910368613057,0.3048815719490093

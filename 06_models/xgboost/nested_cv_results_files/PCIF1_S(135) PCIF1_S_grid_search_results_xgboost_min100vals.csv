@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCIF1_S(135) PCIF1_S(143) PCIF1_T(22) PCIF1_T(29),0.6,0.5,3,1,8,1.0,0.014094011379058115,0.13375457395612747

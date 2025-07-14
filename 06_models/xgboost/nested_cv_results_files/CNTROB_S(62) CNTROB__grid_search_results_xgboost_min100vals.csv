@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNTROB_S(62) CNTROB_S(778) CNTROB_S(78) CNTROB_S(788) CNTROB_S(790) CNTROB_S(80),0.8,0.5,4,1,8,1.0,0.01960635616803946,0.4904393004057345

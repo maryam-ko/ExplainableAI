@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+INTS13_S(525) INTS13_S(596) INTS13_S(638) INTS13_S(678) INTS13_T(641),0.8,0.5,2,1,8,0.8,0.007438379794751885,0.4993677071760283

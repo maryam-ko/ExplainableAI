@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAAF2_C(703) DNAAF2_C(705) DNAAF2_S(461) DNAAF2_S(469) DNAAF2_S(641) DNAAF2_S(787) DNAAF2_T(650),0.6,0.5,2,1,8,1.0,0.008422711201032619,0.2776469761823104

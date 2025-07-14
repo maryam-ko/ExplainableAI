@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IL1A_S(104) IL1A_S(16) IL1A_S(87) IL1A_S(91) IL1A_T(93),1.0,0.5,4,1,8,1.0,0.016876531159102925,0.2623464542422086

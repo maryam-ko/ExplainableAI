@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH11_S(1364) MYH11_S(1367) MYH11_S(1946) MYH11_S(1954) MYH11_S(23) MYH11_S(4) MYH11_S(650) MYH11_S(8) MYH11_S(9) MYH11_T(1146) MYH11_T(1958),0.8,0.5,2,1,8,1.0,0.035158197609202316,0.015991123090886482

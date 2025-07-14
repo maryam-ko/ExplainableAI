@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MGMT_S(151) MGMT_S(193) MGMT_S(199) MGMT_S(201) MGMT_S(8),1.0,0.5,4,1,6,1.0,0.020373422980111733,0.695091012882665

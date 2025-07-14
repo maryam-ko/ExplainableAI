@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FOSL1_C(101) FOSL1_S(101) FOSL1_S(191) FOSL1_S(196) FOSL1_S(265) FOSL1_S(66) FOSL1_S(74) FOSL1_T(196),1.0,0.5,4,5,8,1.0,0.03829571600672642,0.31039665912656683

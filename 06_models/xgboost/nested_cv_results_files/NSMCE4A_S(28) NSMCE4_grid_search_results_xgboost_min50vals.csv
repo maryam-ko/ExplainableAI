@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSMCE4A_S(28) NSMCE4A_S(30) NSMCE4A_S(32) NSMCE4A_S(35) NSMCE4A_S(82),0.6,0.5,2,1,8,1.0,0.01416470645378856,0.2935585957687606

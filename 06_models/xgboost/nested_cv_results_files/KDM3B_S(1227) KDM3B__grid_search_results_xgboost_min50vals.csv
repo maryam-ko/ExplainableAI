@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KDM3B_S(1227) KDM3B_S(1251) KDM3B_S(1267) KDM3B_S(1331) KDM3B_S(278) KDM3B_S(295) KDM3B_S(563) KDM3B_S(772) KDM3B_S(773) KDM3B_S(778) KDM3B_S(798) KDM3B_S(822) KDM3B_T(1270) KDM3B_T(1307),0.8,0.5,4,5,6,1.0,0.03129507669773876,0.2371196492125986

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IFT140_S(1443) IFT140_Y(238),0.6,0.5,1,1,4,0.8,0.004025080661119974,-0.011919651556802302

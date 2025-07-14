@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EEF1A2_S(10) EEF1A2_S(224) EEF1A2_S(227) EEF1A2_S(9) EEF1A2_T(142) EEF1A2_T(239) EEF1A2_Y(141) EEF1A2_Y(177) EEF1A2_Y(29) EEF1A2_Y(5) EEF1A2_Y(7) EEF1A2_Y(9),1.0,0.5,3,1,6,0.8,0.019098857336657594,0.08743525354633937

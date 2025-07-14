@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GTPBP4_S(470) GTPBP4_S(569) GTPBP4_S(63),0.6,0.5,1,1,8,0.8,0.009483150931397987,-0.001623355940901927

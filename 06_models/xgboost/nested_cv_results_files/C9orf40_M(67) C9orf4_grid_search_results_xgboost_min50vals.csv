@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C9orf40_M(67) C9orf40_M(69) C9orf40_M(71) C9orf40_S(172) C9orf40_S(4) C9orf40_S(67) C9orf40_S(69) C9orf40_S(71) C9orf40_S(72) C9orf40_S(76) C9orf40_S(80),0.6,0.5,4,1,8,1.0,0.04181029481654864,0.2732392293919811

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MVD_S(222) MVD_S(249) MVD_S(96),1.0,0.5,4,1,2,1.0,0.046666800256803795,0.11600873769198057

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIMCH1_S(12) LIMCH1_S(14) LIMCH1_S(53) LIMCH1_S(537) LIMCH1_S(547) LIMCH1_S(58) LIMCH1_S(609) LIMCH1_S(717) LIMCH1_T(529) LIMCH1_T(542) LIMCH1_T(672),0.6,0.5,1,1,2,1.0,0.004134483650038631,-0.0057195057922854176

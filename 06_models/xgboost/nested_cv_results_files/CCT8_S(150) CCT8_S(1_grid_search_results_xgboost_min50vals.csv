@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCT8_S(150) CCT8_S(162) CCT8_S(23) CCT8_S(233) CCT8_S(269) CCT8_S(380) CCT8_S(518) CCT8_S(537) CCT8_S(793) CCT8_T(381) CCT8_Y(30),0.6,0.5,3,1,8,1.0,0.020901701328234056,0.17452226305767282

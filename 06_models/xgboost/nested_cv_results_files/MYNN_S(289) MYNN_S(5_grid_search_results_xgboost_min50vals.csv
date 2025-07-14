@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYNN_S(289) MYNN_S(531),1.0,0.5,3,10,6,0.8,0.014913138299127864,0.41376850329592696

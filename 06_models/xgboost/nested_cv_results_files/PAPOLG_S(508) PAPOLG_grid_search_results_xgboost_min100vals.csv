@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAPOLG_S(508) PAPOLG_S(530) PAPOLG_S(545) PAPOLG_S(549) PAPOLG_S(599) PAPOLG_S(635) PAPOLG_S(646) PAPOLG_S(650) PAPOLG_S(708) PAPOLG_T(654),0.8,0.5,4,1,8,1.0,0.014422810964333057,0.5992554445645109

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYL11_S(2) MYL11_T(101) MYL11_T(114) MYL11_T(125) MYL11_T(126) MYL11_T(25) MYL11_T(3) MYL11_T(35) MYL11_T(4) MYL11_T(53) MYL11_T(81) MYL11_T(85) MYL11_Y(4),0.8,0.5,3,1,4,0.6,0.01955591253105359,0.08085162773820045

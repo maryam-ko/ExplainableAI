@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HIPK1_S(1200) HIPK1_S(350) HIPK1_S(806) HIPK1_S(967) HIPK1_T(1027) HIPK1_Y(352),1.0,0.5,3,1,6,0.8,0.02572316997210002,0.21087623930867982

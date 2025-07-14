@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FKBP15_S(1004) FKBP15_S(1065) FKBP15_S(1139) FKBP15_S(1189) FKBP15_S(295) FKBP15_S(336) FKBP15_S(619) FKBP15_S(953) FKBP15_S(962) FKBP15_S(964) FKBP15_S(966) FKBP15_T(61),0.6,0.5,1,1,4,0.6,0.010646180112524956,-0.00393297251367275

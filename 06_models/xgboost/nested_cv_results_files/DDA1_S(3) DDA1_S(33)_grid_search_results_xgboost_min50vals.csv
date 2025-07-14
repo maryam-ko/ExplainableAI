@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDA1_S(3) DDA1_S(33) DDA1_S(379) DDA1_S(92) DDA1_S(95) DDA1_S(98) DDA1_T(92) DDA1_T(93) DDA1_Y(35),0.8,0.5,3,1,8,1.0,0.05001860072276757,0.3230786537185024

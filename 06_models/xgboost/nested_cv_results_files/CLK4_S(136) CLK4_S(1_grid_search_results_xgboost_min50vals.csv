@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLK4_S(136) CLK4_S(138) CLK4_S(149),0.8,0.5,4,1,6,1.0,0.03529154797310974,0.238063118872063

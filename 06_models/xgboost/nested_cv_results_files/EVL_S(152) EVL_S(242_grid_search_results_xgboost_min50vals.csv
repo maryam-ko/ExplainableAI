@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EVL_S(152) EVL_S(242) EVL_S(244) EVL_S(260) EVL_S(296) EVL_S(3) EVL_S(345) EVL_T(345) EVL_Y(45) EVL_Y(63),1.0,0.5,3,1,8,1.0,0.015488937200246083,0.19062305364975868

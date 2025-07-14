@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERBB2_S(1036) ERBB2_S(1048) ERBB2_S(1072) ERBB2_S(1073) ERBB2_S(1083) ERBB2_S(1107) ERBB2_S(778) ERBB2_S(998) ERBB2_T(1136) ERBB2_T(480) ERBB2_Y(1248),0.8,0.5,3,1,6,1.0,0.015489775030304883,0.29082475721496787

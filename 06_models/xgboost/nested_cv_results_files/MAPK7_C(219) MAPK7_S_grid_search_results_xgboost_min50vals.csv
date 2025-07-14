@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPK7_C(219) MAPK7_S(731) MAPK7_T(733) MAPK7_Y(82),0.6,0.5,3,1,8,1.0,0.015082752811911581,0.4316814959619609

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BTBD10_S(106) BTBD10_S(119) BTBD10_S(12) BTBD10_S(13) BTBD10_S(75) BTBD10_S(88) BTBD10_S(92),0.8,0.5,3,1,8,0.8,0.02820134108038432,0.15772514709095828

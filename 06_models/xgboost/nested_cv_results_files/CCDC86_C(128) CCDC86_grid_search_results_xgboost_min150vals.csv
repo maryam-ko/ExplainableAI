@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC86_C(128) CCDC86_S(126) CCDC86_S(206) CCDC86_S(217) CCDC86_S(24) CCDC86_S(255) CCDC86_S(26) CCDC86_S(43) CCDC86_S(5) CCDC86_T(146),1.0,0.5,4,10,8,1.0,0.023034451978530143,0.447654232853443

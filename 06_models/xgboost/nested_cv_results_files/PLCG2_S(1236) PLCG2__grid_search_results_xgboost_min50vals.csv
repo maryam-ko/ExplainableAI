@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCG2_S(1236) PLCG2_S(1259) PLCG2_S(160) PLCG2_S(162) PLCG2_S(677) PLCG2_S(800),1.0,0.5,1,1,6,0.8,0.012480223970696595,0.05328532554301561

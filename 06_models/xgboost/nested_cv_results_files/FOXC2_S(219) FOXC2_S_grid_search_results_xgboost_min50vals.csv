@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FOXC2_S(219) FOXC2_S(235) FOXC2_S(240) FOXC2_S(281) FOXC2_S(288) FOXC2_S(483) FOXC2_T(280) FOXC2_T(484),0.6,0.5,4,1,4,1.0,0.03987777534067521,0.1616903312402757

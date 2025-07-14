@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IGF2BP2_S(11) IGF2BP2_S(417) IGF2BP2_S(460) IGF2BP2_S(540) IGF2BP2_S(598) IGF2BP2_T(550),0.6,0.5,3,1,8,0.8,0.009080785691348977,0.27959897973527326

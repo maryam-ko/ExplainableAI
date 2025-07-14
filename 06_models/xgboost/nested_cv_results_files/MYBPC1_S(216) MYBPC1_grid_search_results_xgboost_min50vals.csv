@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYBPC1_S(216) MYBPC1_S(452) MYBPC1_S(636) MYBPC1_S(7) MYBPC1_T(190) MYBPC1_T(191) MYBPC1_T(30) MYBPC1_T(31),1.0,0.5,1,1,8,0.8,0.025746667979018964,-0.002681403745275679

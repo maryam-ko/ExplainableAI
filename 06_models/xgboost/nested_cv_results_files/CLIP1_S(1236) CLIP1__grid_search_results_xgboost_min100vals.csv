@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLIP1_S(1236) CLIP1_S(1242) CLIP1_S(14) CLIP1_S(140) CLIP1_S(17) CLIP1_S(190) CLIP1_S(193) CLIP1_S(306) CLIP1_S(315) CLIP1_S(973) CLIP1_T(139) CLIP1_T(143) CLIP1_T(177) CLIP1_T(50),0.6,0.5,2,1,8,1.0,0.015412983789654344,0.16541015057176756

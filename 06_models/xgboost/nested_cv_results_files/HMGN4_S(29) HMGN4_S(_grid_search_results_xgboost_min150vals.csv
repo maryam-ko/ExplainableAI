@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMGN4_S(29) HMGN4_S(80),1.0,0.5,4,1,8,0.8,0.030776583046535886,0.3412875849060962

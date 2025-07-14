@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+P4HB_S(2) P4HB_S(220) P4HB_S(229) P4HB_S(273) P4HB_S(331) P4HB_S(5),1.0,0.5,3,1,6,0.6,0.013597704353285778,0.1264623097399043

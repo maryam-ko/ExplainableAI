@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPK14_S(2) MAPK14_S(28) MAPK14_S(32) MAPK14_S(326) MAPK14_T(103) MAPK14_T(180) MAPK14_Y(105) MAPK14_Y(173) MAPK14_Y(182),0.8,0.5,4,1,8,1.0,0.04010118712407958,0.5493970130408673

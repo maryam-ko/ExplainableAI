@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HMOX2_S(14) HMOX2_S(19) HMOX2_S(2) HMOX2_S(8),1.0,0.5,4,5,8,0.8,0.027559910433502192,0.21592421512575594

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GULP1_S(206) GULP1_S(211) GULP1_S(223) GULP1_T(105) GULP1_T(16) GULP1_T(195) GULP1_T(208),1.0,0.5,2,1,8,0.6,0.011764107820134815,0.307329918683453

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NGFR_S(219) NGFR_S(313) NGFR_T(293),1.0,0.5,4,1,8,1.0,0.021841467133210363,0.08267347965309098

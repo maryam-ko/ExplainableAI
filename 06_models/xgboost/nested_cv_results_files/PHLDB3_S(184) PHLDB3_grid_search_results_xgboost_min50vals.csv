@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHLDB3_S(184) PHLDB3_S(254) PHLDB3_S(393) PHLDB3_S(60) PHLDB3_T(83),1.0,0.5,2,1,6,0.6,0.016254665421373247,0.12619150055064685

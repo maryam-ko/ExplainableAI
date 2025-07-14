@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NHERF1_S(162) NHERF1_S(172) NHERF1_S(2) NHERF1_S(269) NHERF1_S(288) NHERF1_S(291) NHERF1_S(294) NHERF1_S(299) NHERF1_S(302) NHERF1_S(46) NHERF1_T(293),0.8,0.5,4,1,8,1.0,0.046113268385112816,0.45158275545492943

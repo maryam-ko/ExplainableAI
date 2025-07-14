@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX1_S(472) DDX1_S(481) DDX1_S(632) DDX1_S(700) DDX1_T(170) DDX1_T(739),1.0,0.5,4,10,8,1.0,0.0368755844790824,0.6044490016544717

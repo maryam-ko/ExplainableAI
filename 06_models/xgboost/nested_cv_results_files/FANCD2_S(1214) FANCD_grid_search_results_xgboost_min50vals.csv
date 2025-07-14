@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FANCD2_S(1214) FANCD2_S(222) FANCD2_S(717) FANCD2_T(589),0.6,0.5,2,1,8,0.6,0.00840369230517296,0.126954888875879

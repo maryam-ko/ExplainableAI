@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DTL_S(410) DTL_S(426) DTL_S(428) DTL_S(511) DTL_S(535) DTL_S(539) DTL_S(558) DTL_S(559) DTL_S(643) DTL_S(655) DTL_S(676) DTL_S(722) DTL_T(506) DTL_T(522) DTL_T(684) DTL_Y(643),1.0,0.5,4,10,8,1.0,0.012958676370463499,0.5803160413649275

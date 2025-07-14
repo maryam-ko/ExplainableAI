@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAND1_S(140) CAND1_S(557) CAND1_S(558) CAND1_Y(6),1.0,0.5,2,1,8,0.6,0.01640477844185801,0.18893094587767

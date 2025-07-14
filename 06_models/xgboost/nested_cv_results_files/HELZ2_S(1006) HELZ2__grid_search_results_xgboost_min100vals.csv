@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HELZ2_S(1006) HELZ2_S(2258) HELZ2_S(338) HELZ2_S(576) HELZ2_S(80) HELZ2_T(2019),1.0,0.5,4,5,8,1.0,0.03937995923659631,0.25513317943593383

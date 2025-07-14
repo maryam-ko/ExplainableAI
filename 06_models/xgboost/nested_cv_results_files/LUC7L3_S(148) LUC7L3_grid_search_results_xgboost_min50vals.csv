@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LUC7L3_S(148) LUC7L3_S(420) LUC7L3_T(429),1.0,0.5,2,10,8,0.6,0.009185219102648265,0.16224194166926206

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DIXDC1_S(135) DIXDC1_S(185) DIXDC1_S(186) DIXDC1_S(217) DIXDC1_S(261) DIXDC1_S(264) DIXDC1_S(346) DIXDC1_S(379) DIXDC1_S(50) DIXDC1_S(593) DIXDC1_S(74),1.0,0.5,3,1,8,1.0,0.010887281218403239,0.4627008780397442

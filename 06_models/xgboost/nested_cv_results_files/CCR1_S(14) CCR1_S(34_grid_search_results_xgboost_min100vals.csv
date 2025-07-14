@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCR1_S(14) CCR1_S(341) CCR1_S(352),1.0,0.5,4,1,8,1.0,0.033325668538808195,0.3047270831330753

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRD3_S(260) BRD3_S(263) BRD3_S(3) BRD3_S(558) BRD3_S(560) BRD3_S(680) BRD3_S(681) BRD3_T(257) BRD3_Y(561) BRD3_Y(632),1.0,0.5,4,1,8,1.0,0.05698206511722687,0.4384286974263533

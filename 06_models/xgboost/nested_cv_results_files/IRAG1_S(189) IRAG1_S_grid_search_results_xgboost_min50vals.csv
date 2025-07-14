@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IRAG1_S(189) IRAG1_S(3) IRAG1_S(303) IRAG1_S(338) IRAG1_S(367) IRAG1_S(4) IRAG1_S(462) IRAG1_S(493) IRAG1_S(606) IRAG1_S(657) IRAG1_S(670),0.8,0.5,2,10,8,0.6,0.017879289069822175,0.052633992322938014

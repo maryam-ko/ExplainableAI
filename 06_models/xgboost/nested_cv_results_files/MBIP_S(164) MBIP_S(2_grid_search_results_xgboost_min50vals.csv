@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MBIP_S(164) MBIP_S(232) MBIP_S(88) MBIP_S(91) MBIP_T(263),0.8,0.5,3,10,8,1.0,0.015089036123403773,0.17613842012037412

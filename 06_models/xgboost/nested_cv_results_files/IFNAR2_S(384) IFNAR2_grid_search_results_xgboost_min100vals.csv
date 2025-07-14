@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IFNAR2_S(384) IFNAR2_S(400) IFNAR2_S(412) IFNAR2_S(413) IFNAR2_T(414) IFNAR2_Y(411),0.8,0.5,3,1,2,1.0,0.035821400235886015,0.0626412693543132

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHF10_C(18) PHF10_C(27) PHF10_C(36) PHF10_S(12) PHF10_S(16) PHF10_S(18) PHF10_S(182) PHF10_S(268) PHF10_S(297) PHF10_S(321) PHF10_S(322) PHF10_S(325) PHF10_S(331) PHF10_S(36) PHF10_S(50) PHF10_S(57) PHF10_T(22),0.8,0.5,3,1,8,1.0,0.030264523087351124,0.19653615932233637

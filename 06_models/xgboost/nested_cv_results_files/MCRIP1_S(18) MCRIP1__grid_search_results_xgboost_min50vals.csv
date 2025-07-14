@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCRIP1_S(18) MCRIP1_S(21) MCRIP1_S(24) MCRIP1_S(38) MCRIP1_S(4) MCRIP1_S(42),0.8,0.5,4,5,8,1.0,0.060485113461738634,0.2767339787714483

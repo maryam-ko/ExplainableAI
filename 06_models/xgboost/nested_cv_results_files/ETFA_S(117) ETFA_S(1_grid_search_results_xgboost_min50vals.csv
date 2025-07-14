@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ETFA_S(117) ETFA_S(130) ETFA_S(139) ETFA_S(140) ETFA_S(172) ETFA_S(207) ETFA_S(248) ETFA_T(213) ETFA_Y(235),0.8,0.5,2,1,8,0.8,0.010282544745524197,0.29701536569525155

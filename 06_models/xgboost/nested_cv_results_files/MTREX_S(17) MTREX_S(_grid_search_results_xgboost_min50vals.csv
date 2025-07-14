@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTREX_S(17) MTREX_S(40),1.0,0.5,2,1,8,0.6,0.015962024210026175,0.018098481685015398

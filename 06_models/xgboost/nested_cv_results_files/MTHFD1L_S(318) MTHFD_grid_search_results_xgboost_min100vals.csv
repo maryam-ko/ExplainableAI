@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTHFD1L_S(318) MTHFD1L_S(357) MTHFD1L_S(394) MTHFD1L_S(401),1.0,0.5,4,1,4,1.0,0.020515151159383096,0.24064668135879944

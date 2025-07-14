@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CADM4_S(361),0.6,0.5,3,1,8,0.8,0.03315200174306213,0.07483642239491936

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IL13RA1_S(415) IL13RA1_T(413),0.8,0.5,2,1,8,1.0,0.01997745031653575,0.18743450815667637

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP295_S(14) CEP295_S(1760) CEP295_S(2098) CEP295_S(2114) CEP295_S(407) CEP295_S(940) CEP295_T(1763) CEP295_T(2473),0.6,0.5,1,1,6,0.6,0.013281046856297522,-0.0026197849454739686

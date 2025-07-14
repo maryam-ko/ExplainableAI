@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DENR_S(13) DENR_S(20) DENR_S(6) DENR_S(8) DENR_S(81) DENR_S(9) DENR_T(69) DENR_T(86),0.8,0.5,4,1,8,1.0,0.024348525872376518,0.5020945202012691

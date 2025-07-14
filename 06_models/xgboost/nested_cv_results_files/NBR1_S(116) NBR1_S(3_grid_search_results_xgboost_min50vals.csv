@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NBR1_S(116) NBR1_S(334) NBR1_S(590) NBR1_S(596) NBR1_S(622) NBR1_S(625) NBR1_S(655) NBR1_S(656) NBR1_S(669) NBR1_S(8) NBR1_T(586) NBR1_T(669),1.0,0.5,3,1,8,1.0,0.02187928518641862,0.3009763544937479

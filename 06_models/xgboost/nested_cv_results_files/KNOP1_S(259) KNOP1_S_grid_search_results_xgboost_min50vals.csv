@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KNOP1_S(259) KNOP1_S(265) KNOP1_S(28) KNOP1_T(305) KNOP1_T(47) KNOP1_Y(37),0.8,0.5,2,1,8,0.8,0.010459612344221672,0.1579559001416223

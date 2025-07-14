@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYC_S(161) MYC_S(21) MYC_S(288) MYC_S(308) MYC_S(337) MYC_S(6) MYC_S(67) MYC_S(71) MYC_T(350) MYC_T(78),1.0,0.5,4,1,8,1.0,0.020201657127196283,0.15842308831022642

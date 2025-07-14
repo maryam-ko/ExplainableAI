@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DTNBP1_S(11) DTNBP1_S(160) DTNBP1_S(165) DTNBP1_S(294) DTNBP1_S(297) DTNBP1_S(299) DTNBP1_S(349) DTNBP1_T(342),0.6,0.5,1,1,4,0.8,0.011006335356320032,-0.0072036614580987205

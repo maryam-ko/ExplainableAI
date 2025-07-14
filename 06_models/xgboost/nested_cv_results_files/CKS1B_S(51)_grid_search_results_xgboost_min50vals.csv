@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CKS1B_S(51),1.0,0.5,2,1,8,0.6,0.020009911685883088,0.0014324302986122416

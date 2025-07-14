@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP58_T(330) NUP58_T(331),1.0,0.5,2,1,8,1.0,0.00960173497563544,0.31872708057945787

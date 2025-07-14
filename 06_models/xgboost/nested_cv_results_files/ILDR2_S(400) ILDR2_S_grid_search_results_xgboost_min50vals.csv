@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ILDR2_S(400) ILDR2_S(420) ILDR2_S(426) ILDR2_S(547) ILDR2_S(569) ILDR2_S(587) ILDR2_T(517),0.8,0.5,4,1,8,0.8,0.014605236435898247,0.3032040666208192

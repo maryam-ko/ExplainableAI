@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IMPDH2_S(425) IMPDH2_S(444) IMPDH2_S(505) IMPDH2_S(92),1.0,0.5,2,10,2,1.0,0.008139346912973784,0.14055359391944428

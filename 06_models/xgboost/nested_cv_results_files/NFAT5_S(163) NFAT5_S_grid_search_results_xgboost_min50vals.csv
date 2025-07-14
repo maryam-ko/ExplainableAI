@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFAT5_S(163) NFAT5_S(190) NFAT5_S(220) NFAT5_S(229) NFAT5_S(557) NFAT5_S(560) NFAT5_S(561) NFAT5_S(566) NFAT5_S(663) NFAT5_S(69) NFAT5_T(153) NFAT5_T(532) NFAT5_T(59) NFAT5_Y(143) NFAT5_Y(28),0.8,0.5,3,1,8,1.0,0.027688477687642807,0.40891171805248694

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HLA_S(336) HLA_S(343) HLA_S(365),0.6,0.5,1,1,4,0.8,0.012256060853435507,-0.00809201374317774

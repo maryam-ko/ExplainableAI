@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HEATR1_S(1490) HEATR1_S(1492) HEATR1_S(19) HEATR1_S(3) HEATR1_S(929) HEATR1_T(2),0.6,0.5,2,1,8,0.8,0.011839613040592572,0.04954671519282674

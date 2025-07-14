@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GAS7_S(117) GAS7_S(156) GAS7_S(161) GAS7_S(162) GAS7_S(163) GAS7_S(236) GAS7_S(99),0.8,0.5,4,1,2,1.0,0.023195352249574114,0.15082296128000466

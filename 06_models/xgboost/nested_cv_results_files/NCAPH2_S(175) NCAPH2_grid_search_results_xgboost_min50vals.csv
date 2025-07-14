@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCAPH2_S(175) NCAPH2_S(200) NCAPH2_S(25) NCAPH2_S(262) NCAPH2_S(466) NCAPH2_S(492),0.6,0.5,1,1,8,0.8,0.009192877879770285,-0.013027699420210847

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FABP3_S(3) FABP3_T(1) FABP3_T(30) FABP3_T(4) FABP3_T(8) FABP3_T(9),0.6,0.5,1,1,8,0.8,0.01092241314782112,-0.00915815642817841

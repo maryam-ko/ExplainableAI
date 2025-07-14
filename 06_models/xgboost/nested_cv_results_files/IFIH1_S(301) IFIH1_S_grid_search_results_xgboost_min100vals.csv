@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IFIH1_S(301) IFIH1_S(645),0.6,0.5,3,5,6,1.0,0.03123799605201124,0.1114383279786253

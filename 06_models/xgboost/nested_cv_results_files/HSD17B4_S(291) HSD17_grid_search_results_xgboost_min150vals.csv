@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSD17B4_S(291) HSD17B4_S(3) HSD17B4_S(300) HSD17B4_S(318) HSD17B4_S(343) HSD17B4_T(247) HSD17B4_T(265),1.0,0.5,4,1,8,0.8,0.02593551276747775,0.7285305622074466

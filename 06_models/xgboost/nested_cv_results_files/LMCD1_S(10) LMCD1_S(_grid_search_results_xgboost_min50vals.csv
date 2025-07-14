@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMCD1_S(10) LMCD1_S(16) LMCD1_S(181) LMCD1_S(231) LMCD1_S(254) LMCD1_S(259) LMCD1_S(7) LMCD1_T(7),1.0,0.5,4,1,4,1.0,0.049672936665925725,0.20083412088352368

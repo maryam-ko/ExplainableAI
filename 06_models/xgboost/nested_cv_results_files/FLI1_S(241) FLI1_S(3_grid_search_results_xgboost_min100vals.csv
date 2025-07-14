@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FLI1_S(241) FLI1_S(37) FLI1_S(39) FLI1_S(48) FLI1_S(6) FLI1_S(79) FLI1_S(83) FLI1_Y(42),0.6,0.5,4,10,8,1.0,0.030920058381566293,0.503848707170875

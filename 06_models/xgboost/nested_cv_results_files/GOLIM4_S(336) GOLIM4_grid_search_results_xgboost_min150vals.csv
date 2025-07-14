@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOLIM4_S(336) GOLIM4_S(364) GOLIM4_S(510) GOLIM4_S(538) GOLIM4_S(583) GOLIM4_T(640) GOLIM4_T(648) GOLIM4_T(9) GOLIM4_Y(641) GOLIM4_Y(673),0.6,0.5,4,5,8,1.0,0.028134695609976935,0.6829611051397783

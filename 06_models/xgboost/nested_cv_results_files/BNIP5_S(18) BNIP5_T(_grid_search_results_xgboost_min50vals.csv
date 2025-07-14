@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BNIP5_S(18) BNIP5_T(521),0.8,0.5,4,1,8,1.0,0.012442074471168454,0.2551326928060004

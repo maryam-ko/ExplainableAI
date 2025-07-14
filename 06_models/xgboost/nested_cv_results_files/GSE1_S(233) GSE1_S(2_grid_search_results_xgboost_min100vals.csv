@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSE1_S(233) GSE1_S(28) GSE1_S(30) GSE1_S(753) GSE1_S(762) GSE1_S(766) GSE1_S(826) GSE1_S(828) GSE1_S(84) GSE1_T(425) GSE1_Y(712),1.0,0.5,4,5,6,1.0,0.030875315597351932,0.7041869868599955

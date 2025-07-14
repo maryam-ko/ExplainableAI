@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BYSL_M(98) BYSL_S(167) BYSL_S(170) BYSL_S(414) BYSL_S(92) BYSL_S(98) BYSL_T(164) BYSL_T(42) BYSL_T(75) BYSL_Y(49),1.0,0.5,4,5,6,1.0,0.05320549143538136,0.34774665217802986

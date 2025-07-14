@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPSF3_S(482) CPSF3_S(496) CPSF3_S(633) CPSF3_S(659) CPSF3_T(681),1.0,0.5,3,1,8,1.0,0.020154559594757832,0.49752213057135675

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HOOK3_S(162) HOOK3_S(165) HOOK3_S(230) HOOK3_S(232) HOOK3_S(238) HOOK3_S(322) HOOK3_S(494) HOOK3_S(6) HOOK3_S(690) HOOK3_S(693) HOOK3_S(707) HOOK3_Y(171),0.8,0.5,3,10,8,1.0,0.0241703819031875,0.2869766862209407

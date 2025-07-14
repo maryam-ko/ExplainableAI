@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAK6_S(113) PAK6_S(179) PAK6_S(231) PAK6_S(246) PAK6_S(248) PAK6_S(255) PAK6_S(305) PAK6_S(347) PAK6_S(351) PAK6_S(616) PAK6_S(97),1.0,0.5,3,1,2,1.0,0.03143400376739653,0.014469408120827176

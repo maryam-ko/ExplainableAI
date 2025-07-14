@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHB2_S(12) PHB2_S(262) PHB2_S(291) PHB2_S(3) PHB2_S(4) PHB2_S(91) PHB2_S(92) PHB2_T(266) PHB2_T(4) PHB2_T(8) PHB2_Y(14),1.0,0.5,1,1,8,0.8,0.029613237060814455,0.01876401055752368

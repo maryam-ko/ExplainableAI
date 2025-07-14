@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAV1_M(37) CAV1_S(37) CAV1_S(6) CAV1_T(15) CAV1_Y(14),0.6,0.5,4,1,8,1.0,0.06997238644671452,0.3864475206871698

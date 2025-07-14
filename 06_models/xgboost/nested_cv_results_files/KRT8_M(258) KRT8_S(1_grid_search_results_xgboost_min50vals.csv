@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KRT8_M(258) KRT8_S(13) KRT8_S(142) KRT8_S(21) KRT8_S(252) KRT8_S(256) KRT8_S(274) KRT8_S(280) KRT8_S(315) KRT8_S(36) KRT8_S(400) KRT8_S(401) KRT8_S(432) KRT8_S(44) KRT8_S(456) KRT8_S(457) KRT8_S(472) KRT8_T(23) KRT8_Y(285),1.0,0.5,2,1,8,1.0,0.010339864019029367,0.2502444741422087

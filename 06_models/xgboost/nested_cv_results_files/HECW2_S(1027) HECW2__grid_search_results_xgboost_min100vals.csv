@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HECW2_S(1027) HECW2_S(1040) HECW2_S(1042) HECW2_S(1063) HECW2_S(1069) HECW2_S(1175) HECW2_S(449) HECW2_S(48) HECW2_S(501) HECW2_S(852) HECW2_T(453),0.8,0.5,4,1,6,1.0,0.02908117443092828,0.24975808453188453

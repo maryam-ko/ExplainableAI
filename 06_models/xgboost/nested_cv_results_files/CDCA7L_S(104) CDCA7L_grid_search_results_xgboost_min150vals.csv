@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDCA7L_S(104) CDCA7L_S(117) CDCA7L_S(161) CDCA7L_S(21) CDCA7L_S(260) CDCA7L_T(209) CDCA7L_T(77),1.0,0.5,4,1,8,1.0,0.020918307312482724,0.6678968971840744

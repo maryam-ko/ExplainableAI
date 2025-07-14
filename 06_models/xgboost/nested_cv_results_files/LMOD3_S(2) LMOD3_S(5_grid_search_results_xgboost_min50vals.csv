@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LMOD3_S(2) LMOD3_S(5) LMOD3_S(8) LMOD3_Y(118),0.6,0.5,3,1,6,0.8,0.02309799644977304,0.13739079399916704

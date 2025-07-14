@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCNF_S(754),0.8,0.5,2,1,8,0.6,0.012240499327617076,0.0021897607015094246

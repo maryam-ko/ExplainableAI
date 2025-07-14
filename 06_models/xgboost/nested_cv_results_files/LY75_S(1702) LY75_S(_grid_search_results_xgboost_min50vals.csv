@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LY75_S(1702) LY75_S(1703) LY75_S(1719),1.0,0.5,2,1,8,0.8,0.011086408658347457,0.01188808757801374

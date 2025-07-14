@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MN1_S(1007) MN1_S(1081) MN1_S(950) MN1_S(954),0.6,0.5,3,1,8,1.0,0.02191549982422658,0.22684276336637232

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NBEA_S(1259) NBEA_S(1262) NBEA_S(1267) NBEA_S(1321) NBEA_S(1529) NBEA_S(1711) NBEA_S(2575) NBEA_T(2045) NBEA_T(913) NBEA_Y(917) NBEA_Y(925),1.0,0.5,4,5,8,1.0,0.022269506029134734,0.442175247788472

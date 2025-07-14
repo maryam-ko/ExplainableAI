@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCT5_S(26) CCT5_S(270) CCT5_S(3) CCT5_S(346) CCT5_S(51) CCT5_S(539) CCT5_Y(274),1.0,0.5,4,5,8,1.0,0.03446166772630379,0.23869471916487112

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GIT2_S(182) GIT2_S(359) GIT2_S(365) GIT2_S(448) GIT2_S(586) GIT2_S(672) GIT2_S(724) GIT2_Y(516),1.0,0.5,3,1,2,1.0,0.0064020017982542865,0.19616160553126444

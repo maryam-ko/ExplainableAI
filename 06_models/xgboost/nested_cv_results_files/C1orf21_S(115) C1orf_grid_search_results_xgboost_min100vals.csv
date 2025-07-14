@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C1orf21_S(115) C1orf21_S(95) C1orf21_T(121),0.8,0.5,4,1,8,1.0,0.05538468792595471,0.4993830884557928

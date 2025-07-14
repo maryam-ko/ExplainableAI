@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DLD_S(274) DLD_S(297) DLD_S(506),0.8,0.5,3,1,8,0.6,0.022592837875597394,0.05796178702592732

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GLE1_S(41) GLE1_S(88) GLE1_S(96) GLE1_T(87),1.0,0.5,3,10,8,0.8,0.01695826744084261,0.20469023570667436

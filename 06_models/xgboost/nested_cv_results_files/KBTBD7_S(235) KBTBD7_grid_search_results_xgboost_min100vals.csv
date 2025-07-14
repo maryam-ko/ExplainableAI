@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KBTBD7_S(235) KBTBD7_S(26) KBTBD7_S(29) KBTBD7_S(3),0.6,0.5,1,1,6,0.6,0.015214438101466762,-0.008301457134403912

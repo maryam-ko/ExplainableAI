@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HYCC1_S(170) HYCC1_S(174) HYCC1_S(314) HYCC1_S(321) HYCC1_S(415) HYCC1_S(433) HYCC1_S(453) HYCC1_S(472) HYCC1_S(485) HYCC1_S(513) HYCC1_S(7) HYCC1_S(92) HYCC1_T(306) HYCC1_Y(493),1.0,0.5,4,5,8,1.0,0.022155905910263486,0.6772240792335253

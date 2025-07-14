@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NCAPD3_S(1350) NCAPD3_S(1371) NCAPD3_S(1492) NCAPD3_S(432) NCAPD3_S(517) NCAPD3_T(1379) NCAPD3_T(1488),0.6,0.5,1,1,6,0.8,0.0069729037764703,-0.0038486194516544002

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BOLA1_S(123) BOLA1_S(81),1.0,0.5,4,1,4,1.0,0.04806086478462511,0.18086957548999377

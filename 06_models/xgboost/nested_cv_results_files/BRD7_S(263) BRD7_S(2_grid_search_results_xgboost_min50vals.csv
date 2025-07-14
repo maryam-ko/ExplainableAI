@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRD7_S(263) BRD7_S(265) BRD7_S(274) BRD7_S(41) BRD7_S(42) BRD7_S(621),0.6,0.5,2,1,8,0.8,0.017922710979701436,0.012602040583163809

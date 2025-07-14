@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFKB1_C(927) NFKB1_S(757) NFKB1_S(851) NFKB1_S(921),1.0,0.5,1,1,8,0.8,0.006375445680904943,0.26080434758350324

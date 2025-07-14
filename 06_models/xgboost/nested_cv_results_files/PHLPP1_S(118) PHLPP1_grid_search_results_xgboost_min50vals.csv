@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHLPP1_S(118) PHLPP1_S(1526) PHLPP1_S(335) PHLPP1_S(336) PHLPP1_S(450) PHLPP1_T(1617),1.0,0.5,2,1,6,0.8,0.012979728544857504,0.3034623662401156

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DMXL2_S(1143) DMXL2_S(1402) DMXL2_S(932),1.0,0.5,2,1,8,0.8,0.00786208422561803,0.10651411201662064

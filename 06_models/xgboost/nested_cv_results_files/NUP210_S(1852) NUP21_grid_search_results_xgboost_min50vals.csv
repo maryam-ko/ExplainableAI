@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUP210_S(1852) NUP210_S(1856) NUP210_S(1863) NUP210_S(1886) NUP210_Y(1268),0.6,0.5,1,1,8,0.8,0.01151155052831883,0.029257379429646523

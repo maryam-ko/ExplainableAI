@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPA1B_S(107) HSPA1B_S(4) HSPA1B_S(631) HSPA1B_S(633) HSPA1B_T(8) HSPA1B_Y(611),1.0,0.5,2,1,8,0.8,0.030074712024903385,-0.0018428259450728123

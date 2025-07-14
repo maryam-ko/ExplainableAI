@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PALB2_S(157) PALB2_S(172) PALB2_S(209) PALB2_S(376) PALB2_S(379) PALB2_S(380) PALB2_S(387) PALB2_S(390) PALB2_S(518) PALB2_S(64) PALB2_S(649) PALB2_S(781) PALB2_T(386) PALB2_T(757) PALB2_T(809),0.8,0.5,4,10,8,1.0,0.03824898424605026,0.28282169608955765

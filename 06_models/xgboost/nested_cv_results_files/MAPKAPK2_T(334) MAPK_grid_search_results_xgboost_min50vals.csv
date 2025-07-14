@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPKAPK2_T(334) MAPKAPK2_Y(63),0.6,0.5,1,1,6,0.6,0.011381969750004547,-0.0026162968299088705

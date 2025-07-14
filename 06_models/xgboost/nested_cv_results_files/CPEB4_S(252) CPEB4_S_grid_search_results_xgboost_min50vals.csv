@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPEB4_S(252) CPEB4_S(255) CPEB4_S(330) CPEB4_S(332) CPEB4_S(340) CPEB4_S(438) CPEB4_S(99) CPEB4_T(326),1.0,0.5,3,1,6,1.0,0.011831358966307695,0.31724838249816045

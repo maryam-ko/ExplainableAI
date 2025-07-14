@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYLD_S(359) CYLD_S(384) CYLD_S(398) CYLD_S(399) CYLD_S(560) CYLD_T(393) CYLD_Y(15),0.6,0.5,4,5,6,1.0,0.03217694899276752,0.30680975018146955

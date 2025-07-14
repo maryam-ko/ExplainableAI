@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC40_S(42) CDC40_S(43) CDC40_S(46) CDC40_S(49),1.0,0.5,4,1,8,1.0,0.04247304376729174,0.20948198949350863

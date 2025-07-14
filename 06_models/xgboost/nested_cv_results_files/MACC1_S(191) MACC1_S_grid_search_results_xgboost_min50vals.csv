@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MACC1_S(191) MACC1_S(34) MACC1_S(515) MACC1_S(74),1.0,0.5,4,1,8,0.8,0.02469107805732703,0.31506993154199964

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXOSC10_S(13) EXOSC10_S(217) EXOSC10_S(593) EXOSC10_S(785) EXOSC10_S(843) EXOSC10_S(848) EXOSC10_T(196) EXOSC10_T(821) EXOSC10_T(846),0.8,0.5,4,1,8,1.0,0.017851479154584054,0.4876056956270219

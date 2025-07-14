@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELK3_C(115) ELK3_S(173) ELK3_S(243) ELK3_S(245) ELK3_S(247) ELK3_S(250) ELK3_S(284) ELK3_S(379) ELK3_S(396),1.0,0.5,4,5,8,1.0,0.03873046481923666,0.6228185737198245

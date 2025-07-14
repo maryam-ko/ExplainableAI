@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPR183_S(328) GPR183_S(330) GPR183_S(333) GPR183_S(337) GPR183_S(343),0.6,0.5,3,1,8,1.0,0.01772180091267506,0.27699522916618446

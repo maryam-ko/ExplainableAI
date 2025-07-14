@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DIAPH3_S(1096) DIAPH3_S(1179) DIAPH3_S(175) DIAPH3_S(26) DIAPH3_S(624) DIAPH3_T(68),0.8,0.5,3,1,8,1.0,0.014380994660305662,0.3152093904237604

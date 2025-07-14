@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAMK1_T(177),1.0,0.5,2,1,8,0.6,0.017930773659315447,0.010569602059180293

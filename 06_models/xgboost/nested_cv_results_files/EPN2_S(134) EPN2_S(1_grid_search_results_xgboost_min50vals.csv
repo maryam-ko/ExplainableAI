@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPN2_S(134) EPN2_S(141) EPN2_S(172) EPN2_S(180) EPN2_S(3) EPN2_S(363) EPN2_S(5),0.8,0.5,2,1,4,0.8,0.010834282768880214,0.1928732024036371

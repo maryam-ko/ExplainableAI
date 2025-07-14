@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FYTTD1_S(1) FYTTD1_S(118) FYTTD1_S(15) FYTTD1_S(16) FYTTD1_S(257) FYTTD1_S(3) FYTTD1_S(61) FYTTD1_S(9) FYTTD1_T(12) FYTTD1_T(14) FYTTD1_T(260),0.8,0.5,4,1,8,1.0,0.027151131854081943,0.6828641858254623

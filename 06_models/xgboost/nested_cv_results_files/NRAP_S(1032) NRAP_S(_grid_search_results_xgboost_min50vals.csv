@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NRAP_S(1032) NRAP_S(1034) NRAP_S(1081) NRAP_S(1482) NRAP_S(152) NRAP_S(1603) NRAP_S(224) NRAP_S(384) NRAP_S(437) NRAP_S(482) NRAP_S(714) NRAP_T(1604) NRAP_Y(11) NRAP_Y(14) NRAP_Y(319),0.6,0.5,2,1,8,0.8,0.020631800177211213,0.10182053652542325

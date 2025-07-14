@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF3A_S(415) KIF3A_S(500) KIF3A_S(687) KIF3A_S(690) KIF3A_S(714) KIF3A_T(206),0.8,0.5,3,1,6,0.8,0.018462178130201838,0.018625635853030387

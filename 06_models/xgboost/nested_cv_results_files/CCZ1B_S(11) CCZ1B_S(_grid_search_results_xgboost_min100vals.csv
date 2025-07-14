@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCZ1B_S(11) CCZ1B_S(266) CCZ1B_S(267) CCZ1B_S(76),1.0,0.5,4,1,8,1.0,0.022633376178762425,0.2201515240675221

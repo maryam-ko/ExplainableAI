@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OSBPL8_S(20) OSBPL8_S(299) OSBPL8_S(32) OSBPL8_S(328) OSBPL8_S(342) OSBPL8_S(353) OSBPL8_S(364) OSBPL8_S(798) OSBPL8_S(799) OSBPL8_S(93) OSBPL8_T(774),0.8,0.5,3,1,4,1.0,0.009350494908981004,0.2954621853094924

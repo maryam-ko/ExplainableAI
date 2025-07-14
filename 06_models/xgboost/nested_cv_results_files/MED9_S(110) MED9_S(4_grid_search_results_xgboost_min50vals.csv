@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED9_S(110) MED9_S(46) MED9_S(53) MED9_S(80),0.6,0.5,2,10,8,1.0,0.01646273814337974,0.3405063178990294

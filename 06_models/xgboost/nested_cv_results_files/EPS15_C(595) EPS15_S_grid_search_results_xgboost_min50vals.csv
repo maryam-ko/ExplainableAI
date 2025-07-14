@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPS15_C(595) EPS15_S(435) EPS15_S(470) EPS15_S(790) EPS15_S(8) EPS15_S(851) EPS15_T(10) EPS15_T(304),1.0,0.5,2,1,8,1.0,0.010509971699916971,0.20278392399767933

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CACYBP_S(141) CACYBP_S(142) CACYBP_S(180) CACYBP_S(188) CACYBP_S(3) CACYBP_T(185) CACYBP_Y(125),1.0,0.5,2,1,8,0.8,0.01219960927562201,0.03025749522995309

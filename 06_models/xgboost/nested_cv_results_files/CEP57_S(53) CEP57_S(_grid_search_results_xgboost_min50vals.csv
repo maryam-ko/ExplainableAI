@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP57_S(53) CEP57_S(55),1.0,0.5,2,1,6,0.8,0.01841816232701736,0.11349610907720345

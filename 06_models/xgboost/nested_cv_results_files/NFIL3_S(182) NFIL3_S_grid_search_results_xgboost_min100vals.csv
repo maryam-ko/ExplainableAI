@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFIL3_S(182) NFIL3_S(275) NFIL3_S(285) NFIL3_S(286) NFIL3_S(301) NFIL3_S(302) NFIL3_S(350) NFIL3_S(353) NFIL3_S(449) NFIL3_S(461) NFIL3_T(273) NFIL3_Y(76),0.6,0.5,4,5,8,1.0,0.047259215237851225,0.2777065284071643

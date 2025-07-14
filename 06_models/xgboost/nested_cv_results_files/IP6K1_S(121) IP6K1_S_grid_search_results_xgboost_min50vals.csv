@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IP6K1_S(121) IP6K1_S(125) IP6K1_S(127) IP6K1_S(146) IP6K1_S(151) IP6K1_S(377),0.6,0.5,4,1,6,0.8,0.021811331189402823,0.12369164633362602

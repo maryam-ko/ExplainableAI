@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBR1_S(140) CBR1_S(149) CBR1_S(151) CBR1_S(2) CBR1_S(56),0.8,0.5,3,1,8,1.0,0.029172855508773386,0.17349799505126576

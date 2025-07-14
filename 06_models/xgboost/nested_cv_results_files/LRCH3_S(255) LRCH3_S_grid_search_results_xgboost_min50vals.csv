@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRCH3_S(255) LRCH3_S(318) LRCH3_S(324) LRCH3_S(415) LRCH3_S(419) LRCH3_S(516) LRCH3_S(603) LRCH3_S(628) LRCH3_S(702),0.6,0.5,3,5,8,1.0,0.03844287601809045,0.2962223096603731

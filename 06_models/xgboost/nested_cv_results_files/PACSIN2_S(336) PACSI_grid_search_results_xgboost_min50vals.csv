@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PACSIN2_S(336) PACSIN2_S(375) PACSIN2_S(405) PACSIN2_T(321),0.8,0.5,1,10,8,0.8,0.008288809767279479,0.13856763347545392

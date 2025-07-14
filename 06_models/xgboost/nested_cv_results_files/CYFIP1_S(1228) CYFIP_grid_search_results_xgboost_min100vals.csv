@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYFIP1_S(1228) CYFIP1_S(431) CYFIP1_S(582) CYFIP1_S(583) CYFIP1_S(872) CYFIP1_T(1068) CYFIP1_T(1234) CYFIP1_T(588),0.8,0.5,4,5,8,1.0,0.020138843871853176,0.3088744314189596

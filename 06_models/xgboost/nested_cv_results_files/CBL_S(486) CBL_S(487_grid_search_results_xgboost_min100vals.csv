@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBL_S(486) CBL_S(487) CBL_S(714) CBL_S(791) CBL_S(804) CBL_Y(674),1.0,0.5,4,1,6,1.0,0.03645248665765094,0.2513775964881348

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRACR2A_S(26) CRACR2A_S(424) CRACR2A_S(426) CRACR2A_S(439) CRACR2A_S(440) CRACR2A_S(473) CRACR2A_S(521) CRACR2A_S(649) CRACR2A_T(518),0.8,0.5,1,1,8,0.8,0.01983450426779151,0.019770719281499493

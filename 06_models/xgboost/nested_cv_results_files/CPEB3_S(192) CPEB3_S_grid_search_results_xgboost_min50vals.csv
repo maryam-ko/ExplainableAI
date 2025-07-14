@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPEB3_S(192) CPEB3_S(195) CPEB3_S(2) CPEB3_S(411),0.6,0.5,1,1,2,1.0,0.014142932297739644,-0.006583352051576785

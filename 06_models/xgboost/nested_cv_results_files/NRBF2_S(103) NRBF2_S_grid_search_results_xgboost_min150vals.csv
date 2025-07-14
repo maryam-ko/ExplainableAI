@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NRBF2_S(103) NRBF2_S(113) NRBF2_S(116) NRBF2_S(120) NRBF2_S(268),1.0,0.5,4,1,8,1.0,0.02075849087030205,0.6688201071147947

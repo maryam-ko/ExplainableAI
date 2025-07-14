@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EDC3_S(109) EDC3_S(112) EDC3_S(124) EDC3_S(131) EDC3_S(137) EDC3_S(138) EDC3_S(140) EDC3_S(148) EDC3_S(150) EDC3_S(152) EDC3_S(154) EDC3_S(161) EDC3_S(177) EDC3_S(233) EDC3_S(3) EDC3_S(7) EDC3_T(173) EDC3_Y(225),1.0,0.5,4,5,8,1.0,0.032185045543383826,0.7356850169432944

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSDME_S(252) GSDME_S(424) GSDME_T(437),1.0,0.5,3,5,8,0.8,0.014049521838758376,0.3021936388051788

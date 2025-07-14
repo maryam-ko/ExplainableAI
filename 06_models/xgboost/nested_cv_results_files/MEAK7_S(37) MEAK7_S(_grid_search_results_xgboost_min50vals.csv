@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MEAK7_S(37) MEAK7_S(425) MEAK7_S(446),0.6,0.5,1,1,6,0.6,0.011032513354202689,-0.026297090015519275

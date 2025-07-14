@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C8orf33_T(19) C8orf33_T(21),1.0,0.5,4,1,8,1.0,0.029304492843521213,0.34948899323847654

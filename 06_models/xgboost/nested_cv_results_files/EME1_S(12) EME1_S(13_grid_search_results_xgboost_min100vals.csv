@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EME1_S(12) EME1_S(132) EME1_S(85) EME1_S(87) EME1_T(150),0.6,0.5,2,1,8,0.6,0.013743046473330935,0.07949927037589599

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OTUD5_S(141) OTUD5_S(153) OTUD5_S(165) OTUD5_S(177) OTUD5_S(40) OTUD5_S(452) OTUD5_S(479) OTUD5_S(508) OTUD5_S(64) OTUD5_T(449) OTUD5_Y(175) OTUD5_Y(519),1.0,0.5,4,1,8,0.8,0.019683763506843168,0.8337324969838951

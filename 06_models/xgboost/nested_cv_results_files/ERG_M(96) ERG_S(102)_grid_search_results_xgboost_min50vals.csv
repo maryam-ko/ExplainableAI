@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERG_M(96) ERG_S(102) ERG_S(108) ERG_S(183) ERG_S(283) ERG_S(88) ERG_T(106),1.0,0.5,2,1,8,0.8,0.011934746228625939,0.3416500243642763

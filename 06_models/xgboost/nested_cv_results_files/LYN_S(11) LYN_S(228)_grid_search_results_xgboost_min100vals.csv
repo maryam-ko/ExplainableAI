@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LYN_S(11) LYN_S(228) LYN_S(9) LYN_Y(194) LYN_Y(265) LYN_Y(306) LYN_Y(32) LYN_Y(397),1.0,0.5,4,1,8,0.8,0.03954647444238286,0.10127329188240468

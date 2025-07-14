@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOM1_S(280) NOM1_T(287),0.8,0.5,4,1,6,0.8,0.020353147308346815,0.11878788027942504

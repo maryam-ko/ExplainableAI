@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIG3_S(123) LIG3_S(130) LIG3_S(155) LIG3_S(201) LIG3_S(210) LIG3_S(216) LIG3_S(225) LIG3_S(227) LIG3_S(236) LIG3_S(242) LIG3_S(835) LIG3_S(853) LIG3_S(912) LIG3_S(913) LIG3_T(191) LIG3_T(201) LIG3_T(209) LIG3_T(227) LIG3_T(244),0.8,0.5,4,1,8,1.0,0.04105040137516506,0.6433690633257128

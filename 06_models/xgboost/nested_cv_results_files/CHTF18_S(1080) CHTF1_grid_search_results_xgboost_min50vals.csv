@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHTF18_S(1080) CHTF18_S(124) CHTF18_S(222) CHTF18_S(225) CHTF18_S(246) CHTF18_S(261) CHTF18_S(63) CHTF18_S(70) CHTF18_S(865) CHTF18_S(871) CHTF18_S(899) CHTF18_S(939) CHTF18_T(51),1.0,0.5,3,10,8,1.0,0.02522124257626643,0.7323078182053071

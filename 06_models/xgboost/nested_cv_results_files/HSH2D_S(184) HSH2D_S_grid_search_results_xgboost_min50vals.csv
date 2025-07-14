@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSH2D_S(184) HSH2D_S(194) HSH2D_S(296) HSH2D_S(298) HSH2D_T(187),0.6,0.5,1,1,6,0.6,0.02068323932232785,-0.002215700598599479

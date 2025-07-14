@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSPB7_S(14) HSPB7_S(20) HSPB7_S(21) HSPB7_S(3) HSPB7_S(46) HSPB7_S(49) HSPB7_T(4),0.8,0.5,4,1,8,1.0,0.03956084641320457,0.21300653145452877

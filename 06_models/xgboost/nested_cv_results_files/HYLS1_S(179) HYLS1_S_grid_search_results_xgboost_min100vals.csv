@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HYLS1_S(179) HYLS1_S(290) HYLS1_S(297) HYLS1_Y(182),0.8,0.5,4,1,4,1.0,0.025070465322810088,0.261823950839147

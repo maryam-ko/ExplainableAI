@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC9_S(109) DNAJC9_S(215) DNAJC9_S(27),0.6,0.5,4,10,6,1.0,0.049915694477329846,0.11670115790039279

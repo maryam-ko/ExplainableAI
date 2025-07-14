@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLDN4_S(194) CLDN4_S(198) CLDN4_S(201) CLDN4_S(202) CLDN4_S(206),0.6,0.5,3,1,8,1.0,0.02415355122960827,0.016209781098825603

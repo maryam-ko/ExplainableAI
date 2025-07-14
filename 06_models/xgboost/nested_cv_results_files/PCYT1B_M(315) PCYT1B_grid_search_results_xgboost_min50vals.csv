@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCYT1B_M(315) PCYT1B_S(315),0.8,0.5,4,1,8,0.6,0.021582683278172272,0.4089957206274173

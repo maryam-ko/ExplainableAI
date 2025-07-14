@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FAM53C_S(148) FAM53C_S(236) FAM53C_S(270) FAM53C_S(271) FAM53C_S(273) FAM53C_S(276) FAM53C_S(3),0.8,0.5,3,1,8,1.0,0.050134851435176576,0.34765168127580254

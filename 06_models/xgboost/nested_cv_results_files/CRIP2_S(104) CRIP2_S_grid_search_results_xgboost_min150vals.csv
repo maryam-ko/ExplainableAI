@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRIP2_S(104) CRIP2_S(111) CRIP2_S(114) CRIP2_S(115) CRIP2_S(195) CRIP2_S(74) CRIP2_T(125) CRIP2_T(161) CRIP2_T(40) CRIP2_Y(58) CRIP2_Y(75),0.8,0.5,4,10,8,1.0,0.01978583912112212,0.6427368269840116

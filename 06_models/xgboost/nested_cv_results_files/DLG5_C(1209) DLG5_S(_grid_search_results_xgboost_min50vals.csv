@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DLG5_C(1209) DLG5_S(1208) DLG5_S(132) DLG5_S(382) DLG5_S(385) DLG5_T(670),0.8,0.5,3,5,6,1.0,0.02491442684903905,0.2717028033073447

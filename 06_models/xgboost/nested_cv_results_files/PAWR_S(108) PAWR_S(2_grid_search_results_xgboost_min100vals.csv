@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAWR_S(108) PAWR_S(233) PAWR_S(259) PAWR_T(173) PAWR_T(230) PAWR_T(261) PAWR_T(267),1.0,0.5,3,1,6,1.0,0.04602295357642746,0.25133600361664044

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF2AK3_S(1065) EIF2AK3_S(1067) EIF2AK3_S(1094) EIF2AK3_S(1096) EIF2AK3_S(552) EIF2AK3_S(715) EIF2AK3_S(844) EIF2AK3_S(856) EIF2AK3_T(705) EIF2AK3_T(982),0.6,0.5,4,1,8,1.0,0.051855561177097165,0.19128135759643217

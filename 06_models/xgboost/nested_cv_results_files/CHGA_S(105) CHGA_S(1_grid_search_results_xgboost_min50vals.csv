@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHGA_S(105) CHGA_S(126) CHGA_S(141) CHGA_S(188) CHGA_S(191) CHGA_S(203) CHGA_S(207) CHGA_S(356) CHGA_S(371) CHGA_S(375) CHGA_S(424) CHGA_S(436) CHGA_S(438) CHGA_S(53),0.6,0.5,1,1,2,1.0,0.017448358221848932,-0.001509276355243072

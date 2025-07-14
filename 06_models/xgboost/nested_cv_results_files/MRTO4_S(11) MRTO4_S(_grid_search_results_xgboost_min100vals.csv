@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MRTO4_S(11) MRTO4_S(51) MRTO4_S(80),0.6,0.5,3,1,8,1.0,0.018990036937819983,0.4670680163957253

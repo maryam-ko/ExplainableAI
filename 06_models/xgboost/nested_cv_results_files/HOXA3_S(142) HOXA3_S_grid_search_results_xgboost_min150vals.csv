@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HOXA3_S(142) HOXA3_S(143) HOXA3_S(148) HOXA3_S(184) HOXA3_S(263) HOXA3_T(150),0.6,0.5,3,1,8,1.0,0.02776932561275907,0.10482912619766938

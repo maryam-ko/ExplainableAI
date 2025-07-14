@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC25_M(197) CCDC25_S(136) CCDC25_S(204) CCDC25_S(208),0.6,0.5,4,10,8,1.0,0.02593086993705771,0.30543152673463764

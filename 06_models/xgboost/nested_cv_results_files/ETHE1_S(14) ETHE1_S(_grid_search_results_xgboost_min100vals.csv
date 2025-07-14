@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ETHE1_S(14) ETHE1_S(19),1.0,0.5,4,1,8,1.0,0.02716818228200557,0.2757456480122091

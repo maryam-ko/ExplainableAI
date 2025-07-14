@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DLAT_S(100) DLAT_S(307) DLAT_S(4) DLAT_S(475) DLAT_T(154),0.6,0.5,3,1,6,1.0,0.03260879809147392,0.07726613891029503

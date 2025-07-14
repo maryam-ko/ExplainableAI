@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IFI16_S(575) IFI16_S(670) IFI16_S(776) IFI16_T(123),1.0,0.5,4,1,8,1.0,0.014494424409504152,0.49771583387109175

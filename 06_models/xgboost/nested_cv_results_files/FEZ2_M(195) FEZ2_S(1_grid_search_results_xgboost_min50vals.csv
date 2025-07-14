@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FEZ2_M(195) FEZ2_S(192) FEZ2_S(195) FEZ2_S(203) FEZ2_S(205),0.6,0.5,2,1,6,1.0,0.004994513471096215,0.34384483599885857

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PFAS_S(215) PFAS_S(569),1.0,0.5,2,1,4,0.8,0.014532532263336898,-0.0032631369807882395

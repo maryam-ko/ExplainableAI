@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FLCN_S(571) FLCN_S(59) FLCN_S(68) FLCN_S(71) FLCN_S(72),1.0,0.5,1,10,8,0.8,0.030217538633834595,0.020097917080584504

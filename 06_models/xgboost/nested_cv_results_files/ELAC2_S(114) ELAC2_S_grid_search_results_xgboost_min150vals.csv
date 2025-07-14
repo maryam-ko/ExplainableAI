@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ELAC2_S(114) ELAC2_S(193) ELAC2_S(199) ELAC2_S(205) ELAC2_S(208) ELAC2_S(212) ELAC2_S(213) ELAC2_S(215) ELAC2_S(238) ELAC2_S(618) ELAC2_S(736),1.0,0.5,4,10,8,1.0,0.022676096246352903,0.7381133673423308

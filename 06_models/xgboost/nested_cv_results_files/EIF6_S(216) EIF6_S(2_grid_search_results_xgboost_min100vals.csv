@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EIF6_S(216) EIF6_S(235) EIF6_S(239) EIF6_S(243) EIF6_T(215) EIF6_T(234) EIF6_T(245) EIF6_T(767) EIF6_Y(113),1.0,0.5,4,1,8,1.0,0.032040823719503286,0.45951847397375783

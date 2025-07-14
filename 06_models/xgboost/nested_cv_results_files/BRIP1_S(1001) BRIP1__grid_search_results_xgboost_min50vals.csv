@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRIP1_S(1001) BRIP1_S(1162) BRIP1_S(214) BRIP1_S(956) BRIP1_S(961) BRIP1_T(1142) BRIP1_T(992),0.6,0.5,3,1,8,1.0,0.01270645111063705,0.2024510004747535

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CNNM3_S(453) CNNM3_S(467) CNNM3_S(652) CNNM3_S(661) CNNM3_T(459),1.0,0.5,1,1,8,0.6,0.01920433102816088,0.006775137960982125

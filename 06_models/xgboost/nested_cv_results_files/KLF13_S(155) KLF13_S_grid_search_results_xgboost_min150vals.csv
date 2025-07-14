@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLF13_S(155) KLF13_S(160) KLF13_S(162) KLF13_S(270) KLF13_S(283) KLF13_T(192) KLF13_T(43),0.8,0.5,4,1,8,1.0,0.032502930923163115,0.6043702862586178

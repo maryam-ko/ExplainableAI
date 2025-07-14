@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTMR10_S(669) MTMR10_S(769) MTMR10_T(755) MTMR10_T(770) MTMR10_Y(708),1.0,0.5,3,1,8,0.8,0.019462882905355115,0.23217313294170855

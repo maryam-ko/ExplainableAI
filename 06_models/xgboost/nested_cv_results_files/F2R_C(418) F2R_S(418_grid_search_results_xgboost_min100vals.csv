@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+F2R_C(418) F2R_S(418),1.0,0.5,4,1,8,1.0,0.03132421567446748,0.16700450583971768

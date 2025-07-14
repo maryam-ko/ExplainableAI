@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGAM5_S(113) PGAM5_S(80) PGAM5_S(87),0.6,0.5,1,1,2,0.6,0.013859657116880888,-0.0017122874395019139

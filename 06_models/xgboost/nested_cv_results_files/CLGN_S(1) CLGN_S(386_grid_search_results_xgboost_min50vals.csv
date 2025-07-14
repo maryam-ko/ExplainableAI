@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLGN_S(1) CLGN_S(386) CLGN_S(554) CLGN_S(560) CLGN_S(591) CLGN_S(594) CLGN_T(387) CLGN_T(592),1.0,0.5,1,10,8,0.8,0.013972620615643427,0.12431319979001783

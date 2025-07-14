@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GBE1_S(1) GBE1_S(75) GBE1_S(92) GBE1_Y(14),1.0,0.5,2,1,8,0.6,0.018982118359394083,0.1223018568670157

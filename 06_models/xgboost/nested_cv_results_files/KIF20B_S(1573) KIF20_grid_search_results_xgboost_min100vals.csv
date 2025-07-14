@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KIF20B_S(1573) KIF20B_S(1586) KIF20B_S(1588) KIF20B_S(1715) KIF20B_S(1732) KIF20B_S(432) KIF20B_S(499) KIF20B_T(1628) KIF20B_T(336) KIF20B_T(560),0.8,0.5,4,10,8,1.0,0.019786502813437867,0.2165179549917208

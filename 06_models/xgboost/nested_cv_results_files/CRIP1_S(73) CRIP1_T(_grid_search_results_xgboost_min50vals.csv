@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRIP1_S(73) CRIP1_T(75) CRIP1_Y(12),1.0,0.5,2,10,8,0.8,0.014049373535400518,0.020564190834415474

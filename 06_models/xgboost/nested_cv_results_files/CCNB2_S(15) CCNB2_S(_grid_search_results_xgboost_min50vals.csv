@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCNB2_S(15) CCNB2_S(22) CCNB2_S(392) CCNB2_S(398) CCNB2_S(89) CCNB2_S(92) CCNB2_T(8) CCNB2_T(94),0.8,0.5,4,10,8,1.0,0.04179345371650315,0.1929328208189354

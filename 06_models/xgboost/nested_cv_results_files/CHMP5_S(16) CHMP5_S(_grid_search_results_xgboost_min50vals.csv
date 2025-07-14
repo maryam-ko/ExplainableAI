@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHMP5_S(16) CHMP5_S(219) CHMP5_S(30) CHMP5_S(86) CHMP5_S(98) CHMP5_T(23),0.8,0.5,2,10,8,0.8,0.027187529793758155,0.006341641724641756

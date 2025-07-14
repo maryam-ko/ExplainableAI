@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLCN7_M(61) CLCN7_S(11) CLCN7_S(14) CLCN7_S(48) CLCN7_S(60) CLCN7_S(61) CLCN7_S(712) CLCN7_S(73) CLCN7_T(34),0.8,0.5,2,1,8,0.8,0.028028456514876236,0.13098096665306153

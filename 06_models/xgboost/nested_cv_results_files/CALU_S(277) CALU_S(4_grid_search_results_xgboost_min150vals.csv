@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CALU_S(277) CALU_S(44) CALU_S(52) CALU_S(69) CALU_Y(47),1.0,0.5,4,10,8,1.0,0.03169252285077814,0.5146655778580781

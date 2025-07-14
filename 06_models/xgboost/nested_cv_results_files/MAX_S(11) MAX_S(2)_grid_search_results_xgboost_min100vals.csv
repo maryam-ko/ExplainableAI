@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAX_S(11) MAX_S(2),1.0,0.5,4,1,8,1.0,0.037993548852008494,0.4671933819548119

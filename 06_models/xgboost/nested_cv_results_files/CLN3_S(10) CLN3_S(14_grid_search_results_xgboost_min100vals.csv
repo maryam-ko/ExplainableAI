@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLN3_S(10) CLN3_S(14) CLN3_S(9) CLN3_T(19),0.8,0.5,4,10,8,1.0,0.02495483565296565,0.2508429382930153

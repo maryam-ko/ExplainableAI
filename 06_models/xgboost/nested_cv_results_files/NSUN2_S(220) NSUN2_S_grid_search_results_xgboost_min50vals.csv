@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSUN2_S(220) NSUN2_S(758) NSUN2_T(461) NSUN2_T(758),1.0,0.5,2,1,8,0.6,0.016417360878426428,0.3543194824359673

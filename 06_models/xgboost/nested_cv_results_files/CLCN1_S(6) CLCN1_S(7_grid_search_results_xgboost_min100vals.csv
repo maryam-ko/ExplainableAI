@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLCN1_S(6) CLCN1_S(707) CLCN1_S(886),0.6,0.5,4,10,4,1.0,0.022686746192729094,0.19225507662477018

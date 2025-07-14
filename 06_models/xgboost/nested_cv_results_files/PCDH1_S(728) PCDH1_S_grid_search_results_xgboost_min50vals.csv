@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCDH1_S(728) PCDH1_S(750) PCDH1_S(812) PCDH1_S(823) PCDH1_S(825) PCDH1_S(928) PCDH1_S(936) PCDH1_S(949) PCDH1_S(950) PCDH1_S(962) PCDH1_S(970) PCDH1_S(973) PCDH1_S(984) PCDH1_S(986),0.6,0.5,3,1,8,1.0,0.04223138625405723,0.2724267758955429

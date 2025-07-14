@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIKFYVE_M(329) PIKFYVE_S(105) PIKFYVE_S(1526) PIKFYVE_S(305) PIKFYVE_S(316) PIKFYVE_S(352) PIKFYVE_S(871) PIKFYVE_T(309),1.0,0.5,3,1,8,0.8,0.00646848378221938,0.12021764691545334

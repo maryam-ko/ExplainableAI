@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PDIA3_S(13) PDIA3_S(478),0.6,0.5,4,1,6,1.0,0.007729116443621004,0.6778140841194787

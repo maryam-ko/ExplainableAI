@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C9orf78_S(101) C9orf78_S(12) C9orf78_S(15) C9orf78_S(17) C9orf78_S(24),0.8,0.5,4,1,8,1.0,0.03196939327352075,0.551230795651082

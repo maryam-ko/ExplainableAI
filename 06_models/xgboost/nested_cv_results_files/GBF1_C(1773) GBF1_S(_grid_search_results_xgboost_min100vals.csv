@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GBF1_C(1773) GBF1_S(1244) GBF1_S(1264) GBF1_S(1300) GBF1_S(1304) GBF1_S(1315) GBF1_S(1320) GBF1_S(1778) GBF1_S(1779) GBF1_S(314) GBF1_Y(1316) GBF1_Y(1323) GBF1_Y(317),0.6,0.5,4,1,6,1.0,0.028630535695862287,0.2919916798284044

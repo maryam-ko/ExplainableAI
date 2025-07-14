@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NKX2_S(18) NKX2_S(254) NKX2_S(27) NKX2_S(78),1.0,0.5,4,1,2,1.0,0.0193853342376461,0.3089424515641306

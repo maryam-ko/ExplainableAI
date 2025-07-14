@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EPHA1_S(906) EPHA1_S(908) EPHA1_S(910) EPHA1_Y(599) EPHA1_Y(605) EPHA1_Y(781),0.6,0.5,3,1,8,1.0,0.021340051965514483,0.020389419476313987

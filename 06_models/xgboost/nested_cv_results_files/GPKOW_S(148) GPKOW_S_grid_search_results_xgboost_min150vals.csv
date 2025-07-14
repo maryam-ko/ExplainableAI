@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPKOW_S(148) GPKOW_S(197) GPKOW_S(388) GPKOW_S(42) GPKOW_T(138),1.0,0.5,4,5,8,1.0,0.049969750354077316,0.6203312026215564

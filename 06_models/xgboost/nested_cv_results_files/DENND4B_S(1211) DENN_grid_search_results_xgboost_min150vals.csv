@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DENND4B_S(1211) DENND4B_S(3) DENND4B_S(736),1.0,0.5,4,1,6,1.0,0.03417300517692036,0.35250977860414456

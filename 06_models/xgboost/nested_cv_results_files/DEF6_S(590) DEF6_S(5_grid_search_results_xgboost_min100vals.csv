@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DEF6_S(590) DEF6_S(594) DEF6_S(597) DEF6_S(600) DEF6_S(606) DEF6_T(595),1.0,0.5,4,1,4,1.0,0.0356283432177645,0.33878509746135566

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CSRNP1_S(319) CSRNP1_S(322) CSRNP1_S(66) CSRNP1_T(68),0.6,0.5,3,1,6,0.8,0.008051697612219275,0.25700748781081234

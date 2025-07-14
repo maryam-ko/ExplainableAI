@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PITPNM1_S(273) PITPNM1_S(326) PITPNM1_S(382) PITPNM1_S(896) PITPNM1_T(369) PITPNM1_Y(1191),1.0,0.5,3,10,8,1.0,0.02010582898836912,0.3007715635566547

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NBEAL2_S(1078) NBEAL2_S(1081) NBEAL2_S(2013) NBEAL2_S(2555) NBEAL2_S(2709) NBEAL2_S(2712) NBEAL2_T(1869) NBEAL2_T(2009),0.8,0.5,4,1,8,1.0,0.013591385136152972,0.4302793691209665

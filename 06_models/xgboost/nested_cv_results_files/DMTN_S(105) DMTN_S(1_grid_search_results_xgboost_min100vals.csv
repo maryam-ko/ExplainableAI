@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DMTN_S(105) DMTN_S(152) DMTN_S(16) DMTN_S(19) DMTN_S(201) DMTN_S(264) DMTN_S(269) DMTN_S(289) DMTN_S(333) DMTN_S(336) DMTN_S(96) DMTN_T(297),1.0,0.5,4,10,8,1.0,0.021106146742528222,0.6779399620739177

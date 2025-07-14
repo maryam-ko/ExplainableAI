@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MED15_M(603) MED15_S(505) MED15_S(520) MED15_T(492) MED15_T(603),0.8,0.5,3,10,8,1.0,0.02434327203614869,0.24873940416295987

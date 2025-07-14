@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FNTA_S(222) FNTA_S(373) FNTA_T(5) FNTA_Y(3),1.0,0.5,4,1,8,1.0,0.023879156041527752,0.4211953258442878

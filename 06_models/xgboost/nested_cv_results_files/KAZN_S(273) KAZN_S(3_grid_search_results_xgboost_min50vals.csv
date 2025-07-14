@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KAZN_S(273) KAZN_S(308) KAZN_S(312) KAZN_S(333) KAZN_S(339) KAZN_S(340) KAZN_S(346) KAZN_S(352) KAZN_S(367) KAZN_S(381) KAZN_S(387) KAZN_T(327),0.8,0.5,3,1,8,0.8,0.03276104840530729,0.053219174137569755

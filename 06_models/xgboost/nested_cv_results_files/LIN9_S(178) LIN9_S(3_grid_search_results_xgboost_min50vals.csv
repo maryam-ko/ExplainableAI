@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIN9_S(178) LIN9_S(321) LIN9_S(76) LIN9_T(280) LIN9_T(297),0.6,0.5,4,1,6,1.0,0.02054784795425158,0.33331345217983926

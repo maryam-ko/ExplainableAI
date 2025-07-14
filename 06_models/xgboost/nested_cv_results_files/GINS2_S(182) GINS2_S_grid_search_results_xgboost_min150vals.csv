@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GINS2_S(182) GINS2_S(370),0.8,0.5,4,1,8,1.0,0.03644537570022317,0.7106191373664779

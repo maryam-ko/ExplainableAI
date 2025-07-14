@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAB2IP_S(1140) DAB2IP_S(286) DAB2IP_S(35) DAB2IP_S(722) DAB2IP_S(748) DAB2IP_T(37) DAB2IP_T(799),0.6,0.5,1,1,8,0.8,0.004293175902074547,0.15473825818098927

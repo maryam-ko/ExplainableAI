@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNTTIP2_C(117) DNTTIP2_S(120) DNTTIP2_S(194) DNTTIP2_S(362) DNTTIP2_S(87) DNTTIP2_S(88),1.0,0.5,4,1,8,0.8,0.03216254189238796,0.2705361982194863

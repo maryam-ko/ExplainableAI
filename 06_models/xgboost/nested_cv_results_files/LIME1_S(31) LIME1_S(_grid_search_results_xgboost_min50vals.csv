@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIME1_S(31) LIME1_S(61) LIME1_S(70) LIME1_T(266) LIME1_T(274),0.6,0.5,1,1,8,0.6,0.009150628208555191,-0.005747395545533873

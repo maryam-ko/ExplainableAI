@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NDUFAF2_S(102) NDUFAF2_S(117) NDUFAF2_S(134) NDUFAF2_S(149) NDUFAF2_Y(106),1.0,0.5,1,1,8,0.8,0.010571044140700214,0.1564819239069004

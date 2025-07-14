@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PARN_S(102) PARN_S(163) PARN_S(554) PARN_S(557) PARN_S(558) PARN_S(562) PARN_S(570) PARN_S(572) PARN_S(587) PARN_S(623) PARN_S(625) PARN_S(628),0.8,0.5,4,1,8,1.0,0.038142918811173064,0.6123279821172611

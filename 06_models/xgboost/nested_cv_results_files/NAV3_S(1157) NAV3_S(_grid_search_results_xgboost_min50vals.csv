@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAV3_S(1157) NAV3_S(1189) NAV3_S(1359) NAV3_S(1459) NAV3_S(1463) NAV3_S(1482) NAV3_S(1532) NAV3_S(1534) NAV3_S(18) NAV3_S(358) NAV3_S(797) NAV3_S(940) NAV3_S(988) NAV3_T(360),0.6,0.5,2,1,8,1.0,0.008798704830900714,0.20168699476381208

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GNL1_S(32) GNL1_S(322) GNL1_S(324) GNL1_S(33) GNL1_S(34) GNL1_S(49) GNL1_S(51) GNL1_S(53) GNL1_S(66) GNL1_S(68) GNL1_T(46) GNL1_T(48) GNL1_T(50),1.0,0.5,4,10,8,1.0,0.03207504680663252,0.7641586286725826

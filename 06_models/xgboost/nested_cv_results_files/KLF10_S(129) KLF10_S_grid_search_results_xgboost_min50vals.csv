@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLF10_S(129) KLF10_S(195) KLF10_S(206) KLF10_S(340) KLF10_S(342) KLF10_S(351),1.0,0.5,3,1,8,0.8,0.02039128397553212,0.17166083557463802

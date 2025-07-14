@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NUCB1_S(223) NUCB1_S(224) NUCB1_S(320) NUCB1_S(367) NUCB1_S(369) NUCB1_S(5) NUCB1_S(86) NUCB1_T(148) NUCB1_T(443),0.8,0.5,4,1,8,0.8,0.03476045246129097,0.6104993860115833

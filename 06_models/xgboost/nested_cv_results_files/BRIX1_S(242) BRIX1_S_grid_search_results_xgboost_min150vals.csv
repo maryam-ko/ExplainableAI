@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BRIX1_S(242) BRIX1_S(261) BRIX1_S(271) BRIX1_T(309) BRIX1_Y(1032),1.0,0.5,4,5,8,0.8,0.03631195782425698,0.18850688000381663

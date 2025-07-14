@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHAX_S(102) PHAX_S(14) PHAX_S(149) PHAX_S(16) PHAX_S(164) PHAX_S(226) PHAX_S(350) PHAX_S(356) PHAX_S(359) PHAX_S(364) PHAX_S(368) PHAX_S(39) PHAX_T(222) PHAX_T(296) PHAX_T(349) PHAX_T(353) PHAX_T(358) PHAX_Y(57),0.8,0.5,4,1,8,1.0,0.034624728343790094,0.444313509765227

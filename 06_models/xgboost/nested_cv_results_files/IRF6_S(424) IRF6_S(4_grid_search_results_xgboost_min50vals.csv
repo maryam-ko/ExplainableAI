@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IRF6_S(424) IRF6_S(47),1.0,0.5,2,1,8,0.8,0.01710782141898677,0.0023697805968784904

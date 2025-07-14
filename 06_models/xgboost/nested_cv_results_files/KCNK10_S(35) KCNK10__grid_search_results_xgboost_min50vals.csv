@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KCNK10_S(35) KCNK10_S(359) KCNK10_S(388) KCNK10_S(415) KCNK10_S(439) KCNK10_T(53),0.6,0.5,1,1,2,0.6,0.015783470884333593,-0.017929283357170346

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PGK1_S(153) PGK1_S(174) PGK1_S(175) PGK1_S(2) PGK1_S(203) PGK1_S(4) PGK1_S(415) PGK1_S(49) PGK1_T(35) PGK1_Y(161) PGK1_Y(168) PGK1_Y(48),1.0,0.5,4,1,8,1.0,0.03112826875799175,0.7263066100817339

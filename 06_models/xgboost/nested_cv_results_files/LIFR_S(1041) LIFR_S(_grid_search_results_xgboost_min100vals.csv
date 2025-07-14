@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIFR_S(1041) LIFR_S(1044) LIFR_S(1047) LIFR_S(1059) LIFR_S(1077) LIFR_S(534) LIFR_S(887) LIFR_S(927) LIFR_T(904),1.0,0.5,4,1,8,1.0,0.022637568704042266,0.08201051397700887

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MIER1_S(130) MIER1_S(136) MIER1_S(362) MIER1_S(367) MIER1_S(368) MIER1_S(492) MIER1_S(52) MIER1_T(128) MIER1_T(49) MIER1_T(510),0.6,0.5,2,1,6,0.8,0.008459117728168429,0.24579216998645056

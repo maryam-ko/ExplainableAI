@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH8_T(5) MYH8_T(982) MYH8_T(991) MYH8_Y(3) MYH8_Y(389),0.6,0.5,1,1,8,0.8,0.017430548121439775,-0.010286813019576391

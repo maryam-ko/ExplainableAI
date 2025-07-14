@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CEP97_S(308) CEP97_S(314) CEP97_S(400) CEP97_S(413) CEP97_S(770) CEP97_T(418),0.6,0.5,1,1,8,0.6,0.008991716312137393,-0.004680018902351746

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CABLES1_S(168) CABLES1_S(242) CABLES1_S(290) CABLES1_S(291) CABLES1_S(373),1.0,0.5,4,1,6,0.6,0.02414581086394311,0.15949505754582777

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LIPE_S(196) LIPE_S(200) LIPE_S(3) LIPE_S(554) LIPE_S(853) LIPE_S(855) LIPE_S(951) LIPE_S(98) LIPE_T(3),0.6,0.5,4,1,8,1.0,0.032414691115048855,0.47646283730871886

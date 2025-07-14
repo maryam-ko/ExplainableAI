@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MB_S(109) MB_S(13) MB_S(2) MB_S(5) MB_S(6) MB_S(8) MB_T(16) MB_T(17) MB_T(40) MB_T(5) MB_T(68) MB_T(7) MB_T(71) MB_T(8) MB_Y(104),0.6,0.5,2,10,2,1.0,0.015648827134243253,0.10510431300146243

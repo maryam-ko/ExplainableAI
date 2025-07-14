@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KHDC4_S(571) KHDC4_S(572) KHDC4_Y(567),0.8,0.5,3,1,8,1.0,0.03956268356654259,0.224572467866877

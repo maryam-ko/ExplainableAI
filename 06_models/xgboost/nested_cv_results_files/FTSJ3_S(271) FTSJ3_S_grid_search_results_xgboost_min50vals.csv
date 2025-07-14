@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FTSJ3_S(271) FTSJ3_S(333) FTSJ3_S(347) FTSJ3_S(356) FTSJ3_S(458) FTSJ3_S(584) FTSJ3_S(598) FTSJ3_S(599) FTSJ3_S(644) FTSJ3_S(677) FTSJ3_S(688) FTSJ3_T(577),1.0,0.5,4,5,8,1.0,0.05966528899173027,0.3239233658273347

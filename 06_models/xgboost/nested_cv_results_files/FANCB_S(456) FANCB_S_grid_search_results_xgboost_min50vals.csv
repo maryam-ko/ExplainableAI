@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FANCB_S(456) FANCB_S(465) FANCB_T(555),1.0,0.5,2,1,8,0.6,0.014078946164730457,0.27956383015353764

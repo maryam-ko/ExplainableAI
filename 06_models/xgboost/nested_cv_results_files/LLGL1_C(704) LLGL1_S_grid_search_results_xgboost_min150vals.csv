@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LLGL1_C(704) LLGL1_S(1040) LLGL1_S(1041) LLGL1_S(1044) LLGL1_S(4) LLGL1_S(420) LLGL1_S(488) LLGL1_S(5) LLGL1_S(6) LLGL1_S(642) LLGL1_S(659) LLGL1_S(682) LLGL1_T(704),1.0,0.5,4,1,6,1.0,0.02209321342666315,0.35627921761321096

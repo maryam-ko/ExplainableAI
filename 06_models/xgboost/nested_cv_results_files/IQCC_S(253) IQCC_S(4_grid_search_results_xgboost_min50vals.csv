@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IQCC_S(253) IQCC_S(438),0.6,0.5,1,1,8,1.0,0.011895393448811178,0.29022442988952796

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EMC4_S(32) EMC4_S(34) EMC4_S(36) EMC4_S(41),0.6,0.5,4,1,6,1.0,0.021153208304442155,0.15913601855014653

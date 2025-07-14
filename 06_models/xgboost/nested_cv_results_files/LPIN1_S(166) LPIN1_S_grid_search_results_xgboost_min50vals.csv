@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LPIN1_S(166) LPIN1_S(196) LPIN1_S(254) LPIN1_S(258) LPIN1_S(260) LPIN1_S(297) LPIN1_S(336) LPIN1_S(434) LPIN1_S(438) LPIN1_S(441) LPIN1_S(445) LPIN1_S(580) LPIN1_S(887),1.0,0.5,3,1,6,0.8,0.02029367218563904,0.23581588515667673

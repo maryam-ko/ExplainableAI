@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PLCB1_S(1199) PLCB1_S(1200) PLCB1_S(887) PLCB1_T(989) PLCB1_Y(816),1.0,0.5,1,1,8,1.0,0.01359060367636573,0.2808769228192471

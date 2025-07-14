@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC97_C(221) CCDC97_C(257) CCDC97_S(11) CCDC97_S(212) CCDC97_S(218) CCDC97_S(257) CCDC97_S(264) CCDC97_S(268) CCDC97_S(275) CCDC97_S(337) CCDC97_T(202) CCDC97_T(47),1.0,0.5,4,1,6,1.0,0.05759960110189147,0.26629365840301367

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOLPH3_S(42) GOLPH3_S(8) GOLPH3_S(9),0.8,0.5,3,1,8,1.0,0.01932128056667702,0.11486129611704585

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GGNBP2_C(360) GGNBP2_S(515) GGNBP2_T(137),0.6,0.5,3,1,8,0.8,0.015082953686081419,0.19048585928170775

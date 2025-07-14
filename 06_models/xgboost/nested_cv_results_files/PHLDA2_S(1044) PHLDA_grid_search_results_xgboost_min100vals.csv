@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHLDA2_S(1044) PHLDA2_S(141) PHLDA2_S(144) PHLDA2_S(3) PHLDA2_S(42),0.6,0.5,4,10,8,1.0,0.04320009644819383,0.2689365397061415

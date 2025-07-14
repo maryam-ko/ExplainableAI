@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FCER1G_S(69) FCER1G_T(60) FCER1G_T(71) FCER1G_Y(76),0.6,0.5,3,1,8,1.0,0.025035388854616772,0.13509904183017038

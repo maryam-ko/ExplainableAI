@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COPA_S(1193) COPA_S(170) COPA_S(173) COPA_S(402) COPA_S(434) COPA_S(824) COPA_S(895) COPA_T(821),1.0,0.5,4,1,8,1.0,0.04914150271159589,0.46290334841486197

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DAPK1_S(289) DAPK1_S(691) DAPK1_S(696) DAPK1_T(336),1.0,0.5,4,1,8,0.8,0.022106509336293562,0.19279690473654854

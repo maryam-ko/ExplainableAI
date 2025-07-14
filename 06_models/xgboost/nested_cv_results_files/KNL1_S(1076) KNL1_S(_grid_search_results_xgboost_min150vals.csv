@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KNL1_S(1076) KNL1_S(1085) KNL1_S(1773) KNL1_S(1820) KNL1_S(379) KNL1_S(479) KNL1_S(552) KNL1_S(578) KNL1_S(60) KNL1_S(765) KNL1_S(767) KNL1_T(1817) KNL1_T(491) KNL1_T(539) KNL1_T(560) KNL1_T(991),0.8,0.5,4,1,6,1.0,0.015101360362779046,0.6963247614463649

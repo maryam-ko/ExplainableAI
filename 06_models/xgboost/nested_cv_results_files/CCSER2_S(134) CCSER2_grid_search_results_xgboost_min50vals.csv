@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCSER2_S(134) CCSER2_S(14) CCSER2_S(206) CCSER2_S(223) CCSER2_S(227) CCSER2_S(231) CCSER2_S(452) CCSER2_S(701) CCSER2_S(704) CCSER2_S(705) CCSER2_T(430),0.8,0.5,4,1,4,0.8,0.021524960256075483,0.22164822889635127

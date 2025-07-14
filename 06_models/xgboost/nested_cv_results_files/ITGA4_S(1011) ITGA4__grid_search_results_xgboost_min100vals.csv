@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITGA4_S(1011) ITGA4_S(1021) ITGA4_S(1027),0.6,0.5,4,1,8,1.0,0.043593815975078554,0.5420653526769066

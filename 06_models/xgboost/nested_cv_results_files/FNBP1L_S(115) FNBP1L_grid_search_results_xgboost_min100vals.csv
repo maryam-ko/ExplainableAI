@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FNBP1L_S(115) FNBP1L_S(141) FNBP1L_S(292) FNBP1L_S(295) FNBP1L_S(3) FNBP1L_S(300) FNBP1L_S(501) FNBP1L_T(293) FNBP1L_T(298) FNBP1L_T(342) FNBP1L_Y(291) FNBP1L_Y(506),1.0,0.5,4,10,8,1.0,0.03715784836878569,0.7352143973980503

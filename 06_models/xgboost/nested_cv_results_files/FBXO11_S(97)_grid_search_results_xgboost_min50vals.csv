@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FBXO11_S(97),1.0,0.5,2,10,8,0.6,0.009319100018000279,0.3464277395346597

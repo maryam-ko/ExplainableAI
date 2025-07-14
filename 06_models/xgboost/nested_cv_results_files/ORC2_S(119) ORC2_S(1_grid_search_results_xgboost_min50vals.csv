@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ORC2_S(119) ORC2_S(122) ORC2_S(138) ORC2_S(165) ORC2_S(255) ORC2_S(278) ORC2_S(280) ORC2_S(284) ORC2_T(116) ORC2_T(216) ORC2_T(226) ORC2_T(258) ORC2_Y(70),1.0,0.5,4,1,8,1.0,0.05417153160832444,0.3357121749370371

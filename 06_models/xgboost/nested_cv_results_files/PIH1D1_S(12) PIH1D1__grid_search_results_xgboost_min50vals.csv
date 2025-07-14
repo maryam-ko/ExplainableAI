@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIH1D1_S(12) PIH1D1_S(173),0.6,0.5,1,1,4,0.6,0.0072695953045888145,-0.004353991675980007

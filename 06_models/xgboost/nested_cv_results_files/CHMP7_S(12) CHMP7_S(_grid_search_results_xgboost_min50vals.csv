@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHMP7_S(12) CHMP7_S(417) CHMP7_S(438) CHMP7_T(408),0.8,0.5,4,1,8,1.0,0.06471964591424648,0.38755454266676204

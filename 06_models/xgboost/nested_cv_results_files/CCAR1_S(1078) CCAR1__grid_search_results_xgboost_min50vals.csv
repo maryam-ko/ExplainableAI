@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCAR1_S(1078) CCAR1_S(214) CCAR1_S(626) CCAR1_S(682) CCAR1_S(697) CCAR1_S(832) CCAR1_S(994) CCAR1_T(612) CCAR1_T(623) CCAR1_T(627) CCAR1_T(846) CCAR1_Y(870),0.6,0.5,4,1,8,1.0,0.027523678977286452,0.40951163864566764

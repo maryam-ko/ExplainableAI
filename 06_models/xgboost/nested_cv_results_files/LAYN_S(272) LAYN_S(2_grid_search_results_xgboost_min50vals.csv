@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LAYN_S(272) LAYN_S(278) LAYN_S(299),1.0,0.5,4,1,8,0.8,0.030788064564758782,0.3483894431846172

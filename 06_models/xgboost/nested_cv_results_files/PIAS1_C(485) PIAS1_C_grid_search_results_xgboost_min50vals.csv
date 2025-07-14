@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PIAS1_C(485) PIAS1_C(487) PIAS1_C(488) PIAS1_S(467) PIAS1_S(468) PIAS1_S(50) PIAS1_S(505) PIAS1_T(480),1.0,0.5,3,1,6,0.8,0.019401107542447605,0.2512058615035954

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLSPN_S(1129) CLSPN_S(1250) CLSPN_S(1270) CLSPN_S(235) CLSPN_S(698) CLSPN_S(720) CLSPN_S(721) CLSPN_S(734) CLSPN_S(755) CLSPN_S(828) CLSPN_T(724) CLSPN_Y(120),0.6,0.5,4,1,8,1.0,0.011578209833137402,0.4347591825654522

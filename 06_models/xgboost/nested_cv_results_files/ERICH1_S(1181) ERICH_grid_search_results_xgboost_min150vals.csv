@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ERICH1_S(1181) ERICH1_S(144) ERICH1_S(238) ERICH1_S(254) ERICH1_S(339) ERICH1_T(259) ERICH1_T(277) ERICH1_T(62),0.6,0.5,4,1,8,1.0,0.0372328575040319,0.696577243089388

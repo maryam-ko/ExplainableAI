@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PJA1_C(367) PJA1_S(1) PJA1_S(126) PJA1_S(15) PJA1_S(210) PJA1_S(268) PJA1_S(3) PJA1_S(365) PJA1_S(367) PJA1_S(71) PJA1_T(222) PJA1_T(73),1.0,0.5,4,1,8,1.0,0.01821285738590635,0.6510493463860085

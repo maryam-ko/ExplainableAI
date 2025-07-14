@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FGA_S(3) FGA_S(549) FGA_T(595),1.0,0.5,2,1,8,0.6,0.02742637729493864,0.039904545112575796

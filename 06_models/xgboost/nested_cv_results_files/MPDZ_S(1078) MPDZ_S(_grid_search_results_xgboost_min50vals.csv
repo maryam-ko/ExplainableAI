@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPDZ_S(1078) MPDZ_S(1194) MPDZ_S(1283) MPDZ_S(13) MPDZ_S(14) MPDZ_S(1562) MPDZ_S(1578) MPDZ_S(1595) MPDZ_S(1609) MPDZ_S(1832) MPDZ_S(230) MPDZ_S(354) MPDZ_S(483) MPDZ_S(488) MPDZ_S(790) MPDZ_S(802),1.0,0.5,4,1,6,1.0,0.03507556086182394,0.39792551407577664

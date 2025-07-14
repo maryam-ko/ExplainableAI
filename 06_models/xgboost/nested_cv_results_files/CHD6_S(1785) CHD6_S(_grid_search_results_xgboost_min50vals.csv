@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CHD6_S(1785) CHD6_S(21) CHD6_S(24) CHD6_S(2402) CHD6_S(2560) CHD6_S(27) CHD6_S(36) CHD6_S(41) CHD6_S(85) CHD6_T(1339) CHD6_T(1852) CHD6_T(42) CHD6_T(737),0.8,0.5,2,1,6,0.6,0.016518815957897764,0.13587352968355418

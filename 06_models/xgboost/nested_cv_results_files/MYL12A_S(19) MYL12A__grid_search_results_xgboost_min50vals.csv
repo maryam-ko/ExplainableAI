@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYL12A_S(19) MYL12A_S(25) MYL12A_T(24),0.6,0.5,1,1,2,1.0,0.014143501143186068,-0.003711777430873342

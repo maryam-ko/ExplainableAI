@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFS_S(129) EFS_S(287) EFS_S(295) EFS_S(298) EFS_S(319) EFS_S(331),0.6,0.5,1,1,2,0.6,0.011770482440095867,-0.0034969525092322764

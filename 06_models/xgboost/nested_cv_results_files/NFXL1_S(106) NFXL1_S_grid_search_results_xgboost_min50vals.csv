@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NFXL1_S(106) NFXL1_S(109) NFXL1_S(47) NFXL1_S(63) NFXL1_S(659) NFXL1_S(835),1.0,0.5,1,1,8,0.8,0.012513955436358902,0.11452604478570608

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GAS2L3_S(321) GAS2L3_S(418) GAS2L3_S(438) GAS2L3_S(555) GAS2L3_S(660) GAS2L3_S(661) GAS2L3_T(416),0.8,0.5,2,1,8,0.8,0.012814389227233642,0.17683908141915525

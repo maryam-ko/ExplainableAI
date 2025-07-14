@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFCAB7_S(200) EFCAB7_S(21) EFCAB7_S(212),0.6,0.5,4,1,8,1.0,0.018186224556354432,0.2950238517192467

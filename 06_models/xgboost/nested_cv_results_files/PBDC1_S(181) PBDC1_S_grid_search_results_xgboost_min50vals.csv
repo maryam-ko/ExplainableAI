@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PBDC1_S(181) PBDC1_S(197),0.6,0.5,4,1,6,1.0,0.055043670386266105,0.32843440689390807

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCDC2_S(270) DCDC2_S(300) DCDC2_T(303),1.0,0.5,3,1,8,0.6,0.02546453387579527,0.02023892358164381

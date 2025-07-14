@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GIGYF1_S(14) GIGYF1_S(17) GIGYF1_S(3) GIGYF1_S(370) GIGYF1_S(538) GIGYF1_S(546) GIGYF1_S(636) GIGYF1_T(595),1.0,0.5,4,1,8,1.0,0.02723198737460102,0.418839364654222

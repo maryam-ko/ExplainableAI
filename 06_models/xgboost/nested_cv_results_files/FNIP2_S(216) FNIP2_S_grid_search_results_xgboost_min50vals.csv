@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FNIP2_S(216) FNIP2_S(723) FNIP2_S(726) FNIP2_S(778) FNIP2_T(222),1.0,0.5,2,1,8,1.0,0.007713390864476091,0.2862263329483882

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+COG5_S(11) COG5_S(13) COG5_S(18) COG5_S(197),0.6,0.5,4,5,8,1.0,0.03449029438017543,0.30917573883829946

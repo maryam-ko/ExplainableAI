@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GPSM3_S(35) GPSM3_S(39) GPSM3_S(56) GPSM3_S(59),0.8,0.5,4,5,8,1.0,0.03734580632618516,0.4321732923036919

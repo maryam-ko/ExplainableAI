@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PABIR1_S(140) PABIR1_S(144) PABIR1_S(193) PABIR1_S(197) PABIR1_S(417) PABIR1_S(45) PABIR1_S(59) PABIR1_S(73) PABIR1_T(16),1.0,0.5,2,1,8,0.6,0.021959011685967852,0.004215421531790798

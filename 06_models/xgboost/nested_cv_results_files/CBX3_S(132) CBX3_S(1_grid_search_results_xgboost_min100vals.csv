@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CBX3_S(132) CBX3_S(145) CBX3_S(171) CBX3_S(176) CBX3_S(3) CBX3_S(85) CBX3_S(90) CBX3_S(93) CBX3_S(95) CBX3_S(97) CBX3_S(99) CBX3_T(173),0.8,0.5,4,10,8,1.0,0.051286782583087914,0.4527515958695349

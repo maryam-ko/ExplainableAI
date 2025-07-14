@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDS2_S(23) CDS2_S(37) CDS2_T(51),1.0,0.5,3,1,8,1.0,0.023339009509492976,0.27825057618683574

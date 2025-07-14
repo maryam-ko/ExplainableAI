@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OTUB1_S(16) OTUB1_S(31) OTUB1_S(55) OTUB1_S(78),0.8,0.5,4,1,8,1.0,0.03595159813481815,0.22855292020161952

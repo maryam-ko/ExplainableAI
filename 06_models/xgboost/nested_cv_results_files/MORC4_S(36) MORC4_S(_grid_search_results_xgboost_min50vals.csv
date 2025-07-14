@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MORC4_S(36) MORC4_S(480) MORC4_S(620) MORC4_T(508) MORC4_T(621),1.0,0.5,4,1,8,0.8,0.012425704726631258,0.42742705686085775

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DHX8_M(460) DHX8_S(129) DHX8_S(456) DHX8_S(513),0.6,0.5,2,1,8,1.0,0.0072428124732967355,0.2543764032734641

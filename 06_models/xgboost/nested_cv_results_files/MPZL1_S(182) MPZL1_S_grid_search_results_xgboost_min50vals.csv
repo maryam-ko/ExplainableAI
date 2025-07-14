@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MPZL1_S(182) MPZL1_S(193) MPZL1_S(195) MPZL1_S(204) MPZL1_S(206) MPZL1_S(208) MPZL1_S(218) MPZL1_S(229) MPZL1_S(234) MPZL1_S(260) MPZL1_T(205) MPZL1_Y(257),1.0,0.5,2,1,4,1.0,0.028150376983517623,0.12180058733126824

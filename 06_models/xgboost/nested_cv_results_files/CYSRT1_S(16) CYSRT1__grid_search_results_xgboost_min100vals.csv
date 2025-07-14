@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYSRT1_S(16) CYSRT1_S(9) CYSRT1_Y(12),0.6,0.5,3,1,2,1.0,0.021730608120511603,0.02986640054670231

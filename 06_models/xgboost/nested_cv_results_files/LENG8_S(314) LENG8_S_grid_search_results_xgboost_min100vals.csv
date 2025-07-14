@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LENG8_S(314) LENG8_S(351) LENG8_S(360) LENG8_T(307),0.6,0.5,3,5,8,1.0,0.024857134830603374,0.5324730895923568

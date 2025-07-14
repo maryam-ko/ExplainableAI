@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C2CD2_S(286) C2CD2_S(356) C2CD2_S(433) C2CD2_S(435) C2CD2_S(441) C2CD2_S(492) C2CD2_S(494) C2CD2_S(510) C2CD2_S(511) C2CD2_S(581) C2CD2_S(649) C2CD2_T(445),0.6,0.5,4,1,8,0.8,0.02732982288353569,0.287264612515613

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EFCAB13_S(426) EFCAB13_Y(345) EFCAB13_Y(346),0.6,0.5,1,1,4,0.6,0.00313270087992635,-0.02096459678439926

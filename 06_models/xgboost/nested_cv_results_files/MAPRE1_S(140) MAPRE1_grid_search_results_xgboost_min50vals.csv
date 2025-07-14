@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPRE1_S(140) MAPRE1_S(157) MAPRE1_T(8),0.6,0.5,2,1,8,1.0,0.007143179635665368,0.3617718872289503

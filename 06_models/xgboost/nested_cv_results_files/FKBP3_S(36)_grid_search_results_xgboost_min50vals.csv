@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FKBP3_S(36),0.6,0.5,4,1,8,1.0,0.04601733938493736,0.5015141210215834

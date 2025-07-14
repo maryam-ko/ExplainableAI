@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPAT_M(207) NPAT_S(206) NPAT_S(352) NPAT_S(659) NPAT_T(1270) NPAT_T(1356),0.8,0.5,2,1,8,0.8,0.00641847812179519,0.3248821821496299

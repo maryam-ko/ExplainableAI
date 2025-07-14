@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DYRK2_S(25) DYRK2_S(48),1.0,0.5,3,1,8,0.6,0.025252085224801712,0.20870541340025195

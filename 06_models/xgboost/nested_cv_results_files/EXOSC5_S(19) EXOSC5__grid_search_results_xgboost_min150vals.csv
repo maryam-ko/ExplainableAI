@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EXOSC5_S(19) EXOSC5_S(20) EXOSC5_T(17),0.6,0.5,4,1,8,1.0,0.031148922343768273,0.23581138611504296

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MAPRE3_S(161) MAPRE3_S(162) MAPRE3_T(149) MAPRE3_T(160) MAPRE3_T(161) MAPRE3_T(164),0.8,0.5,4,1,8,0.8,0.04668001564735919,0.1357881582674622

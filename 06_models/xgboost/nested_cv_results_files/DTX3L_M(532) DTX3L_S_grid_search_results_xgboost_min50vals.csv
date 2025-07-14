@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DTX3L_M(532) DTX3L_S(205) DTX3L_S(3) DTX3L_S(547) DTX3L_T(526),0.8,0.5,4,1,8,1.0,0.010738247803025791,0.14222205305657346

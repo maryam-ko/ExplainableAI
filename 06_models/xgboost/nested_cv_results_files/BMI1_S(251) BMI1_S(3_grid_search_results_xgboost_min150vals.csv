@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+BMI1_S(251) BMI1_S(394) BMI1_S(396) BMI1_S(398),0.8,0.5,4,1,8,1.0,0.022458196517007707,0.6236937409066764

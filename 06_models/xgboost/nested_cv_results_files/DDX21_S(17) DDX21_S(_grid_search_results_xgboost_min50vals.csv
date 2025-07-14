@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DDX21_S(17) DDX21_S(458) DDX21_S(597) DDX21_S(69) DDX21_S(751) DDX21_S(778) DDX21_T(17) DDX21_Y(541),0.6,0.5,2,1,8,0.8,0.0077722860590795795,0.24464656672864224

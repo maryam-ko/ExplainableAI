@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+KLC1_S(1) KLC1_S(162) KLC1_S(460) KLC1_S(521) KLC1_S(524),0.8,0.5,4,1,8,1.0,0.028821536657371836,0.768161046103478

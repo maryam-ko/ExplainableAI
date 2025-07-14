@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MFAP1_S(116) MFAP1_S(118) MFAP1_S(132) MFAP1_S(133) MFAP1_S(258) MFAP1_S(30) MFAP1_S(432) MFAP1_S(52) MFAP1_S(53) MFAP1_S(94) MFAP1_T(267) MFAP1_Y(276) MFAP1_Y(356),0.6,0.5,4,5,6,1.0,0.05517314762445973,0.4106596096206639

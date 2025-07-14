@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+G6PD_S(73) G6PD_S(8) G6PD_S(84) G6PD_T(10) G6PD_T(13) G6PD_T(40) G6PD_T(402) G6PD_T(506) G6PD_Y(401) G6PD_Y(431) G6PD_Y(503) G6PD_Y(507) G6PD_Y(537),1.0,0.5,3,5,6,1.0,0.029752938960342055,0.22226891267063342

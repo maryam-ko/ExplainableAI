@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSS_C(415) GSS_S(10) GSS_S(37) GSS_S(48) GSS_S(67),1.0,0.5,3,1,8,1.0,0.017713958794938794,0.39328109151619717

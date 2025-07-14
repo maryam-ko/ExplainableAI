@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CYTIP_S(64) CYTIP_S(65) CYTIP_S(66) CYTIP_T(278),0.6,0.5,4,1,8,1.0,0.020524092898261456,0.3757652987953608

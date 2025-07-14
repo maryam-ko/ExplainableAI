@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CAD_S(1044) CAD_S(1112) CAD_S(1343) CAD_S(138) CAD_S(1406) CAD_S(1407) CAD_S(5) CAD_S(975) CAD_T(1831) CAD_T(1888),1.0,0.5,4,1,8,1.0,0.025268603438206878,0.2666029036195372

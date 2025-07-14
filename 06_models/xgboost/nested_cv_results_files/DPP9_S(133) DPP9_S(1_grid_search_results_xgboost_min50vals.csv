@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DPP9_S(133) DPP9_S(173) DPP9_T(6),1.0,0.5,3,1,8,0.8,0.00766425967636431,0.4597363247305388

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NAA15_S(302) NAA15_S(588) NAA15_T(584) NAA15_Y(280),1.0,0.5,4,5,6,1.0,0.031613204121513,0.38270796332663365

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAK1IP1_S(310) PAK1IP1_S(320) PAK1IP1_S(369),0.6,0.5,4,5,8,1.0,0.035183179892190865,0.5014118588241517

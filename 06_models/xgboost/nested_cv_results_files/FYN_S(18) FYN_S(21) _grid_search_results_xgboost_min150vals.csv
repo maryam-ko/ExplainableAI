@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FYN_S(18) FYN_S(21) FYN_S(25) FYN_S(26) FYN_Y(419) FYN_Y(420) FYN_Y(426) FYN_Y(531) FYN_Y(537),0.8,0.5,4,5,8,1.0,0.020199047863985454,0.6668223165401387

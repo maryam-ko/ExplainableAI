@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DNAJC2_S(3) DNAJC2_S(38) DNAJC2_S(44) DNAJC2_S(564) DNAJC2_S(60) DNAJC2_S(617) DNAJC2_S(63) DNAJC2_T(486) DNAJC2_T(520),0.8,0.5,4,5,8,1.0,0.030197256207053408,0.6461883891270976

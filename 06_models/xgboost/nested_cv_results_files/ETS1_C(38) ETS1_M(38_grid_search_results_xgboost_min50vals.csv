@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ETS1_C(38) ETS1_M(38) ETS1_S(251) ETS1_S(26) ETS1_S(261) ETS1_S(267) ETS1_S(282) ETS1_S(285) ETS1_S(72) ETS1_T(38) ETS1_Y(283),0.8,0.5,2,1,4,1.0,0.023777312084949553,0.2816976214019341

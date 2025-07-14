@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HAPSTR1_C(266) HAPSTR1_S(119) HAPSTR1_S(167) HAPSTR1_S(212) HAPSTR1_S(266),0.8,0.5,4,10,8,1.0,0.027791016356194118,0.38002337699010813

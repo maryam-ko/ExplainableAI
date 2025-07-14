@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CLUAP1_S(208) CLUAP1_S(409) CLUAP1_S(428),0.8,0.5,3,1,8,1.0,0.019192517704751427,0.6497211090171296

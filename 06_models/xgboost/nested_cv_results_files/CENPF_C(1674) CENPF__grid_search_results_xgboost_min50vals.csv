@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CENPF_C(1674) CENPF_S(1766) CENPF_S(2144) CENPF_S(274) CENPF_S(2898) CENPF_S(2922) CENPF_S(3012) CENPF_S(3025) CENPF_S(3068) CENPF_T(1777),0.6,0.5,1,1,6,0.8,0.002556987491641436,-0.0007987326340076706

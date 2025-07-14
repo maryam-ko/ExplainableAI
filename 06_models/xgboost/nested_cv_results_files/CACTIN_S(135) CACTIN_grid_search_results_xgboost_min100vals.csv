@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CACTIN_S(135) CACTIN_S(489) CACTIN_S(57) CACTIN_S(59),0.6,0.5,3,5,8,1.0,0.02387182385329611,0.252201929082749

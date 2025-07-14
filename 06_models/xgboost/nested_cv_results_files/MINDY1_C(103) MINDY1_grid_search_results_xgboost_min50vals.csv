@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MINDY1_C(103) MINDY1_S(103) MINDY1_S(151) MINDY1_S(299) MINDY1_S(3) MINDY1_S(441) MINDY1_S(5),0.6,0.5,3,1,6,0.8,0.030856727219498815,0.24767660311910902

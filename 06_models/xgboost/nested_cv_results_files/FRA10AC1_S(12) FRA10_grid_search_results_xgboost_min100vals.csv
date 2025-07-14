@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FRA10AC1_S(12) FRA10AC1_S(251) FRA10AC1_S(252) FRA10AC1_S(273) FRA10AC1_S(276) FRA10AC1_S(278) FRA10AC1_S(283) FRA10AC1_S(285) FRA10AC1_S(301) FRA10AC1_S(9),1.0,0.5,4,1,8,1.0,0.03550581885254139,0.2895960286895094

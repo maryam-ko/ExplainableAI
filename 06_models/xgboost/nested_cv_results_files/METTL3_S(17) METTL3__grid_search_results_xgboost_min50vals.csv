@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+METTL3_S(17) METTL3_S(2) METTL3_S(219) METTL3_S(30) METTL3_S(344) METTL3_S(36) METTL3_S(67) METTL3_S(77) METTL3_T(348),1.0,0.5,4,1,4,1.0,0.018861305462788386,0.21346945741889237

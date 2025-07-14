@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NPLOC4_S(107) NPLOC4_S(358) NPLOC4_S(63),0.6,0.5,1,1,2,0.6,0.01181698577296251,-0.002559009299654402

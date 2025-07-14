@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CGAS_S(116) CGAS_S(13) CGAS_S(143) CGAS_S(305) CGAS_S(376) CGAS_S(378) CGAS_S(621) CGAS_S(64) CGAS_T(68),0.8,0.5,3,10,8,1.0,0.013147675532968712,0.3764735984577364

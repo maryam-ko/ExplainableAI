@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C19orf47_C(124) C19orf47_C(126) C19orf47_M(151) C19orf47_S(10) C19orf47_S(105) C19orf47_S(120) C19orf47_S(124) C19orf47_S(126) C19orf47_S(146) C19orf47_S(151) C19orf47_S(2) C19orf47_S(239) C19orf47_S(280) C19orf47_S(304) C19orf47_S(306) C19orf47_S(397) C19orf47_S(84) C19orf47_S(87) C19orf47_T(14) C19orf47_T(155),1.0,0.5,4,5,8,1.0,0.032093499329864036,0.5951000825161568

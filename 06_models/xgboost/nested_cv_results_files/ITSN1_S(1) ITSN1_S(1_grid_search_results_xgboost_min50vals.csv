@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ITSN1_S(1) ITSN1_S(1095) ITSN1_S(1137) ITSN1_S(208) ITSN1_S(3) ITSN1_S(313) ITSN1_S(897) ITSN1_S(899) ITSN1_S(901) ITSN1_S(904) ITSN1_S(936) ITSN1_S(975) ITSN1_T(1142) ITSN1_T(1146) ITSN1_Y(1012),0.8,0.5,4,10,8,0.8,0.03245702194676399,0.2899645396122207

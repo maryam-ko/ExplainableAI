@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH4_S(1261) MYH4_T(758),1.0,0.5,4,1,8,1.0,0.034678048267347966,0.1363088026256233

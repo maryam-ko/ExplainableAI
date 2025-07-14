@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MTMR6_S(556),1.0,0.5,2,1,8,0.8,0.011054182310287635,0.44946053702688465

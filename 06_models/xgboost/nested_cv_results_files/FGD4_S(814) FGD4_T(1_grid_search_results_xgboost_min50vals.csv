@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FGD4_S(814) FGD4_T(158) FGD4_T(52) FGD4_Y(36),0.6,0.5,1,1,6,0.6,0.018805110066192437,-0.00964549171948308

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CPNE1_C(55) CPNE1_S(51) CPNE1_S(55) CPNE1_S(60),1.0,0.5,3,5,8,1.0,0.028293782886279623,0.2800695672479916

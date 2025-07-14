@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CTU2_M(419) CTU2_S(332) CTU2_S(419) CTU2_S(435) CTU2_S(501) CTU2_S(508) CTU2_S(579) CTU2_T(428) CTU2_T(434),1.0,0.5,4,5,8,1.0,0.026579043474753046,0.6448653743980768

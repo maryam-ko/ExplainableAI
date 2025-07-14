@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GSPT1_S(16) GSPT1_S(173) GSPT1_S(174) GSPT1_S(184) GSPT1_S(199) GSPT1_S(20) GSPT1_S(200),0.8,0.5,1,10,6,0.8,0.01067834619257524,0.20791963204299

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCDC50_S(143) CCDC50_S(161) CCDC50_S(5) CCDC50_S(9) CCDC50_T(162) CCDC50_T(283) CCDC50_Y(144) CCDC50_Y(145),0.8,0.5,4,1,4,1.0,0.018428739128646978,0.3171010944902066

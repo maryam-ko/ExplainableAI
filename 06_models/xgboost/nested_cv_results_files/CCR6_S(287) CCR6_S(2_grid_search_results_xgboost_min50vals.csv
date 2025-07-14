@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CCR6_S(287) CCR6_S(290) CCR6_S(371),0.6,0.5,1,1,6,0.6,0.009507451723814555,-0.0031534092657914846

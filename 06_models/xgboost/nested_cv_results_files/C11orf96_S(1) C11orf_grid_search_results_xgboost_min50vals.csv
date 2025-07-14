@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C11orf96_S(1) C11orf96_S(112) C11orf96_S(210) C11orf96_S(385) C11orf96_S(399) C11orf96_S(4) C11orf96_S(406) C11orf96_S(421) C11orf96_S(425) C11orf96_S(431) C11orf96_S(433) C11orf96_S(86) C11orf96_S(93) C11orf96_T(368) C11orf96_T(372) C11orf96_T(55),1.0,0.5,4,5,8,1.0,0.05630504284645408,0.23052504715064764

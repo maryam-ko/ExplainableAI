@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+HSP90AB3P_S(226) HSP90AB3P_S(3) HSP90AB3P_S(521) HSP90AB3P_S(532) HSP90AB3P_S(718),0.6,0.5,4,1,8,1.0,0.0245490510597577,0.39204095280807477

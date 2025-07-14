@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FARSA_S(184) FARSA_S(193) FARSA_S(301) FARSA_S(490) FARSA_T(299),1.0,0.5,4,1,8,0.8,0.020120518714199096,0.38351247785703657

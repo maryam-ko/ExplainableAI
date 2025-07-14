@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PHTF2_S(279) PHTF2_S(331) PHTF2_S(335) PHTF2_S(336),0.6,0.5,1,1,8,1.0,0.010033686081416086,0.14495320488615906

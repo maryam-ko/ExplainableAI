@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDYL2_S(275) CDYL2_S(81) CDYL2_S(85) CDYL2_T(140) CDYL2_Y(61),1.0,0.5,4,1,8,0.8,0.023915157539067696,0.38167817764265044

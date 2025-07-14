@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MCRS1_S(269) MCRS1_S(282) MCRS1_S(291) MCRS1_S(72) MCRS1_S(95) MCRS1_T(90),1.0,0.5,4,5,8,0.8,0.032433827290034196,0.7139355380596566

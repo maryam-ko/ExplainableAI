@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CD5_S(482) CD5_S(483) CD5_T(436),1.0,0.5,3,1,6,1.0,0.015363207210989542,0.5727815569188228

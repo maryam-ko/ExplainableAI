@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+IL16_S(1320) IL16_S(226) IL16_S(683) IL16_S(835) IL16_S(946) IL16_S(952) IL16_S(966),1.0,0.5,2,1,2,1.0,0.016237172541190708,0.08477095829168543

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DFFA_S(107) DFFA_S(110) DFFA_S(2) DFFA_S(257) DFFA_S(28) DFFA_S(302) DFFA_S(310) DFFA_S(312) DFFA_S(315),1.0,0.5,4,5,8,1.0,0.030196486378506377,0.7674841959412173

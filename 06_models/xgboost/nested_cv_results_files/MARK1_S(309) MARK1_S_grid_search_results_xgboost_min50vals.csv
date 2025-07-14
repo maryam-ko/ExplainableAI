@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MARK1_S(309) MARK1_S(423) MARK1_S(46) MARK1_S(556) MARK1_S(588) MARK1_S(612) MARK1_S(633) MARK1_S(9) MARK1_T(211) MARK1_T(3) MARK1_T(648) MARK1_Y(492),0.6,0.5,2,1,8,1.0,0.021019008600886686,0.03366401852466354

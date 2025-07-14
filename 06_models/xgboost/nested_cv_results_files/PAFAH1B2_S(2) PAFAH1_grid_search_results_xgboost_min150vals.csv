@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAFAH1B2_S(2) PAFAH1B2_S(48) PAFAH1B2_S(64) PAFAH1B2_T(220),1.0,0.5,4,5,8,1.0,0.022260252850123268,0.7337483088959365

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+FYB1_S(179) FYB1_S(209) FYB1_S(222) FYB1_S(225) FYB1_S(329) FYB1_S(457) FYB1_S(46) FYB1_S(556) FYB1_S(558) FYB1_S(573) FYB1_T(158) FYB1_Y(571),0.8,0.5,3,1,8,1.0,0.029711366720926797,0.0091524406755368

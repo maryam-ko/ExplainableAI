@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MACIR_S(10) MACIR_S(132) MACIR_S(140) MACIR_S(167) MACIR_S(42),0.8,0.5,4,5,8,1.0,0.026333843914214648,0.43587496928453584

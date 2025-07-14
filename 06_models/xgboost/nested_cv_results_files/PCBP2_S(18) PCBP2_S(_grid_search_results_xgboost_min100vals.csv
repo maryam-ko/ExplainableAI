@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PCBP2_S(18) PCBP2_S(184) PCBP2_S(185) PCBP2_S(187) PCBP2_S(189) PCBP2_S(272) PCBP2_S(365) PCBP2_T(10) PCBP2_Y(13),0.6,0.5,4,1,8,1.0,0.058978425934613506,0.6562838371270876

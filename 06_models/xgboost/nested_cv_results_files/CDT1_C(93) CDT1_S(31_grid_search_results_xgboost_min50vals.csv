@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDT1_C(93) CDT1_S(316) CDT1_S(386) CDT1_S(391) CDT1_S(491) CDT1_S(73) CDT1_S(93) CDT1_T(402) CDT1_T(406) CDT1_T(82),0.6,0.5,2,1,6,0.8,0.013755326652153782,0.17934386103540495

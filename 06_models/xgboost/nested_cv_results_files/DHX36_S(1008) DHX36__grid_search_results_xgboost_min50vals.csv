@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DHX36_S(1008) DHX36_S(101) DHX36_S(283) DHX36_S(963),1.0,0.5,2,1,8,0.6,0.00988552270478515,0.16549885080605403

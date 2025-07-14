@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CRACDL_S(155) CRACDL_S(51) CRACDL_S(651) CRACDL_S(653) CRACDL_S(687) CRACDL_S(692) CRACDL_S(934) CRACDL_T(772),1.0,0.5,1,1,8,0.6,0.023102126590711154,0.004327506612561649

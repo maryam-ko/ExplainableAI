@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NSL1_S(4) NSL1_T(242),0.8,0.5,4,10,8,1.0,0.030930719604063857,0.5694079566008435

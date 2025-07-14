@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GRK2_S(38) GRK2_S(669) GRK2_S(670) GRK2_S(676) GRK2_S(685),1.0,0.5,4,10,8,1.0,0.042344890312788444,0.5594044712328232

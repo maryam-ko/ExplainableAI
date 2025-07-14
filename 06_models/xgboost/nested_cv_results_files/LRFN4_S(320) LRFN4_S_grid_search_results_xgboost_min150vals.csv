@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LRFN4_S(320) LRFN4_S(565) LRFN4_S(575) LRFN4_S(583) LRFN4_S(585) LRFN4_S(610) LRFN4_S(626) LRFN4_S(732),0.8,0.5,4,5,8,1.0,0.02719602752060236,0.3414825842360878

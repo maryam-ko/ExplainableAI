@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+ILRUN_S(215) ILRUN_S(222) ILRUN_S(232) ILRUN_S(272) ILRUN_S(298),0.6,0.5,3,1,8,1.0,0.03663888500884308,0.26900589529320784

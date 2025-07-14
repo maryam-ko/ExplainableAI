@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+EMG1_S(5) EMG1_Y(61),0.8,0.5,3,5,4,1.0,0.019754121502875564,0.2934440233195586

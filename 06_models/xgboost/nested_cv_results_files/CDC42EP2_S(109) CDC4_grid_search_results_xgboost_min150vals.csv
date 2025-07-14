@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC42EP2_S(109) CDC42EP2_S(141),1.0,0.5,4,1,8,1.0,0.025367077554544582,0.5949568321323644

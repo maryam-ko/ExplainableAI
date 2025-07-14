@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CKAP5_S(1469) CKAP5_S(1801) CKAP5_S(1861) CKAP5_S(1983) CKAP5_S(26) CKAP5_S(816) CKAP5_S(845) CKAP5_T(832),0.8,0.5,3,1,8,1.0,0.019959571178194434,0.484338756835969

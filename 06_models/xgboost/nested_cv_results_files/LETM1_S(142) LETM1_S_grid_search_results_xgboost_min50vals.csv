@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+LETM1_S(142) LETM1_S(190) LETM1_S(435) LETM1_S(605) LETM1_T(609) LETM1_Y(141),0.6,0.5,1,1,6,0.6,0.010283743799503545,-0.007238421079715262

@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CWF19L2_S(372) CWF19L2_S(454) CWF19L2_S(473) CWF19L2_S(475) CWF19L2_S(71) CWF19L2_T(562),1.0,0.5,3,10,8,0.8,0.011285690132586736,0.14419919275842438

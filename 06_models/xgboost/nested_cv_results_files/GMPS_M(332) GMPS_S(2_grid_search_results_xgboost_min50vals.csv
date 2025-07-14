@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GMPS_M(332) GMPS_S(233) GMPS_S(282) GMPS_S(325) GMPS_S(7) GMPS_S(8) GMPS_T(318) GMPS_T(325) GMPS_T(330) GMPS_T(331),1.0,0.5,4,1,8,0.8,0.03374371591876618,0.11079276022083077

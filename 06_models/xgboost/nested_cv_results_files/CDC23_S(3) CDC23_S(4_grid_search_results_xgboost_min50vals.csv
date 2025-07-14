@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+CDC23_S(3) CDC23_S(470) CDC23_S(576) CDC23_S(578) CDC23_S(585) CDC23_S(588) CDC23_S(593) CDC23_S(594) CDC23_T(478) CDC23_T(542) CDC23_T(562) CDC23_T(582) CDC23_T(596),0.6,0.5,4,10,8,1.0,0.04251621631306965,0.4724929520787649

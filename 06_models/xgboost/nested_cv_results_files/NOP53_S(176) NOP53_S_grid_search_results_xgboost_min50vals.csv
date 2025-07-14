@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+NOP53_S(176) NOP53_S(29) NOP53_S(74) NOP53_S(85) NOP53_T(91),0.6,0.5,1,1,8,0.8,0.010079415210745008,-0.005172147985630371

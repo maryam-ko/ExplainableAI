@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYO7B_S(1948) MYO7B_S(1952) MYO7B_S(934) MYO7B_T(420),0.8,0.5,3,1,6,0.6,0.0100070382314195,0.42912989646629474

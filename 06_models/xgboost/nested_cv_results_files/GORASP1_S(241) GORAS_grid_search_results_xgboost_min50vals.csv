@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GORASP1_S(241) GORASP1_S(86) GORASP1_T(143) GORASP1_T(211) GORASP1_T(216) GORASP1_T(237) GORASP1_T(82),0.6,0.5,3,10,6,1.0,0.030997850077286546,0.1611716432518033

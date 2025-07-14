@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+GOPC_S(151) GOPC_S(268) GOPC_S(280) GOPC_S(439) GOPC_S(86) GOPC_Y(386) GOPC_Y(449) GOPC_Y(457),0.6,0.5,1,1,2,0.6,0.012816995037639837,-0.008099499109764397

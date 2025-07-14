@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PAK4_C(277) PAK4_S(104) PAK4_S(177) PAK4_S(181) PAK4_S(195) PAK4_S(276) PAK4_S(3) PAK4_S(474) PAK4_S(99) PAK4_T(198) PAK4_T(203) PAK4_T(207) PAK4_T(478) PAK4_T(482) PAK4_Y(208),0.6,0.5,4,1,8,1.0,0.04511934569795603,0.6834504276797528

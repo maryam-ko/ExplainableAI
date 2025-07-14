@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+DCP1A_S(180) DCP1A_S(226) DCP1A_S(277) DCP1A_S(364) DCP1A_S(367) DCP1A_S(373) DCP1A_S(420) DCP1A_S(422) DCP1A_S(487) DCP1A_S(60) DCP1A_T(399) DCP1A_T(430) DCP1A_T(493),1.0,0.5,2,10,8,1.0,0.028445421997494516,0.28152188151842755

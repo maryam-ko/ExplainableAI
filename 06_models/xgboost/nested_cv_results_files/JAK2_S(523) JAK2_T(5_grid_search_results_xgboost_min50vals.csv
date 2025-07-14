@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+JAK2_S(523) JAK2_T(525),0.6,0.5,2,1,4,0.8,0.012861683738092324,0.22865192607030965

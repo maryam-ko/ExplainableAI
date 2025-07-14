@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MKNK2_S(2) MKNK2_S(220) MKNK2_S(4) MKNK2_S(437) MKNK2_S(452) MKNK2_S(5) MKNK2_S(74),0.8,0.5,4,1,8,1.0,0.0396648760153571,0.6241106737403032

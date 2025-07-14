@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+OFD1_M(774) OFD1_S(1011) OFD1_S(354) OFD1_S(663) OFD1_S(668) OFD1_S(723) OFD1_S(737) OFD1_S(827) OFD1_S(830) OFD1_S(943) OFD1_S(954) OFD1_S(973) OFD1_S(986) OFD1_T(718) OFD1_T(735) OFD1_T(737),0.8,0.5,4,1,6,1.0,0.01441080712331659,0.4635286267444038

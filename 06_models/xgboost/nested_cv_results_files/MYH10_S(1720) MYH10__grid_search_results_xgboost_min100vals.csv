@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+MYH10_S(1720) MYH10_S(1730) MYH10_S(1956) MYH10_T(1970) MYH10_Y(13),0.8,0.5,4,1,8,1.0,0.04803142656949076,0.6721700999916143

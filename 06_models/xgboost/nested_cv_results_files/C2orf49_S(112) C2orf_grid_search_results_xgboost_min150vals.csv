@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+C2orf49_S(112) C2orf49_S(143) C2orf49_S(147) C2orf49_S(150) C2orf49_S(151) C2orf49_S(182) C2orf49_S(184) C2orf49_S(188) C2orf49_S(189) C2orf49_S(193) C2orf49_S(23) C2orf49_S(90) C2orf49_T(156) C2orf49_T(178) C2orf49_T(188) C2orf49_T(197) C2orf49_T(198) C2orf49_T(230),0.8,0.5,4,1,8,1.0,0.03506660048123587,0.6649500154672807

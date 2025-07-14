@@ -1,0 +1,2 @@
+TargetFeature,colsample_bytree,gamma,max_depth,min_child_weight,n_estimators,subsample,mean_mse,mean_r2
+PBRM1_S(1466) PBRM1_S(241) PBRM1_S(314) PBRM1_S(316) PBRM1_S(643) PBRM1_S(963) PBRM1_Y(1404),0.8,0.5,4,1,2,0.8,0.017637006816939735,0.0015447607864307767
