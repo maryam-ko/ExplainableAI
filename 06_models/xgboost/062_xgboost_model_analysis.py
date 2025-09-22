@@ -19,7 +19,7 @@ def parse_arguments():
     """Parse command line arguments for the script."""
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
-    parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
+    parser.add_argument('--base_dir', type=str, default='/Users/maryamkoddus/Downloads/ExplainableAI', help='Base directory for the project')
     parser.add_argument('--threshold', type=int, default=50, help='Threshold to compute')
 
     return parser.parse_args()
@@ -45,14 +45,14 @@ def create_master_results_file(threshold):
                                'min_child_weight', 'n_estimators', 'subsample', 'mean_mse', 
                                'mean_r2'])
     
-    for filename in os.listdir(f"/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_results_files"):
+    for filename in os.listdir(f"/Users/maryamkoddus/Downloads/ExplainableAI/06_models/xgboost/nested_cv_results_files"):
         if f"min{threshold}vals" in filename:
-            with open(f'/data/home/bt24990/ExplainableAI/06_models/xgboost/nested_cv_results_files/{filename}', 'r') as FILE:
+            with open(f'/Users/maryamkoddus/Downloads/ExplainableAI/06_models/xgboost/nested_cv_results_files/{filename}', 'r') as FILE:
                 current_file = pd.read_csv(FILE)
                 current_row = pd.DataFrame(current_file.loc[0]).T
                 df = pd.concat([df, current_row], ignore_index=True)
 
-    df.to_csv(f'/data/home/bt24990/ExplainableAI/06_models/xgboost/params/xgboost_nested_cv_master_results_file_min{threshold}vals.csv', index=False)
+    df.to_csv(f'/Users/maryamkoddus/Downloads/ExplainableAI/06_models/xgboost/params/xgboost_nested_cv_master_results_file_min{threshold}vals.csv', index=False)
     return df
 
 

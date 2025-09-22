@@ -1,6 +1,6 @@
 #!/bin/python
 
-# Run from command line:
+# Run from command line
 # python3 omnipath_evaluation.py --base_dir /path/to/project --network_name my_network --model_types linear_regression xgboost --thresholds 50 100
 # or just
 # python3 omnipath_evaluation.py 
@@ -11,7 +11,7 @@ start_time = time.time()
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.metrics import precision_recall_curve, auc, roc_auc_score
+from sklearn.metrics import precision_recall_curve, roc_curve, auc, roc_auc_score
 import os
 import argparse
 
@@ -34,14 +34,14 @@ def get_file_path(base_dir, network_name, model_type, threshold, file_type, int_
     if file_type == 'input_preds':
         if model_type == 'linear_regression':
             if network_name is None:
-                return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_Min{threshold}Vals.csv'
+                return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv'
             else:
                 return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_nested_cv_{network_name}_coefficients_protein_level_min{threshold}vals.csv'
         else:
             if network_name is None:
                 return f'{base_dir}/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_cluster_level_min{threshold}vals.csv'
             else:
-                return f'{base_dir}/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_protein_level_min{threshold}vals.csv'
+                return f'{base_dir}/06_models/{model_type}/master_shaps_files/{model_type}_master_shap_file_protein_level_min{threshold}vals_shap_r2.csv'
     elif file_type == 'csv_output':
         filename = f'omnipath_aucs_{int_type}'
         if network_name is not None:
@@ -56,8 +56,9 @@ def get_file_path(base_dir, network_name, model_type, threshold, file_type, int_
 
 def load_reference_data(base_dir):
     """Load and format the OmniPath reference dataset."""
-    df = pd.read_csv(f"{base_dir}/07_evaluation/omnipath_evaluation/omnipath_yeast_human_homologue_interactions.csv")
-    df = df[['yeast_source_gene_name', 'yeast_target_gene_name']]
+    df = pd.read_csv(f"{base_dir}/07_evaluation/omnipath_evaluation/omnipath_human_interactions.csv", sep='\t')
+    print(df.columns)
+    df = df[['source_gene_name', 'target_gene_name']]
     df.columns = ['PredictiveFeature', 'TargetFeature']
     print('Reference dataframe:', df)
     return df
@@ -70,16 +71,23 @@ def load_prediction_data(base_dir, network_name, model_type, threshold):
                               threshold=threshold,
                               file_type='input_preds', 
                               int_type=None)
+    print(f"Loading prediction data from: {file_path}")
     df = pd.read_csv(file_path, header=0)
     
     if model_type == 'linear_regression':
         df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
-        df['PredictiveFeature'] = df['Feature'].str.split('_').str[0]
-        df = df[['PredictiveFeature', 'TargetFeature', 'Coefficient']]
-        value_col = 'Coefficient'
+        df['PredictiveFeature'] = df['PredictiveFeature'].str.split('_').str[0]
+        df = df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']]
+        value_col = 'MedianCoeff'
     else:
-        df = df[['PredictiveFeature', 'TargetFeature', 'SHAPValue']]
-        value_col = 'SHAPValue'
+        if 'SHAPValue' in df.columns:
+            df = df[['PredictiveFeature', 'TargetFeature', 'SHAPValue']]
+            value_col = 'SHAPValue'
+        elif 'SHAP*R2' in df.columns:
+            df = df[['PredictiveFeature', 'TargetFeature', 'SHAP*R2']]
+            value_col = 'SHAP*R2'
+        else:
+            raise KeyError("No SHAPValue or SHAP*R2 column found in XGBoost predictions.")
     
     # Remove duplicates
     df.dropna(subset=[value_col], inplace=True)
@@ -232,9 +240,8 @@ def plot_aucs(auc_df, base_dir, network_name, int_type, title_suffix):
     axs[1].grid(True, linestyle='--', alpha=0.3)
     
     # Match y-axis limits
-    max_y = max(axs[0].get_ylim()[1], axs[1].get_ylim()[1])
-    axs[0].set_ylim(0, max_y)
-    axs[1].set_ylim(0, max_y)
+    axs[0].set_ylim(0, 0.005)  # <-- Change here for both PR and ROC if you want
+    axs[1].set_ylim(0, 1)      # ROC AUC can stay at 1
     
     plt.tight_layout()
     output_path = get_file_path(base_dir=base_dir, 
@@ -281,7 +288,104 @@ def filter_by_conservation(predictions_dict, filter_type, model_types, threshold
     
     return filtered_dict
 
+def filter_for_all_models_and_thresholds(predictions_dict, model_types, thresholds):
+    """
+    Retain only interactions that are found in all models at all thresholds.
+    
+    Inputs:
+    predictions_dict: Dictionary of predictions for each model and threshold.
+    model_types: List of model types.
+    thresholds: List of thresholds.
+    
+    Outputs:
+    filtered_df: Filtered df containing only interactions found in all models and thresholds.
+    """
 
+    # initialise empty variable to store interactions
+    common_interactions = None
+
+    for model in model_types:
+        for threshold in thresholds:
+            # Get the interactions for the current model and threshold
+            current_interactions = set(zip(
+                predictions_dict[model][threshold]['PredictiveFeature'],
+                predictions_dict[model][threshold]['TargetFeature'],
+                # predictions_dict[model][threshold]['NormalisedCoeffOrSHAP']
+            ))
+            print('current_interactions:', len(current_interactions))
+            
+            # Intersect with the existing common interactions
+            # Intersect with the existing common interactions
+            if common_interactions is None:
+                # Initialize with only Feature and TargetFeature
+                common_interactions = current_interactions
+            else:
+                # Intersect based only on Feature and TargetFeature
+                # common_interactions &= set((pf, tf) for pf, tf, _ in current_interactions)
+                common_interactions &= current_interactions
+
+            print('common_interactions:', len(common_interactions))
+    # Convert the common interactions back to a DataFrame
+    if common_interactions:
+        ref_df = predictions_dict[model_types[0]][thresholds[0]]
+        mask = ref_df[['PredictiveFeature', 'TargetFeature']].apply(tuple, axis=1).isin(common_interactions)
+        filtered_df = ref_df[mask].copy()
+    else:
+        filtered_df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])  # Empty DataFrame if no common interactions
+
+    return filtered_df
+
+def plot_aucs_ints_in_all_models_and_thresholds(auc_df, base_dir, network_name, int_type, title_suffix, y_max=1):
+    """Plot PR AUC and ROC AUC on a single graph for one model and one threshold.
+
+    Inputs:
+    auc_df: A 1-row df containing AUC scores for interactions in all models and thresholds.
+
+    Outputs:
+    A bar plot with two bars - one for PR AUC and one for ROC AUC.
+    """
+
+    # Extract PR AUC and ROC AUC values
+    pr_auc = auc_df['pr_auc'].iloc[0]
+    roc_auc = auc_df['roc_auc'].iloc[0]
+
+    # Bar settings
+    bar_labels = ['PR', 'ROC']
+    bar_values = [pr_auc, roc_auc]
+    bar_colors = ['#7985a5', '#f9993c']
+
+    # Create the plot
+    fig, ax = plt.subplots(figsize=(8, 6))
+    bars = ax.bar(bar_labels, bar_values, color=bar_colors, width=0.5)
+
+    # Add value labels on top of each bar
+    for bar in bars:
+        height = bar.get_height()
+        ax.annotate(f'{height:.2f}',
+                    xy=(bar.get_x() + bar.get_width() / 2, height),
+                    xytext=(0, 5),  # 5 points vertical offset
+                    textcoords="offset points",
+                    ha='center', va='bottom', fontsize=12)
+
+    # Format the plot
+    ax.set_ylim(0, y_max)
+    ax.set_ylabel('AUC Score', fontsize=14)
+    ax.set_xlabel('Classification evaluation metric', fontsize=14)
+    network_text = f"{network_name} protein" if network_name else "protein"
+    ax.set_title(f'AUC Scores for {network_text} {title_suffix}', fontsize=16)
+    ax.grid(True, linestyle='--', alpha=0.3)
+
+    # Save the plot
+    plt.tight_layout()
+    output_path = get_file_path(base_dir=base_dir, 
+                                network_name=network_name, 
+                                model_type=None, 
+                                threshold=None,
+                                file_type=None, 
+                                int_type=int_type)
+    plt.savefig(output_path)
+    plt.close()
+    
 # ----------------- #  
 
 if __name__ == '__main__':
@@ -315,7 +419,7 @@ if __name__ == '__main__':
         int_type='all_interactions',
         title_suffix='all interactions'
     )
-    # ----------------- #
+#     # ----------------- #
 
     print("Evaluating interactions conserved across models...")
     filtered_by_model = filter_by_conservation(preds_dict, 'model', args.model_types, args.thresholds)
@@ -363,4 +467,36 @@ if __name__ == '__main__':
         title_suffix='conserved interactions by thresholds'
     )
 
-    print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')
+# # ----------------- #
+
+    print("Evaluating interactions conserved across all models and thresholds...")
+    filtered_for_all_dict = {}
+    for model in args.model_types:
+        filtered_for_all_dict[model] = {}
+        for threshold in args.thresholds:
+            filtered_for_all_dict[model][threshold] = filter_for_all_models_and_thresholds(
+                preds_dict, [model], [threshold]
+            )
+
+    conserved_all_auc_results = calculate_aucs(
+        preds_dict=filtered_for_all_dict,
+        ref_dict=ref_dict,
+        value_cols=value_cols,
+        base_dir=args.base_dir,
+        network_name=args.network_name,
+        model_types=args.model_types, 
+        thresholds=args.thresholds,
+        int_type='conserved_by_all'
+    )
+
+    plot_aucs_ints_in_all_models_and_thresholds(
+        auc_df=conserved_all_auc_results, 
+        base_dir=args.base_dir, 
+        network_name=args.network_name,
+        int_type='conserved_by_all',
+        title_suffix='interactions\npredicted in all models and thresholds'
+        # title_suffix='\npredicted in all thresholds using Linear Regression'
+        # title_suffix='\npredicted in all thresholds using XGBoost'
+    )
+
+print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')

@@ -13,8 +13,8 @@ def parse_arguments():
     """Parse command line arguments for the script."""
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
-    parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
+    parser.add_argument('--base_dir', type=str, default='/Users/maryamkoddus/Downloads/ExplainableAI', help='Base directory for the project')
+    parser.add_argument('--threshold', type=int, default=50, help='Threshold to compute')
     parser.add_argument('--network_name', type=str, default='MAPKERK', help='Network name to compute')
 
     return parser.parse_args()

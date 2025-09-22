@@ -41,7 +41,7 @@ def parse_arguments():
     """Parse command line arguments for the script."""
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
-    parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
+    parser.add_argument('--base_dir', type=str, default='/Users/maryamkoddus/Downloads/ExplainableAI', help='Base directory for the project')
     parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
 
     return parser.parse_args()
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     print('Selecting MAPKERK proteins...')
     subset_filename = f"linear_regression_nested_cv_{network_name}_coefficients_protein_level_min{args.threshold}vals.csv"
     subset_df = pd.read_csv(f'{args.base_dir}/08_results/linear_regression/coefficients/{subset_filename}')
-    subset_df = subset_df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']]
+    subset_df = subset_df[['PredictiveFeature', 'TargetFeature', 'Coeff*R2']]
 
     plots.plot_LR_predicted_network(
         args.base_dir,

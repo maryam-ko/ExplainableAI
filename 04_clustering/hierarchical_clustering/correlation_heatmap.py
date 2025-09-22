@@ -44,26 +44,48 @@ def create_clustered_matrix(base_dir):
     print((corr_matrix == 0).all(axis=1).sum(), "rows are all zero")
     return corr_matrix
 
+import scipy.cluster.hierarchy as sch
 def plot_clustered_heatmap(base_dir, df, output_file, axis_labels=False):
     """Plot a clustered heatmap of the correlation matrix."""
+    
+    # Compute linkage for rows and columns
+    row_linkage = sch.linkage(df, method='complete')
+    col_linkage = sch.linkage(df.T, method='complete')
 
-    g = sns.clustermap(
-        df,
-        cmap='bwr',
-        figsize=(20, 20),
-        cbar_kws={"shrink": .8},
-        row_cluster=False,
-        col_cluster=False,
-        method='complete',
-        xticklabels=axis_labels,  # no labels
-        yticklabels=axis_labels   # no labels
-    )
+    # Get the order from dendrogram leaves
+    row_order = sch.leaves_list(row_linkage)
+    col_order = sch.leaves_list(col_linkage)
 
-    if axis_labels == True:
-        g.ax_heatmap.set_xticklabels(g.ax_heatmap.get_xticklabels(), rotation=90, fontsize=8)
-        g.ax_heatmap.set_yticklabels(g.ax_heatmap.get_yticklabels(), rotation=0, fontsize=8)
+    # Reorder the dataframe
+    clustered_df = df.iloc[row_order, col_order]
 
-    g.savefig(f'{base_dir}/04_clustering/hierarchical_clustering/{output_file}.png', dpi=300)
+    # Plot with seaborn heatmap (no dendrograms)
+    plt.figure(figsize=(20, 20))
+    ax = sns.heatmap(clustered_df, cmap='bwr', cbar_kws={"shrink": .8})
+    if axis_labels:
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=90, fontsize=8)
+        ax.set_yticklabels(ax.get_yticklabels(), rotation=0, fontsize=8)
+    plt.tight_layout()
+    plt.savefig(f'{base_dir}/04_clustering/hierarchical_clustering/{output_file}.png', dpi=300)
+    plt.close()
+
+    # g = sns.clustermap(
+    #     df,
+    #     cmap='bwr',
+    #     figsize=(20, 20),
+    #     cbar_kws={"shrink": .8},
+    #     row_cluster=True,   # Enable row dendrogram
+    #     col_cluster=True,   # Enable column dendrogram
+    #     method='complete',
+    #     xticklabels=axis_labels,
+    #     yticklabels=axis_labels
+    # )
+
+    # if axis_labels == True:
+    #     g.ax_heatmap.set_xticklabels(g.ax_heatmap.get_xticklabels(), rotation=90, fontsize=8)
+    #     g.ax_heatmap.set_yticklabels(g.ax_heatmap.get_yticklabels(), rotation=0, fontsize=8)
+
+    # g.savefig(f'{base_dir}/04_clustering/hierarchical_clustering/{output_file}.png', dpi=300)
 
 # def subset_corr_matrix_for_kinases_phosphatases(base_dir, df):
 #     """Subset the correlation matrix for kinases and phosphatases."""

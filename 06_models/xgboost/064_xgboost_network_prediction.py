@@ -29,7 +29,7 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=150, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
 
     return parser.parse_args()
 
@@ -44,7 +44,7 @@ def plot_XGB_predicted_network(base_dir, df, strong_percentile, medium_percentil
     selected_prots <tuple>: Proteins to highlight
     save_as_filename <str>: Output filename
     """
-    abs_shap = df['SHAPValue'].abs()
+    abs_shap = df['SHAP*R2']
     strong_boundary = np.percentile(abs_shap, 100 - strong_percentile)
     medium_boundary = np.percentile(abs_shap, 100 - medium_percentile)
     weak_boundary = np.percentile(abs_shap, 100 - weak_percentile)
@@ -53,7 +53,7 @@ def plot_XGB_predicted_network(base_dir, df, strong_percentile, medium_percentil
     for row in df.itertuples(index=False):
         PredictiveFeature = row.PredictiveFeature
         TargetFeature = row.TargetFeature
-        SHAPValue = row.SHAPValue
+        SHAPValue = row._2  # or row.SHAP_xR2 if you rename the column
 
         # Set default colors
         feature_color = '#a7b5e0'
@@ -168,12 +168,13 @@ if __name__ == "__main__":
     # ----------------- #
     
     print('Selecting MAPERK proteins...')
-    subset_filename = f"xgboost_master_shap_file_cluster_level_min{args.threshold}vals.csv"
+    subset_filename = f"xgboost_master_shap_files_cluster_level_min{args.threshold}vals_shap_r2_short.csv"
     df = pd.read_csv(f'{args.base_dir}/06_models/xgboost/master_shaps_files/{subset_filename}')
     df['TargetFeature'] = df['TargetFeature'].str.split('_').str[0]
     df['PredictiveFeature'] = df['PredictiveFeature'].str.split('_').str[0]
     print('Protein level xgboost predictions:', df)
     subset_df = df[df.apply(lambda row: row['PredictiveFeature'] in prots or row['TargetFeature'] in prots, axis=1)]
+    subset_df = subset_df[['PredictiveFeature', 'TargetFeature', 'SHAP*R2']]
     print('Subset xgboost predictions:', subset_df)
 
     plot_XGB_predicted_network(
@@ -184,7 +185,7 @@ if __name__ == "__main__":
         weak_percentile=5, 
         selected_prots=prots, 
         save_as_filename=f"xgboost_nested_cv_{network_name}_predicted_network_min{args.threshold}vals.html")
-    
+
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')
 
 

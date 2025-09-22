@@ -1,0 +1,107 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Formatting reference and prediction data for all models and thresholds...
+Loading reference data...
+Reference dataframe:         PredictiveFeature TargetFeature
+0                  MAP2K4          FLNC
+1                    MYPN         ACTN2
+2                   ACVR1          FNTA
+3                   GATA2           PML
+4                    RPA2         STAT3
+...                   ...           ...
+1287954           RASGRF1         STIP1
+1287955              CHD3         STIP1
+1287956              UBR5         STIP1
+1287957             HIPK2         STIP1
+1287972            SFMBT2           QKI
+
+[1932539 rows x 2 columns]
+Loading and processing prediction data...
+Creating dictionaries of predictions and reference dataframes...
+Predicted dataframe (linear_regression, 50):        PredictiveFeature TargetFeature  MedianCoeff
+0                  ACIN1          AAAS     0.102209
+1                  AKAP8          AAAS    -0.076585
+2                   ANK2          AAAS     0.000077
+3                  BUD13          AAAS     0.090150
+4                  CCDC6          AAAS     0.074167
+...                  ...           ...          ...
+181073             NSUN2          ZZZ3     0.103678
+181074            RABEP1          ZZZ3     0.021293
+181075             SAMD1          ZZZ3    -0.100898
+181076              TNS2          ZZZ3     0.020087
+181078           ZFYVE26          ZZZ3     0.299086
+
+[171661 rows x 3 columns]
+Number of common proteins: 5465
+Predictions dataframe (linear_regression, 50):   PredictiveFeature TargetFeature  NormalisedCoeffOrSHAP
+0             ACIN1          AAAS               0.554914
+1             AKAP8          AAAS               0.445616
+2              ANK2          AAAS               0.492480
+3             BUD13          AAAS               0.547543
+4             CCDC6          AAAS               0.537772
+Predicted dataframe (linear_regression, 100):        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.117374
+1                   ANK2          AAAS     0.009115
+2                 ARPP19          AAAS    -0.001953
+3                   BAG3          AAAS     0.252270
+4                  BAZ2A          AAAS     0.247558
+...                  ...           ...          ...
+170315               NEB          ZZZ3     0.242784
+170316             NOP56          ZZZ3    -0.112222
+170317            PBXIP1          ZZZ3    -0.177356
+170318             PLCL1          ZZZ3    -0.115545
+170320             XIRP1          ZZZ3     0.002683
+
+[160009 rows x 3 columns]
+Number of common proteins: 4362
+Predictions dataframe (linear_regression, 100):   PredictiveFeature TargetFeature  NormalisedCoeffOrSHAP
+0            ABLIM1          AAAS               0.581155
+1              ANK2          AAAS               0.489555
+2            ARPP19          AAAS               0.480190
+3              BAG3          AAAS               0.695293
+4             BAZ2A          AAAS               0.691306
+Predicted dataframe (linear_regression, 150):        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.080876
+1                 AHNAK2          AAAS     0.132037
+2                 ARPP19          AAAS    -0.039681
+3                   BAG3          AAAS     0.215493
+4                   BRD8          AAAS     0.159214
+...                  ...           ...          ...
+155998             SRRM2          ZZZ3     0.008705
+155999             TCOF1          ZZZ3    -0.028711
+156000              TJP1          ZZZ3    -0.042107
+156001              TNS1          ZZZ3     0.051242
+156002             XIRP2          ZZZ3    -0.138395
+
+[148938 rows x 3 columns]
+Number of common proteins: 3599
+Predictions dataframe (linear_regression, 150):   PredictiveFeature TargetFeature  NormalisedCoeffOrSHAP
+0            ABLIM1          AAAS               0.558617
+1            AHNAK2          AAAS               0.610343
+2            ARPP19          AAAS               0.436726
+3              BAG3          AAAS               0.694722
+4              BRD8          AAAS               0.637820
+Predicted dataframe (linear_regression, 200):        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.082846
+1                 AHNAK2          AAAS     0.208868
+2                 ARPP19          AAAS    -0.020946
+3                   BAG3          AAAS     0.223407
+4                   BRD8          AAAS     0.281704
+...                  ...           ...          ...
+141167             TCOF1          ZZZ3    -0.032609
+141168              TJP1          ZZZ3    -0.015812
+141169              TNS1          ZZZ3    -0.038738
+141170              TNS2          ZZZ3    -0.075070
+141171            TRIM28          ZZZ3     0.033100
+
+[135385 rows x 3 columns]
+Number of common proteins: 2967
+Predictions dataframe (linear_regression, 200):   PredictiveFeature TargetFeature  NormalisedCoeffOrSHAP
+0            ABLIM1          AAAS               0.562812
+1            AHNAK2          AAAS               0.696855
+2            ARPP19          AAAS               0.452414
+3              BAG3          AAAS               0.712320
+4              BRD8          AAAS               0.774326
+Execution time: 59.55 seconds, 0.99 minutes, 0.02 hours.

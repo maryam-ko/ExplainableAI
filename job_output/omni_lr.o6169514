@@ -1,0 +1,204 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Loading reference data...
+Index(['source', 'target', 'is_directed', 'is_stimulation', 'is_inhibition',
+       'consensus_direction', 'consensus_stimulation', 'consensus_inhibition',
+       'source_gene_name', 'target_gene_name'],
+      dtype='object')
+Reference dataframe:       PredictiveFeature TargetFeature
+0                 CALM1         TRPC1
+1                 CALM3         TRPC1
+2                 CALM2         TRPC1
+3                  CAV1         TRPC1
+4                  DRD2         TRPC1
+...                 ...           ...
+81524               SRC        ERRFI1
+81525               SYK        PYCARD
+81526             PTK2B        PYCARD
+81527            PRKAA2       PIKFYVE
+81528              CDK2        SAMHD1
+
+[81529 rows x 2 columns]
+Loading and processing prediction data...
+Creating dictionaries of predictions and reference dataframes...
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min50vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                  ACIN1          AAAS     0.102209
+1                  AKAP8          AAAS    -0.076585
+2                   ANK2          AAAS     0.000077
+3                  BUD13          AAAS     0.090150
+4                  CCDC6          AAAS     0.074167
+...                  ...           ...          ...
+181073             NSUN2          ZZZ3     0.103678
+181074            RABEP1          ZZZ3     0.021293
+181075             SAMD1          ZZZ3    -0.100898
+181076              TNS2          ZZZ3     0.020087
+181078           ZFYVE26          ZZZ3     0.299086
+
+[171661 rows x 3 columns]
+Number of common proteins: 3210
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min100vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.117374
+1                   ANK2          AAAS     0.009115
+2                 ARPP19          AAAS    -0.001953
+3                   BAG3          AAAS     0.252270
+4                  BAZ2A          AAAS     0.247558
+...                  ...           ...          ...
+170315               NEB          ZZZ3     0.242784
+170316             NOP56          ZZZ3    -0.112222
+170317            PBXIP1          ZZZ3    -0.177356
+170318             PLCL1          ZZZ3    -0.115545
+170320             XIRP1          ZZZ3     0.002683
+
+[160009 rows x 3 columns]
+Number of common proteins: 2669
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min150vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.080876
+1                 AHNAK2          AAAS     0.132037
+2                 ARPP19          AAAS    -0.039681
+3                   BAG3          AAAS     0.215493
+4                   BRD8          AAAS     0.159214
+...                  ...           ...          ...
+155998             SRRM2          ZZZ3     0.008705
+155999             TCOF1          ZZZ3    -0.028711
+156000              TJP1          ZZZ3    -0.042107
+156001              TNS1          ZZZ3     0.051242
+156002             XIRP2          ZZZ3    -0.138395
+
+[148938 rows x 3 columns]
+Number of common proteins: 2288
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min200vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.082846
+1                 AHNAK2          AAAS     0.208868
+2                 ARPP19          AAAS    -0.020946
+3                   BAG3          AAAS     0.223407
+4                   BRD8          AAAS     0.281704
+...                  ...           ...          ...
+141167             TCOF1          ZZZ3    -0.032609
+141168              TJP1          ZZZ3    -0.015812
+141169              TNS1          ZZZ3    -0.038738
+141170              TNS2          ZZZ3    -0.075070
+141171            TRIM28          ZZZ3     0.033100
+
+[135385 rows x 3 columns]
+Number of common proteins: 1958
+Loading prediction data from: /data/home/bt24990/ExplainableAI/06_models/xgboost/master_shaps_files/xgboost_master_shap_file_cluster_level_min50vals.csv
+Predicted dataframe:                                        PredictiveFeature  ... SHAPValue
+0      CENPF_C(1674) CENPF_S(1766) CENPF_S(2144) CENP...  ...  0.004936
+1      MYOZ1_S(116) MYOZ1_S(121) MYOZ1_S(123) MYOZ1_S...  ...  0.014282
+2      AKAP13_M(2398) AKAP13_S(1) AKAP13_S(11) AKAP13...  ...  0.002061
+3      SPEN_M(1918) SPEN_S(1249) SPEN_S(1255) SPEN_S(...  ...  0.006762
+4      MYH3_S(1066) MYH3_S(729) MYH3_S(739) MYH3_S(95...  ...  0.005136
+...                                                  ...  ...       ...
+45427  PRRC2A_S(1115) PRRC2A_S(1120) PRRC2A_S(1128) P...  ...  0.007805
+45428  TJP1_M(837) TJP1_S(1) TJP1_S(1060) TJP1_S(1065...  ...  0.081918
+45429  TANC2_C(169) TANC2_C(171) TANC2_C(176) TANC2_C...  ...  0.024398
+45430  KMT2A_S(191) KMT2A_S(2149) KMT2A_S(2163) KMT2A...  ...  0.003466
+45431  BAZ1A_M(731) BAZ1A_M(739) BAZ1A_S(1281) BAZ1A_...  ...  0.001305
+
+[45432 rows x 3 columns]
+Number of common proteins: 0
+Loading prediction data from: /data/home/bt24990/ExplainableAI/06_models/xgboost/master_shaps_files/xgboost_master_shap_file_cluster_level_min100vals.csv
+Predicted dataframe:                                        PredictiveFeature  ... SHAPValue
+0      TTN_S(1) TTN_S(10) TTN_S(10170) TTN_S(10276) T...  ...  0.003975
+1      BAZ2A_M(1370) BAZ2A_S(1154) BAZ2A_S(135) BAZ2A...  ...  0.006837
+2      EIF4B_C(459) EIF4B_S(1) EIF4B_S(200) EIF4B_S(3...  ...  0.006431
+3      BRD8_S(1158) BRD8_S(381) BRD8_S(387) BRD8_S(46...  ...  0.002769
+4      MKI67_C(1376) MKI67_S(1066) MKI67_S(1167) MKI6...  ...  0.003484
+...                                                  ...  ...       ...
+46377  PALMD_S(135) PALMD_S(253) PALMD_S(284) PALMD_S...  ...  0.002037
+46378  RALBP1_C(10) RALBP1_C(11) RALBP1_C(9) RALBP1_S...  ...  0.005205
+46379  EPS15L1_S(101) EPS15L1_S(235) EPS15L1_S(246) E...  ...  0.006296
+46380  BAG3_C(185) BAG3_C(377) BAG3_C(385) BAG3_C(386...  ...  0.001071
+46381  EIF4B_C(459) EIF4B_S(1) EIF4B_S(200) EIF4B_S(3...  ...  0.007965
+
+[46382 rows x 3 columns]
+Number of common proteins: 0
+Loading prediction data from: /data/home/bt24990/ExplainableAI/06_models/xgboost/master_shaps_files/xgboost_master_shap_file_cluster_level_min150vals.csv
+Predicted dataframe:                                        PredictiveFeature  ... SHAPValue
+0      AHNAK2_M(4477) AHNAK2_S(1012) AHNAK2_S(102) AH...  ...  0.005194
+1      KMT2D_C(1911) KMT2D_M(1873) KMT2D_S(1172) KMT2...  ...  0.009060
+2      PLEKHA6_S(235) PLEKHA6_S(267) PLEKHA6_S(326) P...  ...  0.040400
+3      IRS2_S(1101) IRS2_S(1103) IRS2_S(1181) IRS2_S(...  ...  0.009875
+4      NIPBL_S(1038) NIPBL_S(1591) NIPBL_S(1736) NIPB...  ...  0.010176
+...                                                  ...  ...       ...
+42432  NUMA1_C(1942) NUMA1_S(1105) NUMA1_S(1438) NUMA...  ...  0.023094
+42433  NIPBL_S(1038) NIPBL_S(1591) NIPBL_S(1736) NIPB...  ...  0.003192
+42434  SRRM2_C(1482) SRRM2_C(1483) SRRM2_C(2121) SRRM...  ...  0.026602
+42435  PYM1_S(117) PYM1_S(139) PYM1_S(144) PYM1_S(177...  ...  0.003706
+42436  CENPA_S(16) CENPA_S(17) CENPA_S(19) CENPA_S(27...  ...  0.010287
+
+[42437 rows x 3 columns]
+Number of common proteins: 0
+Loading prediction data from: /data/home/bt24990/ExplainableAI/06_models/xgboost/master_shaps_files/xgboost_master_shap_file_cluster_level_min200vals.csv
+Predicted dataframe:                                        PredictiveFeature  ... SHAPValue
+0      AHNAK2_M(4477) AHNAK2_S(1012) AHNAK2_S(102) AH...  ...  0.002714
+1      TCOF1_S(1105) TCOF1_S(1156) TCOF1_S(1177) TCOF...  ...  0.002648
+2      NACA_S(1066) NACA_S(1098) NACA_S(11) NACA_S(12...  ...  0.004612
+3      NUMA1_C(1942) NUMA1_S(1105) NUMA1_S(1438) NUMA...  ...  0.009333
+4      IRS2_S(1101) IRS2_S(1103) IRS2_S(1181) IRS2_S(...  ...  0.010160
+...                                                  ...  ...       ...
+34999  ABLIM1_S(143) ABLIM1_S(164) ABLIM1_S(2) ABLIM1...  ...  0.005525
+35000  KMT2D_C(1911) KMT2D_M(1873) KMT2D_S(1172) KMT2...  ...  0.020603
+35001  ARPP19_M(23) ARPP19_S(101) ARPP19_S(20) ARPP19...  ...  0.016947
+35002  PLEC_S(1057) PLEC_S(13) PLEC_S(1311) PLEC_S(14...  ...  0.001497
+35003  USP24_S(1301) USP24_S(1887) USP24_S(2041) USP2...  ...  0.005241
+
+[35004 rows x 3 columns]
+Number of common proteins: 0
+Loading prediction data from: /data/home/bt24990/ExplainableAI/06_models/xgboost/master_shaps_files/xgboost_master_shap_file_cluster_level_min150vals.csv
+Predicted dataframe:                                        PredictiveFeature  ... SHAPValue
+0      AHNAK2_M(4477) AHNAK2_S(1012) AHNAK2_S(102) AH...  ...  0.005194
+1      KMT2D_C(1911) KMT2D_M(1873) KMT2D_S(1172) KMT2...  ...  0.009060
+2      PLEKHA6_S(235) PLEKHA6_S(267) PLEKHA6_S(326) P...  ...  0.040400
+3      IRS2_S(1101) IRS2_S(1103) IRS2_S(1181) IRS2_S(...  ...  0.009875
+4      NIPBL_S(1038) NIPBL_S(1591) NIPBL_S(1736) NIPB...  ...  0.010176
+...                                                  ...  ...       ...
+42432  NUMA1_C(1942) NUMA1_S(1105) NUMA1_S(1438) NUMA...  ...  0.023094
+42433  NIPBL_S(1038) NIPBL_S(1591) NIPBL_S(1736) NIPB...  ...  0.003192
+42434  SRRM2_C(1482) SRRM2_C(1483) SRRM2_C(2121) SRRM...  ...  0.026602
+42435  PYM1_S(117) PYM1_S(139) PYM1_S(144) PYM1_S(177...  ...  0.003706
+42436  CENPA_S(16) CENPA_S(17) CENPA_S(19) CENPA_S(27...  ...  0.010287
+
+[42437 rows x 3 columns]
+Index(['source', 'target', 'is_directed', 'is_stimulation', 'is_inhibition',
+       'consensus_direction', 'consensus_stimulation', 'consensus_inhibition',
+       'source_gene_name', 'target_gene_name'],
+      dtype='object')
+Reference dataframe:       PredictiveFeature TargetFeature
+0                 CALM1         TRPC1
+1                 CALM3         TRPC1
+2                 CALM2         TRPC1
+3                  CAV1         TRPC1
+4                  DRD2         TRPC1
+...                 ...           ...
+81524               SRC        ERRFI1
+81525               SYK        PYCARD
+81526             PTK2B        PYCARD
+81527            PRKAA2       PIKFYVE
+81528              CDK2        SAMHD1
+
+[81529 rows x 2 columns]
+Number of common proteins: 0
+Number of common proteins: 3597
+Traceback (most recent call last):
+  File "/data/home/bt24990/ExplainableAI/07_evaluation/073_omnipath_analysis.py", line 549, in <module>
+    fpr_omni, tpr_omni, _ = roc_curve(y_true_omni, y_scores_omni)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/utils/_param_validation.py", line 216, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/metrics/_ranking.py", line 1150, in roc_curve
+    fps, tps, thresholds = _binary_clf_curve(
+                           ^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/metrics/_ranking.py", line 835, in _binary_clf_curve
+    pos_label = _check_pos_label_consistency(pos_label, y_true)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2641, in _check_pos_label_consistency
+    raise ValueError(
+ValueError: y_true takes value in {} and pos_label is not specified: either make y_true take value in {0, 1} or {-1, 1} or pass pos_label explicitly.

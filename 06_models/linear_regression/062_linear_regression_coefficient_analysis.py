@@ -20,8 +20,8 @@ def parse_arguments():
     """Parse command line arguments for the script."""
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
-    parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, nargs='+', default=[50,100,150,200], help='Threshold(s) to compute')
+    parser.add_argument('--base_dir', type=str, default='/Users/maryamkoddus/Downloads/ExplainableAI', help='Base directory for the project')
+    parser.add_argument('--threshold', type=int, nargs='+', default=[50, 100, 150, 200], help='Threshold(s) to compute')
 
     return parser.parse_args()
 
@@ -33,6 +33,7 @@ def overlapping_coefficients_histogram(base_dir, thresholds):
     for threshold in thresholds:
         # Load the SHAP values for the current threshold
         df = pd.read_csv(f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv')
+        df = df.rename(columns={'Feature': 'PredictiveFeature'})
 
         # Extract the LogSHAPValue column
         df = df[['PredictiveFeature', 'TargetFeature', 'MedianCoeff']] 
@@ -71,10 +72,10 @@ if __name__ == '__main__':
 
     overlapping_coefficients_histogram(
         base_dir=args.base_dir,
-        thresholds=[50,100,150,200]
+        thresholds=[50, 100, 150, 200]
     )
 
-     # Extract LR Coeff*R2 and create output file(s)
+    # Extract LR Coeff*R2 and create output file(s)
     mlfuncs.extract_coeff_r2_columns([50, 100, 150, 200], base_dir=args.base_dir)
     
     print("LR Coeff*R2 output files created for thresholds 50, 100, 150, 200.")

@@ -1,0 +1,16 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Traceback (most recent call last):
+  File "/data/home/bt24990/ExplainableAI/07_evaluation/073_omnipath_analysis.py", line 395, in <module>
+    preds_dict, ref_dict, value_cols = format_df_per_model_and_threshold(
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/ExplainableAI/07_evaluation/073_omnipath_analysis.py", line 121, in format_df_per_model_and_threshold
+    os.makedirs(f'{base_dir}/08_results/omnipath_results', exist_ok=True)
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 215, in makedirs
+  [Previous line repeated 2 more times]
+  File "<frozen os>", line 225, in makedirs
+PermissionError: [Errno 13] Permission denied: '/Users'

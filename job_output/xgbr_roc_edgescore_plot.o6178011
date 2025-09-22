@@ -1,0 +1,15 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Traceback (most recent call last):
+  File "/data/home/bt24990/ExplainableAI/07_evaluation/combine_roc.py", line 51, in <module>
+    img = mpimg.imread(plot_paths[i])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/matplotlib/image.py", line 1520, in imread
+    with img_open(fname) as image:
+         ^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/PIL/ImageFile.py", line 135, in __init__
+    self.fp = open(fp, "rb")
+              ^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/bt24990/ExplainableAI/08_results/roc_plots/XGB_omnipath_biogrid_roc_curve_threshold50.png'

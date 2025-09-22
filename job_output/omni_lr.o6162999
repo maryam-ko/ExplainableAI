@@ -1,0 +1,90 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Loading reference data...
+Index(['source', 'target', 'is_directed', 'is_stimulation', 'is_inhibition',
+       'consensus_direction', 'consensus_stimulation', 'consensus_inhibition',
+       'source_gene_name', 'target_gene_name'],
+      dtype='object')
+Reference dataframe:       PredictiveFeature TargetFeature
+0                 CALM1         TRPC1
+1                 CALM3         TRPC1
+2                 CALM2         TRPC1
+3                  CAV1         TRPC1
+4                  DRD2         TRPC1
+...                 ...           ...
+81524               SRC        ERRFI1
+81525               SYK        PYCARD
+81526             PTK2B        PYCARD
+81527            PRKAA2       PIKFYVE
+81528              CDK2        SAMHD1
+
+[81529 rows x 2 columns]
+Loading and processing prediction data...
+Creating dictionaries of predictions and reference dataframes...
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min50vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                  ACIN1          AAAS     0.102209
+1                  AKAP8          AAAS    -0.076585
+2                   ANK2          AAAS     0.000077
+3                  BUD13          AAAS     0.090150
+4                  CCDC6          AAAS     0.074167
+...                  ...           ...          ...
+181073             NSUN2          ZZZ3     0.103678
+181074            RABEP1          ZZZ3     0.021293
+181075             SAMD1          ZZZ3    -0.100898
+181076              TNS2          ZZZ3     0.020087
+181078           ZFYVE26          ZZZ3     0.299086
+
+[171661 rows x 3 columns]
+Number of common proteins: 3210
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min100vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.117374
+1                   ANK2          AAAS     0.009115
+2                 ARPP19          AAAS    -0.001953
+3                   BAG3          AAAS     0.252270
+4                  BAZ2A          AAAS     0.247558
+...                  ...           ...          ...
+170315               NEB          ZZZ3     0.242784
+170316             NOP56          ZZZ3    -0.112222
+170317            PBXIP1          ZZZ3    -0.177356
+170318             PLCL1          ZZZ3    -0.115545
+170320             XIRP1          ZZZ3     0.002683
+
+[160009 rows x 3 columns]
+Number of common proteins: 2669
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min150vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.080876
+1                 AHNAK2          AAAS     0.132037
+2                 ARPP19          AAAS    -0.039681
+3                   BAG3          AAAS     0.215493
+4                   BRD8          AAAS     0.159214
+...                  ...           ...          ...
+155998             SRRM2          ZZZ3     0.008705
+155999             TCOF1          ZZZ3    -0.028711
+156000              TJP1          ZZZ3    -0.042107
+156001              TNS1          ZZZ3     0.051242
+156002             XIRP2          ZZZ3    -0.138395
+
+[148938 rows x 3 columns]
+Number of common proteins: 2288
+Loading prediction data from: /data/home/bt24990/ExplainableAI/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min200vals.csv
+Predicted dataframe:        PredictiveFeature TargetFeature  MedianCoeff
+0                 ABLIM1          AAAS     0.082846
+1                 AHNAK2          AAAS     0.208868
+2                 ARPP19          AAAS    -0.020946
+3                   BAG3          AAAS     0.223407
+4                   BRD8          AAAS     0.281704
+...                  ...           ...          ...
+141167             TCOF1          ZZZ3    -0.032609
+141168              TJP1          ZZZ3    -0.015812
+141169              TNS1          ZZZ3    -0.038738
+141170              TNS2          ZZZ3    -0.075070
+141171            TRIM28          ZZZ3     0.033100
+
+[135385 rows x 3 columns]
+Number of common proteins: 1958
+Execution time: 56.05 seconds, 0.93 minutes, 0.02 hours.

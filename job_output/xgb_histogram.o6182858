@@ -1,0 +1,25 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Histogram for threshold 50 saved.
+Histogram for threshold 100 saved.
+Histogram for threshold 150 saved.
+Histogram for threshold 200 saved.
+SHAP*R2 histogram for threshold 50 saved.
+SHAP*R2 histogram for threshold 100 saved.
+SHAP*R2 histogram for threshold 150 saved.
+SHAP*R2 histogram for threshold 200 saved.
+Traceback (most recent call last):
+  File "/data/home/bt24990/ExplainableAI/08_results/histogram_plots/xgboost_shap_histograms.py", line 100, in <module>
+    combine_xgb_histogram_pngs_grid(args.base_dir, args.thresholds)
+  File "/data/home/bt24990/ExplainableAI/08_results/histogram_plots/xgboost_shap_histograms.py", line 80, in combine_xgb_histogram_pngs_grid
+    img1 = mpimg.imread(img1_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/matplotlib/image.py", line 1520, in imread
+    with img_open(fname) as image:
+         ^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/PIL/ImageFile.py", line 135, in __init__
+    self.fp = open(fp, "rb")
+              ^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/bt24990/ExplainableAI/08_results/plots/XGB_SHAPValue_Histogram_Min50Vals.png'

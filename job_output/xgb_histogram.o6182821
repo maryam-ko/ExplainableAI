@@ -1,0 +1,26 @@
+Variable OMP_NUM_THREADS has been set to 1
+
+Loading python/3.11.7-gcc-12.2.0
+  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
+Traceback (most recent call last):
+  File "/data/home/bt24990/ExplainableAI/08_results/histogram_plots/xgboost_shap_histograms.py", line 98, in <module>
+    plot_XGB_SHAP_histograms_across_thresholds(args.base_dir, args.thresholds)
+  File "/data/home/bt24990/ExplainableAI/08_results/histogram_plots/xgboost_shap_histograms.py", line 26, in plot_XGB_SHAP_histograms_across_thresholds
+    df = pd.read_csv(file_path)
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/data/home/bt24990/myenv/lib/python3.11/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/maryamkoddus/Downloads/ExplainableAI/06_models/xgboost/master_shaps_files/xgboost_master_shap_files_cluster_level_min50vals_shap_r2.csv'

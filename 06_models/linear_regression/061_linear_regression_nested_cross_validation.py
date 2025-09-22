@@ -25,7 +25,7 @@ def parse_arguments():
 
     parser = argparse.ArgumentParser(description='Evaluate protein interaction predictions against Biogrid reference.')
     parser.add_argument('--base_dir', type=str, default='/data/home/bt24990/ExplainableAI', help='Base directory for the project')
-    parser.add_argument('--threshold', type=int, default=50, help='Threshold to compute')
+    parser.add_argument('--threshold', type=int, default=200, help='Threshold to compute')
 
     return parser.parse_args()
 
@@ -50,14 +50,14 @@ def linear_regression_cv(X, y, model, clust_matrix, i):
         r2 = r2_score(y_test, y_pred)
         r2_scores.append(r2)
 
-        coef_df = pd.DataFrame({'Feature': X.columns, 
+        coef_df = pd.DataFrame({'PredictiveFeature': X.columns, 
                                 'Coefficient': model.coef_,
                                 'TargetFeature': clust_matrix.columns[i]})
         
         coefficients_dfs.append(coef_df)
     
     all_coeffs = pd.concat(coefficients_dfs, ignore_index=True)
-    all_coeffs = all_coeffs.groupby('Feature')['Coefficient'].median().reset_index()
+    all_coeffs = all_coeffs.groupby('PredictiveFeature')['Coefficient'].median().reset_index()
     
     return all_coeffs, r2_scores, mse_scores
 
@@ -82,7 +82,7 @@ if __name__ == '__main__':
     try:
         csv = pd.read_csv(f'{args.base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{args.threshold}vals.csv', header=0)
     except:
-        csv = pd.DataFrame(columns=['Feature', 'TargetFeature', 'FisherScore', 'MedianCoeff', 'MeanR2', 'MeanMSE'])
+        csv = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'FisherScore', 'MedianCoeff', 'MeanR2', 'MeanMSE'])
 
     count = len(clust_matrix.columns)
 
