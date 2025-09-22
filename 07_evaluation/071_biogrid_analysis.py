@@ -35,7 +35,7 @@ def get_file_path(base_dir, network_name, model_type, threshold, file_type, int_
     if file_type == 'input_preds':
         if model_type == 'linear_regression':
             if network_name is None:
-                return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_Min{threshold}Vals.csv'
+                return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_cv_coefficients_min{threshold}vals.csv'
             else:
                 return f'{base_dir}/08_results/linear_regression/coefficients/linear_regression_nested_cv_{network_name}_coefficients_protein_level_min{threshold}vals.csv'
         else:
@@ -165,6 +165,7 @@ def format_df_per_model_and_threshold(base_dir, network_name, model_types, thres
                 df[column_to_normalise] = 0.0  # If all values are the same, set them to 0
 
             df.columns = ['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP']
+            print (f'Predictions dataframe ({model}, {threshold}): {df.head()}')
             predictions_dict[model][threshold] = df
 
     return predictions_dict, reference_filtered_dict
@@ -334,7 +335,7 @@ def filter_for_all_models_and_thresholds(predictions_dict, model_types, threshol
             current_interactions = set(zip(
                 predictions_dict[model][threshold]['PredictiveFeature'],
                 predictions_dict[model][threshold]['TargetFeature'],
-                predictions_dict[model][threshold]['NormalisedCoeffOrSHAP']
+                # predictions_dict[model][threshold]['NormalisedCoeffOrSHAP']
             ))
             print('current_interactions:', len(current_interactions))
             
@@ -345,12 +346,15 @@ def filter_for_all_models_and_thresholds(predictions_dict, model_types, threshol
                 common_interactions = current_interactions
             else:
                 # Intersect based only on Feature and TargetFeature
-                common_interactions &= set((pf, tf) for pf, tf, _ in current_interactions)
+                # common_interactions &= set((pf, tf) for pf, tf, _ in current_interactions)
+                common_interactions &= current_interactions
 
             print('common_interactions:', len(common_interactions))
     # Convert the common interactions back to a DataFrame
     if common_interactions:
-        filtered_df = pd.DataFrame(list(common_interactions), columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])
+        ref_df = predictions_dict[model_types[0]][thresholds[0]]
+        mask = ref_df[['PredictiveFeature', 'TargetFeature']].apply(tuple, axis=1).isin(common_interactions)
+        filtered_df = ref_df[mask].copy()
     else:
         filtered_df = pd.DataFrame(columns=['PredictiveFeature', 'TargetFeature', 'NormalisedCoeffOrSHAP'])  # Empty DataFrame if no common interactions
 
@@ -394,6 +398,7 @@ def plot_aucs_ints_in_all_models_and_thresholds(auc_df, base_dir, network_name, 
     ax.set_xlabel('Classification evaluation metric', fontsize=14)
     network_text = f"{network_name} protein" if network_name else "protein"
     ax.set_title(f'AUC Scores for {network_text} {title_suffix}', fontsize=16)
+    # ax.set_title(f'AUC scores for protein interactions {title_suffix}', fontsize=16)
     ax.grid(True, linestyle='--', alpha=0.3)
 
     # Save the plot
@@ -645,29 +650,30 @@ if __name__ == '__main__':
         model_types=args.model_types, 
         thresholds=args.thresholds
     )
+
     print("Predictions dictionary:", preds_dict)
 
-    # print("Computing AUCs - one per model per threshold...")
-    # auc_results = calculate_aucs(
-    #     preds_dict=preds_dict,
-    #     ref_dict=ref_dict,
-    #     base_dir=args.base_dir,
-    #     network_name=args.network_name,
-    #     model_types=args.model_types, 
-    #     thresholds=args.thresholds,
-    #     int_type='all_interactions'
-    # )
-    # print("AUC results:", auc_results)
+    print("Computing AUCs - one per model per threshold...")
+    auc_results = calculate_aucs(
+        preds_dict=preds_dict,
+        ref_dict=ref_dict,
+        base_dir=args.base_dir,
+        network_name=args.network_name,
+        model_types=args.model_types, 
+        thresholds=args.thresholds,
+        int_type='all_interactions'
+    )
+    print("AUC results:", auc_results)
 
 
-    # print("Plotting AUCs for all models and thresholds...")
-    # plot_aucs_per_model_per_threshold(
-    #     auc_df=auc_results, 
-    #     base_dir=args.base_dir, 
-    #     network_name=args.network_name,
-    #     int_type='all_interactions',
-    #     title_suffix='all interactions'
-    # )
+    print("Plotting AUCs for all models and thresholds...")
+    plot_aucs_per_model_per_threshold(
+        auc_df=auc_results, 
+        base_dir=args.base_dir, 
+        network_name=args.network_name,
+        int_type='all_interactions',
+        title_suffix='all interactions'
+    )
 
     # # ----------------- #
 
@@ -691,61 +697,63 @@ if __name__ == '__main__':
         network_name=args.network_name,
         int_type='conserved_by_all',
         title_suffix='interactions\npredicted in all models and thresholds'
+        # title_suffix='\npredicted in all thresholds using Linear Regression'
+        # title_suffix='\npredicted in all thresholds using XGBoost'
+
     )
 
-    # # ----------------- #
+    # ----------------- #
 
-    # print("Evaluating interactions predicted in at least 2 models...")
-    # filtered_by_model = filter_by_minimum_two_models_or_thresholds(preds_dict, 'model', args.model_types, args.thresholds)
-    # print(filtered_by_model)
+    print("Evaluating interactions predicted in at least 2 models...")
+    filtered_by_model = filter_by_minimum_two_models_or_thresholds(preds_dict, 'model', args.model_types, args.thresholds)
+    print(filtered_by_model)
 
-    # conserved_model_auc_results = calculate_aucs(
-    #     preds_dict=filtered_by_model,
-    #     ref_dict=ref_dict,
-    #     value_cols=value_cols,
-    #     base_dir=args.base_dir,
-    #     network_name=args.network_name,
-    #     model_types=args.model_types, 
-    #     thresholds=args.thresholds,
-    #     int_type='conserved_by_model'
-    # )
+    conserved_model_auc_results = calculate_aucs(
+        preds_dict=filtered_by_model,
+        ref_dict=ref_dict,
+        value_cols=value_cols,
+        base_dir=args.base_dir,
+        network_name=args.network_name,
+        model_types=args.model_types, 
+        thresholds=args.thresholds,
+        int_type='conserved_by_model'
+    )
 
-    # plot_aucs(
-    #     auc_df=conserved_model_auc_results, 
-    #     base_dir=args.base_dir, 
-    #     network_name=args.network_name,
-    #     int_type='conserved_by_model',
-    #     title_suffix='conserved interactions by models'
-    # )
+    plot_aucs(
+        auc_df=conserved_model_auc_results, 
+        base_dir=args.base_dir, 
+        network_name=args.network_name,
+        int_type='conserved_by_model',
+        title_suffix='conserved interactions by models'
+    )
 
-    # # # # ----------------- #
+    # # # ----------------- #
 
-    # print("Evaluating interactions conserved across thresholds...")
-    # filtered_by_threshold = filter_by_minimum_two_models_or_thresholds(preds_dict, 'threshold', args.model_types, args.thresholds)
+    print("Evaluating interactions conserved across thresholds...")
+    filtered_by_threshold = filter_by_minimum_two_models_or_thresholds(preds_dict, 'threshold', args.model_types, args.thresholds)
 
-    # conserved_threshold_auc_results = calculate_aucs(
-    #     preds_dict=filtered_by_threshold,
-    #     ref_dict=ref_dict,
-    #     value_cols=value_cols,
-    #     base_dir=args.base_dir,
-    #     network_name=args.network_name,
-    #     model_types=args.model_types, 
-    #     thresholds=args.thresholds,
-    #     int_type='conserved_by_threshold'
-    # )
+    conserved_threshold_auc_results = calculate_aucs(
+        preds_dict=filtered_by_threshold,
+        ref_dict=ref_dict,
+        value_cols=value_cols,
+        base_dir=args.base_dir,
+        network_name=args.network_name,
+        model_types=args.model_types, 
+        thresholds=args.thresholds,
+        int_type='conserved_by_threshold'
+    )
 
-    # plot_aucs(
-    #     auc_df=conserved_threshold_auc_results, 
-    #     base_dir=args.base_dir, 
-    #     network_name=args.network_name,
-    #     int_type='conserved_by_threshold',
-    #     title_suffix='conserved interactions by thresholds'
-    # )
+    plot_aucs(
+        auc_df=conserved_threshold_auc_results, 
+        base_dir=args.base_dir, 
+        network_name=args.network_name,
+        int_type='conserved_by_threshold',
+        title_suffix='conserved interactions by thresholds'
+    )
 
-    # # ----------------- #
+    # ----------------- #
 
 
-    
-    
+
 
     print(f'Execution time: {time.time() - start_time:.2f} seconds, {(time.time() - start_time)/60:.2f} minutes, {(time.time() - start_time)/3600:.2f} hours.')

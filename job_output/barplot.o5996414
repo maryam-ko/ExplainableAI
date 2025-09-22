@@ -1,9 +1,0 @@
-Variable OMP_NUM_THREADS has been set to 1
-
-Loading python/3.11.7-gcc-12.2.0
-  Loading requirement: openssl/3.3.0-gcc-12.2.0 sqlite/3.43.2-gcc-12.2.0
-Number of phosphosites: 126304
-Number of unique proteins: 11481
-Original phosphosites: 126304
-Unique proteins: 11481
-Clustered features: 16358
